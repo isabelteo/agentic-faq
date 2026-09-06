@@ -105,13 +105,18 @@ did not choose to tune model
 - faqs are dynamic and will be updated - these should be dynamically retrieved
 
 deliberation: chunk based rag vs local graph
-
+full text search vs vector search - use bm25 document search tool
+use graph search tool
+tools over rag because of context window
+use claude subagents to improve markdown format for graph db
 - **Stand-alone vs Superapp:** Singpass integration strategy
 - **ServiceSG approach**
 
 
 Why this question
 - The larger scope and hence, larger resourcing that can be demanded from it to be serviced by RE:AI
+
+
 ---
 
 ## POC and Test Results
