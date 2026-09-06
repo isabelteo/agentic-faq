@@ -1,0 +1,2151 @@
+{
+  "chunk_id": "chunk_02",
+  "chunk_range": "files_43-63",
+  "extraction_summary": {
+    "total_files": 22,
+    "total_nodes": 89,
+    "total_edges": 127,
+    "total_hyperedges": 18,
+    "confidence_distribution": {
+      "EXTRACTED": 145,
+      "INFERRED": 58,
+      "AMBIGUOUS": 9
+    }
+  },
+  "nodes": [
+    {
+      "id": "prg_retrenchment_benefits",
+      "label": "Retrenchment Benefits",
+      "type": "program",
+      "source_file": "guides-retrenchment-benefits-and-measures-retrenchment-benefits.md",
+      "confidence": "EXTRACTED",
+      "description": "Financial compensation provided to employees when retrenched after 2+ years of service"
+    },
+    {
+      "id": "prg_notice_periods",
+      "label": "Notice Periods",
+      "type": "program",
+      "source_file": "guides-retrenchment-benefits-and-measures-notice-periods.md",
+      "confidence": "EXTRACTED",
+      "description": "Mandatory notification period before employment termination, governed by Employment Act"
+    },
+    {
+      "id": "org_mom",
+      "label": "Ministry of Manpower (MOM)",
+      "type": "agency",
+      "source_file": "guides-retrenchment-benefits-and-measures.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government agency responsible for employment and workplace relations"
+    },
+    {
+      "id": "org_wsg",
+      "label": "Workforce Singapore (WSG)",
+      "type": "organization",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "Government organization providing career advice and job search support",
+      "contact": "6883 5885"
+    },
+    {
+      "id": "org_e2i",
+      "label": "Employment and Employability Institute (e2i)",
+      "type": "organization",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "Organization providing employment support and job search assistance",
+      "contact": "6474 0606"
+    },
+    {
+      "id": "org_u_pme",
+      "label": "U PME Centre (NTUC)",
+      "type": "organization",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "NTUC union-affiliated center providing support for workers",
+      "contact": "6213 8008"
+    },
+    {
+      "id": "org_career_grit",
+      "label": "Career Grit",
+      "type": "service_provider",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "Career advice service provided through WSG for retrenched individuals"
+    },
+    {
+      "id": "svc_mindline",
+      "label": "Mindline.sg",
+      "type": "service",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "Anonymous mental wellness support service for retrenched individuals"
+    },
+    {
+      "id": "org_tadm",
+      "label": "Tripartite Alliance for Dispute Management (TADM)",
+      "type": "organization",
+      "source_file": "guides-retrenchment-benefits-and-measures-notice-periods.md",
+      "confidence": "EXTRACTED",
+      "description": "Organization resolving salary-related claims and employment disputes"
+    },
+    {
+      "id": "topic_employment",
+      "label": "Employment",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Work and job-related matters"
+    },
+    {
+      "id": "topic_retrenchment",
+      "label": "Retrenchment",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Workforce reduction due to redundancy or reorganization"
+    },
+    {
+      "id": "benefit_retrenchment_payout",
+      "label": "Retrenchment Payout",
+      "type": "benefit",
+      "source_file": "guides-retrenchment-benefits-and-measures-retrenchment-benefits.md",
+      "confidence": "EXTRACTED",
+      "description": "Monetary compensation ranging from 2 weeks to 1 month's salary per year of service"
+    },
+    {
+      "id": "elig_service_2years",
+      "label": "2+ Years of Service",
+      "type": "eligibility_criterion",
+      "source_file": "guides-retrenchment-benefits-and-measures-retrenchment-benefits.md",
+      "confidence": "EXTRACTED",
+      "description": "Requirement for eligibility to receive retrenchment benefits"
+    },
+    {
+      "id": "prg_senior_care",
+      "label": "Senior Care Services",
+      "type": "program",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Government-supported care services for seniors including home care, day care, nursing homes"
+    },
+    {
+      "id": "org_aic",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "agency",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore agency providing long-term care services and coordination"
+    },
+    {
+      "id": "topic_senior_care",
+      "label": "Senior Care",
+      "type": "topic",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Healthcare and support services for elderly persons"
+    },
+    {
+      "id": "svc_meals_on_wheels",
+      "label": "Meals on Wheels",
+      "type": "service",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Daily meal delivery service for seniors at $4.80-$6.96 per meal"
+    },
+    {
+      "id": "svc_home_nursing",
+      "label": "Home Nursing",
+      "type": "service",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Professional nursing care at home at $80 per visit"
+    },
+    {
+      "id": "svc_day_care",
+      "label": "Day Care Centre",
+      "type": "service",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Centre-based care for seniors at $400-$1,700/month depending on needs"
+    },
+    {
+      "id": "svc_nursing_home",
+      "label": "Nursing Home",
+      "type": "service",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "24-hour residential care facility at $2,000-$3,600/month"
+    },
+    {
+      "id": "benefit_care_subsidy",
+      "label": "Long-term Care Subsidy",
+      "type": "benefit",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Government subsidy up to 75% for eligible seniors and PRs for intermediate and long-term care"
+    },
+    {
+      "id": "prg_job_search_support",
+      "label": "Support for Your Job Search",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search.md",
+      "confidence": "EXTRACTED",
+      "description": "Hub/landing page for job search support services in Singapore"
+    },
+    {
+      "id": "org_lifesg",
+      "label": "LifeSG",
+      "type": "agency",
+      "source_file": "guides-support-for-your-job-search.md",
+      "confidence": "EXTRACTED",
+      "description": "Integrated government platform for citizen services"
+    },
+    {
+      "id": "prg_discover_interests",
+      "label": "Discover Your Interests",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-discover-your-interests.md",
+      "confidence": "EXTRACTED",
+      "description": "Career planning guide helping job seekers identify suitable roles based on skills and interests"
+    },
+    {
+      "id": "prg_find_jobs",
+      "label": "Find Job Opportunities",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Resource guide for accessing job listings and career fairs"
+    },
+    {
+      "id": "plt_mycareersfuture",
+      "label": "MyCareersFuture",
+      "type": "platform",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Online job listing portal for Singapore employment opportunities"
+    },
+    {
+      "id": "prg_sgunited_traineeship",
+      "label": "SGUnited Traineeship",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Traineeship program providing work experience opportunities"
+    },
+    {
+      "id": "prg_sgunited_midcareer",
+      "label": "SGUnited Mid-career Pathways",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Career transition program for mid-career professionals"
+    },
+    {
+      "id": "org_sgenable",
+      "label": "SG Enable",
+      "type": "organization",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Organization providing employment support for persons with disabilities"
+    },
+    {
+      "id": "prg_career_coaching",
+      "label": "Get Career Advice and Coaching",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-get-career-advice-and-coaching.md",
+      "confidence": "EXTRACTED",
+      "description": "Career coaching and advice service provided by WSG and e2i"
+    },
+    {
+      "id": "role_career_coach",
+      "label": "Career Coach",
+      "type": "role",
+      "source_file": "guides-support-for-your-job-search-get-career-advice-and-coaching.md",
+      "confidence": "EXTRACTED",
+      "description": "Professional providing personalized career guidance and job search support"
+    },
+    {
+      "id": "role_skills_ambassador",
+      "label": "Skills Ambassador",
+      "type": "role",
+      "source_file": "guides-support-for-your-job-search-get-career-advice-and-coaching.md",
+      "confidence": "EXTRACTED",
+      "description": "Consultant providing advice on skills upgrading and training courses"
+    },
+    {
+      "id": "prg_career_switch",
+      "label": "Make a Career Switch",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-make-a-career-switch.md",
+      "confidence": "EXTRACTED",
+      "description": "Support program for professionals transitioning to different industries"
+    },
+    {
+      "id": "benefit_work_attachment",
+      "label": "Work Attachment",
+      "type": "benefit",
+      "source_file": "guides-support-for-your-job-search-make-a-career-switch.md",
+      "confidence": "EXTRACTED",
+      "description": "On-the-job training opportunity in new field for career switchers"
+    },
+    {
+      "id": "prg_lower_income_support",
+      "label": "Support for Lower Income Workers",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-support-for-lower-income-workers.md",
+      "confidence": "EXTRACTED",
+      "description": "Workfare program providing financial assistance for low-income and self-employed workers"
+    },
+    {
+      "id": "prg_workfare",
+      "label": "Workfare",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-support-for-lower-income-workers.md",
+      "confidence": "EXTRACTED",
+      "description": "Income support scheme for low-income workers and self-employed persons"
+    },
+    {
+      "id": "elig_income_2300",
+      "label": "Gross Monthly Income $2,300 and Below",
+      "type": "eligibility_criterion",
+      "source_file": "guides-support-for-your-job-search-support-for-lower-income-workers.md",
+      "confidence": "EXTRACTED",
+      "description": "Income threshold for Workfare eligibility"
+    },
+    {
+      "id": "benefit_skills_allowance",
+      "label": "Skills Training Allowance",
+      "type": "benefit",
+      "source_file": "guides-support-for-your-job-search-support-for-lower-income-workers.md",
+      "confidence": "EXTRACTED",
+      "description": "Financial allowance for training courses under Workfare"
+    },
+    {
+      "id": "benefit_cpf_topup",
+      "label": "CPF Top-ups",
+      "type": "benefit",
+      "source_file": "guides-support-for-your-job-search-support-for-lower-income-workers.md",
+      "confidence": "EXTRACTED",
+      "description": "Government contributions to CPF retirement savings for Workfare recipients"
+    },
+    {
+      "id": "prg_skills_upgrade",
+      "label": "Upgrade Your Skills",
+      "type": "program",
+      "source_file": "guides-support-for-your-job-search-upgrade-your-skills.md",
+      "confidence": "EXTRACTED",
+      "description": "Skills training and professional development courses across 32 sectors"
+    },
+    {
+      "id": "org_skillsfuture",
+      "label": "SkillsFuture",
+      "type": "agency",
+      "source_file": "guides-support-for-your-job-search-upgrade-your-skills.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore's national skills development initiative"
+    },
+    {
+      "id": "prg_trying_conceive",
+      "label": "Financial Support for Trying to Conceive",
+      "type": "program",
+      "source_file": "guides-trying-to-conceive.md",
+      "confidence": "EXTRACTED",
+      "description": "Financial assistance for prenatal care and assisted conception procedures"
+    },
+    {
+      "id": "org_moh",
+      "label": "Ministry of Health (MOH)",
+      "type": "agency",
+      "source_file": "guides-trying-to-conceive.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government ministry overseeing healthcare services"
+    },
+    {
+      "id": "topic_healthcare",
+      "label": "Healthcare",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Medical and health services"
+    },
+    {
+      "id": "benefit_acp_cofunding",
+      "label": "Assisted Conception Procedures Co-funding",
+      "type": "benefit",
+      "source_file": "guides-trying-to-conceive.md",
+      "confidence": "EXTRACTED",
+      "description": "Government co-funding of up to 75% for ACP treatment at public hospitals"
+    },
+    {
+      "id": "proc_iui",
+      "label": "Intrauterine Insemination (IUI)",
+      "type": "procedure",
+      "source_file": "guides-trying-to-conceive.md",
+      "confidence": "EXTRACTED",
+      "description": "Assisted conception procedure supported by government schemes"
+    },
+    {
+      "id": "proc_ivf",
+      "label": "In Vitro Fertilization (IVF)",
+      "type": "procedure",
+      "source_file": "guides-trying-to-conceive.md",
+      "confidence": "EXTRACTED",
+      "description": "Assisted conception procedure with government co-funding support"
+    },
+    {
+      "id": "prg_medishield_premium_support",
+      "label": "Additional Premium Support for MediShield Life and CareShield Life",
+      "type": "program",
+      "source_file": "schemes-1gkrs2tn-additional-premium-support-medishield-life-careshield-life.md",
+      "confidence": "EXTRACTED",
+      "description": "Financial assistance for healthcare insurance premiums for low-income citizens"
+    },
+    {
+      "id": "insu_medishield_life",
+      "label": "MediShield Life",
+      "type": "insurance_scheme",
+      "source_file": "schemes-1gkrs2tn-additional-premium-support-medishield-life-careshield-life.md",
+      "confidence": "EXTRACTED",
+      "description": "Compulsory basic health insurance scheme in Singapore"
+    },
+    {
+      "id": "insu_careshield_life",
+      "label": "CareShield Life",
+      "type": "insurance_scheme",
+      "source_file": "schemes-1gkrs2tn-additional-premium-support-medishield-life-careshield-life.md",
+      "confidence": "EXTRACTED",
+      "description": "Long-term care insurance scheme for Singaporeans aged 30 and above"
+    },
+    {
+      "id": "elig_citizen_pr",
+      "label": "Singapore Citizen or Permanent Resident",
+      "type": "eligibility_criterion",
+      "source_file": "schemes-1gkrs2tn-additional-premium-support-medishield-life-careshield-life.md",
+      "confidence": "EXTRACTED",
+      "description": "Basic citizenship requirement for eligibility to most government schemes"
+    },
+    {
+      "id": "prg_careshield_supplements",
+      "label": "CareShield Life / ElderShield Supplements",
+      "type": "program",
+      "source_file": "schemes-2k6v76ac-careshield-life-eldershield-supplements.md",
+      "confidence": "EXTRACTED",
+      "description": "Private insurance add-ons providing enhanced long-term care coverage"
+    },
+    {
+      "id": "insu_eldershield",
+      "label": "ElderShield",
+      "type": "insurance_scheme",
+      "source_file": "schemes-2k6v76ac-careshield-life-eldershield-supplements.md",
+      "confidence": "INFERRED",
+      "description": "Predecessor long-term care insurance scheme for seniors"
+    },
+    {
+      "id": "benefit_supplement_payouts",
+      "label": "Enhanced Monthly Payouts",
+      "type": "benefit",
+      "source_file": "schemes-2k6v76ac-careshield-life-eldershield-supplements.md",
+      "confidence": "EXTRACTED",
+      "description": "Increased long-term care insurance payouts through supplement plans"
+    },
+    {
+      "id": "prg_psea",
+      "label": "Post-Secondary Education Account (PSEA)",
+      "type": "program",
+      "source_file": "schemes-2tfgskxq-post-secondary-education-account-psea.md",
+      "confidence": "EXTRACTED",
+      "description": "Education savings account for post-secondary tuition support"
+    },
+    {
+      "id": "org_moe",
+      "label": "Ministry of Education (MOE)",
+      "type": "agency",
+      "source_file": "schemes-2tfgskxq-post-secondary-education-account-psea.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government ministry responsible for education"
+    },
+    {
+      "id": "topic_education",
+      "label": "Education",
+      "type": "topic",
+      "source_file": "schemes-2tfgskxq-post-secondary-education-account-psea.md",
+      "confidence": "EXTRACTED",
+      "description": "Learning and academic development"
+    },
+    {
+      "id": "acct_cda",
+      "label": "Child Development Account (CDA)",
+      "type": "account",
+      "source_file": "schemes-2tfgskxq-post-secondary-education-account-psea.md",
+      "confidence": "EXTRACTED",
+      "description": "Savings account for child development that feeds into PSEA"
+    },
+    {
+      "id": "acct_edusave",
+      "label": "Edusave Account",
+      "type": "account",
+      "source_file": "schemes-2tfgskxq-post-secondary-education-account-psea.md",
+      "confidence": "EXTRACTED",
+      "description": "Education savings account during school years"
+    },
+    {
+      "id": "prg_wmcr",
+      "label": "Working Mother's Child Relief (WMCR)",
+      "type": "program",
+      "source_file": "schemes-3kmpkha7-working-mothers-child-relief-wmcr.md",
+      "confidence": "EXTRACTED",
+      "description": "Tax relief scheme for working mothers, up to 25% of earned income per child"
+    },
+    {
+      "id": "org_iras",
+      "label": "Inland Revenue Authority of Singapore (IRAS)",
+      "type": "agency",
+      "source_file": "schemes-3kmpkha7-working-mothers-child-relief-wmcr.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government tax authority"
+    },
+    {
+      "id": "topic_family",
+      "label": "Family",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Family-related policies and support"
+    },
+    {
+      "id": "topic_tax_relief",
+      "label": "Tax Relief",
+      "type": "topic",
+      "source_file": "schemes-3kmpkha7-working-mothers-child-relief-wmcr.md",
+      "confidence": "EXTRACTED",
+      "description": "Tax reduction benefits"
+    },
+    {
+      "id": "benefit_wmcr_relief",
+      "label": "Tax Relief for Working Mothers",
+      "type": "benefit",
+      "source_file": "schemes-3kmpkha7-working-mothers-child-relief-wmcr.md",
+      "confidence": "EXTRACTED",
+      "description": "15-25% tax relief on earned income based on child order"
+    },
+    {
+      "id": "elig_working_mother",
+      "label": "Working Mother (Married/Divorced/Widowed)",
+      "type": "eligibility_criterion",
+      "source_file": "schemes-3kmpkha7-working-mothers-child-relief-wmcr.md",
+      "confidence": "EXTRACTED",
+      "description": "Employment and marital status requirement for WMCR"
+    },
+    {
+      "id": "prg_cpf_edu_loan",
+      "label": "CPF Education Loan Scheme",
+      "type": "program",
+      "source_file": "schemes-3ouzhymj-cpf-education-loan-scheme.md",
+      "confidence": "EXTRACTED",
+      "description": "Loan scheme allowing CPF Ordinary Account use for tuition fees"
+    },
+    {
+      "id": "org_cpf",
+      "label": "Central Provident Fund (CPF)",
+      "type": "agency",
+      "source_file": "schemes-3ouzhymj-cpf-education-loan-scheme.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore's mandatory social security savings scheme"
+    },
+    {
+      "id": "topic_retirement",
+      "label": "Retirement",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Retirement savings and planning"
+    },
+    {
+      "id": "acct_cpf_oa",
+      "label": "CPF Ordinary Account (OA)",
+      "type": "account",
+      "source_file": "schemes-3ouzhymj-cpf-education-loan-scheme.md",
+      "confidence": "EXTRACTED",
+      "description": "CPF account for housing, education, and investment"
+    },
+    {
+      "id": "acct_cpf_retirement",
+      "label": "CPF Retirement Account",
+      "type": "account",
+      "source_file": "schemes-7c13mjjn-withdrawal-cpf-savings-immediate-needs-age-55.md",
+      "confidence": "EXTRACTED",
+      "description": "CPF account dedicated to retirement savings"
+    },
+    {
+      "id": "metric_frs",
+      "label": "Full Retirement Sum (FRS)",
+      "type": "financial_metric",
+      "source_file": "schemes-3ouzhymj-cpf-education-loan-scheme.md",
+      "confidence": "EXTRACTED",
+      "description": "Minimum CPF retirement savings amount that must be set aside"
+    },
+    {
+      "id": "prg_passion_card",
+      "label": "PAssion Card",
+      "type": "program",
+      "source_file": "schemes-705gvcxw-passion-card.md",
+      "confidence": "EXTRACTED",
+      "description": "Membership program offering discounts on community activities and merchant outlets"
+    },
+    {
+      "id": "org_pa",
+      "label": "People's Association (PA)",
+      "type": "agency",
+      "source_file": "schemes-705gvcxw-passion-card.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore community organization managing community centers and membership programs"
+    },
+    {
+      "id": "topic_community",
+      "label": "Community",
+      "type": "topic",
+      "source_file": "schemes-705gvcxw-passion-card.md",
+      "confidence": "EXTRACTED",
+      "description": "Community engagement and development"
+    },
+    {
+      "id": "topic_transport",
+      "label": "Transport",
+      "type": "topic",
+      "source_file": "schemes-705gvcxw-passion-card.md",
+      "confidence": "EXTRACTED",
+      "description": "Public transportation access"
+    },
+    {
+      "id": "prg_cpf_withdrawal_55",
+      "label": "Withdrawal of CPF Savings for Immediate Needs from Age 55",
+      "type": "program",
+      "source_file": "schemes-7c13mjjn-withdrawal-cpf-savings-immediate-needs-age-55.md",
+      "confidence": "EXTRACTED",
+      "description": "CPF withdrawal flexibility scheme for persons aged 55 and above"
+    },
+    {
+      "id": "elig_age_55",
+      "label": "Age 55 and Above",
+      "type": "eligibility_criterion",
+      "source_file": "schemes-7c13mjjn-withdrawal-cpf-savings-immediate-needs-age-55.md",
+      "confidence": "EXTRACTED",
+      "description": "Age requirement for CPF withdrawal eligibility"
+    },
+    {
+      "id": "metric_brs",
+      "label": "Basic Retirement Sum (BRS)",
+      "type": "financial_metric",
+      "source_file": "schemes-7c13mjjn-withdrawal-cpf-savings-immediate-needs-age-55.md",
+      "confidence": "EXTRACTED",
+      "description": "Lower CPF retirement savings threshold with property offset flexibility"
+    },
+    {
+      "id": "prg_carebuddy",
+      "label": "CAREbuddy",
+      "type": "program",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "Peer support program for caregivers of persons with disabilities"
+    },
+    {
+      "id": "org_msf",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "agency",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government ministry overseeing social welfare and family matters"
+    },
+    {
+      "id": "org_caringSG",
+      "label": "CaringSG",
+      "type": "service_provider",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "Coordinating organization for CAREbuddy program"
+    },
+    {
+      "id": "topic_caregiving",
+      "label": "Caregiving",
+      "type": "topic",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "Care support for dependent persons"
+    },
+    {
+      "id": "topic_disability",
+      "label": "Disability Support",
+      "type": "topic",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "Support services for persons with disabilities"
+    },
+    {
+      "id": "benefit_carebuddy_matching",
+      "label": "Peer Buddy Matching",
+      "type": "benefit",
+      "source_file": "schemes-7mqt5pce-carebuddy.md",
+      "confidence": "EXTRACTED",
+      "description": "One-to-one matching with trained caregiver volunteers for emotional support"
+    },
+    {
+      "id": "topic_mental_health",
+      "label": "Mental Health",
+      "type": "topic",
+      "source_file": "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md",
+      "confidence": "EXTRACTED",
+      "description": "Mental wellness and emotional support"
+    },
+    {
+      "id": "topic_job_search",
+      "label": "Job Search",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Employment seeking support"
+    },
+    {
+      "id": "topic_skills_training",
+      "label": "Skills Training",
+      "type": "topic",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "Professional skill development and upgrades"
+    },
+    {
+      "id": "elig_pwd",
+      "label": "Person with Disability (PWD)",
+      "type": "eligibility_criterion",
+      "source_file": "guides-support-for-your-job-search-find-job-opportunities.md",
+      "confidence": "EXTRACTED",
+      "description": "Eligibility category for specialized employment support through SG Enable"
+    },
+    {
+      "id": "elig_senior_60plus",
+      "label": "Age 60 and Above",
+      "type": "eligibility_criterion",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Senior citizen age threshold for care services eligibility"
+    },
+    {
+      "id": "benefit_respite_care",
+      "label": "Respite Care",
+      "type": "benefit",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Short-term care relief for primary caregivers"
+    },
+    {
+      "id": "svc_community_hospital",
+      "label": "Community Hospital",
+      "type": "service",
+      "source_file": "guides-senior-care-services.md",
+      "confidence": "EXTRACTED",
+      "description": "Short-term post-hospital recovery facility"
+    },
+    {
+      "id": "acct_medisave",
+      "label": "MediSave Account",
+      "type": "account",
+      "source_file": "multiple",
+      "confidence": "EXTRACTED",
+      "description": "CPF component for healthcare expenses"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "prg_retrenchment_benefits",
+      "target": "org_mom",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MOM administers retrenchment benefits policy"
+    },
+    {
+      "id": "edge_2",
+      "source": "prg_retrenchment_benefits",
+      "target": "elig_service_2years",
+      "relationship": "requires_eligibility",
+      "confidence": "EXTRACTED",
+      "label": "2+ years service required for retrenchment benefits"
+    },
+    {
+      "id": "edge_3",
+      "source": "prg_retrenchment_benefits",
+      "target": "benefit_retrenchment_payout",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Retrenchment benefits provides monetary payout"
+    },
+    {
+      "id": "edge_4",
+      "source": "prg_retrenchment_benefits",
+      "target": "topic_retrenchment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Retrenchment benefits addresses retrenchment topic"
+    },
+    {
+      "id": "edge_5",
+      "source": "prg_notice_periods",
+      "target": "org_mom",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MOM governs notice period requirements"
+    },
+    {
+      "id": "edge_6",
+      "source": "prg_notice_periods",
+      "target": "org_tadm",
+      "relationship": "disputes_resolved_by",
+      "confidence": "EXTRACTED",
+      "label": "TADM resolves notice period disputes"
+    },
+    {
+      "id": "edge_7",
+      "source": "org_wsg",
+      "target": "org_career_grit",
+      "relationship": "operates",
+      "confidence": "EXTRACTED",
+      "label": "WSG operates Career Grit service"
+    },
+    {
+      "id": "edge_8",
+      "source": "org_wsg",
+      "target": "prg_career_coaching",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "WSG provides career coaching"
+    },
+    {
+      "id": "edge_9",
+      "source": "org_e2i",
+      "target": "prg_career_coaching",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "e2i provides career coaching"
+    },
+    {
+      "id": "edge_10",
+      "source": "svc_mindline",
+      "target": "topic_mental_health",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Mindline provides mental health support"
+    },
+    {
+      "id": "edge_11",
+      "source": "prg_senior_care",
+      "target": "org_aic",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "AIC coordinates senior care services"
+    },
+    {
+      "id": "edge_12",
+      "source": "prg_senior_care",
+      "target": "elig_senior_60plus",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "Senior care services targeted to persons 60+"
+    },
+    {
+      "id": "edge_13",
+      "source": "prg_senior_care",
+      "target": "benefit_care_subsidy",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Senior care offers subsidies up to 75%"
+    },
+    {
+      "id": "edge_14",
+      "source": "svc_meals_on_wheels",
+      "target": "prg_senior_care",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Meals on wheels is component of senior care"
+    },
+    {
+      "id": "edge_15",
+      "source": "svc_home_nursing",
+      "target": "prg_senior_care",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Home nursing is component of senior care"
+    },
+    {
+      "id": "edge_16",
+      "source": "svc_day_care",
+      "target": "prg_senior_care",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Day care is component of senior care"
+    },
+    {
+      "id": "edge_17",
+      "source": "svc_nursing_home",
+      "target": "prg_senior_care",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Nursing home is component of senior care"
+    },
+    {
+      "id": "edge_18",
+      "source": "prg_job_search_support",
+      "target": "org_lifesg",
+      "relationship": "hosted_on_platform",
+      "confidence": "EXTRACTED",
+      "label": "Job search support available on LifeSG"
+    },
+    {
+      "id": "edge_19",
+      "source": "prg_find_jobs",
+      "target": "plt_mycareersfuture",
+      "relationship": "references_platform",
+      "confidence": "EXTRACTED",
+      "label": "Job opportunities accessible via MyCareersFuture"
+    },
+    {
+      "id": "edge_20",
+      "source": "prg_sgunited_traineeship",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "SGUnited Traineeship referenced in job search support"
+    },
+    {
+      "id": "edge_21",
+      "source": "org_sgenable",
+      "target": "elig_pwd",
+      "relationship": "serves_group",
+      "confidence": "EXTRACTED",
+      "label": "SG Enable serves persons with disabilities"
+    },
+    {
+      "id": "edge_22",
+      "source": "prg_career_switch",
+      "target": "benefit_work_attachment",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Career switch program offers work attachments"
+    },
+    {
+      "id": "edge_23",
+      "source": "prg_workfare",
+      "target": "elig_income_2300",
+      "relationship": "requires_eligibility",
+      "confidence": "EXTRACTED",
+      "label": "Workfare has income threshold of $2,300/month"
+    },
+    {
+      "id": "edge_24",
+      "source": "prg_workfare",
+      "target": "benefit_skills_allowance",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Workfare includes skills training allowance"
+    },
+    {
+      "id": "edge_25",
+      "source": "prg_workfare",
+      "target": "benefit_cpf_topup",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Workfare includes CPF top-ups"
+    },
+    {
+      "id": "edge_26",
+      "source": "prg_skills_upgrade",
+      "target": "org_skillsfuture",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "SkillsFuture manages skills upgrading programs"
+    },
+    {
+      "id": "edge_27",
+      "source": "prg_trying_conceive",
+      "target": "org_moh",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MOH manages conception financial support schemes"
+    },
+    {
+      "id": "edge_28",
+      "source": "prg_trying_conceive",
+      "target": "benefit_acp_cofunding",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Program offers 75% co-funding for ACP"
+    },
+    {
+      "id": "edge_29",
+      "source": "proc_ivf",
+      "target": "benefit_acp_cofunding",
+      "relationship": "eligible_for_benefit",
+      "confidence": "EXTRACTED",
+      "label": "IVF eligible for ACP co-funding"
+    },
+    {
+      "id": "edge_30",
+      "source": "proc_iui",
+      "target": "benefit_acp_cofunding",
+      "relationship": "eligible_for_benefit",
+      "confidence": "EXTRACTED",
+      "label": "IUI eligible for ACP co-funding"
+    },
+    {
+      "id": "edge_31",
+      "source": "prg_medishield_premium_support",
+      "target": "org_moh",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MOH manages premium support scheme"
+    },
+    {
+      "id": "edge_32",
+      "source": "prg_medishield_premium_support",
+      "target": "insu_medishield_life",
+      "relationship": "supports_scheme",
+      "confidence": "EXTRACTED",
+      "label": "Program assists MediShield Life premium payments"
+    },
+    {
+      "id": "edge_33",
+      "source": "prg_medishield_premium_support",
+      "target": "insu_careshield_life",
+      "relationship": "supports_scheme",
+      "confidence": "EXTRACTED",
+      "label": "Program assists CareShield Life premium payments"
+    },
+    {
+      "id": "edge_34",
+      "source": "insu_medishield_life",
+      "target": "elig_citizen_pr",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "MediShield Life for citizens and PRs"
+    },
+    {
+      "id": "edge_35",
+      "source": "insu_careshield_life",
+      "target": "elig_citizen_pr",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "CareShield Life for citizens and PRs"
+    },
+    {
+      "id": "edge_36",
+      "source": "prg_careshield_supplements",
+      "target": "insu_careshield_life",
+      "relationship": "enhances_scheme",
+      "confidence": "EXTRACTED",
+      "label": "Supplements enhance CareShield Life coverage"
+    },
+    {
+      "id": "edge_37",
+      "source": "prg_careshield_supplements",
+      "target": "insu_eldershield",
+      "relationship": "enhances_scheme",
+      "confidence": "EXTRACTED",
+      "label": "Supplements enhance ElderShield coverage"
+    },
+    {
+      "id": "edge_38",
+      "source": "prg_careshield_supplements",
+      "target": "benefit_supplement_payouts",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "Supplements provide higher payouts"
+    },
+    {
+      "id": "edge_39",
+      "source": "prg_psea",
+      "target": "org_moe",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MOE manages PSEA"
+    },
+    {
+      "id": "edge_40",
+      "source": "prg_psea",
+      "target": "elig_citizen_pr",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "PSEA for Singapore citizens"
+    },
+    {
+      "id": "edge_41",
+      "source": "acct_cda",
+      "target": "prg_psea",
+      "relationship": "feeds_into_account",
+      "confidence": "EXTRACTED",
+      "label": "Child Development Account balance transfers to PSEA"
+    },
+    {
+      "id": "edge_42",
+      "source": "acct_edusave",
+      "target": "prg_psea",
+      "relationship": "feeds_into_account",
+      "confidence": "EXTRACTED",
+      "label": "Edusave Account balance transfers to PSEA"
+    },
+    {
+      "id": "edge_43",
+      "source": "prg_wmcr",
+      "target": "org_iras",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "IRAS manages WMCR tax relief"
+    },
+    {
+      "id": "edge_44",
+      "source": "prg_wmcr",
+      "target": "elig_working_mother",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "WMCR targeted to working mothers"
+    },
+    {
+      "id": "edge_45",
+      "source": "prg_wmcr",
+      "target": "benefit_wmcr_relief",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "WMCR provides tax relief up to 25%"
+    },
+    {
+      "id": "edge_46",
+      "source": "prg_cpf_edu_loan",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": "EXTRACTED",
+      "label": "CPF administers education loan scheme"
+    },
+    {
+      "id": "edge_47",
+      "source": "prg_cpf_edu_loan",
+      "target": "acct_cpf_oa",
+      "relationship": "draws_from_account",
+      "confidence": "EXTRACTED",
+      "label": "Education loans drawn from CPF OA"
+    },
+    {
+      "id": "edge_48",
+      "source": "acct_cpf_oa",
+      "target": "metric_frs",
+      "relationship": "subject_to_minimum",
+      "confidence": "EXTRACTED",
+      "label": "CPF OA withdrawals must maintain FRS at age 55+"
+    },
+    {
+      "id": "edge_49",
+      "source": "prg_passion_card",
+      "target": "org_pa",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "People's Association manages PAssion Card"
+    },
+    {
+      "id": "edge_50",
+      "source": "prg_passion_card",
+      "target": "topic_community",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "PAssion Card is community program"
+    },
+    {
+      "id": "edge_51",
+      "source": "prg_cpf_withdrawal_55",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": "EXTRACTED",
+      "label": "CPF administers withdrawal at 55 scheme"
+    },
+    {
+      "id": "edge_52",
+      "source": "prg_cpf_withdrawal_55",
+      "target": "elig_age_55",
+      "relationship": "requires_eligibility",
+      "confidence": "EXTRACTED",
+      "label": "Age 55+ required for CPF withdrawal"
+    },
+    {
+      "id": "edge_53",
+      "source": "prg_cpf_withdrawal_55",
+      "target": "acct_cpf_retirement",
+      "relationship": "manages_account",
+      "confidence": "EXTRACTED",
+      "label": "Scheme governs Retirement Account withdrawals"
+    },
+    {
+      "id": "edge_54",
+      "source": "prg_cpf_withdrawal_55",
+      "target": "metric_brs",
+      "relationship": "involves_calculation",
+      "confidence": "EXTRACTED",
+      "label": "Scheme involves Basic Retirement Sum calculation"
+    },
+    {
+      "id": "edge_55",
+      "source": "prg_carebuddy",
+      "target": "org_msf",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "MSF manages CAREbuddy program"
+    },
+    {
+      "id": "edge_56",
+      "source": "prg_carebuddy",
+      "target": "org_caringSG",
+      "relationship": "coordinated_by",
+      "confidence": "EXTRACTED",
+      "label": "CaringSG coordinates CAREbuddy matching"
+    },
+    {
+      "id": "edge_57",
+      "source": "prg_carebuddy",
+      "target": "topic_caregiving",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "CAREbuddy addresses caregiving support"
+    },
+    {
+      "id": "edge_58",
+      "source": "prg_carebuddy",
+      "target": "benefit_carebuddy_matching",
+      "relationship": "provides_benefit",
+      "confidence": "EXTRACTED",
+      "label": "CAREbuddy provides peer matching service"
+    },
+    {
+      "id": "edge_59",
+      "source": "topic_employment",
+      "target": "topic_retrenchment",
+      "relationship": "includes_subtopic",
+      "confidence": "EXTRACTED",
+      "label": "Retrenchment is employment subtopic"
+    },
+    {
+      "id": "edge_60",
+      "source": "topic_employment",
+      "target": "topic_job_search",
+      "relationship": "includes_subtopic",
+      "confidence": "EXTRACTED",
+      "label": "Job search is employment subtopic"
+    },
+    {
+      "id": "edge_61",
+      "source": "topic_employment",
+      "target": "topic_skills_training",
+      "relationship": "related_to",
+      "confidence": "EXTRACTED",
+      "label": "Skills training related to employment"
+    },
+    {
+      "id": "edge_62",
+      "source": "prg_retrenchment_benefits",
+      "target": "topic_employment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Retrenchment benefits fall under employment"
+    },
+    {
+      "id": "edge_63",
+      "source": "prg_discover_interests",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Discover Interests is part of job search support"
+    },
+    {
+      "id": "edge_64",
+      "source": "prg_find_jobs",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Find Jobs is part of job search support"
+    },
+    {
+      "id": "edge_65",
+      "source": "prg_career_coaching",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Career coaching is part of job search support"
+    },
+    {
+      "id": "edge_66",
+      "source": "prg_career_switch",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Career switch is part of job search support"
+    },
+    {
+      "id": "edge_67",
+      "source": "prg_lower_income_support",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Lower income support is part of job search support"
+    },
+    {
+      "id": "edge_68",
+      "source": "prg_skills_upgrade",
+      "target": "prg_job_search_support",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Skills upgrade is part of job search support"
+    },
+    {
+      "id": "edge_69",
+      "source": "role_career_coach",
+      "target": "prg_career_coaching",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "Career coaches deliver career coaching program"
+    },
+    {
+      "id": "edge_70",
+      "source": "role_skills_ambassador",
+      "target": "prg_skills_upgrade",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "Skills Ambassadors advise on skills upgrading"
+    },
+    {
+      "id": "edge_71",
+      "source": "org_career_grit",
+      "target": "prg_career_coaching",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "Career Grit provides career coaching"
+    },
+    {
+      "id": "edge_72",
+      "source": "prg_retrenchment_benefits",
+      "target": "org_tadm",
+      "relationship": "disputes_resolved_by",
+      "confidence": "EXTRACTED",
+      "label": "TADM resolves retrenchment benefit disputes"
+    },
+    {
+      "id": "edge_73",
+      "source": "acct_medisave",
+      "target": "insu_medishield_life",
+      "relationship": "used_for",
+      "confidence": "EXTRACTED",
+      "label": "MediSave can pay MediShield Life premiums"
+    },
+    {
+      "id": "edge_74",
+      "source": "acct_medisave",
+      "target": "insu_careshield_life",
+      "relationship": "used_for",
+      "confidence": "EXTRACTED",
+      "label": "MediSave can pay CareShield Life premiums"
+    },
+    {
+      "id": "edge_75",
+      "source": "acct_medisave",
+      "target": "prg_trying_conceive",
+      "relationship": "used_for",
+      "confidence": "EXTRACTED",
+      "label": "MediSave can pay for ACP procedures"
+    },
+    {
+      "id": "edge_76",
+      "source": "benefit_care_subsidy",
+      "target": "svc_meals_on_wheels",
+      "relationship": "applies_to_service",
+      "confidence": "INFERRED",
+      "label": "Care subsidies apply to meal services"
+    },
+    {
+      "id": "edge_77",
+      "source": "benefit_care_subsidy",
+      "target": "svc_home_nursing",
+      "relationship": "applies_to_service",
+      "confidence": "INFERRED",
+      "label": "Care subsidies apply to nursing services"
+    },
+    {
+      "id": "edge_78",
+      "source": "benefit_care_subsidy",
+      "target": "svc_day_care",
+      "relationship": "applies_to_service",
+      "confidence": "INFERRED",
+      "label": "Care subsidies apply to day care"
+    },
+    {
+      "id": "edge_79",
+      "source": "benefit_care_subsidy",
+      "target": "svc_nursing_home",
+      "relationship": "applies_to_service",
+      "confidence": "INFERRED",
+      "label": "Care subsidies apply to nursing homes"
+    },
+    {
+      "id": "edge_80",
+      "source": "topic_healthcare",
+      "target": "insu_medishield_life",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "MediShield Life addresses healthcare needs"
+    },
+    {
+      "id": "edge_81",
+      "source": "topic_healthcare",
+      "target": "prg_trying_conceive",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Conception support addresses healthcare"
+    },
+    {
+      "id": "edge_82",
+      "source": "topic_retirement",
+      "target": "prg_cpf_withdrawal_55",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "CPF withdrawal scheme addresses retirement"
+    },
+    {
+      "id": "edge_83",
+      "source": "topic_retirement",
+      "target": "prg_psea",
+      "relationship": "related_to",
+      "confidence": "INFERRED",
+      "label": "PSEA funds can transfer to retirement account"
+    },
+    {
+      "id": "edge_84",
+      "source": "topic_education",
+      "target": "prg_psea",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "PSEA addresses education financing"
+    },
+    {
+      "id": "edge_85",
+      "source": "topic_education",
+      "target": "prg_cpf_edu_loan",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "CPF education loan addresses education"
+    },
+    {
+      "id": "edge_86",
+      "source": "topic_family",
+      "target": "prg_wmcr",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "WMCR addresses family support"
+    },
+    {
+      "id": "edge_87",
+      "source": "topic_family",
+      "target": "acct_cda",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Child Development Account addresses family needs"
+    },
+    {
+      "id": "edge_88",
+      "source": "topic_community",
+      "target": "prg_passion_card",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "PAssion Card supports community engagement"
+    },
+    {
+      "id": "edge_89",
+      "source": "topic_transport",
+      "target": "prg_passion_card",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "PAssion Card offers transport concessions"
+    },
+    {
+      "id": "edge_90",
+      "source": "elig_citizen_pr",
+      "target": "prg_senior_care",
+      "relationship": "required_for_program",
+      "confidence": "EXTRACTED",
+      "label": "Citizenship/PR required for senior care subsidies"
+    },
+    {
+      "id": "edge_91",
+      "source": "org_moh",
+      "target": "acct_medisave",
+      "relationship": "administers",
+      "confidence": "EXTRACTED",
+      "label": "MOH oversees MediSave usage in healthcare"
+    },
+    {
+      "id": "edge_92",
+      "source": "acct_cpf_oa",
+      "target": "prg_psea",
+      "relationship": "receives_transfers_from",
+      "confidence": "INFERRED",
+      "label": "Unused PSEA transfers to CPF OA at age 31"
+    },
+    {
+      "id": "edge_93",
+      "source": "prg_workfare",
+      "target": "topic_employment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Workfare addresses employment support"
+    },
+    {
+      "id": "edge_94",
+      "source": "prg_career_switch",
+      "target": "topic_employment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Career switch addresses employment"
+    },
+    {
+      "id": "edge_95",
+      "source": "svc_community_hospital",
+      "target": "prg_senior_care",
+      "relationship": "part_of_program",
+      "confidence": "EXTRACTED",
+      "label": "Community hospitals part of senior care"
+    },
+    {
+      "id": "edge_96",
+      "source": "benefit_respite_care",
+      "target": "prg_senior_care",
+      "relationship": "provided_by_program",
+      "confidence": "EXTRACTED",
+      "label": "Senior care program offers respite care"
+    },
+    {
+      "id": "edge_97",
+      "source": "elig_pwd",
+      "target": "prg_find_jobs",
+      "relationship": "targeted_by_program",
+      "confidence": "EXTRACTED",
+      "label": "Job search support program serves PWD"
+    },
+    {
+      "id": "edge_98",
+      "source": "prg_psea",
+      "target": "topic_education",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "PSEA addresses post-secondary education"
+    },
+    {
+      "id": "edge_99",
+      "source": "prg_wmcr",
+      "target": "topic_tax_relief",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "WMCR falls under tax relief"
+    },
+    {
+      "id": "edge_100",
+      "source": "prg_medishield_premium_support",
+      "target": "topic_healthcare",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Premium support addresses healthcare"
+    },
+    {
+      "id": "edge_101",
+      "source": "prg_careshield_supplements",
+      "target": "topic_healthcare",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Supplements address healthcare insurance"
+    },
+    {
+      "id": "edge_102",
+      "source": "org_mom",
+      "target": "topic_employment",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "MOM oversees employment matters"
+    },
+    {
+      "id": "edge_103",
+      "source": "org_moh",
+      "target": "topic_healthcare",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "MOH oversees healthcare"
+    },
+    {
+      "id": "edge_104",
+      "source": "org_moe",
+      "target": "topic_education",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "MOE oversees education"
+    },
+    {
+      "id": "edge_105",
+      "source": "org_cpf",
+      "target": "topic_retirement",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "CPF oversees retirement savings"
+    },
+    {
+      "id": "edge_106",
+      "source": "org_iras",
+      "target": "topic_tax_relief",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "IRAS administers tax relief schemes"
+    },
+    {
+      "id": "edge_107",
+      "source": "org_pa",
+      "target": "topic_community",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "PA manages community programs"
+    },
+    {
+      "id": "edge_108",
+      "source": "org_msf",
+      "target": "topic_caregiving",
+      "relationship": "oversees_topic",
+      "confidence": "EXTRACTED",
+      "label": "MSF oversees social welfare and caregiving"
+    },
+    {
+      "id": "edge_109",
+      "source": "prg_lower_income_support",
+      "target": "topic_employment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Lower income support addresses employment"
+    },
+    {
+      "id": "edge_110",
+      "source": "prg_skills_upgrade",
+      "target": "topic_skills_training",
+      "relationship": "directly_addresses",
+      "confidence": "EXTRACTED",
+      "label": "Skills upgrade program addresses training"
+    },
+    {
+      "id": "edge_111",
+      "source": "prg_discover_interests",
+      "target": "topic_employment",
+      "relationship": "falls_under_topic",
+      "confidence": "EXTRACTED",
+      "label": "Discover interests addresses career planning"
+    },
+    {
+      "id": "edge_112",
+      "source": "prg_find_jobs",
+      "target": "topic_job_search",
+      "relationship": "directly_addresses",
+      "confidence": "EXTRACTED",
+      "label": "Find jobs program addresses job search"
+    },
+    {
+      "id": "edge_113",
+      "source": "prg_carebuddy",
+      "target": "topic_disability",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "CAREbuddy addresses disability support"
+    },
+    {
+      "id": "edge_114",
+      "source": "topic_disability",
+      "target": "org_msf",
+      "relationship": "overseen_by",
+      "confidence": "EXTRACTED",
+      "label": "MSF oversees disability support"
+    },
+    {
+      "id": "edge_115",
+      "source": "prg_cpf_edu_loan",
+      "target": "topic_retirement",
+      "relationship": "related_to",
+      "confidence": "INFERRED",
+      "label": "Education loans affect retirement savings"
+    },
+    {
+      "id": "edge_116",
+      "source": "prg_carebuddy",
+      "target": "topic_mental_health",
+      "relationship": "related_to",
+      "confidence": "INFERRED",
+      "label": "Peer support relates to mental health"
+    },
+    {
+      "id": "edge_117",
+      "source": "prg_notice_periods",
+      "target": "benefit_retrenchment_payout",
+      "relationship": "related_to",
+      "confidence": "INFERRED",
+      "label": "Notice periods relate to retrenchment payouts"
+    },
+    {
+      "id": "edge_118",
+      "source": "org_wsg",
+      "target": "topic_job_search",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "WSG provides job search support"
+    },
+    {
+      "id": "edge_119",
+      "source": "org_e2i",
+      "target": "topic_job_search",
+      "relationship": "provides_service",
+      "confidence": "EXTRACTED",
+      "label": "e2i provides job search support"
+    },
+    {
+      "id": "edge_120",
+      "source": "prg_trying_conceive",
+      "target": "topic_family",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Conception support addresses family planning"
+    },
+    {
+      "id": "edge_121",
+      "source": "prg_senior_care",
+      "target": "topic_senior_care",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Senior care services address senior care topic"
+    },
+    {
+      "id": "edge_122",
+      "source": "prg_passion_card",
+      "target": "elig_senior_60plus",
+      "relationship": "targeted_to_group",
+      "confidence": "EXTRACTED",
+      "label": "PAssion Card offers senior concessions"
+    },
+    {
+      "id": "edge_123",
+      "source": "acct_cpf_oa",
+      "target": "org_cpf",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "CPF manages Ordinary Account"
+    },
+    {
+      "id": "edge_124",
+      "source": "acct_cpf_retirement",
+      "target": "org_cpf",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "CPF manages Retirement Account"
+    },
+    {
+      "id": "edge_125",
+      "source": "acct_medisave",
+      "target": "org_cpf",
+      "relationship": "managed_by",
+      "confidence": "EXTRACTED",
+      "label": "CPF manages MediSave account"
+    },
+    {
+      "id": "edge_126",
+      "source": "prg_lower_income_support",
+      "target": "topic_financial_assistance",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Lower income support addresses financial assistance"
+    },
+    {
+      "id": "edge_127",
+      "source": "prg_medishield_premium_support",
+      "target": "topic_financial_assistance",
+      "relationship": "addresses_topic",
+      "confidence": "EXTRACTED",
+      "label": "Premium support addresses financial assistance"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "label": "Retrenchment Support Ecosystem",
+      "confidence": "EXTRACTED",
+      "description": "Multiple programs coordinating to support retrenched workers",
+      "involves_nodes": [
+        "prg_retrenchment_benefits",
+        "prg_notice_periods",
+        "org_mom",
+        "org_wsg",
+        "org_e2i",
+        "svc_mindline",
+        "org_career_grit"
+      ],
+      "key_relationships": [
+        "MOM oversees notice and benefits",
+        "WSG and e2i provide job search support",
+        "Career Grit and Mindline provide additional support"
+      ]
+    },
+    {
+      "id": "he_2",
+      "label": "Job Search Support Network",
+      "confidence": "EXTRACTED",
+      "description": "Integrated job search support across multiple services",
+      "involves_nodes": [
+        "prg_job_search_support",
+        "prg_discover_interests",
+        "prg_find_jobs",
+        "prg_career_coaching",
+        "prg_skills_upgrade",
+        "org_lifesg",
+        "plt_mycareersfuture"
+      ],
+      "key_relationships": [
+        "All sub-programs part of job search support",
+        "LifeSG hosts the coordinated hub",
+        "MyCareersFuture provides job listings"
+      ]
+    },
+    {
+      "id": "he_3",
+      "label": "Senior Care Service Delivery",
+      "confidence": "EXTRACTED",
+      "description": "Multi-mode senior care services with subsidy support",
+      "involves_nodes": [
+        "prg_senior_care",
+        "svc_meals_on_wheels",
+        "svc_home_nursing",
+        "svc_day_care",
+        "svc_nursing_home",
+        "svc_community_hospital",
+        "benefit_care_subsidy",
+        "org_aic"
+      ],
+      "key_relationships": [
+        "AIC coordinates all senior care services",
+        "Multiple care modes available (home, center, hospital, residential)",
+        "Up to 75% subsidy for eligible seniors"
+      ]
+    },
+    {
+      "id": "he_4",
+      "label": "Healthcare Insurance Protection",
+      "confidence": "EXTRACTED",
+      "description": "Integrated healthcare and long-term care insurance with premium support",
+      "involves_nodes": [
+        "insu_medishield_life",
+        "insu_careshield_life",
+        "prg_medishield_premium_support",
+        "prg_careshield_supplements",
+        "org_moh",
+        "acct_medisave"
+      ],
+      "key_relationships": [
+        "MOH manages both insurance schemes",
+        "Premium support helps low-income access insurance",
+        "Supplements enhance coverage for those who need more",
+        "MediSave can fund premiums"
+      ]
+    },
+    {
+      "id": "he_5",
+      "label": "Education Financing Pathways",
+      "confidence": "EXTRACTED",
+      "description": "Multiple education financing options from childhood to adulthood",
+      "involves_nodes": [
+        "acct_cda",
+        "acct_edusave",
+        "prg_psea",
+        "prg_cpf_edu_loan",
+        "org_moe",
+        "org_cpf"
+      ],
+      "key_relationships": [
+        "CDA and Edusave feed into PSEA at transition points",
+        "PSEA provides education funding in adulthood",
+        "CPF education loans available for higher education",
+        "MOE oversees CDA and Edusave setup"
+      ]
+    },
+    {
+      "id": "he_6",
+      "label": "CPF Multi-Purpose Ecosystem",
+      "confidence": "EXTRACTED",
+      "description": "CPF serving multiple life needs through different accounts and schemes",
+      "involves_nodes": [
+        "org_cpf",
+        "acct_cpf_oa",
+        "acct_cpf_retirement",
+        "acct_medisave",
+        "prg_cpf_edu_loan",
+        "prg_cpf_withdrawal_55",
+        "metric_frs",
+        "metric_brs"
+      ],
+      "key_relationships": [
+        "CPF manages three primary accounts for different purposes",
+        "Education, healthcare, and retirement all funded through CPF",
+        "Age 55 unlocks retirement withdrawals with FRS/BRS minimums",
+        "OA withdrawals for education must preserve retirement minimums"
+      ]
+    },
+    {
+      "id": "he_7",
+      "label": "Low-Income Worker Support Cluster",
+      "confidence": "EXTRACTED",
+      "description": "Specialized support targeting lower-income workers",
+      "involves_nodes": [
+        "prg_workfare",
+        "prg_lower_income_support",
+        "elig_income_2300",
+        "benefit_skills_allowance",
+        "benefit_cpf_topup"
+      ],
+      "key_relationships": [
+        "Income threshold of $2,300/month identifies target group",
+        "Workfare provides multiple benefit types (skills, CPF, cash)",
+        "Designed to support both employed and self-employed"
+      ]
+    },
+    {
+      "id": "he_8",
+      "label": "Career Transition Support System",
+      "confidence": "EXTRACTED",
+      "description": "Support for workers changing careers or industries",
+      "involves_nodes": [
+        "prg_career_switch",
+        "prg_skills_upgrade",
+        "prg_career_coaching",
+        "role_skills_ambassador",
+        "benefit_work_attachment",
+        "org_skillsfuture"
+      ],
+      "key_relationships": [
+        "SkillsFuture coordinates skills development",
+        "Skills Ambassadors advise on suitable training",
+        "Work attachments provide practical experience",
+        "Career coaches support transition planning"
+      ]
+    },
+    {
+      "id": "he_9",
+      "label": "Family Financial Protection",
+      "confidence": "EXTRACTED",
+      "description": "Tax relief and education support for families",
+      "involves_nodes": [
+        "prg_wmcr",
+        "prg_trying_conceive",
+        "org_iras",
+        "org_moh",
+        "benefit_acp_cofunding",
+        "topic_family"
+      ],
+      "key_relationships": [
+        "WMCR provides tax relief for working mothers (up to 25%)",
+        "MOH co-funds assisted conception (up to 75%)",
+        "Both schemes encourage family formation"
+      ]
+    },
+    {
+      "id": "he_10",
+      "label": "Caregiver Support Ecosystem",
+      "confidence": "EXTRACTED",
+      "description": "Support for persons caring for dependents with disabilities",
+      "involves_nodes": [
+        "prg_carebuddy",
+        "org_msf",
+        "org_caringSG",
+        "benefit_carebuddy_matching",
+        "topic_caregiving",
+        "topic_disability"
+      ],
+      "key_relationships": [
+        "MSF oversees caregiver support through CaringSG",
+        "CAREbuddy provides peer matching and emotional support",
+        "Peer volunteers who are caregivers themselves",
+        "Subsidized to make affordable for all caregivers"
+      ]
+    },
+    {
+      "id": "he_11",
+      "label": "Employment Dispute Resolution",
+      "confidence": "EXTRACTED",
+      "description": "Mechanism for resolving employment-related disputes",
+      "involves_nodes": [
+        "org_tadm",
+        "prg_retrenchment_benefits",
+        "prg_notice_periods"
+      ],
+      "key_relationships": [
+        "TADM resolves disputes related to retrenchment and notice",
+        "Covers salary-related claims",
+        "Provides alternative to court proceedings"
+      ]
+    },
+    {
+      "id": "he_12",
+      "label": "Special Populations Employment Support",
+      "confidence": "EXTRACTED",
+      "description": "Targeted employment support for persons with disabilities",
+      "involves_nodes": [
+        "org_sgenable",
+        "elig_pwd",
+        "prg_find_jobs",
+        "topic_employment"
+      ],
+      "key_relationships": [
+        "SG Enable specifically serves PWD",
+        "Employment support available through job search platform",
+        "Specialized services beyond mainstream job portals"
+      ]
+    },
+    {
+      "id": "he_13",
+      "label": "Community Engagement and Concessions",
+      "confidence": "EXTRACTED",
+      "description": "Community integration and benefits for all citizens and seniors",
+      "involves_nodes": [
+        "prg_passion_card",
+        "org_pa",
+        "elig_senior_60plus",
+        "topic_community",
+        "topic_transport"
+      ],
+      "key_relationships": [
+        "PA runs membership program for all ages",
+        "Senior concessions for 60+ in transport and activities",
+        "Integrated discount ecosystem at 2000+ merchant outlets"
+      ]
+    },
+    {
+      "id": "he_14",
+      "label": "Assisted Conception and Prenatal Support",
+      "confidence": "EXTRACTED",
+      "description": "Financial support for families planning conception and pregnancy",
+      "involves_nodes": [
+        "prg_trying_conceive",
+        "org_moh",
+        "benefit_acp_cofunding",
+        "proc_ivf",
+        "proc_iui",
+        "acct_medisave"
+      ],
+      "key_relationships": [
+        "MOH provides 75% co-funding for ACP at public hospitals",
+        "Both IVF and IUI eligible for support",
+        "MediSave can be used to pay for procedures",
+        "Calculator available to estimate funding"
+      ]
+    },
+    {
+      "id": "he_15",
+      "label": "Governance and Agency Coordination",
+      "confidence": "EXTRACTED",
+      "description": "Singapore government agencies coordinating social policy",
+      "involves_nodes": [
+        "org_mom",
+        "org_moh",
+        "org_moe",
+        "org_cpf",
+        "org_iras",
+        "org_pa",
+        "org_msf",
+        "org_lifesg"
+      ],
+      "key_relationships": [
+        "Each agency has specific policy domains",
+        "LifeSG acts as unified citizen platform",
+        "Agencies coordinate on cross-cutting concerns"
+      ]
+    },
+    {
+      "id": "he_16",
+      "label": "Eligibility Convergence: Citizenship and Age",
+      "confidence": "INFERRED",
+      "description": "Common eligibility requirements across multiple programs",
+      "involves_nodes": [
+        "elig_citizen_pr",
+        "elig_senior_60plus",
+        "elig_age_55"
+      ],
+      "key_relationships": [
+        "Citizenship/PR is baseline for most government benefits",
+        "Age 55 and 60 are key eligibility thresholds",
+        "Progressive benefit unlocking with age"
+      ]
+    },
+    {
+      "id": "he_17",
+      "label": "Financial Assistance Continuum",
+      "confidence": "INFERRED",
+      "description": "Support for lower-income and vulnerable groups across life stages",
+      "involves_nodes": [
+        "prg_lower_income_support",
+        "prg_medishield_premium_support",
+        "prg_senior_care",
+        "elig_income_2300",
+        "benefit_care_subsidy"
+      ],
+      "key_relationships": [
+        "Income thresholds identify vulnerable groups",
+        "Healthcare and care services heavily subsidized",
+        "Support extends from working years to retirement"
+      ]
+    },
+    {
+      "id": "he_18",
+      "label": "Topic Ecosystem Interconnections",
+      "confidence": "EXTRACTED",
+      "description": "How different policy topics interrelate across the government landscape",
+      "involves_nodes": [
+        "topic_employment",
+        "topic_healthcare",
+        "topic_education",
+        "topic_retirement",
+        "topic_family",
+        "topic_caregiving",
+        "topic_skills_training",
+        "topic_job_search"
+      ],
+      "key_relationships": [
+        "Employment connects to skills training and caregiving",
+        "Healthcare integrates with retirement planning via CPF",
+        "Education links family support (WMCR) and retirement",
+        "Job search encompasses employment and skills topics"
+      ]
+    }
+  ],
+  "metadata": {
+    "extraction_methodology": "Document-by-document entity extraction with relationship mapping",
+    "confidence_notes": {
+      "EXTRACTED": "Direct evidence from source documents",
+      "INFERRED": "Logical inference from program relationships or prior chunk knowledge",
+      "AMBIGUOUS": "Unclear or multiple interpretations possible"
+    },
+    "token_count_estimate": {
+      "input_tokens": 12850,
+      "extracted_content_tokens": 8650,
+      "relationship_mapping_tokens": 2100,
+      "total_estimated": 21600
+    },
+    "sources_processed": 22,
+    "geographic_scope": "Singapore",
+    "policy_domains": [
+      "Employment and Retrenchment",
+      "Job Search and Skills",
+      "Senior Care Services",
+      "Healthcare Insurance",
+      "Education Financing",
+      "Tax Relief",
+      "CPF Retirement",
+      "Caregiving Support",
+      "Community Engagement"
+    ]
+  }
+}

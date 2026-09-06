@@ -1,0 +1,1382 @@
+{
+  "chunk_metadata": {
+    "chunk_id": 9,
+    "file_range": "190-210",
+    "total_files": 21,
+    "date_extracted": "2026-09-06",
+    "source_domain": "supportgowhere.life.gov.sg"
+  },
+  "nodes": [
+    {
+      "id": "elp",
+      "label": "Enabled Living Programme",
+      "type": "policy",
+      "agency": "sg-enable",
+      "description": "Community living programme empowering adults with disabilities to live independently in public rental flats",
+      "topics": ["disability", "housing", "independent living"],
+      "confidence": 0.95
+    },
+    {
+      "id": "scc-rebate",
+      "label": "Service & Conservancy Charges (S&CC) Rebate",
+      "type": "policy",
+      "agency": "hdb",
+      "description": "Quarterly rebates offsetting S&CC fees for HDB households",
+      "topics": ["housing", "cost of living"],
+      "confidence": 0.95
+    },
+    {
+      "id": "scfa",
+      "label": "Student Care Fee Assistance (SCFA)",
+      "type": "policy",
+      "agency": "msf",
+      "description": "Fee assistance for children of lower-income working families enrolled in Student Care Centres",
+      "topics": ["family", "childcare", "low-income support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sctp",
+      "label": "SkillsFuture Career Transition Programme",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Industry-oriented training programmes supporting mid-career individuals in gaining new skills for career transition",
+      "topics": ["employment", "skills training", "mid-career"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-mid-ta",
+      "label": "SkillsFuture Mid-Career Training Allowance",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Financial support for full-time and part-time long-form training for individuals aged 40 and above",
+      "topics": ["employment", "skills training", "mid-career"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sfc-mid-career",
+      "label": "SkillsFuture Credit (Mid-Career)",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Course fee credit for Singapore Citizens aged 40 and above to pay for selected employment-oriented courses",
+      "topics": ["employment", "skills training", "mid-career"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-digital-workplace",
+      "label": "SkillsFuture for Digital Workplace",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Training equipping adults with essential digital skills for the digital economy, for individuals and employers",
+      "topics": ["employment", "skills training", "digital skills"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-fellowships",
+      "label": "SkillsFuture Fellowships",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Monetary award of $10,000 supporting skills mastery for experienced Singapore Citizens with 10+ years working experience",
+      "topics": ["employment", "skills training", "recognition award"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-mces",
+      "label": "SkillsFuture Mid-Career Enhanced Subsidy",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Up to 90% course fee subsidy for Singapore Citizens aged 40 and above, applied on top of base subsidies",
+      "topics": ["employment", "skills training", "mid-career"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-series",
+      "label": "SkillsFuture Series",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Short, industry-relevant training programmes for in-demand skills in Care, Digital, Green, and Industry 4.0 sectors",
+      "topics": ["employment", "skills training", "digital skills"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-wkst-cert",
+      "label": "SkillsFuture Work-Study Certificate",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Work-study arrangement combining full-time employment with structured training for ITE/Polytechnic graduates and National Servicemen",
+      "topics": ["employment", "skills training", "young adults"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-wkst-deg",
+      "label": "SkillsFuture Work-Study Degree",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "University degree programme combining classroom learning with structured on-the-job training and company sponsorship",
+      "topics": ["employment", "skills training", "young adults"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-wkst-dip",
+      "label": "SkillsFuture Work-Study Diploma",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Work-study arrangement combining employment with training towards a diploma for fresh ITE graduates and National Servicemen",
+      "topics": ["employment", "skills training", "young adults"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sf-wkst-pdip",
+      "label": "SkillsFuture Work-Study Post-Diploma",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Work-study arrangement offering post-diploma qualification or professional certification for fresh Polytechnic graduates",
+      "topics": ["employment", "skills training", "young adults"],
+      "confidence": 0.95
+    },
+    {
+      "id": "mcpp",
+      "label": "Mid-Career Pathways Programme (MCPP)",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "Full-time 4-6 month attachment programme for mid-career individuals aged 40+ seeking career switch with training allowance",
+      "topics": ["employment", "mid-career", "job attachment"],
+      "confidence": 0.95
+    },
+    {
+      "id": "wsq",
+      "label": "Singapore Workforce Skills Qualifications (WSQ)",
+      "type": "policy",
+      "agency": "skillsfuture",
+      "description": "National credential system providing competency-based training, assessment and certification for workforce skills development",
+      "topics": ["employment", "skills training"],
+      "confidence": 0.95
+    },
+    {
+      "id": "shb",
+      "label": "Silver Housing Bonus (SHB)",
+      "type": "policy",
+      "agency": "hdb",
+      "description": "Cash bonus for seniors 55+ right-sizing to smaller HDB flat and topping up CPF Retirement Account to join CPF LIFE",
+      "topics": ["housing", "retirement", "cpf", "eldercare"],
+      "confidence": 0.95
+    },
+    {
+      "id": "silver-support",
+      "label": "Silver Support Scheme",
+      "type": "policy",
+      "agency": "cpf",
+      "description": "Quarterly cash supplement ($215-$1,080) for eligible seniors 65+ with low CPF contributions and limited means",
+      "topics": ["retirement", "eldercare", "low-income support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "silverjobs",
+      "label": "Silverjobs Portal",
+      "type": "platform",
+      "agency": "lifesg",
+      "description": "Job platform by Centre For Seniors for seniors 50+ to explore meaningful work in various sectors",
+      "topics": ["employment", "eldercare", "retirement"],
+      "confidence": 0.95
+    },
+    {
+      "id": "career-skills-advisory",
+      "label": "Career and Skills Advisory",
+      "type": "service",
+      "agency": "skillsfuture",
+      "description": "Personalised career and skills advice delivered by SWDA and partners (e2i, Ingeus, AngusKnight Singapore)",
+      "topics": ["employment", "career guidance", "skills training"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sl-tr-flexi",
+      "label": "Short-lease 2-room Flexi Flats",
+      "type": "policy",
+      "agency": "hdb",
+      "description": "Affordable housing with flexible lease (15-45 years) for seniors 55+ to right-size and live independently",
+      "topics": ["housing", "retirement", "seniors"],
+      "confidence": 0.95
+    },
+    {
+      "id": "smf",
+      "label": "Seniors' Mobility and Enabling Fund",
+      "type": "policy",
+      "agency": "aic",
+      "description": "Subsidies (up to 90%) for mobility/assistive devices and home healthcare items for seniors 60+ supporting ageing in place",
+      "topics": ["seniors", "healthcare", "disability support", "ageing in place"],
+      "confidence": 0.95
+    },
+    {
+      "id": "sg-enable",
+      "label": "SG Enable",
+      "type": "organization",
+      "description": "Government agency administering disability support and independent living programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "hdb",
+      "label": "Housing and Development Board",
+      "type": "organization",
+      "description": "Government agency managing public housing, rental flats, and housing benefits in Singapore",
+      "confidence": 0.95
+    },
+    {
+      "id": "msf",
+      "label": "Ministry of Social and Family Development",
+      "type": "organization",
+      "description": "Government ministry administering family, childcare, and social support programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "skillsfuture",
+      "label": "SkillsFuture",
+      "type": "organization",
+      "description": "Government body managing skills training, career development, and workforce development programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf",
+      "label": "CPF Board",
+      "type": "organization",
+      "description": "Government agency managing Central Provident Fund retirement savings and related schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "aic",
+      "label": "Agency for Integrated Care",
+      "type": "organization",
+      "description": "Government agency coordinating integrated care services for seniors and persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "lifesg",
+      "label": "LifeSG",
+      "type": "organization",
+      "description": "Government digital platform integrating government services and schemes for citizens",
+      "confidence": 0.90
+    },
+    {
+      "id": "swda",
+      "label": "Skills and Workforce Development Agency",
+      "type": "organization",
+      "description": "Government agency coordinating workforce skills development and training subsidies",
+      "confidence": 0.95
+    },
+    {
+      "id": "e2i",
+      "label": "e2i (Employment and Employability Institute)",
+      "type": "organization",
+      "description": "NTUC training and employment support provider partnering on career advisory services",
+      "confidence": 0.90
+    },
+    {
+      "id": "target-disabled-adults",
+      "label": "Adults with Disabilities",
+      "type": "target_group",
+      "description": "Individuals aged 35-64 with permanent physical, sensory, or intellectual disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "target-hdb-households",
+      "label": "HDB Households",
+      "type": "target_group",
+      "description": "Residents of public Housing and Development Board flats",
+      "confidence": 0.95
+    },
+    {
+      "id": "target-low-income-families",
+      "label": "Low-Income Working Families",
+      "type": "target_group",
+      "description": "Families with household income below specified thresholds with working parents",
+      "confidence": 0.95
+    },
+    {
+      "id": "target-mid-career",
+      "label": "Mid-Career Workers (40+)",
+      "type": "target_group",
+      "description": "Singapore Citizens and Permanent Residents aged 40 and above seeking reskilling or career transition",
+      "confidence": 0.95
+    },
+    {
+      "id": "target-young-adults",
+      "label": "Young Adults (ITE/Polytechnic Graduates)",
+      "type": "target_group",
+      "description": "Fresh graduates from Institute of Technical Education and Polytechnics and recent National Servicemen (ORD)",
+      "confidence": 0.95
+    },
+    {
+      "id": "target-seniors",
+      "label": "Seniors (55+/65+)",
+      "type": "target_group",
+      "description": "Individuals aged 55 or 65 and above seeking retirement support, housing solutions, and employment opportunities",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-reskilling",
+      "label": "Reskilling/Upskilling",
+      "type": "concept",
+      "description": "Process of learning new skills or enhancing existing skills for career advancement or transition",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-independent-living",
+      "label": "Independent Living",
+      "type": "concept",
+      "description": "Ability to manage daily activities and live autonomously in community with minimal support",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-housing-affordability",
+      "label": "Housing Affordability",
+      "type": "concept",
+      "description": "Ensuring housing costs are accessible to lower and middle-income households",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-skills-qualification",
+      "label": "Skills Certification and Qualifications",
+      "type": "concept",
+      "description": "Formal recognition of acquired skills and competencies through industry-recognised credentials",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-ageing-in-place",
+      "label": "Ageing in Place",
+      "type": "concept",
+      "description": "Enabling seniors to remain living in their home communities with appropriate support services",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-career-transition",
+      "label": "Career Transition",
+      "type": "concept",
+      "description": "Process of changing careers or job functions, often requiring new skills and training",
+      "confidence": 0.95
+    },
+    {
+      "id": "platform-myskillsfuture",
+      "label": "MySkillsFuture Portal",
+      "type": "platform",
+      "description": "Central online portal for browsing and enrolling in SkillsFuture training courses and programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "platform-mycareersfuture",
+      "label": "MyCareersFuture Portal",
+      "type": "platform",
+      "description": "Job portal for finding employment opportunities and work attachments",
+      "confidence": 0.95
+    },
+    {
+      "id": "platform-supportgowhere",
+      "label": "SupportGoWhere Portal",
+      "type": "platform",
+      "description": "Central portal for discovering and applying to government support schemes and benefits",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-training-allowance",
+      "label": "Training Allowance",
+      "type": "financial_benefit",
+      "description": "Monthly financial support ranging from $300-$3,800 to offset income loss during training",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-fee-subsidy",
+      "label": "Course Fee Subsidy",
+      "type": "financial_benefit",
+      "description": "Percentage-based or fixed-amount reduction in course fees, ranging from 20% to 90%",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-cash-bonus",
+      "label": "Cash Bonus/Incentive",
+      "type": "financial_benefit",
+      "description": "One-time or periodic cash payments including sign-on incentives ($5,000-$10,000) and housing bonuses ($30,000-$40,000)",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-quarterly-supplement",
+      "label": "Quarterly Cash Supplement",
+      "type": "financial_benefit",
+      "description": "Recurring quarterly payments ranging from $215-$1,080 for retirement income support",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-equipment-subsidy",
+      "label": "Equipment and Device Subsidy",
+      "type": "financial_benefit",
+      "description": "Subsidies (70%-90%) for mobility aids, assistive devices, and home healthcare items",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility-citizenship",
+      "label": "Singapore Citizenship/PR",
+      "type": "eligibility_criterion",
+      "description": "Requirement to be Singapore Citizen or Permanent Resident for most programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility-age",
+      "label": "Age Requirements",
+      "type": "eligibility_criterion",
+      "description": "Age thresholds ranging from 21+ to 65+ depending on specific programme",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility-income",
+      "label": "Income Thresholds",
+      "type": "eligibility_criterion",
+      "description": "Maximum household or per-capita income limits for means-tested programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility-employment",
+      "label": "Employment Status",
+      "type": "eligibility_criterion",
+      "description": "Requirements such as working minimum hours per month or employment history",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility-graduation",
+      "label": "Educational Attainment",
+      "type": "eligibility_criterion",
+      "description": "Requirement to be fresh graduate from ITE, Polytechnic, or within 3 years of graduation",
+      "confidence": 0.95
+    },
+    {
+      "id": "sector-employment",
+      "label": "Employment and Skills Sector",
+      "type": "domain",
+      "description": "Policies and programmes focused on job training, career development, and workforce skills",
+      "confidence": 0.95
+    },
+    {
+      "id": "sector-housing",
+      "label": "Housing and Retirement Sector",
+      "type": "domain",
+      "description": "Policies and programmes addressing housing affordability and retirement living solutions",
+      "confidence": 0.95
+    },
+    {
+      "id": "sector-social-support",
+      "label": "Social Support and Welfare Sector",
+      "type": "domain",
+      "description": "Policies and programmes providing financial and practical support to vulnerable populations",
+      "confidence": 0.95
+    },
+    {
+      "id": "sector-healthcare",
+      "label": "Healthcare and Disability Support Sector",
+      "type": "domain",
+      "description": "Policies and programmes supporting health, disability, and ageing-related needs",
+      "confidence": 0.95
+    }
+  ],
+  "edges": [
+    {
+      "source": "sg-enable",
+      "target": "elp",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "hdb",
+      "target": "scc-rebate",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "hdb",
+      "target": "shb",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "hdb",
+      "target": "sl-tr-flexi",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "msf",
+      "target": "scfa",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sctp",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-mid-ta",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sfc-mid-career",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-digital-workplace",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-fellowships",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-mces",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-series",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-wkst-cert",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-wkst-deg",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-wkst-dip",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "sf-wkst-pdip",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "mcpp",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "wsq",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "skillsfuture",
+      "target": "career-skills-advisory",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf",
+      "target": "silver-support",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "aic",
+      "target": "smf",
+      "type": "administers",
+      "confidence": 0.95
+    },
+    {
+      "source": "lifesg",
+      "target": "silverjobs",
+      "type": "administers",
+      "confidence": 0.90
+    },
+    {
+      "source": "elp",
+      "target": "target-disabled-adults",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "scc-rebate",
+      "target": "target-hdb-households",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "scfa",
+      "target": "target-low-income-families",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sctp",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-digital-workplace",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.90
+    },
+    {
+      "source": "sf-fellowships",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.85
+    },
+    {
+      "source": "sf-mces",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-series",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.90
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "target-young-adults",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-deg",
+      "target": "target-young-adults",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "target-young-adults",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "target-young-adults",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "mcpp",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "wsq",
+      "target": "target-mid-career",
+      "type": "supports",
+      "confidence": 0.85
+    },
+    {
+      "source": "shb",
+      "target": "target-seniors",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "silver-support",
+      "target": "target-seniors",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "silverjobs",
+      "target": "target-seniors",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "sl-tr-flexi",
+      "target": "target-seniors",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "smf",
+      "target": "target-seniors",
+      "type": "supports",
+      "confidence": 0.95
+    },
+    {
+      "source": "smf",
+      "target": "target-disabled-adults",
+      "type": "supports",
+      "confidence": 0.90
+    },
+    {
+      "source": "scfa",
+      "target": "benefit-fee-subsidy",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scfa",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "benefit-training-allowance",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mces",
+      "target": "benefit-fee-subsidy",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "mcpp",
+      "target": "benefit-training-allowance",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-fellowships",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "shb",
+      "target": "benefit-cash-bonus",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "silver-support",
+      "target": "benefit-quarterly-supplement",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scc-rebate",
+      "target": "benefit-fee-subsidy",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "smf",
+      "target": "benefit-equipment-subsidy",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "sctp",
+      "target": "concept-career-transition",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "mcpp",
+      "target": "concept-career-transition",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "concept-reskilling",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-series",
+      "target": "concept-reskilling",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "elp",
+      "target": "concept-independent-living",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "shb",
+      "target": "concept-housing-affordability",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sl-tr-flexi",
+      "target": "concept-housing-affordability",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "scc-rebate",
+      "target": "concept-housing-affordability",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "wsq",
+      "target": "concept-skills-qualification",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "concept-skills-qualification",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-deg",
+      "target": "concept-skills-qualification",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "concept-skills-qualification",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "concept-skills-qualification",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "smf",
+      "target": "concept-ageing-in-place",
+      "type": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sctp",
+      "target": "platform-myskillsfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "platform-myskillsfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "platform-myskillsfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-series",
+      "target": "platform-myskillsfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "wsq",
+      "target": "platform-myskillsfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "mcpp",
+      "target": "platform-mycareersfuture",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "silverjobs",
+      "target": "platform-mycareersfuture",
+      "type": "uses",
+      "confidence": 0.90
+    },
+    {
+      "source": "scfa",
+      "target": "platform-supportgowhere",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "sctp",
+      "target": "eligibility-citizenship",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "eligibility-age",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "eligibility-age",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "scfa",
+      "target": "eligibility-income",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "scfa",
+      "target": "eligibility-employment",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "eligibility-graduation",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "eligibility-graduation",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "eligibility-graduation",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "shb",
+      "target": "eligibility-age",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "silver-support",
+      "target": "eligibility-age",
+      "type": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "sctp",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-digital-workplace",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-fellowships",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-mces",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-series",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-deg",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "mcpp",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "wsq",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "silverjobs",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "career-skills-advisory",
+      "target": "sector-employment",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "shb",
+      "target": "sector-housing",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scc-rebate",
+      "target": "sector-housing",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "silver-support",
+      "target": "sector-social-support",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scfa",
+      "target": "sector-social-support",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "sl-tr-flexi",
+      "target": "sector-housing",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "smf",
+      "target": "sector-healthcare",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "elp",
+      "target": "sector-healthcare",
+      "type": "belongs_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "swda",
+      "target": "skillsfuture",
+      "type": "partners_with",
+      "confidence": 0.90
+    },
+    {
+      "source": "e2i",
+      "target": "skillsfuture",
+      "type": "partners_with",
+      "confidence": 0.90
+    },
+    {
+      "source": "sf-mid-ta",
+      "target": "sf-mces",
+      "type": "complementary_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "sfc-mid-career",
+      "target": "sf-mces",
+      "type": "complementary_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "shb",
+      "target": "silver-support",
+      "type": "complementary_to",
+      "confidence": 0.80
+    },
+    {
+      "source": "shb",
+      "target": "sl-tr-flexi",
+      "type": "complementary_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "sf-wkst-cert",
+      "target": "sf-wkst-dip",
+      "type": "related_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "sf-wkst-dip",
+      "target": "sf-wkst-pdip",
+      "type": "progression_pathway",
+      "confidence": 0.85
+    },
+    {
+      "source": "sf-wkst-pdip",
+      "target": "sf-wkst-deg",
+      "type": "progression_pathway",
+      "confidence": 0.80
+    },
+    {
+      "source": "sctp",
+      "target": "mcpp",
+      "type": "related_to",
+      "confidence": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he-mid-career-support-ecosystem",
+      "label": "Mid-Career Workers Support Ecosystem",
+      "nodes": [
+        "target-mid-career",
+        "sctp",
+        "sf-mid-ta",
+        "sfc-mid-career",
+        "sf-mces",
+        "mcpp",
+        "career-skills-advisory",
+        "platform-myskillsfuture",
+        "skillsfuture",
+        "swda"
+      ],
+      "description": "Interconnected programmes providing mid-career workers (40+) with training, financial support, and career guidance",
+      "confidence": 0.90
+    },
+    {
+      "id": "he-young-adult-employment",
+      "label": "Young Adult Employment and Skills Pathways",
+      "nodes": [
+        "target-young-adults",
+        "sf-wkst-cert",
+        "sf-wkst-dip",
+        "sf-wkst-pdip",
+        "sf-wkst-deg",
+        "benefit-cash-bonus",
+        "skillsfuture"
+      ],
+      "description": "Work-study programmes for fresh ITE/Polytechnic graduates offering structured on-the-job training and credentials",
+      "confidence": 0.95
+    },
+    {
+      "id": "he-senior-retirement-housing",
+      "label": "Senior Retirement and Housing Solutions",
+      "nodes": [
+        "target-seniors",
+        "shb",
+        "sl-tr-flexi",
+        "silver-support",
+        "cpf",
+        "hdb",
+        "benefit-cash-bonus",
+        "benefit-quarterly-supplement"
+      ],
+      "description": "Integrated housing and retirement income solutions for seniors including downsizing schemes and financial support",
+      "confidence": 0.92
+    },
+    {
+      "id": "he-senior-employment-ageing",
+      "label": "Senior Employment and Active Ageing",
+      "nodes": [
+        "target-seniors",
+        "silverjobs",
+        "platform-mycareersfuture",
+        "lifesg",
+        "concept-ageing-in-place"
+      ],
+      "description": "Platforms and programmes enabling seniors to remain engaged in work and meaningful activities",
+      "confidence": 0.85
+    },
+    {
+      "id": "he-skillsfuture-ecosystem",
+      "label": "SkillsFuture Training Ecosystem",
+      "nodes": [
+        "skillsfuture",
+        "sctp",
+        "sf-mid-ta",
+        "sf-digital-workplace",
+        "sf-series",
+        "sf-mces",
+        "wsq",
+        "platform-myskillsfuture",
+        "swda",
+        "concept-reskilling",
+        "concept-skills-qualification"
+      ],
+      "description": "Comprehensive ecosystem of training programmes and qualifications supporting workforce reskilling and skills development",
+      "confidence": 0.95
+    },
+    {
+      "id": "he-hdb-support-ecosystem",
+      "label": "HDB Housing Support Ecosystem",
+      "nodes": [
+        "hdb",
+        "target-hdb-households",
+        "target-seniors",
+        "scc-rebate",
+        "shb",
+        "sl-tr-flexi",
+        "benefit-fee-subsidy",
+        "benefit-cash-bonus"
+      ],
+      "description": "Interconnected HDB programmes providing housing cost support and retirement housing solutions",
+      "confidence": 0.93
+    },
+    {
+      "id": "he-disability-support-ecosystem",
+      "label": "Disability and Independent Living Support",
+      "nodes": [
+        "target-disabled-adults",
+        "elp",
+        "smf",
+        "sg-enable",
+        "aic",
+        "concept-independent-living",
+        "concept-ageing-in-place",
+        "benefit-equipment-subsidy"
+      ],
+      "description": "Programmes supporting adults with disabilities and seniors to maintain independence through care services and assistive devices",
+      "confidence": 0.92
+    },
+    {
+      "id": "he-low-income-family-support",
+      "label": "Low-Income Family and Childcare Support",
+      "nodes": [
+        "target-low-income-families",
+        "scfa",
+        "msf",
+        "benefit-fee-subsidy",
+        "benefit-cash-bonus",
+        "eligibility-income",
+        "eligibility-employment"
+      ],
+      "description": "Targeted support for low-income working families accessing childcare services",
+      "confidence": 0.95
+    }
+  ],
+  "token_counts": {
+    "estimated_total_tokens": 18500,
+    "breakdown": {
+      "policy_descriptions": 3200,
+      "eligibility_criteria": 2800,
+      "benefits_and_features": 3100,
+      "organizational_information": 2200,
+      "target_groups": 1500,
+      "concepts": 1200,
+      "relationships": 2400,
+      "hyperedges": 2100
+    }
+  },
+  "statistics": {
+    "total_nodes": 57,
+    "nodes_by_type": {
+      "policy": 22,
+      "organization": 9,
+      "target_group": 6,
+      "concept": 6,
+      "financial_benefit": 5,
+      "eligibility_criterion": 5,
+      "domain": 4,
+      "platform": 3,
+      "service": 1
+    },
+    "total_edges": 113,
+    "edges_by_type": {
+      "administers": 22,
+      "supports": 22,
+      "provides": 10,
+      "addresses": 9,
+      "uses": 8,
+      "requires": 8,
+      "belongs_to": 19,
+      "partners_with": 2,
+      "complementary_to": 3,
+      "related_to": 2,
+      "progression_pathway": 2
+    },
+    "total_hyperedges": 8,
+    "average_confidence": 0.908
+  }
+}

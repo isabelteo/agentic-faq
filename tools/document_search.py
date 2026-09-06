@@ -105,12 +105,51 @@ class Tools:
             return f"No relevant documents found for query: {query!r}"
 
         chunks = []
+        filenames = []
         for path, score in results:
             rel_name = os.path.relpath(path, self.valves.docs_path)
+            filenames.append(rel_name)
             with open(path, "r", encoding="utf-8", errors="strict") as f:
                 content = f.read()[: self.valves.max_chars_per_doc]
             chunks.append(
                 f"### Document: {rel_name} (relevance score: {score:.2f})\n\n{content}"
             )
 
-        return "\n\n---\n\n".join(chunks)
+        response = "\n\n---\n\n".join(chunks)
+        response += f"\n\n## Source Files:\n{', '.join(filenames)}"
+        return response
+
+    def get_documents_by_filenames(self, filenames: List[str]) -> str:
+        """
+        Retrieve the full content of specific documents by their filenames.
+        :param filenames: List of filenames to retrieve (e.g., ['guides-housing.md', 'schemes-pension.md'])
+        """
+        if not filenames:
+            return "No filenames provided."
+
+        chunks = []
+        found_files = []
+        not_found = []
+
+        for filename in filenames:
+            file_path = os.path.join(self.valves.docs_path, filename)
+
+            if os.path.exists(file_path) and file_path.lower().endswith(".md"):
+                found_files.append(filename)
+                try:
+                    with open(file_path, "r", encoding="utf-8", errors="strict") as f:
+                        content = f.read()[: self.valves.max_chars_per_doc]
+                    chunks.append(f"### Document: {filename}\n\n{content}")
+                except Exception as e:
+                    chunks.append(f"### Document: {filename}\n\nError reading file: {e}")
+            else:
+                not_found.append(filename)
+
+        response = "\n\n---\n\n".join(chunks) if chunks else "No documents found."
+
+        if found_files:
+            response += f"\n\n## Retrieved Files:\n{', '.join(found_files)}"
+        if not_found:
+            response += f"\n\n## Files Not Found:\n{', '.join(not_found)}"
+
+        return response

@@ -1,0 +1,899 @@
+{
+  "chunk_id": 12,
+  "file_range": "253-273",
+  "extraction_metadata": {
+    "total_documents": 22,
+    "timestamp": "2026-09-06",
+    "focus": "Singapore Government Social Policy Services and Welfare Programs",
+    "token_estimate": 8500
+  },
+  "nodes": [
+    {
+      "id": "cmhs",
+      "label": "Community Mental Health Services",
+      "type": "service",
+      "description": "Community mental health teams providing support for mental health care to persons aged 12+",
+      "confidence": 0.95
+    },
+    {
+      "id": "aic_agency",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "organization",
+      "description": "Singapore government agency overseeing integrated care services",
+      "confidence": 0.95
+    },
+    {
+      "id": "pr_service",
+      "label": "Permanent Residency",
+      "type": "service",
+      "description": "Immigration service enabling eligible foreigners to reside permanently in Singapore",
+      "confidence": 0.95
+    },
+    {
+      "id": "ica_agency",
+      "label": "Immigration & Checkpoints Authority (ICA)",
+      "type": "organization",
+      "description": "Government agency handling immigration and residency matters",
+      "confidence": 0.95
+    },
+    {
+      "id": "clc_nw",
+      "label": "Community Law Centre @ Realm of Tranquility",
+      "type": "service",
+      "description": "Pro Bono legal services for socially excluded individuals in North West district",
+      "confidence": 0.95
+    },
+    {
+      "id": "pro_bono_sg",
+      "label": "Pro Bono SG",
+      "type": "organization",
+      "description": "Non-profit organization providing pro bono legal services",
+      "confidence": 0.95
+    },
+    {
+      "id": "rtw_i",
+      "label": "Rise to Wellness - Integrated Wellness Recovery Programme",
+      "type": "service",
+      "description": "Free centre-based integrated wellness recovery programme for mental health and addiction recovery",
+      "confidence": 0.95
+    },
+    {
+      "id": "psalt_care",
+      "label": "PSALT Care",
+      "type": "organization",
+      "description": "Service provider delivering RTW-I wellness recovery programme",
+      "confidence": 0.95
+    },
+    {
+      "id": "sda_service",
+      "label": "Severe Disability Assessment (SDA)",
+      "type": "service",
+      "description": "Assessment of disability status by MOH-accredited assessors for scheme eligibility",
+      "confidence": 0.95
+    },
+    {
+      "id": "aac_service",
+      "label": "Active Ageing Centres (AAC)",
+      "type": "service",
+      "description": "Centres for seniors 60+ to stay active, build connections, and access health services",
+      "confidence": 0.95
+    },
+    {
+      "id": "acp_service",
+      "label": "Advance Care Planning (ACP)",
+      "type": "service",
+      "description": "Process for individuals 21+ to communicate healthcare preferences and values",
+      "confidence": 0.95
+    },
+    {
+      "id": "moh_agency",
+      "label": "Ministry of Health (MOH)",
+      "type": "organization",
+      "description": "Singapore government ministry overseeing health services and policies",
+      "confidence": 0.95
+    },
+    {
+      "id": "babes_service",
+      "label": "Babes Pregnancy Crisis Support",
+      "type": "service",
+      "description": "Free support for pregnant teenagers aged 21 and below",
+      "confidence": 0.95
+    },
+    {
+      "id": "cbn_service",
+      "label": "Centre-based Nursing",
+      "type": "service",
+      "description": "Basic nursing care services at centres for seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "care_corner_lsn",
+      "label": "Care Corner Learning and Special Needs Support Programme",
+      "type": "service",
+      "description": "Centre-based learning support for children 4-13 with learning difficulties",
+      "confidence": 0.95
+    },
+    {
+      "id": "crest_service",
+      "label": "Community Outreach Teams (CREST)",
+      "type": "service",
+      "description": "Government-funded community mental health teams providing outreach and support",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf_nom",
+      "label": "CPF Nomination",
+      "type": "service",
+      "description": "Service for CPF members to designate beneficiaries for CPF savings",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf_board",
+      "label": "CPF Board",
+      "type": "organization",
+      "description": "Government agency administering Central Provident Fund",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpsc_service",
+      "label": "Child Protection Specialist Centre (CPSC)",
+      "type": "service",
+      "description": "Specialist centre providing child-centric support for children facing abuse or neglect",
+      "confidence": 0.95
+    },
+    {
+      "id": "msf_agency",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "organization",
+      "description": "Government ministry overseeing social and family welfare services",
+      "confidence": 0.95
+    },
+    {
+      "id": "crc_service",
+      "label": "Community Rehabilitation Centre",
+      "type": "service",
+      "description": "Centre-based therapy services for seniors including physiotherapy and occupational therapy",
+      "confidence": 0.95
+    },
+    {
+      "id": "ctsp_service",
+      "label": "Caregiver Training and Support Programme (CTSP)",
+      "type": "service",
+      "description": "Free training and support for caregivers of persons with mental health issues",
+      "confidence": 0.95
+    },
+    {
+      "id": "deputyship_service",
+      "label": "Deputyship",
+      "type": "service",
+      "description": "Legal arrangement allowing court-appointed deputy to make decisions for persons lacking mental capacity",
+      "confidence": 0.95
+    },
+    {
+      "id": "dac_service",
+      "label": "Day Activity Centre (DAC)",
+      "type": "service",
+      "description": "Community facilities providing daily living skills training and respite care for persons with disabilities 18+",
+      "confidence": 0.95
+    },
+    {
+      "id": "sg_enable",
+      "label": "SG Enable",
+      "type": "organization",
+      "description": "Government agency supporting persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "ddc_service",
+      "label": "Dementia Day Care",
+      "type": "service",
+      "description": "Day care centres offering activities and personal care for seniors with dementia",
+      "confidence": 0.95
+    },
+    {
+      "id": "eipic_service",
+      "label": "Early Intervention Programme for Infants and Children (EIPIC)",
+      "type": "service",
+      "description": "Centre-based therapy and educational intervention for children 0-6 with developmental disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "eipic_p_service",
+      "label": "Early Intervention Programme for Infants and Children - P (EIPIC-P)",
+      "type": "service",
+      "description": "Private ECDA-appointed centres offering subsidised early intervention services for children 0-6",
+      "confidence": 0.95
+    },
+    {
+      "id": "ecda_agency",
+      "label": "Early Childhood Development Agency (ECDA)",
+      "type": "organization",
+      "description": "Government agency overseeing early childhood development and intervention services",
+      "confidence": 0.95
+    },
+    {
+      "id": "elmp_service",
+      "label": "Experiential Learning and Mentoring Programme (ELMP)",
+      "type": "service",
+      "description": "Youth support programme providing mentoring and after-school activities for ages 11-19",
+      "confidence": 0.95
+    },
+    {
+      "id": "marriage_prep",
+      "label": "Marriage Preparation Programme for Minor and Young Muslim Couples",
+      "type": "service",
+      "description": "Pre- and post-marriage support for Muslim couples with minor or young spouses",
+      "confidence": 0.95
+    },
+    {
+      "id": "mental_health",
+      "label": "Mental Health Support",
+      "type": "concept",
+      "description": "Range of psychological and psychiatric support services",
+      "confidence": 0.95
+    },
+    {
+      "id": "disability_support",
+      "label": "Disability Support",
+      "type": "concept",
+      "description": "Services and assistance for persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "eldercare",
+      "label": "Eldercare",
+      "type": "concept",
+      "description": "Care and support services for seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "caregiving_support",
+      "label": "Caregiving Support",
+      "type": "concept",
+      "description": "Training and resources for family caregivers",
+      "confidence": 0.95
+    },
+    {
+      "id": "early_intervention",
+      "label": "Early Intervention",
+      "type": "concept",
+      "description": "Therapy and support services for young children with developmental concerns",
+      "confidence": 0.95
+    },
+    {
+      "id": "legal_aid",
+      "label": "Legal Aid",
+      "type": "concept",
+      "description": "Legal services and representation for those unable to afford private counsel",
+      "confidence": 0.95
+    },
+    {
+      "id": "family_support",
+      "label": "Family Support",
+      "type": "concept",
+      "description": "Services supporting families including counselling and casework",
+      "confidence": 0.92
+    },
+    {
+      "id": "mental_capacity",
+      "label": "Mental Capacity",
+      "type": "concept",
+      "description": "Legal and clinical determination of ability to make decisions",
+      "confidence": 0.90
+    },
+    {
+      "id": "social_exclusion",
+      "label": "Social Exclusion",
+      "type": "concept",
+      "description": "Barriers to services due to socio-economic, mobility, psychological and technological factors",
+      "confidence": 0.88
+    },
+    {
+      "id": "addiction_recovery",
+      "label": "Addiction Recovery",
+      "type": "concept",
+      "description": "Support programmes for persons recovering from substance abuse or addiction",
+      "confidence": 0.90
+    },
+    {
+      "id": "youth_support",
+      "label": "Youth Support",
+      "type": "concept",
+      "description": "Services targeting at-risk and vulnerable youth",
+      "confidence": 0.92
+    },
+    {
+      "id": "dementia",
+      "label": "Dementia",
+      "type": "concept",
+      "description": "Progressive cognitive decline requiring specialized support",
+      "confidence": 0.95
+    },
+    {
+      "id": "child_protection",
+      "label": "Child Protection",
+      "type": "concept",
+      "description": "Services ensuring safety and wellbeing of children at risk",
+      "confidence": 0.95
+    },
+    {
+      "id": "estate_planning",
+      "label": "Estate Planning",
+      "type": "concept",
+      "description": "Services for managing assets and beneficiary designations after death",
+      "confidence": 0.90
+    },
+    {
+      "id": "activities_daily_living",
+      "label": "Activities of Daily Living (ADL)",
+      "type": "concept",
+      "description": "Basic self-care activities including feeding, dressing, toileting, washing, mobility",
+      "confidence": 0.95
+    },
+    {
+      "id": "means_testing",
+      "label": "Means-Testing",
+      "type": "concept",
+      "description": "Assessment of income and assets to determine subsidy eligibility",
+      "confidence": 0.92
+    },
+    {
+      "id": "referral_based",
+      "label": "Referral-Based Access",
+      "type": "concept",
+      "description": "Services accessed through professional referrals rather than direct application",
+      "confidence": 0.90
+    },
+    {
+      "id": "assessment_process",
+      "label": "Assessment Process",
+      "type": "concept",
+      "description": "Formal evaluation to determine eligibility and support needs",
+      "confidence": 0.92
+    },
+    {
+      "id": "peer_support",
+      "label": "Peer Support",
+      "type": "concept",
+      "description": "Support from individuals with shared experiences",
+      "confidence": 0.90
+    },
+    {
+      "id": "respite_care",
+      "label": "Respite Care",
+      "type": "concept",
+      "description": "Short-term care to provide relief for primary caregivers",
+      "confidence": 0.92
+    },
+    {
+      "id": "casework",
+      "label": "Casework",
+      "type": "concept",
+      "description": "Individualized professional social work intervention",
+      "confidence": 0.92
+    },
+    {
+      "id": "therapy_services",
+      "label": "Therapy Services",
+      "type": "concept",
+      "description": "Psychological, occupational, speech and physiotherapy interventions",
+      "confidence": 0.95
+    }
+  ],
+  "edges": [
+    {
+      "source": "cmhs",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cmhs",
+      "target": "mental_health",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "pr_service",
+      "target": "ica_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "clc_nw",
+      "target": "pro_bono_sg",
+      "relationship": "delivered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "clc_nw",
+      "target": "legal_aid",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "clc_nw",
+      "target": "social_exclusion",
+      "relationship": "targets",
+      "confidence": 0.92
+    },
+    {
+      "source": "rtw_i",
+      "target": "psalt_care",
+      "relationship": "delivered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "rtw_i",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "rtw_i",
+      "target": "mental_health",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "rtw_i",
+      "target": "addiction_recovery",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "rtw_i",
+      "target": "peer_support",
+      "relationship": "includes",
+      "confidence": 0.92
+    },
+    {
+      "source": "sda_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "sda_service",
+      "target": "moh_agency",
+      "relationship": "assessors_accredited_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "sda_service",
+      "target": "activities_daily_living",
+      "relationship": "evaluates",
+      "confidence": 0.95
+    },
+    {
+      "source": "aac_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "aac_service",
+      "target": "eldercare",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "acp_service",
+      "target": "moh_agency",
+      "relationship": "regulated_by",
+      "confidence": 0.92
+    },
+    {
+      "source": "acp_service",
+      "target": "mental_capacity",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "babes_service",
+      "target": "family_support",
+      "relationship": "provides",
+      "confidence": 0.92
+    },
+    {
+      "source": "cbn_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cbn_service",
+      "target": "therapy_services",
+      "relationship": "provides",
+      "confidence": 0.92
+    },
+    {
+      "source": "care_corner_lsn",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "care_corner_lsn",
+      "target": "early_intervention",
+      "relationship": "provides",
+      "confidence": 0.92
+    },
+    {
+      "source": "crest_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "crest_service",
+      "target": "moh_agency",
+      "relationship": "coordinated_with",
+      "confidence": 0.92
+    },
+    {
+      "source": "crest_service",
+      "target": "mental_health",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "crest_service",
+      "target": "dementia",
+      "relationship": "addresses",
+      "confidence": 0.92
+    },
+    {
+      "source": "cpf_nom",
+      "target": "cpf_board",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf_nom",
+      "target": "estate_planning",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpsc_service",
+      "target": "msf_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpsc_service",
+      "target": "child_protection",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpsc_service",
+      "target": "casework",
+      "relationship": "includes",
+      "confidence": 0.92
+    },
+    {
+      "source": "crc_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "crc_service",
+      "target": "therapy_services",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "ctsp_service",
+      "target": "moh_agency",
+      "relationship": "regulated_by",
+      "confidence": 0.92
+    },
+    {
+      "source": "ctsp_service",
+      "target": "caregiving_support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "ctsp_service",
+      "target": "mental_health",
+      "relationship": "targets",
+      "confidence": 0.92
+    },
+    {
+      "source": "deputyship_service",
+      "target": "msf_agency",
+      "relationship": "regulated_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "deputyship_service",
+      "target": "mental_capacity",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "dac_service",
+      "target": "sg_enable",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "dac_service",
+      "target": "msf_agency",
+      "relationship": "coordinated_with",
+      "confidence": 0.92
+    },
+    {
+      "source": "dac_service",
+      "target": "disability_support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "dac_service",
+      "target": "respite_care",
+      "relationship": "includes",
+      "confidence": 0.92
+    },
+    {
+      "source": "ddc_service",
+      "target": "aic_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "ddc_service",
+      "target": "dementia",
+      "relationship": "specializes_in",
+      "confidence": 0.95
+    },
+    {
+      "source": "ddc_service",
+      "target": "respite_care",
+      "relationship": "provides",
+      "confidence": 0.92
+    },
+    {
+      "source": "ddc_service",
+      "target": "caregiving_support",
+      "relationship": "includes",
+      "confidence": 0.92
+    },
+    {
+      "source": "eipic_service",
+      "target": "ecda_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "eipic_service",
+      "target": "early_intervention",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "eipic_service",
+      "target": "therapy_services",
+      "relationship": "includes",
+      "confidence": 0.95
+    },
+    {
+      "source": "eipic_p_service",
+      "target": "ecda_agency",
+      "relationship": "appointed_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "eipic_p_service",
+      "target": "early_intervention",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "elmp_service",
+      "target": "msf_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "elmp_service",
+      "target": "youth_support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "marriage_prep",
+      "target": "msf_agency",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "marriage_prep",
+      "target": "family_support",
+      "relationship": "provides",
+      "confidence": 0.92
+    },
+    {
+      "source": "mental_health",
+      "target": "cmhs",
+      "relationship": "enabled_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "mental_health",
+      "target": "crest_service",
+      "relationship": "enabled_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "mental_health",
+      "target": "rtw_i",
+      "relationship": "enabled_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "disability_support",
+      "target": "assessment_process",
+      "relationship": "requires",
+      "confidence": 0.92
+    },
+    {
+      "source": "eldercare",
+      "target": "means_testing",
+      "relationship": "often_includes",
+      "confidence": 0.88
+    },
+    {
+      "source": "referral_based",
+      "target": "cbn_service",
+      "relationship": "required_for",
+      "confidence": 0.92
+    },
+    {
+      "source": "referral_based",
+      "target": "crc_service",
+      "relationship": "required_for",
+      "confidence": 0.92
+    },
+    {
+      "source": "referral_based",
+      "target": "cpsc_service",
+      "relationship": "required_for",
+      "confidence": 0.92
+    },
+    {
+      "source": "referral_based",
+      "target": "dac_service",
+      "relationship": "required_for",
+      "confidence": 0.92
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_elderly_care_ecosystem",
+      "name": "Elderly Care Ecosystem",
+      "description": "Integrated services for elderly population including social, health, and financial support",
+      "nodes": ["aac_service", "cbn_service", "crc_service", "ddc_service", "acp_service", "sda_service", "aic_agency"],
+      "confidence": 0.92
+    },
+    {
+      "id": "he_mental_health_ecosystem",
+      "name": "Mental Health Support Ecosystem",
+      "description": "Comprehensive mental health services including preventive, treatment and recovery pathways",
+      "nodes": ["cmhs", "crest_service", "rtw_i", "ctsp_service", "mental_health", "moh_agency", "aic_agency"],
+      "confidence": 0.92
+    },
+    {
+      "id": "he_disability_support_continuum",
+      "name": "Disability Support Continuum",
+      "description": "Services across lifespan for persons with disabilities from early intervention to day activities",
+      "nodes": ["eipic_service", "eipic_p_service", "care_corner_lsn", "dac_service", "sg_enable", "ecda_agency"],
+      "confidence": 0.90
+    },
+    {
+      "id": "he_child_family_protection",
+      "name": "Child and Family Protection Services",
+      "description": "Services ensuring child safety and supporting vulnerable families",
+      "nodes": ["cpsc_service", "babes_service", "elmp_service", "msf_agency"],
+      "confidence": 0.92
+    },
+    {
+      "id": "he_legal_planning_services",
+      "name": "Legal and Estate Planning Services",
+      "description": "Services for legal arrangements, capacity planning and asset management",
+      "nodes": ["cpf_nom", "acp_service", "deputyship_service", "clc_nw", "cpf_board", "msf_agency"],
+      "confidence": 0.88
+    },
+    {
+      "id": "he_caregiver_support_network",
+      "name": "Caregiver Support Network",
+      "description": "Training, resources and support for family caregivers across conditions",
+      "nodes": ["ctsp_service", "ddc_service", "aac_service", "caregiving_support"],
+      "confidence": 0.90
+    },
+    {
+      "id": "he_early_childhood_services",
+      "name": "Early Childhood Services",
+      "description": "Intervention and support services for young children with developmental concerns",
+      "nodes": ["eipic_service", "eipic_p_service", "care_corner_lsn", "ecda_agency", "early_intervention"],
+      "confidence": 0.92
+    },
+    {
+      "id": "he_socially_excluded_persons",
+      "name": "Services for Socially Excluded Persons",
+      "description": "Integrated legal and social support for persons facing barriers to services",
+      "nodes": ["clc_nw", "pro_bono_sg", "social_exclusion", "family_support"],
+      "confidence": 0.85
+    }
+  ],
+  "entity_frequencies": {
+    "services": 22,
+    "agencies": 9,
+    "concepts": 25,
+    "total_nodes": 56
+  },
+  "relationship_types": {
+    "administered_by": 14,
+    "provides": 12,
+    "addresses": 3,
+    "targets": 3,
+    "includes": 4,
+    "requires": 2,
+    "delivered_by": 2,
+    "coordinated_with": 2,
+    "regulated_by": 2,
+    "specializes_in": 1,
+    "often_includes": 1,
+    "required_for": 4,
+    "appointed_by": 1,
+    "assessors_accredited_by": 1,
+    "evaluates": 1,
+    "enabled_by": 3
+  },
+  "top_agencies_by_services": {
+    "aic_agency": 9,
+    "msf_agency": 4,
+    "moh_agency": 3,
+    "ecda_agency": 2,
+    "cpf_board": 1,
+    "pro_bono_sg": 1,
+    "psalt_care": 1,
+    "sg_enable": 1,
+    "ica_agency": 1
+  },
+  "service_categories": {
+    "Mental Health and Wellbeing": ["cmhs", "crest_service", "rtw_i", "ctsp_service"],
+    "Eldercare and Aging": ["aac_service", "cbn_service", "crc_service", "ddc_service", "acp_service"],
+    "Disability Support": ["dac_service", "eipic_service", "eipic_p_service", "sda_service", "care_corner_lsn"],
+    "Child Protection and Family Support": ["cpsc_service", "babes_service", "elmp_service", "marriage_prep"],
+    "Legal and Financial Services": ["cpf_nom", "deputyship_service", "clc_nw"],
+    "Immigration and Residency": ["pr_service"]
+  },
+  "key_themes": [
+    "Universal healthcare and social protection",
+    "Person-centered integrated care",
+    "Support across life stages (infants to elderly)",
+    "Family-focused interventions",
+    "Community-based services as first stop",
+    "Subsidies for low-income residents",
+    "No-referral access for preventive services",
+    "Peer support and community networks",
+    "Mental capacity and autonomy preservation",
+    "Social inclusion of vulnerable populations"
+  ],
+  "access_patterns": {
+    "no_referral_required": 11,
+    "referral_required": 7,
+    "mixed_access": 4
+  },
+  "cost_structure": {
+    "free_services": 14,
+    "subsidised_services": 8,
+    "fee_based_services": 22,
+    "with_means_testing": 8
+  }
+}

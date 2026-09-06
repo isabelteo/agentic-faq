@@ -1,0 +1,1563 @@
+{
+  "communities": {
+    "0": [
+      "agency_ica",
+      "agency_mom",
+      "agency_msf",
+      "agency_sgenable",
+      "agency_skillsfuture",
+      "benefit_type_leave",
+      "condition_citizenship",
+      "condition_disability",
+      "condition_involuntary-unemployment",
+      "condition_low-income",
+      "coverage_employment",
+      "coverage_family-support",
+      "demographic_children",
+      "demographic_fresh-graduates",
+      "demographic_low-income-families",
+      "demographic_lower-income-workers",
+      "demographic_parents",
+      "demographic_persons-with-disability",
+      "demographic_unemployed",
+      "disability_assessment",
+      "eligibility_families_children",
+      "eligibility_pwd",
+      "means_testing",
+      "policy_gpcl-ecl",
+      "policy_gppb",
+      "policy_grit",
+      "policy_h2w",
+      "policy_qcr-disability",
+      "policy_skillsfuture-jobseeker",
+      "policy_wss-basic",
+      "policy_wtcs",
+      "scheme_adoption_leave",
+      "scheme_atf",
+      "scheme_baby_bonus",
+      "scheme_baby_support",
+      "scheme_careshield",
+      "scheme_cda",
+      "scheme_cda_topup",
+      "scheme_child_lifesg",
+      "scheme_comlink",
+      "scheme_ese",
+      "scheme_goal",
+      "scheme_gppl",
+      "scheme_large_families",
+      "scheme_uicl",
+      "service_epworth-literacy",
+      "service_kidstart",
+      "service_ltvp",
+      "sg_child_support_package",
+      "support_education",
+      "support_employment",
+      "support_financial-assistance",
+      "support_skills-training",
+      "support_type_cash",
+      "topic_family_support",
+      "topic_healthcare_disability"
+    ],
+    "1": [
+      "acct_cpf_oa",
+      "acct_cpf_retirement",
+      "acct_edusave",
+      "acct_medisave",
+      "age_cohort_1949_earlier",
+      "age_cohort_1973_earlier",
+      "agency_moe",
+      "beneficiary_families",
+      "beneficiary_pioneer_gen",
+      "beneficiary_pregnant_women",
+      "beneficiary_seniors",
+      "benefit_acp_cofunding",
+      "benefit_cpf_credit",
+      "benefit_education_support",
+      "benefit_healthcare_coverage",
+      "benefit_subsidy",
+      "benefit_supplement_payouts",
+      "cpf_system",
+      "elig_age_55",
+      "elig_citizen_pr",
+      "eligibility_low_income",
+      "housing_system",
+      "income_threshold_4000",
+      "insu_careshield_life",
+      "insu_eldershield",
+      "insu_medishield_life",
+      "metric_brs",
+      "metric_frs",
+      "org_aic",
+      "org_cpf",
+      "org_imda",
+      "org_moe",
+      "org_moh",
+      "prg_careshield_supplements",
+      "prg_cpf_edu_loan",
+      "prg_cpf_withdrawal_55",
+      "prg_medishield_premium_support",
+      "prg_psea",
+      "prg_trying_conceive",
+      "proc_iui",
+      "proc_ivf",
+      "scheme_gov_bursaries",
+      "scheme_isb",
+      "scheme_mas",
+      "scheme_medisave_maternity",
+      "scheme_moe_fas",
+      "scheme_mp_esb",
+      "scheme_mp_msb",
+      "scheme_mp_rsb",
+      "scheme_national_silver_academy",
+      "scheme_pioneer_gen",
+      "support_type_subsidies",
+      "topic_education",
+      "topic_healthcare",
+      "topic_retirement"
+    ],
+    "2": [
+      "agency-aic",
+      "agency-cpf",
+      "agency-ecda",
+      "agency-hdb",
+      "agency-iras",
+      "agency-lifesg",
+      "agency-moe",
+      "agency-mom",
+      "agency-msf",
+      "agency-skillsfuture",
+      "beneficiary-caregiver",
+      "beneficiary-disability",
+      "beneficiary-elderly",
+      "beneficiary-exoffender",
+      "beneficiary-family",
+      "beneficiary-lowwage",
+      "beneficiary-parent",
+      "eligibility-citizen",
+      "eligibility-employment",
+      "eligibility-income",
+      "scheme-ap-medisave",
+      "scheme-carewell",
+      "scheme-childcare-subsidies",
+      "scheme-cpf-housing-topup",
+      "scheme-gpab",
+      "scheme-gpmb",
+      "scheme-hdb-rental",
+      "scheme-hesl",
+      "scheme-housing-citizen-topup",
+      "scheme-hps",
+      "scheme-idape",
+      "scheme-job-yellow-ribbon",
+      "scheme-jsit",
+      "scheme-kifas",
+      "scheme-lively-places",
+      "scheme-medisave",
+      "scheme-medisave-care",
+      "scheme-medishield",
+      "scheme-spb",
+      "scheme-tab",
+      "scheme-tax-support",
+      "scheme-wss-levelup",
+      "support-type-cash",
+      "support-type-income",
+      "support-type-insurance",
+      "support-type-loan",
+      "support-type-professional",
+      "support-type-subsidy",
+      "topic-disability",
+      "topic-education",
+      "topic-employment",
+      "topic-family",
+      "topic-healthcare",
+      "topic-housing"
+    ],
+    "3": [
+      "beneficiary-first-time-homebuyer",
+      "beneficiary-low-income-household",
+      "beneficiary-newborn",
+      "beneficiary-working-mother",
+      "benefit-cash-grant",
+      "benefit-fee-subsidy",
+      "benefit-insurance",
+      "benefit-quarterly-supplement",
+      "benefit-subsidy",
+      "benefit-tax-relief",
+      "concept-digital-inclusion",
+      "concept-healthcare",
+      "concept-housing",
+      "concept-housing-affordability",
+      "concept-taxation",
+      "cpf",
+      "cpf-hg-ec",
+      "cpf-housing-grant",
+      "cpf-medisave",
+      "criterion-income-threshold",
+      "criterion-residency",
+      "criterion-singapore-citizen",
+      "dependants-protection-scheme",
+      "digital-access-home",
+      "ease-scheme",
+      "eligibility-age",
+      "executive-condominium",
+      "grandparent-caregiver-relief",
+      "great-eastern-life",
+      "hdb",
+      "hdb-flat",
+      "imda",
+      "integrated-shield-plan",
+      "iras",
+      "legal-aid-bureau",
+      "life-insurance-relief",
+      "medical-fee-exemption-card",
+      "medisave-grant-newborns",
+      "medishield-life",
+      "medishield-life-premium-subsidies",
+      "ministry-of-law",
+      "moh",
+      "platform-supportgowhere",
+      "scc-rebate",
+      "scfa",
+      "sector-housing",
+      "sector-social-support",
+      "shb",
+      "silver-support",
+      "sl-tr-flexi",
+      "target-hdb-households",
+      "target-low-income-families",
+      "target-seniors",
+      "workfare-income-supplement"
+    ],
+    "4": [
+      "aac_service",
+      "acp_service",
+      "activities_daily_living",
+      "addiction_recovery",
+      "aic_agency",
+      "assessment_process",
+      "babes_service",
+      "care_corner_lsn",
+      "caregiving_support",
+      "casework",
+      "cbn_service",
+      "child_protection",
+      "cmhs",
+      "cpsc_service",
+      "crc_service",
+      "crest_service",
+      "ctsp_service",
+      "dac_service",
+      "ddc_service",
+      "dementia",
+      "deputyship_service",
+      "disability_support",
+      "early_intervention",
+      "ecda_agency",
+      "eipic_p_service",
+      "eipic_service",
+      "eldercare",
+      "elmp_service",
+      "family_support",
+      "marriage_prep",
+      "mental_capacity",
+      "mental_health",
+      "moh_agency",
+      "msf_agency",
+      "peer_support",
+      "psalt_care",
+      "referral_based",
+      "respite_care",
+      "rtw_i",
+      "sda_service",
+      "sg_enable",
+      "therapy_services",
+      "youth_support"
+    ],
+    "5": [
+      "activities-daily-living",
+      "advance-care-planning",
+      "aic",
+      "assisted-deputyship-programme",
+      "beneficiary-person-with-disability",
+      "beneficiary-senior",
+      "benefit-equipment-subsidy",
+      "benefit-job-support",
+      "bereavement-care",
+      "car-park-label-scheme",
+      "caregiver-support",
+      "careshield-life",
+      "centre-for-seniors",
+      "concept-ageing-in-place",
+      "concept-disability-support",
+      "concept-employment",
+      "concept-independent-living",
+      "criterion-asset-test",
+      "day-hospice-care",
+      "disabled-persons-scheme-vehicle",
+      "elderfund",
+      "eldershield",
+      "elp",
+      "employment-support-pwd",
+      "employment-support-seniors",
+      "family-service-centres",
+      "home-palliative-care",
+      "job-placement-job-support",
+      "kidstart-program",
+      "life-limiting-illness",
+      "means-test",
+      "mpe-program",
+      "msf",
+      "nursing-home-respite-care",
+      "remarriage-prep-muslim-couples",
+      "respite-care",
+      "sector-healthcare",
+      "severe-disability-assessment",
+      "sg-enable",
+      "smf",
+      "social-service-offices",
+      "stepfamily",
+      "target-disabled-adults"
+    ],
+    "6": [
+      "agency_hdb",
+      "agency_iras",
+      "application_portal_estamping",
+      "application_portal_hdb",
+      "asset_executive_condominium",
+      "asset_hdb_flat",
+      "benefit_housing_grant",
+      "benefit_priority_allocation",
+      "benefit_type_housing",
+      "concept_bto_flat",
+      "concept_family_nucleus",
+      "concept_housing_grant",
+      "concept_resale_flat",
+      "demographic_families",
+      "demographic_married_couples",
+      "demographic_singles",
+      "eligibility_age_based",
+      "eligibility_first_timer",
+      "eligibility_income_based",
+      "eligibility_income_threshold",
+      "scheme_encpfhg_fam",
+      "scheme_encpfhg_sin",
+      "scheme_executive_condominiums",
+      "scheme_family_care",
+      "scheme_fpps",
+      "scheme_fresh_start",
+      "scheme_ftpmc_cat",
+      "scheme_housing_loan_fi",
+      "scheme_housing_loan_hdb",
+      "scheme_newresale_singles",
+      "scheme_nsman_relief",
+      "scheme_phg_families",
+      "scheme_phg_singles",
+      "scheme_pphs",
+      "scheme_public_rental_family",
+      "scheme_public_rental_jss",
+      "scheme_sps",
+      "scheme_stamp_duty_couples",
+      "scheme_stamp_duty_family"
+    ],
+    "7": [
+      "benefit-cash-bonus",
+      "benefit-training-allowance",
+      "career-skills-advisory",
+      "club-heal",
+      "concept-career-transition",
+      "concept-reskilling",
+      "concept-skills-qualification",
+      "e2i",
+      "eligibility-citizenship",
+      "eligibility-graduation",
+      "lifesg",
+      "lived-experience",
+      "mcpp",
+      "mental-health-conditions",
+      "our-healing-voice",
+      "peer-mentoring",
+      "platform-mycareersfuture",
+      "platform-myskillsfuture",
+      "sctp",
+      "sector-employment",
+      "sf-digital-workplace",
+      "sf-fellowships",
+      "sf-mces",
+      "sf-mid-ta",
+      "sf-series",
+      "sf-wkst-cert",
+      "sf-wkst-deg",
+      "sf-wkst-dip",
+      "sf-wkst-pdip",
+      "sfc-mid-career",
+      "silverjobs",
+      "skillsfuture",
+      "swda",
+      "target-mid-career",
+      "target-young-adults",
+      "wsq"
+    ],
+    "8": [
+      "acct_cda",
+      "beneficiary_next_of_kin",
+      "beneficiary_parents",
+      "beneficiary_pwds",
+      "benefit_carebuddy_matching",
+      "benefit_housing_assistance",
+      "benefit_leave",
+      "benefit_tax_relief",
+      "benefit_wmcr_relief",
+      "elig_working_mother",
+      "org_bca",
+      "org_caringSG",
+      "org_hdb",
+      "org_iras",
+      "org_msf",
+      "prg_carebuddy",
+      "prg_wmcr",
+      "scheme_deceased_tax",
+      "scheme_earned_income_relief",
+      "scheme_ease_private",
+      "scheme_gpml",
+      "scheme_hdb_ownership_change",
+      "scheme_ptr",
+      "scheme_spouse_relief",
+      "scheme_staggered_dp",
+      "svc_mindline",
+      "tax_system",
+      "topic_caregiving",
+      "topic_disability",
+      "topic_family",
+      "topic_mental_health",
+      "topic_tax_relief"
+    ],
+    "9": [
+      "CPF",
+      "MOH",
+      "active_ageing_programmes",
+      "cardiac_rehabilitation",
+      "careshield_life",
+      "chas",
+      "covid19_vaccination",
+      "cpf_life",
+      "cpf_retirement_account",
+      "flexi_medisave",
+      "hdb_lease_buyback",
+      "heart_attack_recovery",
+      "integrated_shield_plan",
+      "medifund",
+      "medisave",
+      "medisave_maternity",
+      "medishield_life",
+      "national_silver_academy",
+      "project_silver_screen",
+      "quit_smoking",
+      "retirement_planning",
+      "retirement_sum_scheme",
+      "screen_for_life",
+      "seniors",
+      "seniors_go_digital",
+      "silver_housing_bonus",
+      "stress_management"
+    ],
+    "10": [
+      "AGENCY_HDB",
+      "AGENCY_IRAS",
+      "AGENCY_MSF",
+      "AGENCY_SG_ENABLE",
+      "BENEFIT_LEAVE",
+      "CONCEPT_CPF",
+      "CONCEPT_DISABILITY",
+      "CONCEPT_FAMILY_CAREGIVING",
+      "CONCEPT_HOUSING",
+      "CONCEPT_MEANS_TESTED",
+      "CONCEPT_TAX_RELIEF",
+      "ENTITY_BTO",
+      "ENTITY_HDB_FLAT",
+      "FOSTERING",
+      "PARENT_RELIEF",
+      "SIBLING_RELIEF",
+      "SNSS",
+      "SPL",
+      "STEP_UP_CPFHG",
+      "TARGET_FAMILIES",
+      "TARGET_PARENTS_SPECIAL_NEEDS",
+      "TAX_RELIEFS",
+      "TCPS",
+      "TPS",
+      "TSS",
+      "U_SAVE"
+    ],
+    "11": [
+      "HDB",
+      "bto",
+      "cpf_ordinary_account",
+      "eligibility_seniors",
+      "eligibility_sg_citizen",
+      "hdb_flat",
+      "hdb_flat_purchase",
+      "hdb_housing_loan",
+      "hfe_letter",
+      "home_protection_scheme",
+      "housing_grant",
+      "option_to_purchase",
+      "resale_flat",
+      "scheme_absd",
+      "scheme_activesg",
+      "scheme_assist",
+      "scheme_cca",
+      "scheme_cdc_vouchers",
+      "scheme_climate_vouchers",
+      "scheme_cpf_housing",
+      "scheme_sg60",
+      "support_type_tax_relief",
+      "support_type_vouchers",
+      "topic_housing",
+      "topic_seniors"
+    ],
+    "12": [
+      "anglo-chinese-school-academy",
+      "apsn",
+      "autism-spectrum-disorder",
+      "awwa-school-napiri",
+      "beneficiary-student",
+      "cerebral-palsy-alliance-singapore",
+      "customised-curriculum",
+      "edusave-account",
+      "grace-orchard-school",
+      "intellectual-impairment",
+      "metta-school",
+      "moe",
+      "multiple-disabilities",
+      "national-curriculum",
+      "pathlight-school",
+      "rainbow-centre",
+      "sped-school-asd-no-ii",
+      "sped-school-asd-with-ii",
+      "sped-school-multiple-disabilities",
+      "st-andrews-mission-school",
+      "vocational-certification"
+    ],
+    "13": [
+      "AIC",
+      "HEALTHCARE",
+      "HOME_MEDICAL",
+      "HOME_NURSING",
+      "HOME_PERSONAL_CARE",
+      "HOME_THERAPY",
+      "IHPCS",
+      "MDCC",
+      "MEAL_SUPPORT",
+      "MET",
+      "MOW",
+      "NURSING_HOME",
+      "PERSONAL_CARE",
+      "PHYSICAL_HEALTH",
+      "SENIORS",
+      "THERAPY",
+      "TRANSPORT_SUPPORT",
+      "aic_wellness_programme",
+      "senior_community_care"
+    ],
+    "14": [
+      "afrc",
+      "arc",
+      "basic_military_training_centre",
+      "civil_defence_academy",
+      "dirc",
+      "financial_assistance_ns",
+      "home_team_academy",
+      "iso_45001",
+      "national_service_training_centre",
+      "nrc",
+      "pulau_tekong",
+      "saf",
+      "safety_pause",
+      "scdf",
+      "spf",
+      "sps_ic",
+      "vocation_assignment"
+    ],
+    "15": [
+      "CMPB",
+      "aic_link",
+      "caregiver_stress",
+      "caregiver_training",
+      "caregivers",
+      "caregivers_training_grant",
+      "dementia_care",
+      "home_caregiving_grant",
+      "home_modification",
+      "hospital_discharge_planning",
+      "medical_screening_questionnaire",
+      "msq_endorsement",
+      "self_care",
+      "support_groups"
+    ],
+    "16": [
+      "MOM",
+      "assistive_devices",
+      "assistive_tech_fund",
+      "confinement_nanny",
+      "domestic_helper",
+      "eldercarer_fdw_scheme",
+      "employers_orientation_programme",
+      "levy_concession",
+      "monthly_levy",
+      "persons_disabilities",
+      "pre_employment_medical_exam",
+      "security_bond",
+      "settling_in_programme",
+      "work_permit"
+    ],
+    "17": [
+      "benefit_care_subsidy",
+      "benefit_respite_care",
+      "elig_senior_60plus",
+      "org_pa",
+      "prg_passion_card",
+      "prg_senior_care",
+      "svc_community_hospital",
+      "svc_day_care",
+      "svc_home_nursing",
+      "svc_meals_on_wheels",
+      "svc_nursing_home",
+      "topic_community",
+      "topic_senior_care",
+      "topic_transport"
+    ],
+    "18": [
+      "AGENCY_CPF",
+      "AGENCY_MOH",
+      "BUDGET_2026_CPF_TOP_UP",
+      "CONCEPT_HEALTHCARE",
+      "CONCEPT_RETIREMENT",
+      "CPFIS",
+      "CPF_LIFE",
+      "ENTITY_CPF_ACCOUNT",
+      "ENTITY_RETIREMENT_ACCOUNT",
+      "LTC_SUBSIDIES",
+      "RSTU",
+      "TARGET_ELDERLY"
+    ],
+    "19": [
+      "beneficiary_muslim_households",
+      "beneficiary_platform_workers",
+      "beneficiary_taxi_drivers",
+      "benefit_cash_assistance",
+      "income_threshold_0_500",
+      "org_lifesg",
+      "org_muis",
+      "org_pto",
+      "scheme_deceased_cpf",
+      "scheme_muis_fas",
+      "scheme_pcts",
+      "scheme_platform_workers_cash"
+    ],
+    "20": [
+      "benefit_type_cash",
+      "concept_activities_daily_living",
+      "concept_disability",
+      "concept_mental_capacity",
+      "eligibility_disability_status",
+      "organization_professional_deputy",
+      "organization_registered_health_professional",
+      "scheme_pdds",
+      "scheme_pioneer_das",
+      "scheme_pwdcc",
+      "scheme_rle_cpf",
+      "scheme_step_one"
+    ],
+    "21": [
+      "AGENCY_CAREERS_GOV",
+      "AGENCY_IMDA",
+      "AGENCY_SKILLSFUTURE",
+      "BENEFIT_TRAINING",
+      "CONCEPT_EMPLOYMENT",
+      "GRIT_GOV",
+      "MCF",
+      "TARGET_FRESH_GRADUATES",
+      "TIPP",
+      "VCA_INITIATIVE"
+    ],
+    "22": [
+      "CASEWORK",
+      "COMMUNITY_BASED",
+      "COUNSELLING",
+      "FSC",
+      "HCSA_ORG",
+      "HOLISTIC_SUPPORT",
+      "LOSS",
+      "SOS",
+      "SPIN",
+      "VULNERABLE_FAMILIES"
+    ],
+    "23": [
+      "CRISIS_SUPPORT",
+      "FAMILY_SUPPORT",
+      "FINANCIAL_SECURITY",
+      "LIFESG",
+      "LIVE_ON",
+      "MENTAL_HEALTH",
+      "MY_LEGACY",
+      "SINGLE_PARENTS",
+      "SUICIDE_RISK_YOUTH",
+      "SUICIDE_SURVIVORS"
+    ],
+    "24": [
+      "deferment",
+      "exit_permit",
+      "exit_permit_bond",
+      "letter_of_identity",
+      "ns_registration",
+      "onens_portal",
+      "pre_enlistee_ippt",
+      "pre_enlistment",
+      "ptp",
+      "singpass"
+    ],
+    "25": [
+      "ECDA",
+      "anchor_operator",
+      "childcare_subsidy",
+      "childminding_services",
+      "development_support",
+      "eipic",
+      "learning_support",
+      "partner_operator",
+      "preschool"
+    ],
+    "26": [
+      "LEGAL_SUPPORT",
+      "LPA",
+      "MAINTENANCE_CLAIMANTS",
+      "MSC",
+      "MSF",
+      "baby_bonus",
+      "birth_registration",
+      "child_lifeSG_credits",
+      "large_families_scheme"
+    ],
+    "27": [
+      "agency_aic",
+      "coverage_eldercare",
+      "demographic_seniors",
+      "scheme_equipment_rental",
+      "service_cip",
+      "service_counselling-seniors",
+      "service_hpc-plus",
+      "service_shared-stay-scs",
+      "support_caregiving"
+    ],
+    "28": [
+      "cmpb",
+      "disruption",
+      "enlistment_act_1970",
+      "fulltime_ns",
+      "mindef",
+      "ns",
+      "operationally_ready_ns",
+      "skillsfuture_ns",
+      "work_learn_schemes"
+    ],
+    "29": [
+      "AT_RISK_YOUTH",
+      "CHILDREN_LEARNING_DIF",
+      "EDUCATION",
+      "EDUCATION_LEARNING",
+      "HALOGEN_SPARK",
+      "MENTORING",
+      "MIGHTYKFC",
+      "SHINE_LASSP"
+    ],
+    "30": [
+      "MINDEF",
+      "enlistment_day",
+      "ns_deferment",
+      "ns_disruption",
+      "oath_of_allegiance",
+      "oath_taking_ceremony",
+      "pre_university_studies",
+      "vees"
+    ],
+    "31": [
+      "agency_cpf",
+      "benefit_retirement_support",
+      "condition_age-based",
+      "coverage_housing",
+      "policy_dds",
+      "policy_voluntary-housing-refund",
+      "scheme_medisave_acp",
+      "scheme_mrss"
+    ],
+    "32": [
+      "agency_lifesg",
+      "application_portal_govbenefits",
+      "benefit_cash_payout",
+      "demographic_low_income",
+      "scheme_ap_cash",
+      "scheme_ap_seniors",
+      "scheme_esbwvfrn",
+      "scheme_gstv_cash"
+    ],
+    "33": [
+      "benefit_retrenchment_payout",
+      "elig_service_2years",
+      "org_mom",
+      "org_tadm",
+      "prg_notice_periods",
+      "prg_retrenchment_benefits",
+      "topic_employment",
+      "topic_retrenchment"
+    ],
+    "34": [
+      "basic_training",
+      "bmt",
+      "bmtc_tekong",
+      "booking_out",
+      "buddy_system",
+      "care_hub",
+      "stay_in_training"
+    ],
+    "35": [
+      "coverage_healthcare-mental",
+      "demographic_youth",
+      "service_counselling-general",
+      "service_lighthouse-project",
+      "service_psychiatric-rehab",
+      "service_sos-care-text",
+      "support_healthcare"
+    ],
+    "36": [
+      "employment_act",
+      "mom",
+      "redeployment",
+      "shorter_work_week",
+      "tadm",
+      "tafep",
+      "temporary_layoff"
+    ],
+    "37": [
+      "fro",
+      "mcs",
+      "medical_classification_centre",
+      "medical_review",
+      "medical_screening",
+      "pending_med_review",
+      "pes"
+    ],
+    "38": [
+      "AGENCY_MOE",
+      "CONCEPT_EDUCATION",
+      "ENTITY_SPECIAL_ED_SCHOOL",
+      "ITE_SSAS",
+      "SPED_FAS",
+      "TARGET_STUDENTS"
+    ],
+    "39": [
+      "CARE_CORNER",
+      "LEGAL_MATTERS",
+      "PAVE",
+      "PSC",
+      "TRANS_SAFE",
+      "VIOLENCE_SURVIVORS"
+    ],
+    "40": [
+      "adoption_leave",
+      "childcare_leave",
+      "maternity_leave",
+      "paternity_leave",
+      "shared_parental_leave",
+      "working_parents"
+    ],
+    "41": [
+      "agency_sg_enable",
+      "benefit_caregiving_support",
+      "benefit_transport_subsidy",
+      "demographic_persons_disabilities",
+      "scheme_ets",
+      "scheme_hcg"
+    ],
+    "42": [
+      "beneficiary_students",
+      "org_skillsfuture",
+      "prg_skills_upgrade",
+      "role_skills_ambassador",
+      "scheme_mfas",
+      "topic_skills_training"
+    ],
+    "43": [
+      "benefit_work_attachment",
+      "prg_career_switch",
+      "prg_discover_interests",
+      "prg_job_search_support",
+      "prg_lower_income_support",
+      "prg_sgunited_traineeship"
+    ],
+    "44": [
+      "civil_marriage",
+      "marriage_counselling",
+      "marriage_registration",
+      "muslim_marriage",
+      "rom",
+      "solemniser"
+    ],
+    "45": [
+      "comcare",
+      "comcare_interim_assistance",
+      "comcare_short_medium_term",
+      "digital_access_home",
+      "lower_income_households",
+      "mobile_access_seniors"
+    ],
+    "46": [
+      "org_career_grit",
+      "org_e2i",
+      "org_wsg",
+      "prg_career_coaching",
+      "role_career_coach",
+      "topic_job_search"
+    ],
+    "47": [
+      "MOE",
+      "kifas",
+      "p1_balloting",
+      "p1_registration",
+      "sped_schools"
+    ],
+    "48": [
+      "benefit_type_subsidy",
+      "concept_merdeka_generation",
+      "concept_pioneer_generation",
+      "scheme_careshield_subsidies",
+      "scheme_ptv_2025"
+    ],
+    "49": [
+      "eligibility_caregivers",
+      "scheme_careconnect",
+      "scheme_ccp",
+      "scheme_ctg",
+      "support_type_training"
+    ],
+    "50": [
+      "SkillsFuture",
+      "education_career_planning",
+      "know_yourself_profiling",
+      "riasec"
+    ],
+    "51": [
+      "agency_moh",
+      "benefit_healthcare_subsidy",
+      "scheme_gstv_medisave",
+      "scheme_healthier_sg"
+    ],
+    "52": [
+      "benefit_cpf_topup",
+      "benefit_skills_allowance",
+      "elig_income_2300",
+      "prg_workfare"
+    ],
+    "53": [
+      "clc_nw",
+      "legal_aid",
+      "pro_bono_sg",
+      "social_exclusion"
+    ],
+    "54": [
+      "elig_pwd",
+      "org_sgenable",
+      "plt_mycareersfuture",
+      "prg_find_jobs"
+    ],
+    "55": [
+      "agency_pa",
+      "policy_onepa-cc",
+      "scheme_pa_community"
+    ],
+    "56": [
+      "beneficiary_national_servicemen",
+      "org_mindef",
+      "scheme_ns_lifesg_credits"
+    ],
+    "57": [
+      "childs_digital_health_booklet",
+      "national_childhood_immunisation",
+      "newborn_care"
+    ],
+    "58": [
+      "commandos",
+      "naval_divers",
+      "vocational_assessment"
+    ],
+    "59": [
+      "cpf_board",
+      "cpf_nom",
+      "estate_planning"
+    ],
+    "60": [
+      "self_employed",
+      "self_employed_medisave",
+      "workfare_income_supplement"
+    ],
+    "61": [
+      "MEANS_TEST",
+      "SUBSIDY_POLICY"
+    ],
+    "62": [
+      "agency_hpb",
+      "scheme_healthy365"
+    ],
+    "63": [
+      "financial_assistance",
+      "moneyense"
+    ],
+    "64": [
+      "ica_agency",
+      "pr_service"
+    ],
+    "65": [
+      "BENEFIT_FINANCIAL_ASSISTANCE"
+    ],
+    "66": [
+      "BENEFIT_GRANTS"
+    ],
+    "67": [
+      "BENEFIT_PRIORITY"
+    ],
+    "68": [
+      "BENEFIT_SUBSIDIES"
+    ],
+    "69": [
+      "BENEFIT_TAX_RELIEF"
+    ],
+    "70": [
+      "ELIGIBILITY_CITIZEN"
+    ],
+    "71": [
+      "ELIGIBILITY_DISABILITY"
+    ],
+    "72": [
+      "ELIGIBILITY_INCOME"
+    ],
+    "73": [
+      "ENTITY_ADL"
+    ],
+    "74": [
+      "ENTITY_SBF"
+    ],
+    "75": [
+      "HOUSING_LIVING"
+    ],
+    "76": [
+      "REFERRAL_SYSTEM"
+    ],
+    "77": [
+      "SELF_RELIANCE"
+    ],
+    "78": [
+      "SOCIAL_MOBILITY"
+    ],
+    "79": [
+      "TARGET_CAREGIVERS"
+    ],
+    "80": [
+      "TARGET_LOWER_INCOME"
+    ],
+    "81": [
+      "TARGET_PERSONS_WITH_DISABILITY"
+    ],
+    "82": [
+      "TARGET_WORKERS"
+    ],
+    "83": [
+      "TOUCHLINE"
+    ],
+    "84": [
+      "advance_care_planning"
+    ],
+    "85": [
+      "age_cohort_1995_later"
+    ],
+    "86": [
+      "application_portal_aic"
+    ],
+    "87": [
+      "application_portal_cpf"
+    ],
+    "88": [
+      "application_portal_lifesg_app"
+    ],
+    "89": [
+      "army_technicians"
+    ],
+    "90": [
+      "asset_private_property"
+    ],
+    "91": [
+      "baby_bonus_cash_gift"
+    ],
+    "92": [
+      "benefit-amount-high"
+    ],
+    "93": [
+      "benefit-amount-low"
+    ],
+    "94": [
+      "benefit-amount-medium"
+    ],
+    "95": [
+      "benefit_stamp_duty_remission"
+    ],
+    "96": [
+      "cap_ure_fund"
+    ],
+    "97": [
+      "careers_gov"
+    ],
+    "98": [
+      "caregiver_support_action_plan"
+    ],
+    "99": [
+      "child_concession_card"
+    ],
+    "100": [
+      "child_development_account"
+    ],
+    "101": [
+      "concept_income_ceiling"
+    ],
+    "102": [
+      "contra_payment_facility"
+    ],
+    "103": [
+      "coursefinder"
+    ],
+    "104": [
+      "cyber_specialists"
+    ],
+    "105": [
+      "dependants_protection_scheme"
+    ],
+    "106": [
+      "ease_programme"
+    ],
+    "107": [
+      "eligibility-residence"
+    ],
+    "108": [
+      "eligibility_annual_value"
+    ],
+    "109": [
+      "eligibility_citizenship"
+    ],
+    "110": [
+      "eligibility_continuous_employment"
+    ],
+    "111": [
+      "eligibility_pr"
+    ],
+    "112": [
+      "eligibility_property_lease"
+    ],
+    "113": [
+      "eligibility_property_ownership"
+    ],
+    "114": [
+      "eligibility_singapore_citizen"
+    ],
+    "115": [
+      "extended_childcare_leave"
+    ],
+    "116": [
+      "formsg"
+    ],
+    "117": [
+      "hdb_financial_assistance"
+    ],
+    "118": [
+      "healthcare_financial_assistance"
+    ],
+    "119": [
+      "home_caregiving_grant_hcg"
+    ],
+    "120": [
+      "ica"
+    ],
+    "121": [
+      "idape"
+    ],
+    "122": [
+      "income_threshold_1000"
+    ],
+    "123": [
+      "internships"
+    ],
+    "124": [
+      "ippt"
+    ],
+    "125": [
+      "levy_waiver"
+    ],
+    "126": [
+      "lifestyles_sentral"
+    ],
+    "127": [
+      "matched_retirement_savings"
+    ],
+    "128": [
+      "medic_specialists"
+    ],
+    "129": [
+      "medical_fee_exemption_card"
+    ],
+    "130": [
+      "omw_network"
+    ],
+    "131": [
+      "org_u_pme"
+    ],
+    "132": [
+      "palliative-care-concept"
+    ],
+    "133": [
+      "pioneerdas"
+    ],
+    "134": [
+      "prg_sgunited_midcareer"
+    ],
+    "135": [
+      "progressive_wage_model"
+    ],
+    "136": [
+      "retirement_sum_topping"
+    ],
+    "137": [
+      "safe_training_culture"
+    ],
+    "138": [
+      "school_pocket_money_fund"
+    ],
+    "139": [
+      "schoolfinder"
+    ],
+    "140": [
+      "seniors_mobility_enabling_fund"
+    ],
+    "141": [
+      "silver_generation_ambassador"
+    ],
+    "142": [
+      "snapsafe"
+    ],
+    "143": [
+      "support_type_housing"
+    ],
+    "144": [
+      "timeline_assessment"
+    ],
+    "145": [
+      "timeline_disbursement"
+    ],
+    "146": [
+      "unpaid_infant_care_leave"
+    ],
+    "147": [
+      "visit_pass_extension"
+    ]
+  },
+  "cohesion": {
+    "0": 0.0512987012987013,
+    "1": 0.0531986531986532,
+    "2": 0.07686932215234102,
+    "3": 0.0573025856044724,
+    "4": 0.06090808416389812,
+    "5": 0.07087486157253599,
+    "6": 0.06477732793522267,
+    "7": 0.13174603174603175,
+    "8": 0.07661290322580645,
+    "9": 0.07692307692307693,
+    "10": 0.09230769230769231,
+    "11": 0.09666666666666666,
+    "12": 0.10476190476190476,
+    "13": 0.18128654970760233,
+    "14": 0.16176470588235295,
+    "15": 0.14285714285714285,
+    "16": 0.17582417582417584,
+    "17": 0.1978021978021978,
+    "18": 0.22727272727272727,
+    "19": 0.18181818181818182,
+    "20": 0.19696969696969696,
+    "21": 0.2222222222222222,
+    "22": 0.2222222222222222,
+    "23": 0.2,
+    "24": 0.28888888888888886,
+    "25": 0.25,
+    "26": 0.25,
+    "27": 0.3888888888888889,
+    "28": 0.2222222222222222,
+    "29": 0.35714285714285715,
+    "30": 0.2857142857142857,
+    "31": 0.25,
+    "32": 0.2857142857142857,
+    "33": 0.39285714285714285,
+    "34": 0.2857142857142857,
+    "35": 0.42857142857142855,
+    "36": 0.2857142857142857,
+    "37": 0.3333333333333333,
+    "38": 0.3333333333333333,
+    "39": 0.3333333333333333,
+    "40": 0.3333333333333333,
+    "41": 0.3333333333333333,
+    "42": 0.3333333333333333,
+    "43": 0.3333333333333333,
+    "44": 0.3333333333333333,
+    "45": 0.3333333333333333,
+    "46": 0.4666666666666667,
+    "47": 0.4,
+    "48": 0.4,
+    "49": 0.4,
+    "50": 0.6666666666666666,
+    "51": 0.5,
+    "52": 0.5,
+    "53": 0.5,
+    "54": 0.5,
+    "55": 0.6666666666666666,
+    "56": 0.6666666666666666,
+    "57": 0.6666666666666666,
+    "58": 0.6666666666666666,
+    "59": 0.6666666666666666,
+    "60": 0.6666666666666666,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0,
+    "64": 1.0,
+    "65": 1.0,
+    "66": 1.0,
+    "67": 1.0,
+    "68": 1.0,
+    "69": 1.0,
+    "70": 1.0,
+    "71": 1.0,
+    "72": 1.0,
+    "73": 1.0,
+    "74": 1.0,
+    "75": 1.0,
+    "76": 1.0,
+    "77": 1.0,
+    "78": 1.0,
+    "79": 1.0,
+    "80": 1.0,
+    "81": 1.0,
+    "82": 1.0,
+    "83": 1.0,
+    "84": 1.0,
+    "85": 1.0,
+    "86": 1.0,
+    "87": 1.0,
+    "88": 1.0,
+    "89": 1.0,
+    "90": 1.0,
+    "91": 1.0,
+    "92": 1.0,
+    "93": 1.0,
+    "94": 1.0,
+    "95": 1.0,
+    "96": 1.0,
+    "97": 1.0,
+    "98": 1.0,
+    "99": 1.0,
+    "100": 1.0,
+    "101": 1.0,
+    "102": 1.0,
+    "103": 1.0,
+    "104": 1.0,
+    "105": 1.0,
+    "106": 1.0,
+    "107": 1.0,
+    "108": 1.0,
+    "109": 1.0,
+    "110": 1.0,
+    "111": 1.0,
+    "112": 1.0,
+    "113": 1.0,
+    "114": 1.0,
+    "115": 1.0,
+    "116": 1.0,
+    "117": 1.0,
+    "118": 1.0,
+    "119": 1.0,
+    "120": 1.0,
+    "121": 1.0,
+    "122": 1.0,
+    "123": 1.0,
+    "124": 1.0,
+    "125": 1.0,
+    "126": 1.0,
+    "127": 1.0,
+    "128": 1.0,
+    "129": 1.0,
+    "130": 1.0,
+    "131": 1.0,
+    "132": 1.0,
+    "133": 1.0,
+    "134": 1.0,
+    "135": 1.0,
+    "136": 1.0,
+    "137": 1.0,
+    "138": 1.0,
+    "139": 1.0,
+    "140": 1.0,
+    "141": 1.0,
+    "142": 1.0,
+    "143": 1.0,
+    "144": 1.0,
+    "145": 1.0,
+    "146": 1.0,
+    "147": 1.0
+  },
+  "gods": [
+    {
+      "id": "AIC",
+      "label": "Agency for Integrated Care",
+      "degree": 13
+    },
+    {
+      "id": "saf",
+      "label": "Singapore Armed Forces",
+      "degree": 11
+    },
+    {
+      "id": "prg_senior_care",
+      "label": "Senior Care Services",
+      "degree": 11
+    },
+    {
+      "id": "org_cpf",
+      "label": "Central Provident Fund (CPF)",
+      "degree": 11
+    },
+    {
+      "id": "caregivers",
+      "label": "Caregivers",
+      "degree": 10
+    },
+    {
+      "id": "domestic_helper",
+      "label": "Migrant Domestic Worker",
+      "degree": 9
+    },
+    {
+      "id": "onens_portal",
+      "label": "OneNS Portal",
+      "degree": 9
+    },
+    {
+      "id": "prg_job_search_support",
+      "label": "Support for Your Job Search",
+      "degree": 8
+    },
+    {
+      "id": "MSF",
+      "label": "Ministry of Social and Family Development",
+      "degree": 7
+    },
+    {
+      "id": "elderfund",
+      "label": "ElderFund",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Agency for Integrated Care",
+      "target": "AIC Link",
+      "source_files": [
+        "guides-active-ageing.md",
+        "guides-caregiver-stress.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `AIC Link` unexpectedly reaches hub `Agency for Integrated Care`"
+    },
+    {
+      "source": "Central Manpower Base",
+      "target": "OneNS Portal",
+      "source_files": [
+        "guides-parent-endorsing-msq.md",
+        "guides-parent-education-before-after-ns.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Central Manpower Base` unexpectedly reaches hub `OneNS Portal`"
+    },
+    {
+      "source": "CAREbuddy",
+      "target": "Mental Health",
+      "source_files": [
+        "schemes-7mqt5pce-carebuddy.md",
+        "guides-retrenchment-benefits-and-measures-help-in-finding-a-new-job.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `Mental Health` unexpectedly reaches hub `CAREbuddy`"
+    },
+    {
+      "source": "Agency for Integrated Care",
+      "target": "Senior Community Care Services",
+      "source_files": [
+        "guides-active-ageing.md",
+        "guides-caregiver-stress.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "",
+      "why": "connects across different repos/directories; peripheral node `Senior Community Care Services` unexpectedly reaches hub `Agency for Integrated Care`"
+    },
+    {
+      "source": "Ministry of Social and Family Development",
+      "target": "Child LifeSG Credits",
+      "source_files": [
+        "guides-bringing-newborn-home.md",
+        "guides-having-a-baby.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "",
+      "why": "connects across different repos/directories; peripheral node `Child LifeSG Credits` unexpectedly reaches hub `Ministry of Social and Family Development`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `OneNS Portal` connect `Community 24` to `Community 28`, `Community 37`, `Community 15`?",
+      "why": "High betweenness centrality (0.060) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Central Manpower Base` connect `Community 15` to `Community 24`?",
+      "why": "High betweenness centrality (0.058) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 18 inferred relationships involving `Housing and Development Board` (e.g. with `Deferred Downpayment Scheme (DDS)` and `ASSIST (Assistance Scheme for Second Timers)`) actually correct?",
+      "why": "`Housing and Development Board` has 18 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 16 inferred relationships involving `Singapore Citizen` (e.g. with `Assurance Package (AP) MediSave` and `Infant and Childcare Subsidies`) actually correct?",
+      "why": "`Singapore Citizen` has 16 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 16 inferred relationships involving `SkillsFuture` (e.g. with `e2i (Employment and Employability Institute)` and `Career and Skills Advisory`) actually correct?",
+      "why": "`SkillsFuture` has 16 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 15 inferred relationships involving `Ministry of Social and Family Development` (e.g. with `Government-Paid Childcare Leave (GPCL) and Extended Childcare Leave (ECL)` and `Government-Paid Paternity Benefit (GPPB)`) actually correct?",
+      "why": "`Ministry of Social and Family Development` has 15 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 15 inferred relationships involving `Employment and Skills Sector` (e.g. with `Career and Skills Advisory` and `Mid-Career Pathways Programme (MCPP)`) actually correct?",
+      "why": "`Employment and Skills Sector` has 15 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

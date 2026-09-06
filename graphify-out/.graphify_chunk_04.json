@@ -1,0 +1,1222 @@
+{
+  "metadata": {
+    "chunk_id": 4,
+    "chunk_range": "files 85-105",
+    "total_files": 22,
+    "source": "supportgowhere.life.gov.sg-schemes",
+    "extraction_date": "2026-09-06",
+    "domain": "Singapore government policy schemes",
+    "token_count_estimate": 15000
+  },
+  "nodes": [
+    {
+      "id": "cpf-housing-grant",
+      "label": "CPF Housing Grant",
+      "type": "policy_scheme",
+      "category": "housing",
+      "description": "Provides cash grants up to $80,000 for first-time homebuyers to purchase resale HDB flats",
+      "agency": "HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf-hg-ec",
+      "label": "CPF Housing Grant for Executive Condominiums",
+      "type": "policy_scheme",
+      "category": "housing",
+      "description": "Provides up to $30,000 subsidy for first-timer applicants buying Executive Condominiums",
+      "agency": "HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "car-park-label-scheme",
+      "label": "Car Park Label Scheme",
+      "type": "policy_scheme",
+      "category": "disability_support",
+      "description": "Provides Class 1 and Class 2 labels for drivers and passengers with mobility challenges to access parking spaces",
+      "agency": "SG Enable",
+      "confidence": 0.95
+    },
+    {
+      "id": "life-insurance-relief",
+      "label": "Life Insurance Relief",
+      "type": "policy_scheme",
+      "category": "taxation",
+      "description": "Provides tax relief of up to $5,000 for individuals paying insurance premiums",
+      "agency": "IRAS",
+      "confidence": 0.95
+    },
+    {
+      "id": "grandparent-caregiver-relief",
+      "label": "Grandparent Caregiver Relief (GCR)",
+      "type": "policy_scheme",
+      "category": "taxation",
+      "description": "Provides tax relief of up to $3,000 to working mothers engaging grandparents as caregivers",
+      "agency": "IRAS",
+      "confidence": 0.95
+    },
+    {
+      "id": "integrated-shield-plan",
+      "label": "Integrated Shield Plan (IP)",
+      "type": "policy_scheme",
+      "category": "healthcare",
+      "description": "Private medical insurance plan offering additional coverage on top of MediShield Life",
+      "agency": "MOH",
+      "confidence": 0.95
+    },
+    {
+      "id": "medical-fee-exemption-card",
+      "label": "Medical Fee Exemption Card (MFEC)",
+      "type": "policy_scheme",
+      "category": "healthcare",
+      "description": "Provides subsidised medical treatment for needy residents at approved stay-in care institutions",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "assisted-deputyship-programme",
+      "label": "Assisted Deputyship Application Programme (ADAP)",
+      "type": "policy_scheme",
+      "category": "disability_support",
+      "description": "Supports caregivers of children without mental capacity to become court-appointed deputies",
+      "agency": "MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "legal-aid-bureau",
+      "label": "Legal Aid Bureau",
+      "type": "policy_scheme",
+      "category": "legal",
+      "description": "Provides legal advice, representation, and assistance in civil proceedings",
+      "agency": "Ministry of Law",
+      "confidence": 0.95
+    },
+    {
+      "id": "digital-access-home",
+      "label": "DigitalAccess@Home",
+      "type": "policy_scheme",
+      "category": "digital_inclusion",
+      "description": "Provides subsidised broadband and laptops/tablets to lower-income households",
+      "agency": "IMDA",
+      "confidence": 0.95
+    },
+    {
+      "id": "medisave-grant-newborns",
+      "label": "MediSave Grant for Newborns (MGN)",
+      "type": "policy_scheme",
+      "category": "healthcare",
+      "description": "Provides up to $5,000 credited to newborn's CPF MediSave account",
+      "agency": "CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "medishield-life-premium-subsidies",
+      "label": "MediShield Life Premium Subsidies",
+      "type": "policy_scheme",
+      "category": "healthcare",
+      "description": "Government provides premium support for MediShield Life including subsidies for seniors",
+      "agency": "MOH",
+      "confidence": 0.95
+    },
+    {
+      "id": "dependants-protection-scheme",
+      "label": "Dependant's Protection Scheme (DPS)",
+      "type": "policy_scheme",
+      "category": "insurance",
+      "description": "Term life insurance providing protection for family in case of death, terminal illness or disability",
+      "agency": "CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "disabled-persons-scheme-vehicle",
+      "label": "Disabled Persons Scheme (DPS - Vehicle)",
+      "type": "policy_scheme",
+      "category": "disability_support",
+      "description": "Exempts eligible disabled drivers from Certificate of Entitlement and Additional Registration Fee",
+      "agency": "SG Enable",
+      "confidence": 0.95
+    },
+    {
+      "id": "workfare-income-supplement",
+      "label": "Workfare Income Supplement (WIS) Scheme",
+      "type": "policy_scheme",
+      "category": "employment",
+      "description": "Supplements income and CPF savings for low-wage workers including employees and self-employed",
+      "agency": "CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "ease-scheme",
+      "label": "Enhancement for Active Seniors (EASE)",
+      "type": "policy_scheme",
+      "category": "eldercare",
+      "description": "Provides subsidy for installing senior-friendly fittings in HDB flats for eligible seniors",
+      "agency": "HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edusave-account",
+      "label": "Edusave Account",
+      "type": "policy_scheme",
+      "category": "education",
+      "description": "Provides $230-$290 annually for approved school fees and educational programmes",
+      "agency": "MOE",
+      "confidence": 0.95
+    },
+    {
+      "id": "job-placement-job-support",
+      "label": "Job Placement and Job Support",
+      "type": "policy_scheme",
+      "category": "employment",
+      "description": "Provides employment assistance through job matching and coaching for persons with disabilities",
+      "agency": "SG Enable",
+      "confidence": 0.95
+    },
+    {
+      "id": "elderfund",
+      "label": "ElderFund",
+      "type": "policy_scheme",
+      "category": "eldercare",
+      "description": "Discretionary assistance supporting long-term care needs for lower-income seniors with severe disability",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "eldershield",
+      "label": "ElderShield",
+      "type": "policy_scheme",
+      "category": "eldercare",
+      "description": "Provides basic financial support for existing policyholders with severe disability needing long-term care",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "employment-support-pwd",
+      "label": "Employment Support for Persons with Disabilities",
+      "type": "policy_scheme",
+      "category": "employment",
+      "description": "Provides career advisory, training courses with subsidies, and job support for PWDs",
+      "agency": "SG Enable",
+      "confidence": 0.95
+    },
+    {
+      "id": "employment-support-seniors",
+      "label": "Employment Support for Seniors",
+      "type": "policy_scheme",
+      "category": "employment",
+      "description": "Provides career advisory and job-matching services for seniors aged 50 and above",
+      "agency": "Centre for Seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "hdb",
+      "label": "HDB",
+      "type": "agency",
+      "description": "Housing and Development Board - administers housing grants and home improvement schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "sg-enable",
+      "label": "SG Enable",
+      "type": "agency",
+      "description": "Government agency providing disability support services and employment assistance",
+      "confidence": 0.95
+    },
+    {
+      "id": "iras",
+      "label": "IRAS",
+      "type": "agency",
+      "description": "Inland Revenue Authority of Singapore - administers tax reliefs",
+      "confidence": 0.95
+    },
+    {
+      "id": "moh",
+      "label": "MOH",
+      "type": "agency",
+      "description": "Ministry of Health - administers healthcare schemes and subsidies",
+      "confidence": 0.95
+    },
+    {
+      "id": "aic",
+      "label": "AIC",
+      "type": "agency",
+      "description": "Agency for Integrated Care - administers eldercare and disability assistance schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf",
+      "label": "CPF",
+      "type": "agency",
+      "description": "Central Provident Fund - administers retirement, healthcare and insurance schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "imda",
+      "label": "IMDA",
+      "type": "agency",
+      "description": "Info-communications Media Development Authority - manages digital inclusion programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "moe",
+      "label": "MOE",
+      "type": "agency",
+      "description": "Ministry of Education - administers education support schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "msf",
+      "label": "MSF",
+      "type": "agency",
+      "description": "Ministry of Social and Family Development - provides disability and family support",
+      "confidence": 0.95
+    },
+    {
+      "id": "ministry-of-law",
+      "label": "Ministry of Law",
+      "type": "agency",
+      "description": "Administers legal aid and justice services",
+      "confidence": 0.95
+    },
+    {
+      "id": "centre-for-seniors",
+      "label": "Centre for Seniors (CFS)",
+      "type": "agency",
+      "description": "Provides employment support and services for seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary-first-time-homebuyer",
+      "label": "First-Time Homebuyer",
+      "type": "beneficiary_group",
+      "description": "Individuals or families purchasing their first residential property",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-person-with-disability",
+      "label": "Person with Disability",
+      "type": "beneficiary_group",
+      "description": "Individuals with physical, sensory, intellectual or developmental impairments",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-senior",
+      "label": "Senior",
+      "type": "beneficiary_group",
+      "description": "Individuals aged 50 and above, or 60-65 with specific needs",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-low-income-household",
+      "label": "Low-Income Household",
+      "type": "beneficiary_group",
+      "description": "Households meeting income and asset thresholds for assistance",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-working-mother",
+      "label": "Working Mother",
+      "type": "beneficiary_group",
+      "description": "Employed women with children requiring caregiving support",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-caregiver",
+      "label": "Caregiver",
+      "type": "beneficiary_group",
+      "description": "Individuals providing care for family members with disabilities or age-related needs",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-newborn",
+      "label": "Newborn",
+      "type": "beneficiary_group",
+      "description": "Singapore citizen newborns eligible for healthcare grants",
+      "confidence": 0.9
+    },
+    {
+      "id": "beneficiary-student",
+      "label": "Student",
+      "type": "beneficiary_group",
+      "description": "School-age children and their families eligible for education support",
+      "confidence": 0.9
+    },
+    {
+      "id": "concept-housing",
+      "label": "Housing",
+      "type": "concept",
+      "description": "Residential property ownership and home improvement",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-healthcare",
+      "label": "Healthcare",
+      "type": "concept",
+      "description": "Medical services and health insurance coverage",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-taxation",
+      "label": "Taxation",
+      "type": "concept",
+      "description": "Tax reliefs and deductions",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-employment",
+      "label": "Employment",
+      "type": "concept",
+      "description": "Job placement, career development, and income support",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-disability-support",
+      "label": "Disability Support",
+      "type": "concept",
+      "description": "Services and assistance for persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "concept-digital-inclusion",
+      "label": "Digital Inclusion",
+      "type": "concept",
+      "description": "Access to internet and digital devices for underserved populations",
+      "confidence": 0.95
+    },
+    {
+      "id": "criterion-singapore-citizen",
+      "label": "Singapore Citizen",
+      "type": "eligibility_criterion",
+      "description": "Must hold Singapore citizenship status",
+      "confidence": 0.95
+    },
+    {
+      "id": "criterion-income-threshold",
+      "label": "Income Threshold",
+      "type": "eligibility_criterion",
+      "description": "Household income must not exceed specified limits",
+      "confidence": 0.95
+    },
+    {
+      "id": "criterion-asset-test",
+      "label": "Asset Test",
+      "type": "eligibility_criterion",
+      "description": "Assessment of property ownership and MediSave balances",
+      "confidence": 0.95
+    },
+    {
+      "id": "criterion-residency",
+      "label": "Residency",
+      "type": "eligibility_criterion",
+      "description": "Must reside in Singapore or specific type of housing",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-cash-grant",
+      "label": "Cash Grant",
+      "type": "benefit_type",
+      "description": "Direct monetary assistance provided to beneficiaries",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-subsidy",
+      "label": "Subsidy",
+      "type": "benefit_type",
+      "description": "Cost reduction for specific goods or services",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-insurance",
+      "label": "Insurance Coverage",
+      "type": "benefit_type",
+      "description": "Protection against specified risks or events",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-tax-relief",
+      "label": "Tax Relief",
+      "type": "benefit_type",
+      "description": "Reduction in tax obligations",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit-job-support",
+      "label": "Job Support",
+      "type": "benefit_type",
+      "description": "Career advisory, job matching, and coaching services",
+      "confidence": 0.95
+    },
+    {
+      "id": "medishield-life",
+      "label": "MediShield Life",
+      "type": "related_scheme",
+      "description": "Basic health insurance scheme for healthcare costs",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf-medisave",
+      "label": "CPF MediSave",
+      "type": "related_scheme",
+      "description": "Mandatory savings account within CPF for healthcare expenses",
+      "confidence": 0.95
+    },
+    {
+      "id": "hdb-flat",
+      "label": "HDB Flat",
+      "type": "concept",
+      "description": "Public housing unit managed by Housing and Development Board",
+      "confidence": 0.95
+    },
+    {
+      "id": "executive-condominium",
+      "label": "Executive Condominium (EC)",
+      "type": "concept",
+      "description": "Subsidized private housing with restrictive conditions initially",
+      "confidence": 0.95
+    },
+    {
+      "id": "careshield-life",
+      "label": "CareShield Life",
+      "type": "related_scheme",
+      "description": "Long-term care insurance scheme for persons with severe disability",
+      "confidence": 0.9
+    },
+    {
+      "id": "great-eastern-life",
+      "label": "Great Eastern Life",
+      "type": "partner_organization",
+      "description": "Insurance provider administering Dependant's Protection Scheme",
+      "confidence": 0.9
+    },
+    {
+      "id": "activities-daily-living",
+      "label": "Activities of Daily Living (ADLs)",
+      "type": "concept",
+      "description": "Basic self-care tasks (washing, dressing, feeding, toileting, transferring, moving)",
+      "confidence": 0.95
+    },
+    {
+      "id": "severe-disability-assessment",
+      "label": "Severe Disability Assessment",
+      "type": "process",
+      "description": "Professional evaluation of disability severity by MOH-accredited assessors",
+      "confidence": 0.9
+    }
+  ],
+  "edges": [
+    {
+      "source": "cpf-housing-grant",
+      "target": "hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "car-park-label-scheme",
+      "target": "sg-enable",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "life-insurance-relief",
+      "target": "iras",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "grandparent-caregiver-relief",
+      "target": "iras",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "integrated-shield-plan",
+      "target": "moh",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "medical-fee-exemption-card",
+      "target": "aic",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "assisted-deputyship-programme",
+      "target": "msf",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "legal-aid-bureau",
+      "target": "ministry-of-law",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "imda",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "medisave-grant-newborns",
+      "target": "cpf",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "moh",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "dependants-protection-scheme",
+      "target": "cpf",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "dependants-protection-scheme",
+      "target": "great-eastern-life",
+      "relationship": "partner",
+      "confidence": 0.9
+    },
+    {
+      "source": "disabled-persons-scheme-vehicle",
+      "target": "sg-enable",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "workfare-income-supplement",
+      "target": "cpf",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "ease-scheme",
+      "target": "hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "edusave-account",
+      "target": "moe",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "job-placement-job-support",
+      "target": "sg-enable",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "aic",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "eldershield",
+      "target": "aic",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-pwd",
+      "target": "sg-enable",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-seniors",
+      "target": "centre-for-seniors",
+      "relationship": "administered_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "beneficiary-first-time-homebuyer",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "beneficiary-first-time-homebuyer",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "car-park-label-scheme",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "life-insurance-relief",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.9
+    },
+    {
+      "source": "grandparent-caregiver-relief",
+      "target": "beneficiary-working-mother",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "integrated-shield-plan",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.9
+    },
+    {
+      "source": "medical-fee-exemption-card",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "assisted-deputyship-programme",
+      "target": "beneficiary-caregiver",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "legal-aid-bureau",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "medisave-grant-newborns",
+      "target": "beneficiary-newborn",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "beneficiary-senior",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "dependants-protection-scheme",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.9
+    },
+    {
+      "source": "disabled-persons-scheme-vehicle",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "workfare-income-supplement",
+      "target": "beneficiary-low-income-household",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "ease-scheme",
+      "target": "beneficiary-senior",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "edusave-account",
+      "target": "beneficiary-student",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "job-placement-job-support",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "beneficiary-senior",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "eldershield",
+      "target": "beneficiary-senior",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "eldershield",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-pwd",
+      "target": "beneficiary-person-with-disability",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-seniors",
+      "target": "beneficiary-senior",
+      "relationship": "benefits",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "concept-housing",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "concept-housing",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "ease-scheme",
+      "target": "concept-housing",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "concept-housing",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "integrated-shield-plan",
+      "target": "concept-healthcare",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "medical-fee-exemption-card",
+      "target": "concept-healthcare",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "medisave-grant-newborns",
+      "target": "concept-healthcare",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "concept-healthcare",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "life-insurance-relief",
+      "target": "concept-taxation",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "grandparent-caregiver-relief",
+      "target": "concept-taxation",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "job-placement-job-support",
+      "target": "concept-employment",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-pwd",
+      "target": "concept-employment",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-seniors",
+      "target": "concept-employment",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "workfare-income-supplement",
+      "target": "concept-employment",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "car-park-label-scheme",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "disabled-persons-scheme-vehicle",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "assisted-deputyship-programme",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "job-placement-job-support",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-pwd",
+      "target": "concept-disability-support",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "concept-digital-inclusion",
+      "relationship": "addresses",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "criterion-singapore-citizen",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "criterion-singapore-citizen",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "medisave-grant-newborns",
+      "target": "criterion-singapore-citizen",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "criterion-singapore-citizen",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "criterion-income-threshold",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "criterion-income-threshold",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "criterion-income-threshold",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "criterion-income-threshold",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "workfare-income-supplement",
+      "target": "criterion-income-threshold",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "criterion-residency",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "disabled-persons-scheme-vehicle",
+      "target": "criterion-asset-test",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "criterion-asset-test",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "benefit-cash-grant",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "digital-access-home",
+      "target": "benefit-subsidy",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "integrated-shield-plan",
+      "target": "benefit-insurance",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "dependants-protection-scheme",
+      "target": "benefit-insurance",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "life-insurance-relief",
+      "target": "benefit-tax-relief",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "grandparent-caregiver-relief",
+      "target": "benefit-tax-relief",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "job-placement-job-support",
+      "target": "benefit-job-support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-pwd",
+      "target": "benefit-job-support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "employment-support-seniors",
+      "target": "benefit-job-support",
+      "relationship": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "integrated-shield-plan",
+      "target": "medishield-life",
+      "relationship": "builds_on",
+      "confidence": 0.95
+    },
+    {
+      "source": "medisave-grant-newborns",
+      "target": "cpf-medisave",
+      "relationship": "credits_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "medishield-life-premium-subsidies",
+      "target": "medishield-life",
+      "relationship": "subsidizes",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-housing-grant",
+      "target": "hdb-flat",
+      "relationship": "used_for",
+      "confidence": 0.95
+    },
+    {
+      "source": "cpf-hg-ec",
+      "target": "executive-condominium",
+      "relationship": "used_for",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "careshield-life",
+      "relationship": "alternative_to",
+      "confidence": 0.9
+    },
+    {
+      "source": "eldershield",
+      "target": "careshield-life",
+      "relationship": "related_to",
+      "confidence": 0.9
+    },
+    {
+      "source": "elderfund",
+      "target": "activities-daily-living",
+      "relationship": "assesses",
+      "confidence": 0.95
+    },
+    {
+      "source": "eldershield",
+      "target": "activities-daily-living",
+      "relationship": "assesses",
+      "confidence": 0.95
+    },
+    {
+      "source": "elderfund",
+      "target": "severe-disability-assessment",
+      "relationship": "requires",
+      "confidence": 0.95
+    },
+    {
+      "source": "eldershield",
+      "target": "severe-disability-assessment",
+      "relationship": "requires",
+      "confidence": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "housing-schemes-group",
+      "label": "Housing Support Schemes",
+      "type": "scheme_cluster",
+      "nodes": ["cpf-housing-grant", "cpf-hg-ec", "ease-scheme", "digital-access-home"],
+      "relationship": "related_by_domain",
+      "confidence": 0.9
+    },
+    {
+      "id": "healthcare-schemes-group",
+      "label": "Healthcare and Insurance Schemes",
+      "type": "scheme_cluster",
+      "nodes": ["integrated-shield-plan", "medical-fee-exemption-card", "medisave-grant-newborns", "medishield-life-premium-subsidies", "dependants-protection-scheme"],
+      "relationship": "related_by_domain",
+      "confidence": 0.9
+    },
+    {
+      "id": "disability-employment-support",
+      "label": "Disability and Employment Support",
+      "type": "scheme_cluster",
+      "nodes": ["car-park-label-scheme", "disabled-persons-scheme-vehicle", "job-placement-job-support", "employment-support-pwd", "assisted-deputyship-programme"],
+      "relationship": "related_by_domain",
+      "confidence": 0.9
+    },
+    {
+      "id": "eldercare-schemes",
+      "label": "Eldercare and Long-Term Care Schemes",
+      "type": "scheme_cluster",
+      "nodes": ["ease-scheme", "elderfund", "eldershield", "employment-support-seniors", "medishield-life-premium-subsidies"],
+      "relationship": "related_by_domain",
+      "confidence": 0.9
+    },
+    {
+      "id": "tax-relief-schemes",
+      "label": "Tax Relief Schemes",
+      "type": "scheme_cluster",
+      "nodes": ["life-insurance-relief", "grandparent-caregiver-relief"],
+      "relationship": "related_by_domain",
+      "confidence": 0.95
+    },
+    {
+      "source": ["cpf", "cpf-housing-grant", "medisave-grant-newborns", "workfare-income-supplement", "dependants-protection-scheme"],
+      "relationship": "centralized_cpf_administration",
+      "description": "Multiple schemes administered through Central Provident Fund",
+      "confidence": 0.9
+    },
+    {
+      "source": ["sg-enable", "car-park-label-scheme", "disabled-persons-scheme-vehicle", "job-placement-job-support", "employment-support-pwd"],
+      "relationship": "sg_enable_disability_services",
+      "description": "SG Enable provides comprehensive disability support across multiple schemes",
+      "confidence": 0.9
+    },
+    {
+      "source": ["aic", "medical-fee-exemption-card", "elderfund", "eldershield"],
+      "relationship": "aic_eldercare_focus",
+      "description": "AIC administers integrated care schemes for seniors and disabled persons",
+      "confidence": 0.9
+    },
+    {
+      "source": ["hdb", "cpf-housing-grant", "cpf-hg-ec", "ease-scheme", "digital-access-home"],
+      "relationship": "hdb_housing_programs",
+      "description": "HDB manages housing-related grants and home improvement schemes",
+      "confidence": 0.9
+    },
+    {
+      "source": ["low-income-households", "digital-access-home", "medishield-life-premium-subsidies", "medical-fee-exemption-card", "workfare-income-supplement"],
+      "relationship": "low_income_safety_net",
+      "description": "Multiple schemes provide support to low-income beneficiaries",
+      "confidence": 0.9
+    },
+    {
+      "source": ["criterion-singapore-citizen", "criterion-income-threshold", "criterion-residency"],
+      "relationship": "common_eligibility_framework",
+      "description": "Multiple schemes share common eligibility criteria",
+      "confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_schemes": 22,
+    "total_agencies": 11,
+    "beneficiary_groups": 8,
+    "concept_categories": 6,
+    "benefit_types": 5,
+    "eligibility_criteria": 4,
+    "key_findings": [
+      "Cluster of housing schemes targeting first-time homebuyers with income protection requirements",
+      "Comprehensive healthcare coverage through multiple interconnected schemes and subsidies",
+      "Extensive disability support ecosystem with employment, accessibility, and legal assistance",
+      "Targeted eldercare with long-term care insurance and activity-based assessments",
+      "CPF as central institution administering income support and insurance schemes",
+      "SG Enable as primary disability services provider across employment and accessibility",
+      "Income and asset-based means testing as common eligibility mechanism",
+      "Integration of schemes providing complementary support (housing, healthcare, employment)",
+      "Significant support for caregivers, working mothers, and family-based care models",
+      "Digital inclusion and technology access for disadvantaged households"
+    ],
+    "domain_coverage": {
+      "housing": 4,
+      "healthcare": 5,
+      "employment": 5,
+      "disability_support": 6,
+      "taxation": 2,
+      "education": 1,
+      "eldercare": 5,
+      "legal": 1,
+      "digital_inclusion": 1
+    }
+  }
+}

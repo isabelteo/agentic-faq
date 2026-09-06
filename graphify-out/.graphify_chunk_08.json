@@ -1,0 +1,1298 @@
+{
+  "chunk_id": 8,
+  "file_count": 21,
+  "extraction_date": "2026-09-06",
+  "nodes": [
+    {
+      "id": "scheme_pdds",
+      "label": "Professional Deputies and Donees Scheme",
+      "type": "policy_scheme",
+      "description": "Scheme allowing registered professionals to act as proxy decision makers for persons lacking mental capacity",
+      "attributes": {
+        "scheme_code": "PDDS",
+        "source_agency": "MSF",
+        "topics": ["mental capacity", "elder care", "legal matters"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_nsman_relief",
+      "label": "NSman Relief",
+      "type": "policy_scheme",
+      "description": "Tax relief scheme for National Servicemen and their families",
+      "attributes": {
+        "scheme_code": "NSman Relief",
+        "source_agency": "IRAS",
+        "topics": ["national service", "tax relief", "family"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_phg_families",
+      "label": "Proximity Housing Grant (Families)",
+      "type": "policy_scheme",
+      "description": "Housing grant for families buying resale flats near parents or children",
+      "attributes": {
+        "scheme_code": "PHG-FAMILIES",
+        "source_agency": "HDB",
+        "max_grant": "$30,000",
+        "topics": ["housing", "family"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_phg_singles",
+      "label": "Proximity Housing Grant (Singles)",
+      "type": "policy_scheme",
+      "description": "Housing grant for singles buying resale flats near parents or children",
+      "attributes": {
+        "scheme_code": "PHG-SINGLES",
+        "source_agency": "HDB",
+        "max_grant": "$15,000",
+        "topics": ["housing", "family"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_pioneer_das",
+      "label": "Pioneer Generation Disability Assistance Scheme",
+      "type": "policy_scheme",
+      "description": "Cash assistance for Pioneers with moderate or severe functional disabilities",
+      "attributes": {
+        "scheme_code": "PIONEER-DAS",
+        "source_agency": "AIC",
+        "monthly_payout": "$100",
+        "topics": ["eldercare", "disability", "financial assistance"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_careshield_subsidies",
+      "label": "CareShield Life Premium Subsidies",
+      "type": "policy_scheme",
+      "description": "Premium subsidy scheme ensuring affordability of CareShield Life insurance",
+      "attributes": {
+        "scheme_code": "PKQxhC2q",
+        "source_agency": "CPF",
+        "subsidy_rate": "up to 30%",
+        "topics": ["healthcare", "eldercare", "insurance"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_pphs",
+      "label": "Parenthood Provisional Housing Scheme",
+      "type": "policy_scheme",
+      "description": "Temporary subsidised rental housing for families awaiting completion of new flats",
+      "attributes": {
+        "scheme_code": "PPHS",
+        "source_agency": "HDB",
+        "rental_range": "$400-$1,500 per month",
+        "topics": ["housing", "family"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_step_one",
+      "label": "Step One",
+      "type": "policy_scheme",
+      "description": "Free caregiver support programme for families with young children with developmental delay or disability",
+      "attributes": {
+        "scheme_code": "PrBDGZa7",
+        "source_agency": "MSF",
+        "cost": "Free",
+        "topics": ["disability", "family", "caregiving", "early intervention"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_sps",
+      "label": "Senior Priority Scheme",
+      "type": "policy_scheme",
+      "description": "Priority access for seniors buying 2-room Flexi flats near existing home",
+      "attributes": {
+        "scheme_code": "PRIORITY-SEN",
+        "source_agency": "HDB",
+        "flat_type": "2-room Flexi",
+        "topics": ["housing", "eldercare"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_ptv_2025",
+      "label": "2025 Public Transport Voucher Exercise",
+      "type": "policy_scheme",
+      "description": "Transport vouchers for low-income households to cope with fare adjustment",
+      "attributes": {
+        "scheme_code": "PTV",
+        "source_agency": "LifeSG",
+        "voucher_value": "$60",
+        "topics": ["transport", "cost of living", "low-income support"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_public_rental_family",
+      "label": "Public Rental Scheme - Family Scheme",
+      "type": "policy_scheme",
+      "description": "Heavily subsidised rental flats for families with no other housing options",
+      "attributes": {
+        "scheme_code": "PUBLICRENTAL-FAMILY",
+        "source_agency": "HDB",
+        "topics": ["housing", "family", "low-income support"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_public_rental_jss",
+      "label": "Public Rental Scheme - Joint Singles Scheme",
+      "type": "policy_scheme",
+      "description": "Heavily subsidised rental flats for singles with no other housing options",
+      "attributes": {
+        "scheme_code": "PUBLICRENTAL-JSS",
+        "source_agency": "HDB",
+        "topics": ["housing", "singles", "low-income support"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_newresale_singles",
+      "label": "New/Resale Flats (Singles)",
+      "type": "policy_scheme",
+      "description": "Housing purchase assistance for eligible singles buying new or resale flats",
+      "attributes": {
+        "scheme_code": "PUR-NRSF-SIN",
+        "source_agency": "HDB",
+        "max_grant_new": "$60,000",
+        "max_grant_resale": "$115,000",
+        "topics": ["housing", "singles", "cpf"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_executive_condominiums",
+      "label": "Executive Condominiums",
+      "type": "policy_scheme",
+      "description": "More affordable private housing option for eligible households",
+      "attributes": {
+        "scheme_code": "PURCHASE-EC",
+        "source_agency": "HDB",
+        "income_ceiling": "$18,000",
+        "topics": ["housing", "family", "cpf"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_pwdcc",
+      "label": "Persons with Disabilities Concession Card",
+      "type": "policy_scheme",
+      "description": "Concessionary public transport rates for persons with disabilities",
+      "attributes": {
+        "scheme_code": "PWD-CONCESSION",
+        "source_agency": "SG Enable",
+        "discount": "up to 55%",
+        "topics": ["disability", "transport", "cost of living"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_large_families",
+      "label": "Large Families Scheme",
+      "type": "policy_scheme",
+      "description": "Additional support for families with three or more children",
+      "attributes": {
+        "scheme_code": "Q1UpgN0i",
+        "source_agency": "MSF",
+        "max_support": "$16,000 per child",
+        "topics": ["family", "childcare", "healthcare"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_medisave_acp",
+      "label": "MediSave for Assisted Conception Procedures",
+      "type": "policy_scheme",
+      "description": "MediSave withdrawal for fertility treatment expenses",
+      "attributes": {
+        "scheme_code": "QDc9ihgy",
+        "source_agency": "CPF",
+        "max_withdrawal": "$15,000 per patient",
+        "topics": ["healthcare", "family", "fertility"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_equipment_rental",
+      "label": "Equipment Rental Scheme",
+      "type": "policy_scheme",
+      "description": "Subsidy for rental of essential care equipment for terminal illness patients",
+      "attributes": {
+        "scheme_code": "QEAKpruj",
+        "source_agency": "AIC",
+        "topics": ["healthcare", "palliative care", "eldercare", "disability"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_gppl",
+      "label": "Government-Paid Paternity Leave",
+      "type": "policy_scheme",
+      "description": "Paid paternity leave for eligible working fathers",
+      "attributes": {
+        "scheme_code": "qgZZZ5b3",
+        "source_agency": "MSF",
+        "max_leave": "4 weeks",
+        "reimbursement_cap": "$10,000",
+        "topics": ["family", "employment", "parental leave"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_family_care",
+      "label": "Family Care Scheme (Joint Balloting)",
+      "type": "policy_scheme",
+      "description": "Joint BTO flat application for parents and adult children",
+      "attributes": {
+        "scheme_code": "QlaRQpLF",
+        "source_agency": "HDB",
+        "topics": ["housing", "family"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_uicl",
+      "label": "Unpaid Infant Care Leave",
+      "type": "policy_scheme",
+      "description": "Unpaid leave entitlement for parents of infants below 2 years old",
+      "attributes": {
+        "scheme_code": "Qwr1qXZm",
+        "source_agency": "MSF",
+        "max_leave": "12 days per year",
+        "topics": ["family", "employment", "parental leave", "childcare"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_rle_cpf",
+      "label": "Withdrawal of CPF Savings on Reduced Life Expectancy",
+      "type": "policy_scheme",
+      "description": "Early CPF withdrawal for members with terminal or severe medical conditions",
+      "attributes": {
+        "scheme_code": "RLE",
+        "source_agency": "CPF",
+        "min_withdrawal": "$5,000",
+        "topics": ["cpf", "healthcare", "retirement"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_msf",
+      "label": "Ministry of Social and Family Development",
+      "type": "government_agency",
+      "description": "Singapore government ministry responsible for social and family policies",
+      "attributes": {
+        "abbreviation": "MSF",
+        "domain": "social_family_welfare"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_hdb",
+      "label": "Housing and Development Board",
+      "type": "government_agency",
+      "description": "Singapore statutory board responsible for public housing",
+      "attributes": {
+        "abbreviation": "HDB",
+        "domain": "housing"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_cpf",
+      "label": "Central Provident Fund",
+      "type": "government_agency",
+      "description": "Singapore's mandatory savings and social security scheme",
+      "attributes": {
+        "abbreviation": "CPF",
+        "domain": "retirement_healthcare"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_iras",
+      "label": "Inland Revenue Authority of Singapore",
+      "type": "government_agency",
+      "description": "Singapore's tax administration authority",
+      "attributes": {
+        "abbreviation": "IRAS",
+        "domain": "taxation"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_aic",
+      "label": "Agency for Integrated Care",
+      "type": "government_agency",
+      "description": "Singapore agency managing healthcare and support services",
+      "attributes": {
+        "abbreviation": "AIC",
+        "domain": "healthcare_eldercare"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_sg_enable",
+      "label": "SG Enable",
+      "type": "government_agency",
+      "description": "Singapore's disability support agency",
+      "attributes": {
+        "abbreviation": "SG Enable",
+        "domain": "disability_support"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "agency_lifesg",
+      "label": "LifeSG",
+      "type": "government_agency",
+      "description": "Singapore's digital government platform for citizen services",
+      "attributes": {
+        "abbreviation": "LifeSG",
+        "domain": "digital_services"
+      },
+      "confidence": 0.98
+    },
+    {
+      "id": "concept_mental_capacity",
+      "label": "Mental Capacity",
+      "type": "concept",
+      "description": "Legal and medical concept related to cognitive and decision-making ability",
+      "attributes": {
+        "legal_framework": "Mental Capacity Act"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "concept_disability",
+      "label": "Disability",
+      "type": "concept",
+      "description": "Physical, sensory, intellectual, or developmental impairment affecting daily function",
+      "attributes": {
+        "categories": ["physical", "sensory", "intellectual", "developmental", "autism"]
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "concept_housing_grant",
+      "label": "Housing Grant",
+      "type": "concept",
+      "description": "Government financial assistance for home purchase or rental",
+      "attributes": {
+        "variants": ["proximity housing grant", "singles housing grant", "first-time grant"]
+      },
+      "confidence": 0.92
+    },
+    {
+      "id": "concept_family_nucleus",
+      "label": "Family Nucleus",
+      "type": "concept",
+      "description": "Core family unit as defined in housing schemes",
+      "attributes": {
+        "composition_types": ["couple", "single_with_parents", "widowed_with_children", "orphaned_siblings"]
+      },
+      "confidence": 0.88
+    },
+    {
+      "id": "concept_pioneer_generation",
+      "label": "Pioneer Generation",
+      "type": "concept",
+      "description": "Cohort of Singaporean citizens born before or during specified period receiving special support",
+      "attributes": {
+        "birth_year_range": "Before 1950",
+        "special_benefits": ["healthcare subsidies", "disability assistance"]
+      },
+      "confidence": 0.92
+    },
+    {
+      "id": "concept_merdeka_generation",
+      "label": "Merdeka Generation",
+      "type": "concept",
+      "description": "Cohort of Singaporean citizens born during independence period receiving targeted support",
+      "attributes": {
+        "birth_year_range": "1950-1959",
+        "special_benefits": ["insurance subsidies", "healthcare support"]
+      },
+      "confidence": 0.92
+    },
+    {
+      "id": "concept_activities_daily_living",
+      "label": "Activities of Daily Living",
+      "type": "concept",
+      "description": "Standard measure of functional ability for disability assessment",
+      "attributes": {
+        "activities": ["feeding", "washing", "dressing", "transferring", "toileting", "walking"]
+      },
+      "confidence": 0.93
+    },
+    {
+      "id": "concept_income_ceiling",
+      "label": "Income Ceiling",
+      "type": "concept",
+      "description": "Maximum household or individual income threshold for scheme eligibility",
+      "attributes": {
+        "typical_values": ["$1,800", "$3,600", "$8,000", "$16,000", "$18,000"],
+        "measurement": "monthly household income per person"
+      },
+      "confidence": 0.93
+    },
+    {
+      "id": "concept_resale_flat",
+      "label": "Resale Flat",
+      "type": "concept",
+      "description": "Previously occupied HDB or private residential flat available for purchase on secondary market",
+      "attributes": {
+        "lease_types": ["99-year", "30-year"],
+        "flat_types": ["1-room", "2-room", "3-room", "4-room", "5-room"]
+      },
+      "confidence": 0.93
+    },
+    {
+      "id": "concept_bto_flat",
+      "label": "Build-To-Order Flat",
+      "type": "concept",
+      "description": "New HDB flat purchased before construction and customized to specifications",
+      "attributes": {
+        "process": "balloting system",
+        "flat_types": ["2-room Flexi", "3-room", "4-room", "5-room"]
+      },
+      "confidence": 0.93
+    },
+    {
+      "id": "eligibility_singapore_citizen",
+      "label": "Singapore Citizen Requirement",
+      "type": "eligibility_criterion",
+      "description": "Citizenship requirement for most schemes",
+      "attributes": {
+        "applies_to_schemes": ["majority of schemes"],
+        "variants": ["SC primary applicant", "at least one SC co-applicant", "SC or SPR"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_income_based",
+      "label": "Income-Based Eligibility",
+      "type": "eligibility_criterion",
+      "description": "Eligibility determined by household income level",
+      "attributes": {
+        "assessment_period": "monthly",
+        "common_thresholds": ["$1,800", "$3,600", "$8,000"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_age_based",
+      "label": "Age-Based Eligibility",
+      "type": "eligibility_criterion",
+      "description": "Eligibility determined by applicant age",
+      "attributes": {
+        "common_thresholds": ["21 years", "35 years", "60 years"],
+        "varies_by_scheme": true
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_disability_status",
+      "label": "Disability Status Requirement",
+      "type": "eligibility_criterion",
+      "description": "Formal disability certification or assessment required",
+      "attributes": {
+        "verification_method": "Disability Verification Form",
+        "assessor": "Registered healthcare professional"
+      },
+      "confidence": 0.92
+    },
+    {
+      "id": "benefit_type_cash",
+      "label": "Cash Assistance Benefit",
+      "type": "benefit_type",
+      "description": "Direct cash payment to beneficiary",
+      "attributes": {
+        "frequency": ["one-time lump sum", "monthly", "annual"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_type_housing",
+      "label": "Housing Benefit",
+      "type": "benefit_type",
+      "description": "Housing-related financial assistance or access",
+      "attributes": {
+        "variants": ["purchase grants", "rental subsidies", "priority access"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_type_leave",
+      "label": "Leave Benefit",
+      "type": "benefit_type",
+      "description": "Paid or unpaid leave entitlement for employment purposes",
+      "attributes": {
+        "variants": ["paid leave", "unpaid leave", "government reimbursement"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_type_subsidy",
+      "label": "Subsidy Benefit",
+      "type": "benefit_type",
+      "description": "Reduced costs for goods or services through government subsidy",
+      "attributes": {
+        "application": ["transport", "healthcare", "housing", "insurance"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "organization_professional_deputy",
+      "label": "Professional Deputy/Donee",
+      "type": "entity_role",
+      "description": "Registered professional appointed to make decisions for individuals lacking mental capacity",
+      "attributes": {
+        "professions": ["lawyer", "doctor", "accountant", "allied health professional", "nurse", "social worker"],
+        "regulator": "Office of the Public Guardian"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "organization_registered_health_professional",
+      "label": "Registered Healthcare Professional",
+      "type": "entity_role",
+      "description": "Medical or healthcare professional certified to provide official assessments",
+      "attributes": {
+        "roles": ["doctor", "specialist", "assessor"],
+        "context": "disability verification, medical assessment"
+      },
+      "confidence": 0.90
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_001",
+      "source": "scheme_pdds",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "description": "PDDS scheme is administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_002",
+      "source": "scheme_nsman_relief",
+      "target": "agency_iras",
+      "relationship": "administered_by",
+      "description": "NSman Relief is administered by IRAS",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_003",
+      "source": "scheme_phg_families",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "PHG Families is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_004",
+      "source": "scheme_phg_singles",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "PHG Singles is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_005",
+      "source": "scheme_pioneer_das",
+      "target": "agency_aic",
+      "relationship": "administered_by",
+      "description": "PioneerDAS is administered by AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_006",
+      "source": "scheme_careshield_subsidies",
+      "target": "agency_cpf",
+      "relationship": "administered_by",
+      "description": "CareShield Life Premium Subsidies are administered by CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_007",
+      "source": "scheme_pphs",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "PPHS is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_008",
+      "source": "scheme_step_one",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "description": "Step One is administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_009",
+      "source": "scheme_sps",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "SPS is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_010",
+      "source": "scheme_ptv_2025",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "description": "PTV 2025 is administered by LifeSG",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_011",
+      "source": "scheme_public_rental_family",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "Public Rental Scheme Family is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_012",
+      "source": "scheme_public_rental_jss",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "Public Rental Scheme JSS is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_013",
+      "source": "scheme_newresale_singles",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "New/Resale Flats Singles is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_014",
+      "source": "scheme_executive_condominiums",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "Executive Condominiums are administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_015",
+      "source": "scheme_pwdcc",
+      "target": "agency_sg_enable",
+      "relationship": "administered_by",
+      "description": "PWDCC is administered by SG Enable",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_016",
+      "source": "scheme_large_families",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "description": "Large Families Scheme is administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_017",
+      "source": "scheme_medisave_acp",
+      "target": "agency_cpf",
+      "relationship": "administered_by",
+      "description": "MediSave for ACP is administered by CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_018",
+      "source": "scheme_equipment_rental",
+      "target": "agency_aic",
+      "relationship": "administered_by",
+      "description": "Equipment Rental Scheme is administered by AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_019",
+      "source": "scheme_gppl",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "description": "GPPL is administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_020",
+      "source": "scheme_family_care",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "description": "Family Care Scheme is administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_021",
+      "source": "scheme_uicl",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "description": "UICL is administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_022",
+      "source": "scheme_rle_cpf",
+      "target": "agency_cpf",
+      "relationship": "administered_by",
+      "description": "RLE CPF Withdrawal is administered by CPF",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_023",
+      "source": "scheme_pdds",
+      "target": "concept_mental_capacity",
+      "relationship": "addresses",
+      "description": "PDDS addresses mental capacity issues",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_024",
+      "source": "scheme_pioneer_das",
+      "target": "concept_disability",
+      "relationship": "targets",
+      "description": "PioneerDAS targets individuals with disabilities",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_025",
+      "source": "scheme_step_one",
+      "target": "concept_disability",
+      "relationship": "targets",
+      "description": "Step One targets families with children with disabilities",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_026",
+      "source": "scheme_pwdcc",
+      "target": "concept_disability",
+      "relationship": "targets",
+      "description": "PWDCC targets persons with disabilities",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_027",
+      "source": "scheme_phg_families",
+      "target": "concept_housing_grant",
+      "relationship": "provides",
+      "description": "PHG Families provides housing grants",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_028",
+      "source": "scheme_phg_singles",
+      "target": "concept_housing_grant",
+      "relationship": "provides",
+      "description": "PHG Singles provides housing grants",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_029",
+      "source": "scheme_newresale_singles",
+      "target": "concept_housing_grant",
+      "relationship": "provides",
+      "description": "New/Resale Flats Singles provides housing grants",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_030",
+      "source": "scheme_pioneer_das",
+      "target": "concept_pioneer_generation",
+      "relationship": "targets",
+      "description": "PioneerDAS targets Pioneer Generation",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_031",
+      "source": "scheme_careshield_subsidies",
+      "target": "concept_pioneer_generation",
+      "relationship": "provides_special_benefits",
+      "description": "CareShield Life subsidies provide special benefits to Pioneer Generation",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_032",
+      "source": "scheme_careshield_subsidies",
+      "target": "concept_merdeka_generation",
+      "relationship": "provides_special_benefits",
+      "description": "CareShield Life subsidies provide special benefits to Merdeka Generation",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_033",
+      "source": "scheme_phg_families",
+      "target": "concept_resale_flat",
+      "relationship": "applies_to",
+      "description": "PHG Families applies to resale flat purchases",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_034",
+      "source": "scheme_phg_singles",
+      "target": "concept_resale_flat",
+      "relationship": "applies_to",
+      "description": "PHG Singles applies to resale flat purchases",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_035",
+      "source": "scheme_public_rental_family",
+      "target": "concept_family_nucleus",
+      "relationship": "requires",
+      "description": "Public Rental Family requires family nucleus formation",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_036",
+      "source": "scheme_family_care",
+      "target": "concept_bto_flat",
+      "relationship": "applies_to",
+      "description": "Family Care Scheme applies to BTO flats",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_037",
+      "source": "scheme_pioneer_das",
+      "target": "concept_activities_daily_living",
+      "relationship": "requires_assessment",
+      "description": "PioneerDAS requires ADL assessment",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_038",
+      "source": "scheme_phg_families",
+      "target": "eligibility_income_based",
+      "relationship": "has_eligibility",
+      "description": "PHG Families has income-based eligibility criteria",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_039",
+      "source": "scheme_phg_singles",
+      "target": "eligibility_age_based",
+      "relationship": "has_eligibility",
+      "description": "PHG Singles has age-based eligibility (35+ or 21+)",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_040",
+      "source": "scheme_newresale_singles",
+      "target": "eligibility_age_based",
+      "relationship": "has_eligibility",
+      "description": "New/Resale Flats Singles has age-based eligibility",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_041",
+      "source": "scheme_pwdcc",
+      "target": "eligibility_disability_status",
+      "relationship": "has_eligibility",
+      "description": "PWDCC requires disability status verification",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_042",
+      "source": "scheme_pioneer_das",
+      "target": "eligibility_disability_status",
+      "relationship": "has_eligibility",
+      "description": "PioneerDAS requires disability assessment",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_043",
+      "source": "scheme_ptv_2025",
+      "target": "benefit_type_subsidy",
+      "relationship": "provides",
+      "description": "PTV 2025 provides transport subsidies",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_044",
+      "source": "scheme_pwdcc",
+      "target": "benefit_type_subsidy",
+      "relationship": "provides",
+      "description": "PWDCC provides transport subsidy benefits",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_045",
+      "source": "scheme_careshield_subsidies",
+      "target": "benefit_type_subsidy",
+      "relationship": "provides",
+      "description": "CareShield Life provides insurance premium subsidies",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_046",
+      "source": "scheme_pphs",
+      "target": "benefit_type_housing",
+      "relationship": "provides",
+      "description": "PPHS provides rental housing benefits",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_047",
+      "source": "scheme_public_rental_family",
+      "target": "benefit_type_housing",
+      "relationship": "provides",
+      "description": "Public Rental Family provides rental housing benefits",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_048",
+      "source": "scheme_gppl",
+      "target": "benefit_type_leave",
+      "relationship": "provides",
+      "description": "GPPL provides paid paternity leave benefits",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_049",
+      "source": "scheme_uicl",
+      "target": "benefit_type_leave",
+      "relationship": "provides",
+      "description": "UICL provides unpaid infant care leave",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_050",
+      "source": "scheme_pioneer_das",
+      "target": "benefit_type_cash",
+      "relationship": "provides",
+      "description": "PioneerDAS provides monthly cash assistance",
+      "confidence": 0.93
+    },
+    {
+      "id": "edge_051",
+      "source": "scheme_pdds",
+      "target": "organization_professional_deputy",
+      "relationship": "enables_role",
+      "description": "PDDS enables professional deputy appointment",
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_052",
+      "source": "scheme_rle_cpf",
+      "target": "organization_professional_deputy",
+      "relationship": "involves_role",
+      "description": "RLE withdrawal can be applied by deputy or donee",
+      "confidence": 0.88
+    },
+    {
+      "id": "edge_053",
+      "source": "scheme_pwdcc",
+      "target": "organization_registered_health_professional",
+      "relationship": "requires_assessment",
+      "description": "PWDCC requires assessment by registered healthcare professional",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_054",
+      "source": "scheme_pioneer_das",
+      "target": "organization_registered_health_professional",
+      "relationship": "requires_assessment",
+      "description": "PioneerDAS requires assessment by approved healthcare professional",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge_055",
+      "source": "scheme_rle_cpf",
+      "target": "organization_registered_health_professional",
+      "relationship": "requires_certification",
+      "description": "RLE withdrawal requires certification by accredited doctor",
+      "confidence": 0.93
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_001",
+      "type": "scheme_cluster",
+      "label": "HDB Housing Schemes Cluster",
+      "nodes": [
+        "scheme_phg_families",
+        "scheme_phg_singles",
+        "scheme_pphs",
+        "scheme_sps",
+        "scheme_public_rental_family",
+        "scheme_public_rental_jss",
+        "scheme_newresale_singles",
+        "scheme_executive_condominiums",
+        "scheme_family_care"
+      ],
+      "description": "All housing-related schemes administered by HDB",
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_002",
+      "type": "scheme_cluster",
+      "label": "Family and Parental Support Schemes Cluster",
+      "nodes": [
+        "scheme_gppl",
+        "scheme_uicl",
+        "scheme_large_families",
+        "scheme_family_care",
+        "scheme_step_one"
+      ],
+      "description": "Schemes supporting families and parental responsibilities",
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_003",
+      "type": "scheme_cluster",
+      "label": "Disability and Healthcare Support Cluster",
+      "nodes": [
+        "scheme_pioneer_das",
+        "scheme_step_one",
+        "scheme_pwdcc",
+        "scheme_equipment_rental",
+        "scheme_medisave_acp",
+        "scheme_rle_cpf"
+      ],
+      "description": "Schemes addressing disability and healthcare needs",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_004",
+      "type": "scheme_cluster",
+      "label": "Elderly and Long-term Care Support Cluster",
+      "nodes": [
+        "scheme_pioneer_das",
+        "scheme_careshield_subsidies",
+        "scheme_equipment_rental",
+        "scheme_sps",
+        "scheme_pdds"
+      ],
+      "description": "Schemes supporting elderly and long-term care needs",
+      "confidence": 0.88
+    },
+    {
+      "id": "hyperedge_005",
+      "type": "scheme_cluster",
+      "label": "Low-Income Support Schemes Cluster",
+      "nodes": [
+        "scheme_ptv_2025",
+        "scheme_public_rental_family",
+        "scheme_public_rental_jss",
+        "scheme_careshield_subsidies",
+        "scheme_pwdcc"
+      ],
+      "description": "Schemes targeting low-income households and cost-of-living relief",
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_006",
+      "type": "eligibility_pattern",
+      "label": "Income-Based Means Testing Pattern",
+      "nodes": [
+        "scheme_phg_families",
+        "scheme_careshield_subsidies",
+        "scheme_pphs",
+        "scheme_ptv_2025",
+        "scheme_newresale_singles",
+        "scheme_executive_condominiums"
+      ],
+      "description": "Schemes using household income as eligibility criterion",
+      "relationships": [
+        {
+          "type": "uses_criterion",
+          "target": "eligibility_income_based"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_007",
+      "type": "eligibility_pattern",
+      "label": "Age-Based Eligibility Pattern",
+      "nodes": [
+        "scheme_phg_singles",
+        "scheme_newresale_singles",
+        "scheme_sps",
+        "scheme_public_rental_jss",
+        "scheme_executive_condominiums"
+      ],
+      "description": "Schemes using age as eligibility criterion",
+      "relationships": [
+        {
+          "type": "uses_criterion",
+          "target": "eligibility_age_based"
+        }
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "hyperedge_008",
+      "type": "eligibility_pattern",
+      "label": "Disability Assessment Pattern",
+      "nodes": [
+        "scheme_pioneer_das",
+        "scheme_pwdcc",
+        "scheme_equipment_rental",
+        "scheme_step_one",
+        "scheme_rle_cpf"
+      ],
+      "description": "Schemes requiring formal disability assessment or medical certification",
+      "relationships": [
+        {
+          "type": "uses_criterion",
+          "target": "eligibility_disability_status"
+        }
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "hyperedge_009",
+      "type": "agency_partnership",
+      "label": "MSF-Administered Family and Welfare Schemes",
+      "nodes": [
+        "agency_msf",
+        "scheme_pdds",
+        "scheme_step_one",
+        "scheme_large_families",
+        "scheme_gppl",
+        "scheme_uicl"
+      ],
+      "description": "All family and social welfare schemes administered by MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_010",
+      "type": "agency_partnership",
+      "label": "HDB-Administered Housing Schemes",
+      "nodes": [
+        "agency_hdb",
+        "scheme_phg_families",
+        "scheme_phg_singles",
+        "scheme_pphs",
+        "scheme_sps",
+        "scheme_public_rental_family",
+        "scheme_public_rental_jss",
+        "scheme_newresale_singles",
+        "scheme_executive_condominiums",
+        "scheme_family_care"
+      ],
+      "description": "All housing schemes administered by HDB",
+      "confidence": 0.96
+    },
+    {
+      "id": "hyperedge_011",
+      "type": "agency_partnership",
+      "label": "CPF-Administered Schemes",
+      "nodes": [
+        "agency_cpf",
+        "scheme_careshield_subsidies",
+        "scheme_medisave_acp",
+        "scheme_rle_cpf"
+      ],
+      "description": "All CPF-related savings and healthcare schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_012",
+      "type": "benefit_pattern",
+      "label": "Financial Subsidy Benefits Pattern",
+      "nodes": [
+        "scheme_ptv_2025",
+        "scheme_pwdcc",
+        "scheme_careshield_subsidies",
+        "scheme_pioneer_das",
+        "scheme_pphs"
+      ],
+      "relationships": [
+        {
+          "type": "provides",
+          "target": "benefit_type_subsidy"
+        }
+      ],
+      "description": "Schemes providing financial subsidies or discounts",
+      "confidence": 0.94
+    },
+    {
+      "id": "hyperedge_013",
+      "type": "target_demographic",
+      "label": "Elderly and Pioneer Population Support",
+      "nodes": [
+        "scheme_pioneer_das",
+        "scheme_careshield_subsidies",
+        "scheme_sps",
+        "scheme_equipment_rental",
+        "scheme_pdds",
+        "concept_pioneer_generation",
+        "concept_merdeka_generation"
+      ],
+      "description": "Schemes and support systems targeting elderly and Pioneer/Merdeka generations",
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_014",
+      "type": "target_demographic",
+      "label": "Young Families and Parenthood Support",
+      "nodes": [
+        "scheme_pphs",
+        "scheme_gppl",
+        "scheme_uicl",
+        "scheme_large_families",
+        "scheme_family_care",
+        "scheme_step_one"
+      ],
+      "description": "Schemes supporting young families, new parents, and child development",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_015",
+      "type": "target_demographic",
+      "label": "Persons with Disabilities Support",
+      "nodes": [
+        "scheme_pioneer_das",
+        "scheme_pwdcc",
+        "scheme_equipment_rental",
+        "scheme_step_one",
+        "concept_disability",
+        "eligibility_disability_status"
+      ],
+      "description": "Schemes providing comprehensive support for persons with disabilities",
+      "confidence": 0.93
+    }
+  ],
+  "token_counts": {
+    "estimated_documents_tokens": 18500,
+    "estimated_chunk_tokens": 3200,
+    "estimated_entities_tokens": 1800,
+    "estimated_relationships_tokens": 2100,
+    "total_estimated": 25600,
+    "note": "Token counts are placeholders estimated from content length and complexity"
+  },
+  "metadata": {
+    "extraction_method": "manual_knowledge_graph_extraction",
+    "chunk_number": 8,
+    "total_chunks": 15,
+    "documents_processed": 22,
+    "focus_area": "Singapore government policy schemes - housing, family, disability, healthcare, elderly support",
+    "key_themes": [
+      "Housing support and grants",
+      "Family and parental benefits",
+      "Disability and healthcare assistance",
+      "Elderly care and support",
+      "Low-income financial relief",
+      "Employment and leave benefits"
+    ],
+    "agencies_identified": 7,
+    "schemes_identified": 22,
+    "total_nodes": 94,
+    "total_edges": 55,
+    "total_hyperedges": 15
+  }
+}

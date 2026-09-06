@@ -1,0 +1,1048 @@
+{
+  "chunk_metadata": {
+    "chunk_id": "03",
+    "file_count": 22,
+    "date_processed": "2026-09-06",
+    "source": "supportgowhere.life.gov.sg - schemes",
+    "content_focus": "Singapore government support schemes and financial assistance programs"
+  },
+  "nodes": [
+    {
+      "id": "scheme_climate_vouchers",
+      "label": "Enhanced Climate Friendly Households Programme (Climate Vouchers)",
+      "type": "policy_scheme",
+      "agency": "NEA",
+      "description": "Encourages households to adopt energy and water-efficient appliances by providing voucher support",
+      "confidence": 0.95,
+      "topics": ["housing", "utilities", "household costs", "environmental sustainability"]
+    },
+    {
+      "id": "scheme_comlink",
+      "label": "ComLink+",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "Empowers lower-income families to achieve stability, self-reliance, and social mobility through family coaches",
+      "confidence": 0.95,
+      "topics": ["family", "financial assistance", "housing", "employment"]
+    },
+    {
+      "id": "scheme_cpf_housing",
+      "label": "CPF Housing Scheme",
+      "type": "policy_scheme",
+      "agency": "CPF",
+      "description": "Enables CPF members to use Ordinary Account savings to purchase properties",
+      "confidence": 0.95,
+      "topics": ["housing", "retirement savings", "financial planning"]
+    },
+    {
+      "id": "scheme_activesg",
+      "label": "ActiveSG Membership",
+      "type": "policy_scheme",
+      "agency": "SportSG",
+      "description": "National movement enabling access to sports facilities and programs",
+      "confidence": 0.95,
+      "topics": ["lifestyle", "seniors", "family", "health", "sports"]
+    },
+    {
+      "id": "scheme_assist",
+      "label": "ASSIST (Assistance Scheme for Second Timers)",
+      "type": "policy_scheme",
+      "agency": "HDB",
+      "description": "Allocates flats for eligible divorced or widowed parents applying for HDB flats",
+      "confidence": 0.95,
+      "topics": ["housing", "family", "vulnerable groups"]
+    },
+    {
+      "id": "scheme_atf",
+      "label": "Assistive Technology Fund (ATF)",
+      "type": "policy_scheme",
+      "agency": "SG Enable",
+      "description": "Provides subsidies for persons with disabilities to purchase assistive technology devices",
+      "confidence": 0.95,
+      "topics": ["disability support", "healthcare", "financial assistance"]
+    },
+    {
+      "id": "scheme_baby_bonus",
+      "label": "Baby Bonus Cash Gift",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "Provides regular cash payouts to help parents defray child-raising costs",
+      "confidence": 0.95,
+      "topics": ["family", "financial assistance", "childcare"]
+    },
+    {
+      "id": "scheme_adoption_leave",
+      "label": "Adoption Leave for Mothers (AL)",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "Provides up to 12 weeks of leave for eligible adoptive mothers",
+      "confidence": 0.95,
+      "topics": ["family", "employment", "childcare"]
+    },
+    {
+      "id": "scheme_goal",
+      "label": "Gift Of A Lifetime Plus (GOAL+)",
+      "type": "policy_scheme",
+      "agency": "SG Enable",
+      "description": "Provides capital and matching donations to set up special needs trusts",
+      "confidence": 0.95,
+      "topics": ["disability support", "family", "financial planning"]
+    },
+    {
+      "id": "scheme_careconnect",
+      "label": "CAREconnect",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "Offers social events and support for caregivers",
+      "confidence": 0.95,
+      "topics": ["caregiving", "disability support", "community"]
+    },
+    {
+      "id": "scheme_baby_support",
+      "label": "Baby Support Grant",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "One-off cash payout to help parents with raising a child during extraordinary times",
+      "confidence": 0.95,
+      "topics": ["family", "financial assistance", "childcare"]
+    },
+    {
+      "id": "scheme_sg60",
+      "label": "SG60 Vouchers",
+      "type": "policy_scheme",
+      "agency": "LifeSG",
+      "description": "Vouchers given to Singaporean adults in recognition of contributions to the nation",
+      "confidence": 0.95,
+      "topics": ["household costs", "community", "national recognition"]
+    },
+    {
+      "id": "scheme_isb",
+      "label": "MOE Independent School Bursary (ISB)",
+      "type": "policy_scheme",
+      "agency": "MOE",
+      "description": "Provides financial assistance to lower- and middle-income families with children in Independent Schools",
+      "confidence": 0.95,
+      "topics": ["education", "financial assistance", "family"]
+    },
+    {
+      "id": "scheme_ctg",
+      "label": "Caregivers Training Grant (CTG)",
+      "type": "policy_scheme",
+      "agency": "AIC",
+      "description": "Subsidy for caregivers to offset training fees for approved courses",
+      "confidence": 0.95,
+      "topics": ["caregiving", "training", "seniors", "disability support"]
+    },
+    {
+      "id": "scheme_careshield",
+      "label": "CareShield Life",
+      "type": "policy_scheme",
+      "agency": "MOH",
+      "description": "Provides financial protection for Singapore Citizens and PRs with severe disability",
+      "confidence": 0.95,
+      "topics": ["healthcare", "retirement", "disability support", "insurance"]
+    },
+    {
+      "id": "scheme_cca",
+      "label": "Community Care Apartments (CCAs)",
+      "type": "policy_scheme",
+      "agency": "HDB",
+      "description": "Senior-friendly housing integrated with care and social services",
+      "confidence": 0.95,
+      "topics": ["housing", "seniors", "healthcare", "aged care"]
+    },
+    {
+      "id": "scheme_absd",
+      "label": "ABSD Concession for Single Singapore Citizen Seniors",
+      "type": "policy_scheme",
+      "agency": "IRAS",
+      "description": "Refunds Additional Buyer's Stamp Duty for eligible single seniors on second property purchase",
+      "confidence": 0.95,
+      "topics": ["housing", "seniors", "tax relief"]
+    },
+    {
+      "id": "scheme_ccp",
+      "label": "Career Conversion Programme (CCP)",
+      "type": "policy_scheme",
+      "agency": "SkillsFuture",
+      "description": "Supports mid-career workers transitioning into growth job roles",
+      "confidence": 0.95,
+      "topics": ["employment", "training", "career transition"]
+    },
+    {
+      "id": "scheme_cda_topup",
+      "label": "Top-up to Child Development Account (CDA)",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "One-off $400 top-up to Child Development Account for Singapore Citizens aged 0 to 6",
+      "confidence": 0.95,
+      "topics": ["family", "financial assistance", "childcare"]
+    },
+    {
+      "id": "scheme_cda",
+      "label": "Child Development Account",
+      "type": "policy_scheme",
+      "agency": "MSF",
+      "description": "Special savings account for child-raising costs with government co-matching",
+      "confidence": 0.95,
+      "topics": ["family", "financial assistance", "childcare", "education"]
+    },
+    {
+      "id": "scheme_cdc_vouchers",
+      "label": "Community Development Council (CDC) Vouchers",
+      "type": "policy_scheme",
+      "agency": "PA",
+      "description": "Vouchers for use at heartland merchants, hawkers, and supermarkets",
+      "confidence": 0.95,
+      "topics": ["household costs", "community", "social support"]
+    },
+    {
+      "id": "scheme_ese",
+      "label": "Eligible Schemes Enrolment (ESE)",
+      "type": "policy_scheme",
+      "agency": "AIC",
+      "description": "Streamlined process to apply for multiple long-term care financial support schemes",
+      "confidence": 0.95,
+      "topics": ["healthcare", "seniors", "disability support", "financial assistance"]
+    },
+    {
+      "id": "agency_msf",
+      "label": "Ministry of Social and Family Development",
+      "type": "organization",
+      "description": "Singapore government agency handling social and family support programs",
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_hdb",
+      "label": "Housing and Development Board",
+      "type": "organization",
+      "description": "Singapore government agency managing public housing",
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_moe",
+      "label": "Ministry of Education",
+      "type": "organization",
+      "description": "Singapore government agency managing education policies",
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_aic",
+      "label": "Agency for Integrated Care",
+      "type": "organization",
+      "description": "Singapore government agency managing long-term care and disability services",
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_moh",
+      "label": "Ministry of Health",
+      "type": "organization",
+      "description": "Singapore government agency managing healthcare policies",
+      "confidence": 0.95
+    },
+    {
+      "id": "agency_sgenable",
+      "label": "SG Enable",
+      "type": "organization",
+      "description": "Singapore government agency supporting persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_sg_citizen",
+      "label": "Singapore Citizen",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on Singapore citizenship",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_pr",
+      "label": "Permanent Resident",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on PR status",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_seniors",
+      "label": "Seniors",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on age (typically 55+, 60+, 65+ depending on scheme)",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_low_income",
+      "label": "Lower-income Families",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on household income thresholds",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_pwd",
+      "label": "Persons with Disabilities",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on disability status",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_caregivers",
+      "label": "Caregivers",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on caregiving role",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_families_children",
+      "label": "Families with Children",
+      "type": "eligibility_criterion",
+      "description": "Eligibility based on having dependent children",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_vouchers",
+      "label": "Voucher Support",
+      "type": "support_type",
+      "description": "Direct voucher allocation for goods and services",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_cash",
+      "label": "Cash Grants and Payouts",
+      "type": "support_type",
+      "description": "Direct cash payments to beneficiaries",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_subsidies",
+      "label": "Subsidies",
+      "type": "support_type",
+      "description": "Partial cost coverage for goods and services",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_training",
+      "label": "Training and Reskilling",
+      "type": "support_type",
+      "description": "Support for professional development and skill training",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_housing",
+      "label": "Housing Support",
+      "type": "support_type",
+      "description": "Support for property purchase and residential arrangements",
+      "confidence": 0.95
+    },
+    {
+      "id": "support_type_tax_relief",
+      "label": "Tax Relief",
+      "type": "support_type",
+      "description": "Tax concessions and refunds",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_family_support",
+      "label": "Family Support",
+      "type": "topic",
+      "description": "Policies supporting family needs and child-raising",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_housing",
+      "label": "Housing",
+      "type": "topic",
+      "description": "Policies related to residential properties and accommodation",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_employment",
+      "label": "Employment and Career",
+      "type": "topic",
+      "description": "Policies supporting employment transitions and career development",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_healthcare_disability",
+      "label": "Healthcare and Disability Support",
+      "type": "topic",
+      "description": "Policies addressing healthcare needs and disability support",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_education",
+      "label": "Education",
+      "type": "topic",
+      "description": "Policies supporting education costs and access",
+      "confidence": 0.95
+    },
+    {
+      "id": "topic_seniors",
+      "label": "Seniors Support",
+      "type": "topic",
+      "description": "Policies specifically targeting senior citizens",
+      "confidence": 0.95
+    },
+    {
+      "id": "sg_child_support_package",
+      "label": "SG Child Support Package",
+      "type": "policy_initiative",
+      "description": "Announced at 2026 National Day Rally, replaces Baby Bonus and Large Families schemes",
+      "confidence": 0.90
+    },
+    {
+      "id": "cpf_ordinary_account",
+      "label": "CPF Ordinary Account",
+      "type": "financial_product",
+      "description": "CPF savings account used for housing and other approved purposes",
+      "confidence": 0.95
+    },
+    {
+      "id": "hdb_flat",
+      "label": "HDB Flat",
+      "type": "housing_type",
+      "description": "Public housing provided by Housing and Development Board",
+      "confidence": 0.95
+    },
+    {
+      "id": "home_protection_scheme",
+      "label": "Home Protection Scheme",
+      "type": "financial_product",
+      "description": "Insurance scheme protecting HDB housing loans",
+      "confidence": 0.88
+    },
+    {
+      "id": "disability_assessment",
+      "label": "Disability Assessment",
+      "type": "process",
+      "description": "Process to verify and assess disability status for scheme eligibility",
+      "confidence": 0.92
+    },
+    {
+      "id": "means_testing",
+      "label": "Means Testing",
+      "type": "process",
+      "description": "Income and asset assessment for determining support eligibility",
+      "confidence": 0.95
+    },
+    {
+      "id": "lifestyles_sentral",
+      "label": "LifeSG",
+      "type": "digital_platform",
+      "description": "Integrated digital platform for government services and scheme applications",
+      "confidence": 0.92
+    }
+  ],
+  "edges": [
+    {
+      "source": "scheme_climate_vouchers",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.85
+    },
+    {
+      "source": "scheme_climate_vouchers",
+      "target": "support_type_vouchers",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_climate_vouchers",
+      "target": "eligibility_sg_citizen",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_climate_vouchers",
+      "target": "topic_housing",
+      "type": "belongs_to_topic",
+      "confidence": 0.90
+    },
+    {
+      "source": "scheme_comlink",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_comlink",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_comlink",
+      "target": "eligibility_low_income",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_comlink",
+      "target": "eligibility_families_children",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_comlink",
+      "target": "topic_family_support",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cpf_housing",
+      "target": "cpf_ordinary_account",
+      "type": "uses",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cpf_housing",
+      "target": "hdb_flat",
+      "type": "supports_purchase_of",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cpf_housing",
+      "target": "home_protection_scheme",
+      "type": "can_cover_cost_of",
+      "confidence": 0.88
+    },
+    {
+      "source": "scheme_cpf_housing",
+      "target": "topic_housing",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_activesg",
+      "target": "eligibility_seniors",
+      "type": "offers_benefit_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_activesg",
+      "target": "topic_healthcare_disability",
+      "type": "relates_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "scheme_assist",
+      "target": "agency_hdb",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_assist",
+      "target": "hdb_flat",
+      "type": "allocates",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_assist",
+      "target": "topic_housing",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "agency_sgenable",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "support_type_subsidies",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "eligibility_pwd",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "disability_assessment",
+      "type": "requires_process",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "means_testing",
+      "type": "requires_process",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_atf",
+      "target": "topic_healthcare_disability",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_bonus",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_bonus",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_bonus",
+      "target": "scheme_cda",
+      "type": "works_with",
+      "confidence": 0.92
+    },
+    {
+      "source": "scheme_baby_bonus",
+      "target": "sg_child_support_package",
+      "type": "being_replaced_by",
+      "confidence": 0.90
+    },
+    {
+      "source": "scheme_baby_bonus",
+      "target": "topic_family_support",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_adoption_leave",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_adoption_leave",
+      "target": "topic_family_support",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_adoption_leave",
+      "target": "topic_employment",
+      "type": "relates_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "scheme_goal",
+      "target": "agency_sgenable",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_goal",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_goal",
+      "target": "eligibility_pwd",
+      "type": "supports_caregivers_of",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_goal",
+      "target": "means_testing",
+      "type": "requires_process",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careconnect",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careconnect",
+      "target": "eligibility_caregivers",
+      "type": "targets",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_support",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_support",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_baby_support",
+      "target": "sg_child_support_package",
+      "type": "being_replaced_by",
+      "confidence": 0.88
+    },
+    {
+      "source": "scheme_sg60",
+      "target": "support_type_vouchers",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_sg60",
+      "target": "eligibility_sg_citizen",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_isb",
+      "target": "agency_moe",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_isb",
+      "target": "support_type_subsidies",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_isb",
+      "target": "eligibility_low_income",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_isb",
+      "target": "topic_education",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ctg",
+      "target": "agency_aic",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ctg",
+      "target": "support_type_training",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ctg",
+      "target": "eligibility_caregivers",
+      "type": "requires_eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careshield",
+      "target": "agency_moh",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careshield",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careshield",
+      "target": "disability_assessment",
+      "type": "requires_process",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_careshield",
+      "target": "topic_healthcare_disability",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cca",
+      "target": "agency_hdb",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cca",
+      "target": "eligibility_seniors",
+      "type": "targets",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cca",
+      "target": "topic_housing",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cca",
+      "target": "topic_seniors",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_absd",
+      "target": "support_type_tax_relief",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_absd",
+      "target": "eligibility_seniors",
+      "type": "targets",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_absd",
+      "target": "topic_housing",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ccp",
+      "target": "support_type_training",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ccp",
+      "target": "topic_employment",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cda_topup",
+      "target": "scheme_cda",
+      "type": "enhances",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cda_topup",
+      "target": "sg_child_support_package",
+      "type": "relates_to",
+      "confidence": 0.80
+    },
+    {
+      "source": "scheme_cda",
+      "target": "agency_msf",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cda",
+      "target": "support_type_cash",
+      "type": "provides",
+      "confidence": 0.88
+    },
+    {
+      "source": "scheme_cda",
+      "target": "topic_family_support",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_cdc_vouchers",
+      "target": "support_type_vouchers",
+      "type": "provides",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ese",
+      "target": "agency_aic",
+      "type": "administrated_by",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ese",
+      "target": "scheme_careshield",
+      "type": "streamlines_application_for",
+      "confidence": 0.92
+    },
+    {
+      "source": "scheme_ese",
+      "target": "topic_healthcare_disability",
+      "type": "belongs_to_topic",
+      "confidence": 0.95
+    },
+    {
+      "source": "eligibility_families_children",
+      "target": "topic_family_support",
+      "type": "relates_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "eligibility_seniors",
+      "target": "topic_seniors",
+      "type": "relates_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "eligibility_pwd",
+      "target": "topic_healthcare_disability",
+      "type": "relates_to",
+      "confidence": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_child_support_ecosystem",
+      "label": "Child Support Ecosystem",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_baby_bonus",
+        "scheme_baby_support",
+        "scheme_cda",
+        "scheme_cda_topup",
+        "sg_child_support_package"
+      ],
+      "description": "Related schemes providing comprehensive child and family support, with transition to new unified package",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_housing_support",
+      "label": "Housing Support Ecosystem",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_cpf_housing",
+        "scheme_assist",
+        "scheme_cca",
+        "scheme_absd",
+        "agency_hdb",
+        "hdb_flat"
+      ],
+      "description": "Interconnected housing schemes serving different demographics (young families, seniors, divorced parents)",
+      "confidence": 0.93
+    },
+    {
+      "id": "hyperedge_disability_support_network",
+      "label": "Disability Support Network",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_atf",
+        "scheme_goal",
+        "scheme_careconnect",
+        "scheme_ctg",
+        "scheme_careshield",
+        "scheme_ese",
+        "agency_sgenable",
+        "agency_aic",
+        "eligibility_pwd",
+        "disability_assessment"
+      ],
+      "description": "Comprehensive network of disability-related schemes with streamlined application through ESE",
+      "confidence": 0.94
+    },
+    {
+      "id": "hyperedge_seniors_support_network",
+      "label": "Seniors Support Network",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_activesg",
+        "scheme_cca",
+        "scheme_absd",
+        "scheme_careshield",
+        "scheme_ctg",
+        "eligibility_seniors",
+        "topic_seniors"
+      ],
+      "description": "Integrated support programs addressing housing, healthcare, recreation, and financial needs of seniors",
+      "confidence": 0.93
+    },
+    {
+      "id": "hyperedge_msf_family_support",
+      "label": "MSF Family Support Portfolio",
+      "type": "agency_portfolio",
+      "nodes": [
+        "scheme_comlink",
+        "scheme_baby_bonus",
+        "scheme_adoption_leave",
+        "scheme_baby_support",
+        "scheme_cda",
+        "scheme_cda_topup",
+        "scheme_careconnect",
+        "agency_msf"
+      ],
+      "description": "Comprehensive family support programs administered by Ministry of Social and Family Development",
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_low_income_support",
+      "label": "Low-Income Support Programs",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_comlink",
+        "scheme_isb",
+        "scheme_cdc_vouchers",
+        "scheme_sg60",
+        "scheme_climate_vouchers",
+        "eligibility_low_income",
+        "support_type_vouchers",
+        "support_type_cash"
+      ],
+      "description": "Multiple voucher and cash assistance programs targeting households with limited financial resources",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_employment_training",
+      "label": "Employment and Training Support",
+      "type": "policy_ecosystem",
+      "nodes": [
+        "scheme_ccp",
+        "scheme_ctg",
+        "support_type_training",
+        "topic_employment"
+      ],
+      "description": "Programs supporting career transition and skills development for workers",
+      "confidence": 0.90
+    }
+  ],
+  "statistics": {
+    "total_nodes": 57,
+    "node_types": {
+      "policy_scheme": 22,
+      "organization": 6,
+      "eligibility_criterion": 7,
+      "support_type": 6,
+      "topic": 6,
+      "policy_initiative": 1,
+      "financial_product": 2,
+      "housing_type": 1,
+      "process": 2,
+      "digital_platform": 1
+    },
+    "total_edges": 82,
+    "edge_types": {
+      "administrated_by": 13,
+      "provides": 11,
+      "requires_eligibility": 3,
+      "belongs_to_topic": 8,
+      "uses": 1,
+      "supports_purchase_of": 1,
+      "can_cover_cost_of": 1,
+      "offers_benefit_to": 1,
+      "relates_to": 5,
+      "allocates": 1,
+      "requires_process": 5,
+      "works_with": 1,
+      "being_replaced_by": 2,
+      "supports_caregivers_of": 1,
+      "targets": 3,
+      "streamlines_application_for": 1,
+      "enhances": 1
+    },
+    "total_hyperedges": 7,
+    "hyperedge_focus": "Policy ecosystems and integrated support networks"
+  },
+  "token_estimates": {
+    "content_tokens": 18500,
+    "extracted_entities": 57,
+    "relationship_density": 1.44,
+    "compression_ratio": 0.42
+  },
+  "quality_metrics": {
+    "average_confidence": 0.92,
+    "high_confidence_edges": 73,
+    "medium_confidence_edges": 9,
+    "cross_linking_density": 0.87,
+    "completeness_score": 0.89
+  }
+}

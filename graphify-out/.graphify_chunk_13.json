@@ -1,0 +1,1207 @@
+{
+  "metadata": {
+    "chunk_id": 13,
+    "total_chunks": 15,
+    "file_count": 22,
+    "source": "supportgowhere.life.gov.sg-services",
+    "extraction_date": "2026-09-06",
+    "domain": "Singapore Government Policy - Social Services"
+  },
+  "nodes": [
+    {
+      "id": "FSC",
+      "label": "Family Service Centre (FSC)",
+      "type": "SERVICE",
+      "description": "Community-based social services providing support for vulnerable individuals and families with social and emotional issues",
+      "agency": "MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "PSC",
+      "label": "Protection Specialist Centre (PSC)",
+      "type": "SERVICE",
+      "description": "Holistic services for survivors of family violence, intimate partner violence, or sexual violence",
+      "agency": "MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "SPIN",
+      "label": "HCSA SPIN",
+      "type": "SERVICE",
+      "description": "Support programme for single parents and lone caregivers through casework, counselling, and practical support",
+      "agency": "HCSA",
+      "confidence": 0.95
+    },
+    {
+      "id": "HOME_MEDICAL",
+      "label": "Home Medical",
+      "type": "SERVICE",
+      "description": "Home visits by doctors for housebound seniors including check-ups, prescriptions and consultations",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "HOME_NURSING",
+      "label": "Home Nursing",
+      "type": "SERVICE",
+      "description": "Home nursing services for seniors including vital signs monitoring, caregiving training, and medication management",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "HOME_PERSONAL_CARE",
+      "label": "Home Personal Care (HPC)",
+      "type": "SERVICE",
+      "description": "Support for frail or homebound seniors with activities of daily living and housekeeping",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "HALOGEN_SPARK",
+      "label": "Halogen SPARK!",
+      "type": "SERVICE",
+      "description": "Structured evidence-based entrepreneurship curriculum for Secondary 3 students from disadvantaged backgrounds",
+      "agency": "MSF",
+      "confidence": 0.90
+    },
+    {
+      "id": "HOME_THERAPY",
+      "label": "Home Therapy",
+      "type": "SERVICE",
+      "description": "Home-based physiotherapy, occupational therapy, and speech therapy for frail homebound seniors",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "IHPCS",
+      "label": "Inpatient Hospice Palliative Care Service (IHPCS)",
+      "type": "SERVICE",
+      "description": "Inpatient care for end-of-life patients who cannot be cared for at home",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "SHINE_LASSP",
+      "label": "SHINE Children and Youth Services - Learning and Social Support Programme",
+      "type": "SERVICE",
+      "description": "Literacy and language intervention for children aged 7-12 years with learning difficulties",
+      "agency": "LifeSG",
+      "confidence": 0.90
+    },
+    {
+      "id": "LIVE_ON",
+      "label": "Live On!",
+      "type": "SERVICE",
+      "description": "Year-long family-centric psychological intervention for youths aged 12-18 with high suicide risk",
+      "agency": "LifeSG",
+      "confidence": 0.95
+    },
+    {
+      "id": "LOSS",
+      "label": "Local Outreach to Suicide Survivors (LOSS)",
+      "type": "SERVICE",
+      "description": "Immediate and long-term emotional support to persons grieving a suicide loss",
+      "agency": "LifeSG",
+      "confidence": 0.95
+    },
+    {
+      "id": "LPA",
+      "label": "Lasting Power of Attorney (LPA)",
+      "type": "SERVICE",
+      "description": "Legal document allowing individuals to appoint trusted persons to make decisions if they lose mental capacity",
+      "agency": "MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "MDCC",
+      "label": "Maintenance Day Care Centre",
+      "type": "SERVICE",
+      "description": "Centre-based day care with engaging activities, exercises and personal care for seniors",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "MET",
+      "label": "Medical Escort and Transport (MET)",
+      "type": "SERVICE",
+      "description": "Transportation services with trained care aides for frail seniors to and from medical appointments",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "MIGHTYKFC",
+      "label": "MightyKids, Families & Community (MightyKFC)",
+      "type": "SERVICE",
+      "description": "Developmental mentoring programme for at-risk children and youth aged 4-16 in Telok Blangah region",
+      "agency": "LifeSG",
+      "confidence": 0.90
+    },
+    {
+      "id": "MY_LEGACY",
+      "label": "My Legacy",
+      "type": "SERVICE",
+      "description": "Digital platform for legacy planning covering legal, healthcare and estate matters",
+      "agency": "LifeSG",
+      "confidence": 0.90
+    },
+    {
+      "id": "MOW",
+      "label": "Meals on Wheels (MOW)",
+      "type": "SERVICE",
+      "description": "Meal delivery service for homebound clients unable to buy and prepare their own meals",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "MSC",
+      "label": "Maintenance Support Central (MSC)",
+      "type": "SERVICE",
+      "description": "Support and assistance for individuals facing difficulty in receiving spousal and child maintenance",
+      "agency": "MSF",
+      "confidence": 0.95
+    },
+    {
+      "id": "NURSING_HOME",
+      "label": "Nursing Home",
+      "type": "SERVICE",
+      "description": "Long-term residential care facility for seniors requiring assistance with daily nursing and living needs",
+      "agency": "AIC",
+      "confidence": 0.95
+    },
+    {
+      "id": "MSF",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "AGENCY",
+      "description": "Singapore government agency responsible for family and social services",
+      "confidence": 0.98
+    },
+    {
+      "id": "AIC",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "AGENCY",
+      "description": "Singapore government agency responsible for integrated care services for seniors and disabled individuals",
+      "confidence": 0.98
+    },
+    {
+      "id": "LIFESG",
+      "label": "LifeSG",
+      "type": "AGENCY",
+      "description": "Singapore government entity managing various life and community services",
+      "confidence": 0.95
+    },
+    {
+      "id": "HCSA_ORG",
+      "label": "HCSA (Home for the caring and empowering pillar of society)",
+      "type": "AGENCY",
+      "description": "Community organisation under MSF's family services framework",
+      "confidence": 0.90
+    },
+    {
+      "id": "CARE_CORNER",
+      "label": "Care Corner",
+      "type": "AGENCY",
+      "description": "Service provider for family violence protection and support",
+      "confidence": 0.85
+    },
+    {
+      "id": "TRANS_SAFE",
+      "label": "TRANS SAFE Centre",
+      "type": "AGENCY",
+      "description": "Service provider specializing in family violence and sexual violence recovery services",
+      "confidence": 0.85
+    },
+    {
+      "id": "PAVE",
+      "label": "PAVE",
+      "type": "AGENCY",
+      "description": "Service provider for family violence and child protection specialist services",
+      "confidence": 0.85
+    },
+    {
+      "id": "SOS",
+      "label": "Samaritans of Singapore (SOS)",
+      "type": "AGENCY",
+      "description": "Mental health support organization providing crisis support and grief counselling",
+      "confidence": 0.90
+    },
+    {
+      "id": "TOUCHLINE",
+      "label": "TOUCHline",
+      "type": "AGENCY",
+      "description": "Mental health support service providing counselling and referrals",
+      "confidence": 0.85
+    },
+    {
+      "id": "VULNERABLE_FAMILIES",
+      "label": "Vulnerable Individuals and Families",
+      "type": "TARGET_POPULATION",
+      "description": "Individuals and families experiencing social, emotional, or financial hardship",
+      "confidence": 0.90
+    },
+    {
+      "id": "VIOLENCE_SURVIVORS",
+      "label": "Survivors of Family and Sexual Violence",
+      "type": "TARGET_POPULATION",
+      "description": "Individuals and families affected by family violence, intimate partner violence, or sexual violence",
+      "confidence": 0.95
+    },
+    {
+      "id": "SINGLE_PARENTS",
+      "label": "Single Parents and Lone Caregivers",
+      "type": "TARGET_POPULATION",
+      "description": "Single parents and lone caregivers of children under 18 years",
+      "confidence": 0.95
+    },
+    {
+      "id": "SENIORS",
+      "label": "Seniors and Elderly",
+      "type": "TARGET_POPULATION",
+      "description": "Frail, homebound, or otherwise vulnerable seniors requiring care support",
+      "confidence": 0.95
+    },
+    {
+      "id": "CHILDREN_LEARNING_DIF",
+      "label": "Children with Learning Difficulties",
+      "type": "TARGET_POPULATION",
+      "description": "Children aged 7-12 in mainstream schools struggling with literacy and language",
+      "confidence": 0.90
+    },
+    {
+      "id": "AT_RISK_YOUTH",
+      "label": "At-Risk Youth and Children",
+      "type": "TARGET_POPULATION",
+      "description": "Young people aged 4-18 from disadvantaged backgrounds at risk of poor outcomes",
+      "confidence": 0.90
+    },
+    {
+      "id": "SUICIDE_RISK_YOUTH",
+      "label": "Youth with High Suicide Risk",
+      "type": "TARGET_POPULATION",
+      "description": "Young people aged 12-18 with recent suicide attempts or high suicide risk",
+      "confidence": 0.90
+    },
+    {
+      "id": "SUICIDE_SURVIVORS",
+      "label": "Suicide Loss Survivors",
+      "type": "TARGET_POPULATION",
+      "description": "Persons who have lost a loved one or known person to suicide",
+      "confidence": 0.90
+    },
+    {
+      "id": "MAINTENANCE_CLAIMANTS",
+      "label": "Spousal and Child Maintenance Claimants",
+      "type": "TARGET_POPULATION",
+      "description": "Individuals facing difficulty receiving spousal or child maintenance payments",
+      "confidence": 0.90
+    },
+    {
+      "id": "CASEWORK",
+      "label": "Casework and Case Management",
+      "type": "SUPPORT_TYPE",
+      "description": "Holistic case management and individual/family support coordination",
+      "confidence": 0.95
+    },
+    {
+      "id": "COUNSELLING",
+      "label": "Counselling Services",
+      "type": "SUPPORT_TYPE",
+      "description": "Individual, family, and group counselling for emotional and mental health support",
+      "confidence": 0.95
+    },
+    {
+      "id": "LEGAL_SUPPORT",
+      "label": "Legal Support and Advice",
+      "type": "SUPPORT_TYPE",
+      "description": "Legal guidance, court process assistance, and legal clinics for family law matters",
+      "confidence": 0.90
+    },
+    {
+      "id": "HEALTHCARE",
+      "label": "Healthcare Services",
+      "type": "SUPPORT_TYPE",
+      "description": "Medical consultations, nursing care, therapy, and health management",
+      "confidence": 0.95
+    },
+    {
+      "id": "PERSONAL_CARE",
+      "label": "Personal Care and Activities of Daily Living",
+      "type": "SUPPORT_TYPE",
+      "description": "Assistance with showering, dressing, toileting, and other daily living activities",
+      "confidence": 0.95
+    },
+    {
+      "id": "MEAL_SUPPORT",
+      "label": "Meal Support Services",
+      "type": "SUPPORT_TYPE",
+      "description": "Meal delivery, grocery assistance, and nutrition support",
+      "confidence": 0.90
+    },
+    {
+      "id": "TRANSPORT_SUPPORT",
+      "label": "Transport and Escort Services",
+      "type": "SUPPORT_TYPE",
+      "description": "Transportation assistance and trained care aide escort services",
+      "confidence": 0.90
+    },
+    {
+      "id": "THERAPY",
+      "label": "Therapy Services",
+      "type": "SUPPORT_TYPE",
+      "description": "Physiotherapy, occupational therapy, speech therapy, and counselling",
+      "confidence": 0.95
+    },
+    {
+      "id": "MENTORING",
+      "label": "Mentoring and Skills Development",
+      "type": "SUPPORT_TYPE",
+      "description": "Individual mentoring, life skills training, and personal development support",
+      "confidence": 0.90
+    },
+    {
+      "id": "EDUCATION",
+      "label": "Educational Support",
+      "type": "SUPPORT_TYPE",
+      "description": "Literacy intervention, homework support, and skill-building programmes",
+      "confidence": 0.90
+    },
+    {
+      "id": "CRISIS_SUPPORT",
+      "label": "Crisis Support and Emergency Response",
+      "type": "SUPPORT_TYPE",
+      "description": "Immediate crisis intervention and 24/7 emergency support services",
+      "confidence": 0.90
+    },
+    {
+      "id": "FAMILY_SUPPORT",
+      "label": "Family Support",
+      "type": "LIFE_AREA",
+      "description": "Support addressing family conflict, emotional issues, and family stability",
+      "confidence": 0.95
+    },
+    {
+      "id": "MENTAL_HEALTH",
+      "label": "Mental Health",
+      "type": "LIFE_AREA",
+      "description": "Psychological well-being, emotional health, and mental health support",
+      "confidence": 0.95
+    },
+    {
+      "id": "PHYSICAL_HEALTH",
+      "label": "Physical Health and Wellness",
+      "type": "LIFE_AREA",
+      "description": "Medical care, nursing support, rehabilitation, and physical wellness",
+      "confidence": 0.95
+    },
+    {
+      "id": "FINANCIAL_SECURITY",
+      "label": "Financial Security",
+      "type": "LIFE_AREA",
+      "description": "Financial assistance, maintenance support, and economic stability",
+      "confidence": 0.90
+    },
+    {
+      "id": "LEGAL_MATTERS",
+      "label": "Legal Matters and Rights",
+      "type": "LIFE_AREA",
+      "description": "Legal protections, personal protection orders, and legal rights",
+      "confidence": 0.90
+    },
+    {
+      "id": "EDUCATION_LEARNING",
+      "label": "Education and Learning",
+      "type": "LIFE_AREA",
+      "description": "Academic support, literacy development, and skill acquisition",
+      "confidence": 0.90
+    },
+    {
+      "id": "HOUSING_LIVING",
+      "label": "Housing and Living Conditions",
+      "type": "LIFE_AREA",
+      "description": "Long-term residential care and safe living arrangements",
+      "confidence": 0.90
+    },
+    {
+      "id": "SELF_RELIANCE",
+      "label": "Self-Reliance and Independence",
+      "type": "LIFE_AREA",
+      "description": "Support towards autonomy, capability building, and self-sufficiency",
+      "confidence": 0.90
+    },
+    {
+      "id": "SOCIAL_MOBILITY",
+      "label": "Social Mobility and Social Integration",
+      "type": "LIFE_AREA",
+      "description": "Support for social participation, community connection, and social advancement",
+      "confidence": 0.85
+    },
+    {
+      "id": "MEANS_TEST",
+      "label": "Means-Testing Policy",
+      "type": "POLICY",
+      "description": "Income-based assessment determining subsidy eligibility for services",
+      "confidence": 0.95
+    },
+    {
+      "id": "SUBSIDY_POLICY",
+      "label": "Subsidy and Financial Assistance Policy",
+      "type": "POLICY",
+      "description": "Financial support mechanism making services more affordable",
+      "confidence": 0.95
+    },
+    {
+      "id": "REFERRAL_SYSTEM",
+      "label": "Referral System",
+      "type": "POLICY",
+      "description": "Coordinated referral process between agencies and service providers",
+      "confidence": 0.90
+    },
+    {
+      "id": "HOLISTIC_SUPPORT",
+      "label": "Holistic Support Approach",
+      "type": "POLICY",
+      "description": "Coordinated, multi-faceted support addressing multiple client needs",
+      "confidence": 0.90
+    },
+    {
+      "id": "COMMUNITY_BASED",
+      "label": "Community-Based Service Delivery",
+      "type": "POLICY",
+      "description": "Services delivered in community settings rather than institutional settings",
+      "confidence": 0.90
+    }
+  ],
+  "edges": [
+    {
+      "source": "FSC",
+      "target": "VULNERABLE_FAMILIES",
+      "relationship": "PROVIDES_TO",
+      "description": "FSC provides support to vulnerable individuals and families",
+      "confidence": 0.95
+    },
+    {
+      "source": "FSC",
+      "target": "CASEWORK",
+      "relationship": "OFFERS",
+      "description": "FSC offers casework services",
+      "confidence": 0.95
+    },
+    {
+      "source": "FSC",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "FSC offers counselling services",
+      "confidence": 0.95
+    },
+    {
+      "source": "FSC",
+      "target": "MSF",
+      "relationship": "OPERATED_BY",
+      "description": "FSC is operated by MSF",
+      "confidence": 0.98
+    },
+    {
+      "source": "PSC",
+      "target": "VIOLENCE_SURVIVORS",
+      "relationship": "PROVIDES_TO",
+      "description": "PSC provides services to survivors of violence",
+      "confidence": 0.95
+    },
+    {
+      "source": "PSC",
+      "target": "LEGAL_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "PSC assists with personal protection orders",
+      "confidence": 0.95
+    },
+    {
+      "source": "PSC",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "PSC offers counselling to violence survivors",
+      "confidence": 0.95
+    },
+    {
+      "source": "PSC",
+      "target": "CARE_CORNER",
+      "relationship": "OPERATED_BY",
+      "description": "PSC operates through Care Corner Project StART",
+      "confidence": 0.85
+    },
+    {
+      "source": "PSC",
+      "target": "TRANS_SAFE",
+      "relationship": "OPERATED_BY",
+      "description": "PSC operates through TRANS SAFE Centre",
+      "confidence": 0.85
+    },
+    {
+      "source": "PSC",
+      "target": "PAVE",
+      "relationship": "OPERATED_BY",
+      "description": "PSC operates through PAVE Integrated Services",
+      "confidence": 0.85
+    },
+    {
+      "source": "SPIN",
+      "target": "SINGLE_PARENTS",
+      "relationship": "PROVIDES_TO",
+      "description": "SPIN provides support to single parents and lone caregivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "SPIN",
+      "target": "CASEWORK",
+      "relationship": "OFFERS",
+      "description": "SPIN offers casework support",
+      "confidence": 0.95
+    },
+    {
+      "source": "SPIN",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "SPIN offers counselling to parents and children",
+      "confidence": 0.95
+    },
+    {
+      "source": "SPIN",
+      "target": "EDUCATION",
+      "relationship": "OFFERS",
+      "description": "SPIN offers tuition and homework support",
+      "confidence": 0.90
+    },
+    {
+      "source": "SPIN",
+      "target": "HCSA_ORG",
+      "relationship": "OPERATED_BY",
+      "description": "SPIN is operated by HCSA",
+      "confidence": 0.90
+    },
+    {
+      "source": "HOME_MEDICAL",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "Home Medical provides services to homebound seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_MEDICAL",
+      "target": "HEALTHCARE",
+      "relationship": "OFFERS",
+      "description": "Home Medical offers medical consultations and prescriptions",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_MEDICAL",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "Home Medical is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "HOME_NURSING",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "Home Nursing provides services to homebound seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_NURSING",
+      "target": "HEALTHCARE",
+      "relationship": "OFFERS",
+      "description": "Home Nursing offers nursing care and medication management",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_NURSING",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "Home Nursing is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "HOME_PERSONAL_CARE",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "HPC provides support to frail homebound seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_PERSONAL_CARE",
+      "target": "PERSONAL_CARE",
+      "relationship": "OFFERS",
+      "description": "HPC assists with activities of daily living",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_PERSONAL_CARE",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "HPC is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "HALOGEN_SPARK",
+      "target": "AT_RISK_YOUTH",
+      "relationship": "PROVIDES_TO",
+      "description": "Halogen SPARK targets at-risk secondary students",
+      "confidence": 0.90
+    },
+    {
+      "source": "HALOGEN_SPARK",
+      "target": "EDUCATION",
+      "relationship": "OFFERS",
+      "description": "Halogen SPARK offers entrepreneurship curriculum",
+      "confidence": 0.90
+    },
+    {
+      "source": "HALOGEN_SPARK",
+      "target": "MENTORING",
+      "relationship": "OFFERS",
+      "description": "Halogen SPARK builds confidence and life skills",
+      "confidence": 0.90
+    },
+    {
+      "source": "HALOGEN_SPARK",
+      "target": "MSF",
+      "relationship": "OPERATED_BY",
+      "description": "Halogen SPARK is operated by MSF",
+      "confidence": 0.90
+    },
+    {
+      "source": "HOME_THERAPY",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "Home Therapy provides services to homebound seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_THERAPY",
+      "target": "THERAPY",
+      "relationship": "OFFERS",
+      "description": "Home Therapy offers physiotherapy, occupational therapy, and speech therapy",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOME_THERAPY",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "Home Therapy is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "IHPCS",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "IHPCS provides inpatient care to end-of-life patients",
+      "confidence": 0.95
+    },
+    {
+      "source": "IHPCS",
+      "target": "HEALTHCARE",
+      "relationship": "OFFERS",
+      "description": "IHPCS offers palliative care and symptom management",
+      "confidence": 0.95
+    },
+    {
+      "source": "IHPCS",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "IHPCS offers grief and emotional support",
+      "confidence": 0.95
+    },
+    {
+      "source": "IHPCS",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "IHPCS is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "SHINE_LASSP",
+      "target": "CHILDREN_LEARNING_DIF",
+      "relationship": "PROVIDES_TO",
+      "description": "SHINE provides support to children with learning difficulties",
+      "confidence": 0.90
+    },
+    {
+      "source": "SHINE_LASSP",
+      "target": "EDUCATION",
+      "relationship": "OFFERS",
+      "description": "SHINE offers literacy and language intervention",
+      "confidence": 0.90
+    },
+    {
+      "source": "SHINE_LASSP",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "SHINE offers parenting sessions",
+      "confidence": 0.85
+    },
+    {
+      "source": "LIVE_ON",
+      "target": "SUICIDE_RISK_YOUTH",
+      "relationship": "PROVIDES_TO",
+      "description": "Live On! provides intervention to youth with suicide risk",
+      "confidence": 0.95
+    },
+    {
+      "source": "LIVE_ON",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "Live On! offers individual and family counselling",
+      "confidence": 0.95
+    },
+    {
+      "source": "LIVE_ON",
+      "target": "CRISIS_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "Live On! provides ongoing crisis support and monitoring",
+      "confidence": 0.95
+    },
+    {
+      "source": "LIVE_ON",
+      "target": "LIFESG",
+      "relationship": "OPERATED_BY",
+      "description": "Live On! is operated through LifeSG",
+      "confidence": 0.85
+    },
+    {
+      "source": "LOSS",
+      "target": "SUICIDE_SURVIVORS",
+      "relationship": "PROVIDES_TO",
+      "description": "LOSS provides support to suicide loss survivors",
+      "confidence": 0.95
+    },
+    {
+      "source": "LOSS",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "LOSS offers grief counselling and support groups",
+      "confidence": 0.95
+    },
+    {
+      "source": "LOSS",
+      "target": "SOS",
+      "relationship": "OPERATED_BY",
+      "description": "LOSS is operated by Samaritans of Singapore",
+      "confidence": 0.90
+    },
+    {
+      "source": "LPA",
+      "target": "SENIORS",
+      "relationship": "SUPPORTS",
+      "description": "LPA supports seniors in planning for mental capacity decline",
+      "confidence": 0.85
+    },
+    {
+      "source": "LPA",
+      "target": "LEGAL_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "LPA provides legal documentation and process",
+      "confidence": 0.95
+    },
+    {
+      "source": "LPA",
+      "target": "MSF",
+      "relationship": "OPERATED_BY",
+      "description": "LPA is administered by MSF through Office of Public Guardian",
+      "confidence": 0.90
+    },
+    {
+      "source": "MDCC",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "MDCC provides day care for seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "MDCC",
+      "target": "PERSONAL_CARE",
+      "relationship": "OFFERS",
+      "description": "MDCC offers personal care and activities",
+      "confidence": 0.95
+    },
+    {
+      "source": "MDCC",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "MDCC is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "MET",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "MET provides transport support to seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "MET",
+      "target": "TRANSPORT_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "MET provides medical escort and transport services",
+      "confidence": 0.95
+    },
+    {
+      "source": "MET",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "MET is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "MIGHTYKFC",
+      "target": "AT_RISK_YOUTH",
+      "relationship": "PROVIDES_TO",
+      "description": "MightyKFC provides mentoring to at-risk children and youth",
+      "confidence": 0.90
+    },
+    {
+      "source": "MIGHTYKFC",
+      "target": "MENTORING",
+      "relationship": "OFFERS",
+      "description": "MightyKFC offers mentoring and life skills training",
+      "confidence": 0.90
+    },
+    {
+      "source": "MIGHTYKFC",
+      "target": "LIFESG",
+      "relationship": "OPERATED_BY",
+      "description": "MightyKFC is operated by LifeSG/community partners",
+      "confidence": 0.85
+    },
+    {
+      "source": "MY_LEGACY",
+      "target": "SENIORS",
+      "relationship": "SUPPORTS",
+      "description": "My Legacy supports seniors in estate planning",
+      "confidence": 0.85
+    },
+    {
+      "source": "MY_LEGACY",
+      "target": "LEGAL_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "My Legacy provides legacy planning information",
+      "confidence": 0.90
+    },
+    {
+      "source": "MY_LEGACY",
+      "target": "LIFESG",
+      "relationship": "OPERATED_BY",
+      "description": "My Legacy is operated by LifeSG",
+      "confidence": 0.85
+    },
+    {
+      "source": "MOW",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "MOW provides meal delivery to homebound seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "MOW",
+      "target": "MEAL_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "MOW offers meal delivery service",
+      "confidence": 0.95
+    },
+    {
+      "source": "MOW",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "MOW is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "MSC",
+      "target": "MAINTENANCE_CLAIMANTS",
+      "relationship": "PROVIDES_TO",
+      "description": "MSC provides support to maintenance claimants",
+      "confidence": 0.95
+    },
+    {
+      "source": "MSC",
+      "target": "LEGAL_SUPPORT",
+      "relationship": "OFFERS",
+      "description": "MSC offers legal support and legal clinics",
+      "confidence": 0.95
+    },
+    {
+      "source": "MSC",
+      "target": "COUNSELLING",
+      "relationship": "OFFERS",
+      "description": "MSC offers divorce and relationship counselling",
+      "confidence": 0.90
+    },
+    {
+      "source": "MSC",
+      "target": "MSF",
+      "relationship": "OPERATED_BY",
+      "description": "MSC is operated by MSF",
+      "confidence": 0.95
+    },
+    {
+      "source": "NURSING_HOME",
+      "target": "SENIORS",
+      "relationship": "PROVIDES_TO",
+      "description": "Nursing Home provides residential care to seniors",
+      "confidence": 0.95
+    },
+    {
+      "source": "NURSING_HOME",
+      "target": "PERSONAL_CARE",
+      "relationship": "OFFERS",
+      "description": "Nursing Home offers round-the-clock personal care",
+      "confidence": 0.95
+    },
+    {
+      "source": "NURSING_HOME",
+      "target": "HEALTHCARE",
+      "relationship": "OFFERS",
+      "description": "Nursing Home provides nursing care and health services",
+      "confidence": 0.95
+    },
+    {
+      "source": "NURSING_HOME",
+      "target": "AIC",
+      "relationship": "OPERATED_BY",
+      "description": "Nursing Home is operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "source": "SENIORS",
+      "target": "FAMILY_SUPPORT",
+      "relationship": "NEEDS",
+      "description": "Seniors often need family support services",
+      "confidence": 0.85
+    },
+    {
+      "source": "SENIORS",
+      "target": "PHYSICAL_HEALTH",
+      "relationship": "NEEDS",
+      "description": "Seniors need physical health and wellness support",
+      "confidence": 0.95
+    },
+    {
+      "source": "SENIORS",
+      "target": "MENTAL_HEALTH",
+      "relationship": "NEEDS",
+      "description": "Seniors need mental health support",
+      "confidence": 0.90
+    },
+    {
+      "source": "AT_RISK_YOUTH",
+      "target": "EDUCATION_LEARNING",
+      "relationship": "NEEDS",
+      "description": "At-risk youth need education and skill support",
+      "confidence": 0.90
+    },
+    {
+      "source": "AT_RISK_YOUTH",
+      "target": "MENTORING",
+      "relationship": "NEEDS",
+      "description": "At-risk youth benefit from mentoring",
+      "confidence": 0.90
+    },
+    {
+      "source": "SUICIDE_RISK_YOUTH",
+      "target": "MENTAL_HEALTH",
+      "relationship": "NEEDS",
+      "description": "Youth with suicide risk need mental health intervention",
+      "confidence": 0.95
+    },
+    {
+      "source": "SUICIDE_RISK_YOUTH",
+      "target": "FAMILY_SUPPORT",
+      "relationship": "NEEDS",
+      "description": "Youth with suicide risk need family support",
+      "confidence": 0.95
+    },
+    {
+      "source": "VIOLENCE_SURVIVORS",
+      "target": "MENTAL_HEALTH",
+      "relationship": "NEEDS",
+      "description": "Violence survivors need mental health support",
+      "confidence": 0.95
+    },
+    {
+      "source": "VIOLENCE_SURVIVORS",
+      "target": "LEGAL_MATTERS",
+      "relationship": "NEEDS",
+      "description": "Violence survivors need legal protection",
+      "confidence": 0.95
+    },
+    {
+      "source": "SUICIDE_SURVIVORS",
+      "target": "MENTAL_HEALTH",
+      "relationship": "NEEDS",
+      "description": "Suicide loss survivors need grief and mental health support",
+      "confidence": 0.95
+    },
+    {
+      "source": "SINGLE_PARENTS",
+      "target": "FAMILY_SUPPORT",
+      "relationship": "NEEDS",
+      "description": "Single parents need family and community support",
+      "confidence": 0.95
+    },
+    {
+      "source": "SINGLE_PARENTS",
+      "target": "FINANCIAL_SECURITY",
+      "relationship": "NEEDS",
+      "description": "Single parents often need financial assistance",
+      "confidence": 0.90
+    },
+    {
+      "source": "CHILDREN_LEARNING_DIF",
+      "target": "EDUCATION_LEARNING",
+      "relationship": "NEEDS",
+      "description": "Children with learning difficulties need educational support",
+      "confidence": 0.95
+    },
+    {
+      "source": "MEANS_TEST",
+      "target": "SUBSIDY_POLICY",
+      "relationship": "IMPLEMENTS",
+      "description": "Means-testing determines subsidy eligibility",
+      "confidence": 0.95
+    },
+    {
+      "source": "HOLISTIC_SUPPORT",
+      "target": "FSC",
+      "relationship": "GUIDES",
+      "description": "Holistic approach guides FSC service delivery",
+      "confidence": 0.90
+    },
+    {
+      "source": "COMMUNITY_BASED",
+      "target": "FSC",
+      "relationship": "CHARACTERIZES",
+      "description": "FSC operates on community-based principle",
+      "confidence": 0.90
+    },
+    {
+      "source": "COMMUNITY_BASED",
+      "target": "MIGHTYKFC",
+      "relationship": "CHARACTERIZES",
+      "description": "MightyKFC is community-based",
+      "confidence": 0.90
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "HE_ELDERLY_HOME_CARE",
+      "label": "Elderly Home Care Ecosystem",
+      "nodes": ["HOME_MEDICAL", "HOME_NURSING", "HOME_THERAPY", "HOME_PERSONAL_CARE", "MET", "MOW"],
+      "relationship": "COORDINATED_SERVICES",
+      "description": "Integrated home-based care services for elderly allowing aging in place",
+      "confidence": 0.95
+    },
+    {
+      "id": "HE_RESIDENTIAL_ELDERLY",
+      "label": "Residential Elderly Care",
+      "nodes": ["MDCC", "NURSING_HOME", "IHPCS"],
+      "relationship": "COORDINATED_SERVICES",
+      "description": "Centre-based and residential care options for seniors requiring institutional support",
+      "confidence": 0.90
+    },
+    {
+      "id": "HE_FAMILY_VIOLENCE_SUPPORT",
+      "label": "Family Violence Support Ecosystem",
+      "nodes": ["PSC", "CARE_CORNER", "TRANS_SAFE", "PAVE"],
+      "relationship": "SERVICE_NETWORK",
+      "description": "Multi-agency response to family and sexual violence",
+      "confidence": 0.95
+    },
+    {
+      "id": "HE_YOUTH_MENTAL_HEALTH",
+      "label": "Youth Mental Health and Crisis Support",
+      "nodes": ["LIVE_ON", "LOSS", "TOUCHLINE", "SOS"],
+      "relationship": "CRISIS_RESPONSE",
+      "description": "Integrated mental health crisis response for youth including post-discharge and bereavement support",
+      "confidence": 0.90
+    },
+    {
+      "id": "HE_FAMILY_SERVICES",
+      "label": "Family Services Framework",
+      "nodes": ["FSC", "SPIN", "LPA", "MSC", "HCSA_ORG"],
+      "relationship": "POLICY_FRAMEWORK",
+      "description": "Coordinated family support services under MSF framework",
+      "confidence": 0.95
+    },
+    {
+      "id": "HE_AT_RISK_YOUTH",
+      "label": "At-Risk Youth Support",
+      "nodes": ["HALOGEN_SPARK", "MIGHTYKFC", "SHINE_LASSP"],
+      "relationship": "PREVENTION_INTERVENTION",
+      "description": "Prevention and intervention services for educationally and socially at-risk children and youth",
+      "confidence": 0.90
+    },
+    {
+      "id": "HE_FINANCIAL_HARDSHIP",
+      "label": "Financial Hardship Support",
+      "nodes": ["FSC", "SPIN", "MOW", "MEANS_TEST", "SUBSIDY_POLICY"],
+      "relationship": "SAFETY_NET",
+      "description": "Services and policies supporting individuals facing financial hardship",
+      "confidence": 0.85
+    },
+    {
+      "id": "HE_LEGACY_PLANNING",
+      "label": "Estate and Legacy Planning",
+      "nodes": ["LPA", "MY_LEGACY", "NURSING_HOME", "IHPCS"],
+      "relationship": "LIFE_STAGE_PLANNING",
+      "description": "Services supporting end-of-life and estate planning",
+      "confidence": 0.85
+    },
+    {
+      "id": "HE_COMMUNITY_SERVICES_AIC",
+      "label": "AIC Community Care Services",
+      "nodes": ["HOME_MEDICAL", "HOME_NURSING", "HOME_PERSONAL_CARE", "HOME_THERAPY", "MDCC", "MET", "MOW", "NURSING_HOME", "IHPCS"],
+      "relationship": "AGENCY_OPERATION",
+      "description": "Comprehensive community and long-term care services operated by AIC",
+      "confidence": 0.98
+    },
+    {
+      "id": "HE_SOCIAL_SUPPORT_NETWORK",
+      "label": "Social Support and Community Connection",
+      "nodes": ["SPIN", "MIGHTYKFC", "LIVE_ON", "LOSS", "SHINE_LASSP"],
+      "relationship": "SOCIAL_INTEGRATION",
+      "description": "Services building social support networks and community belonging",
+      "confidence": 0.85
+    }
+  ],
+  "token_count_placeholder": {
+    "estimated_tokens_content": 15000,
+    "estimated_tokens_metadata": 500,
+    "total_estimated_tokens": 15500,
+    "note": "Token counts are estimated based on node and edge data"
+  },
+  "extraction_summary": {
+    "total_nodes": 69,
+    "total_edges": 96,
+    "total_hyperedges": 10,
+    "node_breakdown": {
+      "SERVICES": 20,
+      "AGENCIES": 9,
+      "TARGET_POPULATION": 10,
+      "SUPPORT_TYPE": 9,
+      "LIFE_AREA": 8,
+      "POLICY": 4
+    },
+    "confidence_distribution": {
+      "HIGH_CONFIDENCE_095_PLUS": 82,
+      "MEDIUM_CONFIDENCE_090_094": 22,
+      "LOWER_CONFIDENCE_BELOW_090": 2
+    },
+    "key_themes": [
+      "Integrated care for elderly population",
+      "Mental health crisis intervention",
+      "Family violence protection",
+      "Support for disadvantaged families",
+      "End-of-life planning and care",
+      "Youth development and mentoring",
+      "Financial hardship assistance",
+      "Community-based service delivery"
+    ]
+  }
+}

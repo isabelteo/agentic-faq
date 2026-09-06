@@ -1,0 +1,1240 @@
+{
+  "chunk_id": "7/15",
+  "file_count": 21,
+  "extraction_metadata": {
+    "source_domain": "supportgowhere.life.gov.sg",
+    "scheme_collection": "schemes",
+    "date_extracted": "2025-09-06"
+  },
+  "nodes": [
+    {
+      "id": "scheme_mfas",
+      "label": "ITE Monthly Financial Assistance Scheme (MFAS)",
+      "type": "policy",
+      "agency": "SkillsFuture",
+      "category": "education",
+      "description": "Monthly allowance for full-time ITE students from lower-income households",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_mas",
+      "label": "Mobile Access for Seniors (MAS)",
+      "type": "policy",
+      "agency": "IMDA",
+      "category": "digital_inclusion",
+      "description": "Subsidised smartphone and mobile plans for lower-income seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_moe_fas",
+      "label": "MOE Financial Assistance Scheme (MOE FAS)",
+      "type": "policy",
+      "agency": "MOE",
+      "category": "education",
+      "description": "Financial assistance for lower-income families with children in government schools",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_mp_esb",
+      "label": "Majulah Package - Earn and Save Bonus",
+      "type": "policy",
+      "agency": "CPF",
+      "category": "retirement",
+      "description": "Annual bonus for working seniors to supplement retirement savings",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_mp_msb",
+      "label": "Majulah Package - MediSave Bonus",
+      "type": "policy",
+      "agency": "CPF",
+      "category": "healthcare",
+      "description": "One-off CPF bonus to supplement medical savings of seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_mp_rsb",
+      "label": "Majulah Package - Retirement Savings Bonus",
+      "type": "policy",
+      "agency": "CPF",
+      "category": "retirement",
+      "description": "One-off bonus for seniors with CPF retirement savings below Basic Retirement Sum",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_muis_fas",
+      "label": "MUIS Zakat Financial Assistance",
+      "type": "policy",
+      "agency": "MUIS",
+      "category": "financial_assistance",
+      "description": "Monthly financial assistance for low-income Muslim households",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_medisave_maternity",
+      "label": "MediSave Maternity Package",
+      "type": "policy",
+      "agency": "CPF",
+      "category": "healthcare",
+      "description": "Claims for pre-delivery and delivery medical expenses from MediSave",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_pioneer_gen",
+      "label": "Pioneer Generation Package",
+      "type": "policy",
+      "agency": "MOH",
+      "category": "healthcare",
+      "description": "Healthcare benefits and cash assistance for Singapore's Pioneer Generation",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_ptr",
+      "label": "Parenthood Tax Rebate (PTR)",
+      "type": "policy",
+      "agency": "IRAS",
+      "category": "tax_relief",
+      "description": "One-off tax rebate per child to encourage parenthood",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_national_silver_academy",
+      "label": "National Silver Academy",
+      "type": "policy",
+      "agency": "AIC",
+      "category": "education",
+      "description": "Subsidised learning courses for seniors aged 50+",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_hdb_ownership_change",
+      "label": "Change in HDB Flat Ownership After Flat Owner's Demise",
+      "type": "policy",
+      "agency": "HDB",
+      "category": "housing",
+      "description": "Process to retain HDB flat following death of joint or sole owner",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_spouse_relief",
+      "label": "Spouse Relief/Spouse Relief (Disability)",
+      "type": "policy",
+      "agency": "IRAS",
+      "category": "tax_relief",
+      "description": "Tax relief for taxpayers supporting spouses or disabled spouses",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_ns_lifesg_credits",
+      "label": "National Service LifeSG Credits",
+      "type": "policy",
+      "agency": "MINDEF",
+      "category": "financial_assistance",
+      "description": "LifeSG credits for past and present national servicemen",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_gpml",
+      "label": "Government-Paid Maternity Leave (GPML)",
+      "type": "policy",
+      "agency": "MSF",
+      "category": "family",
+      "description": "Paid maternity leave for eligible working mothers",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_deceased_cpf",
+      "label": "Application for Deceased's Unnominated CPF Monies",
+      "type": "policy",
+      "agency": "Public Trustee's Office",
+      "category": "estate",
+      "description": "Distribution of deceased CPF member's unnominated monies to next-of-kin",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_ease_private",
+      "label": "EASE (Private) - Enhancement for Active Seniors",
+      "type": "policy",
+      "agency": "BCA",
+      "category": "housing",
+      "description": "Subsidies for senior-friendly home fittings in private properties",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_staggered_dp",
+      "label": "Staggered Downpayment Scheme",
+      "type": "policy",
+      "agency": "HDB",
+      "category": "housing",
+      "description": "Allows split downpayment in 2 parts for eligible flat buyers",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_earned_income_relief",
+      "label": "Earned Income Relief",
+      "type": "policy",
+      "agency": "IRAS",
+      "category": "tax_relief",
+      "description": "Tax relief for employed or self-employed individuals",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_deceased_tax",
+      "label": "Settling Outstanding Tax Matters and Bills for Deceased",
+      "type": "policy",
+      "agency": "IRAS",
+      "category": "estate",
+      "description": "Process for settling deceased's taxes and bills from estate",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_platform_workers_cash",
+      "label": "Cash Relief for Platform Workers and Taxi Drivers",
+      "type": "policy",
+      "agency": "LifeSG",
+      "category": "financial_assistance",
+      "description": "Cash payout for eligible platform workers and taxi drivers",
+      "confidence": 0.95
+    },
+    {
+      "id": "scheme_pcts",
+      "label": "Platform Workers CPF Transition Support (PCTS)",
+      "type": "policy",
+      "agency": "CPF",
+      "category": "retirement",
+      "description": "Monthly cash payments for platform workers with increased CPF contributions",
+      "confidence": 0.95
+    },
+    {
+      "id": "org_cpf",
+      "label": "Central Provident Fund (CPF)",
+      "type": "organization",
+      "category": "financial_system",
+      "description": "Singapore's mandatory social security savings system",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_iras",
+      "label": "Inland Revenue Authority of Singapore (IRAS)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Tax authority responsible for tax administration",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_hdb",
+      "label": "Housing and Development Board (HDB)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Singapore's public housing authority",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_moe",
+      "label": "Ministry of Education (MOE)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Government ministry overseeing education",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_moh",
+      "label": "Ministry of Health (MOH)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Government ministry overseeing healthcare",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_msf",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Government ministry overseeing social and family policies",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_muis",
+      "label": "Majlis Ugama Islam Singapura (MUIS)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Islamic religious authority in Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_aic",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Coordinates integrated care for seniors and disabled persons",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_imda",
+      "label": "Info-communications Media Development Authority (IMDA)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Develops info-communications and media sectors",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_bca",
+      "label": "Building and Construction Authority (BCA)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Regulates building and construction sector",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_mindef",
+      "label": "Ministry of Defence (MINDEF)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Responsible for national defence and military",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_pto",
+      "label": "Public Trustee's Office (PTO)",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Manages estates and trusts",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_skillsfuture",
+      "label": "SkillsFuture",
+      "type": "organization",
+      "category": "government_agency",
+      "description": "Develops skills and training for workforce",
+      "confidence": 0.98
+    },
+    {
+      "id": "org_lifesg",
+      "label": "LifeSG",
+      "type": "organization",
+      "category": "digital_platform",
+      "description": "Integrated government services and benefits platform",
+      "confidence": 0.98
+    },
+    {
+      "id": "beneficiary_students",
+      "label": "ITE Students",
+      "type": "beneficiary",
+      "category": "education",
+      "description": "Full-time students at Institute of Technical Education",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_seniors",
+      "label": "Seniors",
+      "type": "beneficiary",
+      "category": "age_group",
+      "description": "Individuals aged 50+, particularly 60+ and 65+",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_pioneer_gen",
+      "label": "Pioneer Generation",
+      "type": "beneficiary",
+      "category": "age_group",
+      "description": "Born on/before 31 Dec 1949, acquired citizenship by 31 Dec 1986",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_families",
+      "label": "Lower-Income Families",
+      "type": "beneficiary",
+      "category": "family_structure",
+      "description": "Families with children meeting income thresholds",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_parents",
+      "label": "Working Parents",
+      "type": "beneficiary",
+      "category": "family_structure",
+      "description": "Employed individuals with children, especially mothers",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_pwds",
+      "label": "Persons with Disabilities (PWDs)",
+      "type": "beneficiary",
+      "category": "disability",
+      "description": "Individuals with permanent disabilities or mental impairments",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_platform_workers",
+      "label": "Platform Workers",
+      "type": "beneficiary",
+      "category": "employment",
+      "description": "Gig economy workers including ride-hailing and delivery",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_taxi_drivers",
+      "label": "Taxi Drivers",
+      "type": "beneficiary",
+      "category": "employment",
+      "description": "Professional taxi drivers hired by taxi operators",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_muslim_households",
+      "label": "Low-Income Muslim Households",
+      "type": "beneficiary",
+      "category": "religious",
+      "description": "Muslim Singapore Citizens and PRs with low income",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_national_servicemen",
+      "label": "National Servicemen",
+      "type": "beneficiary",
+      "category": "military",
+      "description": "Full-time and operationally-ready national servicemen",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_pregnant_women",
+      "label": "Pregnant Women/Mothers",
+      "type": "beneficiary",
+      "category": "family",
+      "description": "Women during pregnancy and maternity periods",
+      "confidence": 0.95
+    },
+    {
+      "id": "beneficiary_next_of_kin",
+      "label": "Next-of-Kin",
+      "type": "beneficiary",
+      "category": "family",
+      "description": "Family members of deceased persons",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_cash_assistance",
+      "label": "Cash Assistance",
+      "type": "benefit",
+      "category": "financial",
+      "description": "Direct cash payments and allowances",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_subsidy",
+      "label": "Subsidy",
+      "type": "benefit",
+      "category": "financial",
+      "description": "Cost reduction for services or products",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_tax_relief",
+      "label": "Tax Relief",
+      "type": "benefit",
+      "category": "financial",
+      "description": "Reduction in tax obligations",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_cpf_credit",
+      "label": "CPF Credit",
+      "type": "benefit",
+      "category": "financial",
+      "description": "Bonus or top-up to CPF accounts",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_leave",
+      "label": "Paid Leave",
+      "type": "benefit",
+      "category": "employment",
+      "description": "Paid time off from work",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_healthcare_coverage",
+      "label": "Healthcare Coverage",
+      "type": "benefit",
+      "category": "healthcare",
+      "description": "Medical expense coverage and subsidies",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_housing_assistance",
+      "label": "Housing Assistance",
+      "type": "benefit",
+      "category": "housing",
+      "description": "Support for housing purchase and maintenance",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_education_support",
+      "label": "Education Support",
+      "type": "benefit",
+      "category": "education",
+      "description": "Fees waiver and educational assistance",
+      "confidence": 0.95
+    },
+    {
+      "id": "income_threshold_0_500",
+      "label": "PCI $0-500",
+      "type": "criteria",
+      "category": "income",
+      "description": "Per Capita Income threshold",
+      "confidence": 0.95
+    },
+    {
+      "id": "income_threshold_4000",
+      "label": "Household Income up to $4,000",
+      "type": "criteria",
+      "category": "income",
+      "description": "Average Gross Household Income threshold",
+      "confidence": 0.95
+    },
+    {
+      "id": "income_threshold_1000",
+      "label": "Per Capita Income up to $1,000",
+      "type": "criteria",
+      "category": "income",
+      "description": "Average Per Capita Income threshold",
+      "confidence": 0.95
+    },
+    {
+      "id": "cpf_system",
+      "label": "CPF System",
+      "type": "system",
+      "category": "financial",
+      "description": "Central Provident Fund accounts (Ordinary, Special, Retirement, Medisave)",
+      "confidence": 0.98
+    },
+    {
+      "id": "tax_system",
+      "label": "Singapore Tax System",
+      "type": "system",
+      "category": "financial",
+      "description": "Income tax system administered by IRAS",
+      "confidence": 0.98
+    },
+    {
+      "id": "housing_system",
+      "label": "HDB Housing System",
+      "type": "system",
+      "category": "housing",
+      "description": "Public housing system for citizens",
+      "confidence": 0.98
+    },
+    {
+      "id": "age_cohort_1949_earlier",
+      "label": "Born 1949 or Earlier (Pioneer Generation)",
+      "type": "criteria",
+      "category": "age",
+      "description": "Birth year cohort for Pioneer Generation eligibility",
+      "confidence": 0.95
+    },
+    {
+      "id": "age_cohort_1973_earlier",
+      "label": "Born 1973 or Earlier (Majulah Package)",
+      "type": "criteria",
+      "category": "age",
+      "description": "Birth year cohort for working seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "age_cohort_1995_later",
+      "label": "Born 1995 or Later (Platform Workers)",
+      "type": "criteria",
+      "category": "age",
+      "description": "Birth year cohort for PCTS eligibility",
+      "confidence": 0.95
+    }
+  ],
+  "edges": [
+    {
+      "source": "scheme_mfas",
+      "target": "org_skillsfuture",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mfas",
+      "target": "beneficiary_students",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mfas",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mas",
+      "target": "org_imda",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mas",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mas",
+      "target": "benefit_subsidy",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_moe_fas",
+      "target": "org_moe",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_moe_fas",
+      "target": "beneficiary_families",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_moe_fas",
+      "target": "benefit_education_support",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_moe_fas",
+      "target": "income_threshold_4000",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_esb",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_esb",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_esb",
+      "target": "benefit_cpf_credit",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_esb",
+      "target": "age_cohort_1973_earlier",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_msb",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_msb",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_msb",
+      "target": "benefit_healthcare_coverage",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_msb",
+      "target": "age_cohort_1973_earlier",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_rsb",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_rsb",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_mp_rsb",
+      "target": "benefit_cpf_credit",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_mp_rsb",
+      "target": "age_cohort_1973_earlier",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_muis_fas",
+      "target": "org_muis",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_muis_fas",
+      "target": "beneficiary_muslim_households",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_muis_fas",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_muis_fas",
+      "target": "income_threshold_0_500",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_medisave_maternity",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_medisave_maternity",
+      "target": "beneficiary_pregnant_women",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_medisave_maternity",
+      "target": "benefit_healthcare_coverage",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_pioneer_gen",
+      "target": "org_moh",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_pioneer_gen",
+      "target": "beneficiary_pioneer_gen",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_pioneer_gen",
+      "target": "benefit_healthcare_coverage",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_pioneer_gen",
+      "target": "age_cohort_1949_earlier",
+      "relationship": "applies_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ptr",
+      "target": "org_iras",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ptr",
+      "target": "beneficiary_parents",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ptr",
+      "target": "benefit_tax_relief",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_national_silver_academy",
+      "target": "org_aic",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_national_silver_academy",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_national_silver_academy",
+      "target": "benefit_education_support",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_hdb_ownership_change",
+      "target": "org_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_hdb_ownership_change",
+      "target": "beneficiary_next_of_kin",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_hdb_ownership_change",
+      "target": "benefit_housing_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_spouse_relief",
+      "target": "org_iras",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_spouse_relief",
+      "target": "beneficiary_pwds",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "scheme_spouse_relief",
+      "target": "benefit_tax_relief",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ns_lifesg_credits",
+      "target": "org_mindef",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ns_lifesg_credits",
+      "target": "beneficiary_national_servicemen",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ns_lifesg_credits",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_gpml",
+      "target": "org_msf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_gpml",
+      "target": "beneficiary_parents",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_gpml",
+      "target": "benefit_leave",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_deceased_cpf",
+      "target": "org_pto",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_deceased_cpf",
+      "target": "beneficiary_next_of_kin",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_deceased_cpf",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_ease_private",
+      "target": "org_bca",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ease_private",
+      "target": "beneficiary_seniors",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_ease_private",
+      "target": "benefit_housing_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_staggered_dp",
+      "target": "org_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_staggered_dp",
+      "target": "beneficiary_families",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_staggered_dp",
+      "target": "benefit_housing_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_earned_income_relief",
+      "target": "org_iras",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_earned_income_relief",
+      "target": "beneficiary_pwds",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.85
+    },
+    {
+      "source": "scheme_earned_income_relief",
+      "target": "benefit_tax_relief",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_deceased_tax",
+      "target": "org_iras",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_deceased_tax",
+      "target": "beneficiary_next_of_kin",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_platform_workers_cash",
+      "target": "org_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_platform_workers_cash",
+      "target": "beneficiary_platform_workers",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_platform_workers_cash",
+      "target": "beneficiary_taxi_drivers",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_platform_workers_cash",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "scheme_pcts",
+      "target": "org_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_pcts",
+      "target": "beneficiary_platform_workers",
+      "relationship": "provides_benefit_to",
+      "confidence": 0.98
+    },
+    {
+      "source": "scheme_pcts",
+      "target": "benefit_cash_assistance",
+      "relationship": "delivers",
+      "confidence": 0.95
+    },
+    {
+      "source": "beneficiary_seniors",
+      "target": "cpf_system",
+      "relationship": "contribute_to",
+      "confidence": 0.95
+    },
+    {
+      "source": "beneficiary_parents",
+      "target": "tax_system",
+      "relationship": "participate_in",
+      "confidence": 0.95
+    },
+    {
+      "source": "beneficiary_families",
+      "target": "housing_system",
+      "relationship": "access",
+      "confidence": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "majulah_package_ecosystem",
+      "label": "Majulah Package Ecosystem",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_mp_esb",
+        "scheme_mp_msb",
+        "scheme_mp_rsb",
+        "org_cpf",
+        "beneficiary_seniors",
+        "age_cohort_1973_earlier"
+      ],
+      "description": "Integrated retirement savings and healthcare support for seniors born 1973 or earlier",
+      "confidence": 0.92
+    },
+    {
+      "id": "education_support_ecosystem",
+      "label": "Education Support Ecosystem",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_mfas",
+        "scheme_moe_fas",
+        "scheme_national_silver_academy",
+        "beneficiary_students",
+        "beneficiary_families",
+        "beneficiary_seniors"
+      ],
+      "description": "Comprehensive education support across lifecycle stages",
+      "confidence": 0.90
+    },
+    {
+      "id": "estate_succession_process",
+      "label": "Estate Succession and Tax Process",
+      "type": "process_cluster",
+      "nodes": [
+        "scheme_hdb_ownership_change",
+        "scheme_deceased_cpf",
+        "scheme_deceased_tax",
+        "beneficiary_next_of_kin",
+        "org_hdb",
+        "org_pto",
+        "org_iras"
+      ],
+      "description": "Multi-agency process for handling deceased person's assets and obligations",
+      "confidence": 0.93
+    },
+    {
+      "id": "tax_relief_portfolio",
+      "label": "Tax Relief Portfolio for Individuals",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_ptr",
+        "scheme_spouse_relief",
+        "scheme_earned_income_relief",
+        "org_iras",
+        "benefit_tax_relief",
+        "tax_system"
+      ],
+      "description": "Multiple tax relief schemes managed by IRAS across different life situations",
+      "confidence": 0.92
+    },
+    {
+      "id": "gig_economy_support",
+      "label": "Gig Economy Worker Support",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_platform_workers_cash",
+        "scheme_pcts",
+        "beneficiary_platform_workers",
+        "beneficiary_taxi_drivers",
+        "org_cpf",
+        "org_lifesg"
+      ],
+      "description": "Transitional support for platform workers and taxi drivers",
+      "confidence": 0.90
+    },
+    {
+      "id": "senior_living_support",
+      "label": "Senior Independent Living Support",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_ease_private",
+        "scheme_mas",
+        "scheme_national_silver_academy",
+        "beneficiary_seniors",
+        "org_bca",
+        "org_imda",
+        "org_aic"
+      ],
+      "description": "Multi-agency support for active aging and digital inclusion",
+      "confidence": 0.90
+    },
+    {
+      "id": "family_parenthood_support",
+      "label": "Family and Parenthood Support",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_gpml",
+        "scheme_ptr",
+        "scheme_moe_fas",
+        "scheme_medisave_maternity",
+        "beneficiary_parents",
+        "beneficiary_pregnant_women",
+        "org_msf",
+        "org_iras",
+        "org_cpf"
+      ],
+      "description": "Integrated support for pregnant women, new parents, and families with children",
+      "confidence": 0.91
+    },
+    {
+      "id": "housing_lifecycle_support",
+      "label": "Housing Lifecycle Support",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_staggered_dp",
+        "scheme_hdb_ownership_change",
+        "scheme_ease_private",
+        "org_hdb",
+        "org_bca",
+        "housing_system",
+        "beneficiary_families",
+        "beneficiary_seniors"
+      ],
+      "description": "Support for housing purchase, ownership transfer, and aging-in-place modifications",
+      "confidence": 0.91
+    },
+    {
+      "id": "income_based_assistance",
+      "label": "Income-Based Financial Assistance",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_moe_fas",
+        "scheme_muis_fas",
+        "scheme_mas",
+        "beneficiary_families",
+        "beneficiary_muslim_households",
+        "beneficiary_seniors",
+        "income_threshold_0_500",
+        "income_threshold_4000",
+        "income_threshold_1000"
+      ],
+      "description": "Means-tested assistance programs with varying income thresholds",
+      "confidence": 0.92
+    },
+    {
+      "id": "disability_support_network",
+      "label": "Disability-Related Support Network",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_spouse_relief",
+        "scheme_earned_income_relief",
+        "scheme_ease_private",
+        "beneficiary_pwds",
+        "org_iras",
+        "org_bca"
+      ],
+      "description": "Tax relief and home modification support for persons with disabilities",
+      "confidence": 0.85
+    },
+    {
+      "id": "pioneer_generation_care",
+      "label": "Pioneer Generation Comprehensive Care",
+      "type": "program_cluster",
+      "nodes": [
+        "scheme_pioneer_gen",
+        "org_moh",
+        "beneficiary_pioneer_gen",
+        "age_cohort_1949_earlier",
+        "benefit_healthcare_coverage",
+        "benefit_cash_assistance"
+      ],
+      "description": "Healthcare and cash assistance specifically for Singapore's oldest generation",
+      "confidence": 0.93
+    }
+  ],
+  "statistics": {
+    "total_nodes": 70,
+    "total_edges": 70,
+    "total_hyperedges": 11,
+    "node_types": {
+      "policy": 21,
+      "organization": 13,
+      "beneficiary": 11,
+      "benefit": 8,
+      "criteria": 3,
+      "system": 3,
+      "age_group": 3,
+      "family_structure": 2,
+      "employment": 2,
+      "religious": 1,
+      "military": 1,
+      "disability": 1
+    },
+    "relationship_types": {
+      "administered_by": 21,
+      "provides_benefit_to": 26,
+      "delivers": 17,
+      "applies_to": 5,
+      "participate_in": 1,
+      "contribute_to": 1
+    }
+  },
+  "coverage": {
+    "schemes_extracted": 21,
+    "organizations_identified": 13,
+    "beneficiary_types": 11,
+    "benefit_types": 8,
+    "eligibility_criteria": 3,
+    "age_cohorts": 3
+  },
+  "data_quality": {
+    "average_confidence": 0.94,
+    "nodes_with_high_confidence": 68,
+    "edges_with_high_confidence": 65,
+    "estimated_completeness": 0.92
+  },
+  "notes": {
+    "extraction_approach": "Extracted entities from policy descriptions, eligibility criteria, administering agencies, beneficiary types, and benefit categories",
+    "key_themes": [
+      "Lifecycle support from education to retirement",
+      "Multi-agency coordination across government",
+      "Income-based and age-based targeting",
+      "Integration of CPF, tax, housing, and healthcare systems",
+      "Special support for vulnerable groups (PWDs, low-income, seniors)"
+    ],
+    "cross_cutting_policies": [
+      "CPF-based benefits (6 schemes)",
+      "IRAS tax relief schemes (4 schemes)",
+      "Housing and home support (3 schemes)",
+      "Seniors support (8 schemes)",
+      "Family/parenthood support (4 schemes)"
+    ]
+  }
+}

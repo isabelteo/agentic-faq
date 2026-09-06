@@ -1,0 +1,1251 @@
+{
+  "chunk_id": "chunk_14",
+  "chunk_range": "files_295_313",
+  "total_files": 8,
+  "document_category": "Singapore Government Services - Healthcare, Education, Family Support",
+  "extraction_timestamp": "2026-09-06",
+  "token_count_estimate": {
+    "input_tokens": 2847,
+    "processing_tokens": 450,
+    "estimated_total": 3297
+  },
+  "nodes": [
+    {
+      "id": "nursing-home-respite-care",
+      "label": "Nursing Home Respite Care",
+      "type": "Service",
+      "attributes": {
+        "agency": "AIC",
+        "description": "Short-term residential care option to provide respite for caregivers of seniors with high care needs",
+        "eligible_population": ["Seniors with stable medical conditions", "Caregivers needing respite"],
+        "service_type": "residential_care",
+        "subsidy_available": true,
+        "means_tested": true,
+        "hotline": "1800 650 6060"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-nhrc-nursing-home-respite-care.md"]
+    },
+    {
+      "id": "day-hospice-care",
+      "label": "Day Hospice Care",
+      "type": "Service",
+      "attributes": {
+        "agency": "AIC",
+        "description": "Safe and supportive environment during the day for patients with life-limiting illnesses and their caregivers",
+        "eligible_population": ["Patients with life-limiting illness", "Prognosis less than 1 year", "Not requiring 24-hour nursing"],
+        "service_type": "day_care_palliative",
+        "multidisciplinary_team": ["doctors", "nurses", "medical social workers", "art therapist", "spiritual counsellor"],
+        "support_features": ["transportation", "activities", "emotional and social support"],
+        "subsidy_available": true,
+        "means_tested": true,
+        "hotline": "1800 650 6060"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-pdc-day-hospice-care.md"]
+    },
+    {
+      "id": "home-palliative-care",
+      "label": "Home Palliative Care",
+      "type": "Service",
+      "attributes": {
+        "agency": "AIC",
+        "description": "End-of-life care services to improve quality of life for patients with life-limiting illness at home",
+        "eligible_population": ["Home-bound patients", "Advanced life-limiting illness", "Prognosis less than 1 year"],
+        "service_type": "home_care_palliative",
+        "support_features": ["medical and nursing support", "pain management", "symptom management", "caregiver training", "equipment loan", "Advance Care Planning", "24/7 clinical services", "bereavement care"],
+        "charges_apply": true,
+        "hotline": "1800 650 6060"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "our-healing-voice",
+      "label": "Our HEALing Voice (OHV)",
+      "type": "Service",
+      "attributes": {
+        "agency": "LifeSG",
+        "description": "Structured 12-session training platform empowering clients to share lived experience and provide peer mentoring/support",
+        "eligible_population": ["Recovered Persons with Mental Health Conditions (PMHCs)", "Individuals with mild, manageable, stable mental health symptoms"],
+        "service_type": "peer_support_training",
+        "session_count": 12,
+        "referral_required": false,
+        "centre_based": true,
+        "fees_payable": true,
+        "contact": {
+          "phone": "9113 8052",
+          "email": "ourhealingvoice@clubheal.org.sg"
+        }
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "remarriage-prep-muslim-couples",
+      "label": "Remarriage Preparation Programme for Muslim Couples",
+      "type": "Service",
+      "attributes": {
+        "agency": "MSF",
+        "description": "Pre- and post-marriage support for remarrying Muslim couples and their dependent children",
+        "eligible_population": ["One or both parties marrying for second time or more", "At least one Singapore Citizen or Permanent Resident", "Dependent children below 21", "Both parties must be Muslim"],
+        "service_type": "family_marriage_support",
+        "referral_required": false,
+        "centre_based": true,
+        "fees_payable": false
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "sped-school-asd-with-ii",
+      "label": "Special Education School (Autism Spectrum Disorder with Intellectual Impairment)",
+      "type": "Service",
+      "attributes": {
+        "agency": "MOE",
+        "description": "Government and community-funded SPED schools for students with moderate-to-severe special educational needs",
+        "student_population": "Children with Autism Spectrum Disorder and intellectual impairment",
+        "age_range": "7 to 18 years (varies by school)",
+        "service_type": "special_education",
+        "curriculum_type": "customised",
+        "school_examples": ["APSN Chaoyang School", "APSN Katong School", "APSN Tanglin School", "Grace Orchard School", "Metta School", "APSN Delta Senior School"],
+        "vocational_programmes": ["Metta School", "APSN Delta Senior School"],
+        "vocational_age_range": "17 to 21"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    },
+    {
+      "id": "sped-school-asd-no-ii",
+      "label": "Special Education School (Autism Spectrum Disorder without Intellectual Impairment)",
+      "type": "Service",
+      "attributes": {
+        "agency": "MOE",
+        "description": "SPED schools providing education with access to national curriculum for students with Autism Spectrum Disorder",
+        "student_population": "Children with Autism Spectrum Disorder and cognitive ability for mainstream curriculum",
+        "age_range": "7 to 21 years",
+        "service_type": "special_education",
+        "curriculum_type": "national_curriculum",
+        "school_examples": ["Pathlight School (Ang Mo Kio)", "Pathlight School (Tampines)", "St. Andrew's Mission School", "Anglo-Chinese School (Academy)"],
+        "specialized_environment": true
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "sped-school-multiple-disabilities",
+      "label": "Special Education School (Multiple Disabilities)",
+      "type": "Service",
+      "attributes": {
+        "agency": "MOE",
+        "description": "SPED schools providing customised curriculum for students with multiple disabilities",
+        "student_population": "Children with multiple disabilities including Cerebral Palsy",
+        "age_range": "7 to 18 years",
+        "service_type": "special_education",
+        "curriculum_type": "customised",
+        "school_examples": ["Cerebral Palsy Alliance Singapore School (East)", "Cerebral Palsy Alliance Singapore School (West)", "Rainbow Centre Margaret Drive School"],
+        "future_note": "AWWA School @ Napiri will not enroll multiple disability students from 2026"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "aic",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Government Agency",
+        "country": "Singapore",
+        "services_managed": ["Nursing Home Respite Care", "Day Hospice Care", "Home Palliative Care"],
+        "hotline": "1800 650 6060",
+        "email": "enquiries@aic.sg"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-nhrc-nursing-home-respite-care.md", "services-svc-pdc-day-hospice-care.md", "services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "club-heal",
+      "label": "Club HEAL",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community Organization",
+        "focus": "mental health recovery and peer support",
+        "programs": ["Our HEALing Voice"],
+        "contact_email": "ourhealingvoice@clubheal.org.sg"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "moe",
+      "label": "Ministry of Education (MOE)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Government Agency",
+        "country": "Singapore",
+        "services_managed": ["Special Education Schools (SPED)"],
+        "focus": "special educational needs"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md", "services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md", "services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "msf",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Government Agency",
+        "country": "Singapore",
+        "services_managed": ["Remarriage Preparation Programme for Muslim Couples"],
+        "focus": "family and social services"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "lifesg",
+      "label": "LifeSG",
+      "type": "Organization",
+      "attributes": {
+        "type": "Government Platform",
+        "country": "Singapore",
+        "services_managed": ["Our HEALing Voice"],
+        "focus": "integrated life services"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "palliative-care-concept",
+      "label": "Palliative Care",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Medical care for patients with life-limiting illnesses focused on comfort and quality of life",
+        "related_services": ["Day Hospice Care", "Home Palliative Care"],
+        "key_components": ["pain management", "symptom management", "emotional support", "spiritual care"]
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-pdc-day-hospice-care.md", "services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "life-limiting-illness",
+      "label": "Life-Limiting Illness",
+      "type": "Condition",
+      "attributes": {
+        "medical_criteria": "Diagnosis with prognosis of less than 1 year",
+        "eligibility_for": ["Day Hospice Care", "Home Palliative Care"],
+        "requires": ["doctor's diagnosis", "prognosis confirmation"]
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-pdc-day-hospice-care.md", "services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "caregiver-support",
+      "label": "Caregiver Support",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Services and assistance provided to individuals caring for family members",
+        "related_services": ["Nursing Home Respite Care", "Day Hospice Care", "Home Palliative Care"],
+        "support_types": ["respite care", "training", "emotional support", "equipment loan"]
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-nhrc-nursing-home-respite-care.md", "services-svc-pdc-day-hospice-care.md", "services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "autism-spectrum-disorder",
+      "label": "Autism Spectrum Disorder (ASD)",
+      "type": "Condition",
+      "attributes": {
+        "medical_classification": "Neurodevelopmental condition",
+        "related_services": ["SPED School ASD with Intellectual Impairment", "SPED School ASD without Intellectual Impairment"],
+        "support_levels": ["With intellectual impairment", "Without intellectual impairment"],
+        "education_approach": ["Customised curriculum", "National curriculum"]
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md", "services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "multiple-disabilities",
+      "label": "Multiple Disabilities",
+      "type": "Condition",
+      "attributes": {
+        "definition": "Co-occurrence of two or more disabilities",
+        "related_services": ["SPED School Multiple Disabilities"],
+        "common_conditions": ["Cerebral Palsy", "Other developmental disabilities"],
+        "education_approach": "Customised curriculum"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "mental-health-conditions",
+      "label": "Mental Health Conditions",
+      "type": "Condition",
+      "attributes": {
+        "definition": "Conditions affecting mental health and wellbeing",
+        "related_services": ["Our HEALing Voice"],
+        "treatment_status": ["Recovered", "Stable and manageable"],
+        "support_approach": "Peer mentoring and lived experience sharing"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "stepfamily",
+      "label": "Stepfamily",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Family formed when remarriage occurs with dependent children from previous marriage",
+        "related_services": ["Remarriage Preparation Programme for Muslim Couples"],
+        "support_needs": ["marriage preparation", "family integration", "child support"]
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "mpe-program",
+      "label": "Marriage Preparation Programme (MPP)",
+      "type": "Service",
+      "attributes": {
+        "type": "Structured program",
+        "purpose": "Pre- and post-marriage support",
+        "target_population": "Remarrying couples",
+        "referral_pathway": "Leads to FSC/SSO for high-risk couples"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "kidstart-program",
+      "label": "KidStart",
+      "type": "Service",
+      "attributes": {
+        "type": "Child-focused program",
+        "referral_source": "Remarriage Preparation Programme",
+        "target_population": "Dependent children in remarrying families"
+      },
+      "confidence": 0.80,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "family-service-centres",
+      "label": "Family Service Centres (FSCs)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community Service Centers",
+        "referral_source": "Remarriage Preparation Programme for high-risk couples",
+        "services": "Family support and counselling"
+      },
+      "confidence": 0.85,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "social-service-offices",
+      "label": "Social Service Offices (SSOs)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Government Social Service Centers",
+        "referral_source": "Remarriage Preparation Programme for high-risk couples",
+        "services": "Social service and support"
+      },
+      "confidence": 0.85,
+      "source_files": ["services-svc-rasp-remarriage-preparation-programme-muslim-couples.md"]
+    },
+    {
+      "id": "respite-care",
+      "label": "Respite Care",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Temporary residential care providing caregivers with a break",
+        "related_services": ["Nursing Home Respite Care"],
+        "purpose": ["Caregiver rest", "Temporary absence support", "Night-time relief"],
+        "duration": "Short-term"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-nhrc-nursing-home-respite-care.md"]
+    },
+    {
+      "id": "advance-care-planning",
+      "label": "Advance Care Planning",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Process of planning for future healthcare preferences",
+        "related_services": ["Home Palliative Care"],
+        "purpose": "Ensure patient wishes are documented and respected"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "bereavement-care",
+      "label": "Bereavement Care",
+      "type": "Service",
+      "attributes": {
+        "definition": "Support services for individuals after a family member's death",
+        "related_services": ["Home Palliative Care"],
+        "purpose": "Emotional and psychological support during grief"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-phc-home-palliative-care.md"]
+    },
+    {
+      "id": "means-test",
+      "label": "Means-Test",
+      "type": "Policy",
+      "attributes": {
+        "definition": "Financial assessment to determine service subsidy eligibility",
+        "applied_services": ["Nursing Home Respite Care", "Day Hospice Care"],
+        "eligibility_criteria": "Only for Singapore Citizens and Permanent Residents",
+        "purpose": "Targeted subsidy allocation"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-nhrc-nursing-home-respite-care.md", "services-svc-pdc-day-hospice-care.md"]
+    },
+    {
+      "id": "peer-mentoring",
+      "label": "Peer Mentoring",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Support and guidance from individuals with lived experience of similar conditions",
+        "related_services": ["Our HEALing Voice"],
+        "population": "Persons with Mental Health Conditions",
+        "delivery_model": "12-session structured training"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "lived-experience",
+      "label": "Lived Experience",
+      "type": "Concept",
+      "attributes": {
+        "definition": "Personal experience of living with or recovering from a condition",
+        "related_services": ["Our HEALing Voice"],
+        "application": "Basis for peer support and mentoring",
+        "empowerment_approach": true
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-ohv-healing-voice.md"]
+    },
+    {
+      "id": "cerebral-palsy-alliance-singapore",
+      "label": "Cerebral Palsy Alliance Singapore",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community Organization",
+        "services": "Special education schools",
+        "schools": ["Cerebral Palsy Alliance Singapore School (East)", "Cerebral Palsy Alliance Singapore School (West)"],
+        "focus": "Education for students with multiple disabilities"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "rainbow-centre",
+      "label": "Rainbow Centre",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community Organization",
+        "services": "Special education school",
+        "school_name": "Rainbow Centre Margaret Drive School",
+        "focus": "Education for students with multiple disabilities"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "apsn",
+      "label": "APSN (Association of Persons with Special Needs)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community Organization",
+        "services": "Special education schools",
+        "schools": ["APSN Chaoyang School", "APSN Katong School", "APSN Tanglin School", "APSN Delta Senior School"],
+        "focus": "Education for students with special needs including autism and intellectual impairment"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    },
+    {
+      "id": "grace-orchard-school",
+      "label": "Grace Orchard School",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "focus": "Education for students with Autism Spectrum Disorder and intellectual impairment",
+        "age_range": "7 to 18 years"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    },
+    {
+      "id": "metta-school",
+      "label": "Metta School",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "focus": "Education for students with Autism Spectrum Disorder and intellectual impairment",
+        "age_range": "7 to 21 years",
+        "vocational_programmes": true,
+        "vocational_age_range": "17 to 21"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    },
+    {
+      "id": "pathlight-school",
+      "label": "Pathlight School",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "locations": ["Ang Mo Kio", "Tampines"],
+        "focus": "Education for students with Autism Spectrum Disorder without intellectual impairment",
+        "age_range": "7 to 21 years",
+        "curriculum": "National curriculum"
+      },
+      "confidence": 0.95,
+      "source_files": ["services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "st-andrews-mission-school",
+      "label": "St. Andrew's Mission School",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "focus": "Education for students with Autism Spectrum Disorder without intellectual impairment",
+        "age_range": "7 to 21 years",
+        "curriculum": "National curriculum"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "anglo-chinese-school-academy",
+      "label": "Anglo-Chinese School (Academy)",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "focus": "Education for students with Autism Spectrum Disorder without intellectual impairment",
+        "age_range": "7 to 21 years",
+        "curriculum": "National curriculum"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "awwa-school-napiri",
+      "label": "AWWA School @ Napiri",
+      "type": "Organization",
+      "attributes": {
+        "type": "Community SPED School",
+        "focus": "Previously served students with multiple disabilities",
+        "policy_change": "Will not enroll students with multiple disabilities from 2026",
+        "note": "Policy change indicates service transition"
+      },
+      "confidence": 0.85,
+      "source_files": ["services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "intellectual-impairment",
+      "label": "Intellectual Impairment",
+      "type": "Condition",
+      "attributes": {
+        "definition": "Significant limitations in intellectual functioning and adaptive behavior",
+        "related_services": ["SPED School ASD with Intellectual Impairment"],
+        "severity_in_context": "Mild to severe",
+        "education_approach": "Customised curriculum"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    },
+    {
+      "id": "national-curriculum",
+      "label": "National Curriculum",
+      "type": "Policy",
+      "attributes": {
+        "definition": "Standard curriculum used in mainstream schools in Singapore",
+        "accessibility": "Modified for SPED students with cognitive ability to access it",
+        "related_services": ["SPED School ASD without Intellectual Impairment"],
+        "purpose": "Inclusive education for capable students with special needs"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawnii-special-education-sped-school-autism-spectrum-disorder-no-intellectual-impairment.md"]
+    },
+    {
+      "id": "customised-curriculum",
+      "label": "Customised Curriculum",
+      "type": "Policy",
+      "attributes": {
+        "definition": "Education curriculum tailored to individual student needs and abilities",
+        "related_services": ["SPED School ASD with Intellectual Impairment", "SPED School Multiple Disabilities"],
+        "purpose": "Individualized learning for students with greater support needs"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md", "services-svc-sessmd-special-education-sped-school-multiple-disabilities.md"]
+    },
+    {
+      "id": "vocational-certification",
+      "label": "Vocational Certification Programmes",
+      "type": "Service",
+      "attributes": {
+        "definition": "Career training and certification for students with special needs",
+        "related_services": ["SPED School ASD with Intellectual Impairment"],
+        "target_age": "17 to 21 years",
+        "schools_offering": ["Metta School", "APSN Delta Senior School"],
+        "purpose": "Prepare students for employment"
+      },
+      "confidence": 0.90,
+      "source_files": ["services-svc-sessawii-special-education-sped-school-autism-spectrum-disorder-intellectual-impairment.md"]
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "aic",
+      "target": "nursing-home-respite-care",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "provides",
+        "service_type": "management and delivery"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_2",
+      "source": "aic",
+      "target": "day-hospice-care",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "provides",
+        "service_type": "management and delivery"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_3",
+      "source": "aic",
+      "target": "home-palliative-care",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "provides",
+        "service_type": "management and delivery"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_4",
+      "source": "nursing-home-respite-care",
+      "target": "caregiver-support",
+      "relationship": "is_form_of",
+      "attributes": {
+        "direction": "specializes",
+        "category": "caregiver_assistance"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_5",
+      "source": "nursing-home-respite-care",
+      "target": "respite-care",
+      "relationship": "is_type_of",
+      "attributes": {
+        "direction": "implements",
+        "definition_relationship": true
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_6",
+      "source": "nursing-home-respite-care",
+      "target": "means-test",
+      "relationship": "applies_policy",
+      "attributes": {
+        "direction": "uses for subsidy eligibility",
+        "citizen_only": true
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_7",
+      "source": "day-hospice-care",
+      "target": "palliative-care",
+      "relationship": "provides_type_of",
+      "attributes": {
+        "direction": "specializes in",
+        "setting": "day care"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_8",
+      "source": "day-hospice-care",
+      "target": "life-limiting-illness",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "eligibility_criteria": "prognosis less than 1 year"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_9",
+      "source": "day-hospice-care",
+      "target": "caregiver-support",
+      "relationship": "provides_benefit_to",
+      "attributes": {
+        "direction": "supports",
+        "support_type": "emotional and social"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_10",
+      "source": "day-hospice-care",
+      "target": "means-test",
+      "relationship": "applies_policy",
+      "attributes": {
+        "direction": "uses for subsidy eligibility",
+        "citizen_only": true
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_11",
+      "source": "home-palliative-care",
+      "target": "palliative-care",
+      "relationship": "provides_type_of",
+      "attributes": {
+        "direction": "specializes in",
+        "setting": "home"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_12",
+      "source": "home-palliative-care",
+      "target": "life-limiting-illness",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "eligibility_criteria": "advanced illness, prognosis less than 1 year, home-bound"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_13",
+      "source": "home-palliative-care",
+      "target": "caregiver-support",
+      "relationship": "provides_benefit_to",
+      "attributes": {
+        "direction": "supports",
+        "support_type": "training and emotional"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_14",
+      "source": "home-palliative-care",
+      "target": "advance-care-planning",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "includes as component",
+        "service_type": "planning assistance"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_15",
+      "source": "home-palliative-care",
+      "target": "bereavement-care",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "includes as component",
+        "service_type": "post-death support"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_16",
+      "source": "lifesg",
+      "target": "our-healing-voice",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "hosts and manages",
+        "platform_type": "digital and centre-based"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_17",
+      "source": "club-heal",
+      "target": "our-healing-voice",
+      "relationship": "operates_service",
+      "attributes": {
+        "direction": "implements and delivers",
+        "partnership": "with LifeSG"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_18",
+      "source": "our-healing-voice",
+      "target": "mental-health-conditions",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "eligibility_status": "recovered or stable"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_19",
+      "source": "our-healing-voice",
+      "target": "peer-mentoring",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "delivers through",
+        "format": "12-session training"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_20",
+      "source": "our-healing-voice",
+      "target": "lived-experience",
+      "relationship": "leverages_concept",
+      "attributes": {
+        "direction": "builds upon",
+        "approach": "empowerment through experience sharing"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_21",
+      "source": "msf",
+      "target": "remarriage-prep-muslim-couples",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "provides",
+        "service_type": "management and delivery"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_22",
+      "source": "remarriage-prep-muslim-couples",
+      "target": "mpe-program",
+      "relationship": "implements_program",
+      "attributes": {
+        "direction": "includes as core component",
+        "structure": "pre- and post-marriage"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_23",
+      "source": "remarriage-prep-muslim-couples",
+      "target": "stepfamily",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "focus": "dependent children from previous marriage"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_24",
+      "source": "remarriage-prep-muslim-couples",
+      "target": "family-service-centres",
+      "relationship": "refers_to_organization",
+      "attributes": {
+        "direction": "refers high-risk couples",
+        "referral_criteria": "higher-risk assessment"
+      },
+      "confidence": 0.85
+    },
+    {
+      "id": "edge_25",
+      "source": "remarriage-prep-muslim-couples",
+      "target": "social-service-offices",
+      "relationship": "refers_to_organization",
+      "attributes": {
+        "direction": "refers high-risk couples",
+        "referral_criteria": "higher-risk assessment"
+      },
+      "confidence": 0.85
+    },
+    {
+      "id": "edge_26",
+      "source": "remarriage-prep-muslim-couples",
+      "target": "kidstart-program",
+      "relationship": "refers_to_program",
+      "attributes": {
+        "direction": "refers eligible couples",
+        "focus": "child-centered support"
+      },
+      "confidence": 0.80
+    },
+    {
+      "id": "edge_27",
+      "source": "moe",
+      "target": "sped-school-asd-with-ii",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "funds and regulates",
+        "service_type": "special education"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_28",
+      "source": "moe",
+      "target": "sped-school-asd-no-ii",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "funds and regulates",
+        "service_type": "special education"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_29",
+      "source": "moe",
+      "target": "sped-school-multiple-disabilities",
+      "relationship": "provides_service",
+      "attributes": {
+        "direction": "funds and regulates",
+        "service_type": "special education"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_30",
+      "source": "sped-school-asd-with-ii",
+      "target": "autism-spectrum-disorder",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "condition_variant": "with intellectual impairment"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_31",
+      "source": "sped-school-asd-with-ii",
+      "target": "intellectual-impairment",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "condition_severity": "mild intellectual disability"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_32",
+      "source": "sped-school-asd-with-ii",
+      "target": "customised-curriculum",
+      "relationship": "uses_approach",
+      "attributes": {
+        "direction": "implements",
+        "pedagogical_strategy": "specialized and individualized"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_33",
+      "source": "sped-school-asd-with-ii",
+      "target": "vocational-certification",
+      "relationship": "offers_program",
+      "attributes": {
+        "direction": "provides for ages 17-21",
+        "schools": ["Metta School", "APSN Delta Senior School"]
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_34",
+      "source": "sped-school-asd-no-ii",
+      "target": "autism-spectrum-disorder",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "condition_variant": "without intellectual impairment"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_35",
+      "source": "sped-school-asd-no-ii",
+      "target": "national-curriculum",
+      "relationship": "uses_approach",
+      "attributes": {
+        "direction": "implements",
+        "pedagogical_strategy": "mainstream curriculum in specialized setting"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_36",
+      "source": "sped-school-multiple-disabilities",
+      "target": "multiple-disabilities",
+      "relationship": "serves_population_with",
+      "attributes": {
+        "direction": "targets",
+        "condition_type": "co-occurring disabilities"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_37",
+      "source": "sped-school-multiple-disabilities",
+      "target": "customised-curriculum",
+      "relationship": "uses_approach",
+      "attributes": {
+        "direction": "implements",
+        "pedagogical_strategy": "specialized and individualized"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_38",
+      "source": "apsn",
+      "target": "sped-school-asd-with-ii",
+      "relationship": "operates_school",
+      "attributes": {
+        "direction": "runs multiple SPED schools",
+        "schools": ["APSN Chaoyang School", "APSN Katong School", "APSN Tanglin School", "APSN Delta Senior School"]
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_39",
+      "source": "grace-orchard-school",
+      "target": "sped-school-asd-with-ii",
+      "relationship": "is_part_of_service",
+      "attributes": {
+        "direction": "implements service offering",
+        "age_range": "7 to 18"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_40",
+      "source": "metta-school",
+      "target": "sped-school-asd-with-ii",
+      "relationship": "is_part_of_service",
+      "attributes": {
+        "direction": "implements service offering",
+        "age_range": "7 to 21",
+        "vocational_programs": true
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_41",
+      "source": "pathlight-school",
+      "target": "sped-school-asd-no-ii",
+      "relationship": "operates_school",
+      "attributes": {
+        "direction": "implements service offering",
+        "locations": ["Ang Mo Kio", "Tampines"],
+        "age_range": "7 to 21"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_42",
+      "source": "st-andrews-mission-school",
+      "target": "sped-school-asd-no-ii",
+      "relationship": "is_part_of_service",
+      "attributes": {
+        "direction": "implements service offering",
+        "age_range": "7 to 21"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_43",
+      "source": "anglo-chinese-school-academy",
+      "target": "sped-school-asd-no-ii",
+      "relationship": "is_part_of_service",
+      "attributes": {
+        "direction": "implements service offering",
+        "age_range": "7 to 21"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_44",
+      "source": "cerebral-palsy-alliance-singapore",
+      "target": "sped-school-multiple-disabilities",
+      "relationship": "operates_school",
+      "attributes": {
+        "direction": "runs multiple SPED schools",
+        "schools": ["Cerebral Palsy Alliance Singapore School (East)", "Cerebral Palsy Alliance Singapore School (West)"]
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_45",
+      "source": "rainbow-centre",
+      "target": "sped-school-multiple-disabilities",
+      "relationship": "operates_school",
+      "attributes": {
+        "direction": "runs SPED school",
+        "school": "Rainbow Centre Margaret Drive School"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "edge_46",
+      "source": "awwa-school-napiri",
+      "target": "sped-school-multiple-disabilities",
+      "relationship": "was_part_of_service",
+      "attributes": {
+        "direction": "previously provided service",
+        "status": "policy change from 2026",
+        "note": "Will cease multiple disability enrollment"
+      },
+      "confidence": 0.85
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "label": "Palliative Care Ecosystem",
+      "nodes": ["day-hospice-care", "home-palliative-care", "palliative-care", "life-limiting-illness", "caregiver-support", "advance-care-planning", "bereavement-care", "aic"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "End-of-life and terminal illness support",
+        "coordinating_agency": "AIC",
+        "service_continuum": "Day-based and home-based palliative care with comprehensive support"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_2",
+      "label": "Eldercare and Caregiver Support System",
+      "nodes": ["nursing-home-respite-care", "day-hospice-care", "home-palliative-care", "caregiver-support", "respite-care", "means-test", "aic"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Supporting caregivers of seniors and chronically ill individuals",
+        "target_population": "Seniors and their caregivers",
+        "service_types": ["respite care", "day care", "home care"],
+        "access_principle": "Means-tested subsidies for eligible citizens and PRs"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_3",
+      "label": "Mental Health Recovery and Peer Support",
+      "nodes": ["our-healing-voice", "club-heal", "lifesg", "mental-health-conditions", "peer-mentoring", "lived-experience"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Empowering mental health recovery through peer support",
+        "approach": "Lived experience-based peer mentoring",
+        "target_population": "Recovered and stable persons with mental health conditions",
+        "training_structure": "12-session structured programme"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_4",
+      "label": "Stepfamily Support and Marriage Preparation",
+      "nodes": ["remarriage-prep-muslim-couples", "msf", "mpe-program", "stepfamily", "family-service-centres", "social-service-offices", "kidstart-program"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Supporting remarrying Muslim couples and blended families",
+        "target_population": "Remarrying couples with dependent children",
+        "service_model": "Pre- and post-marriage support with referral pathways",
+        "referral_network": "FSCs and SSOs for higher-risk couples, KidStart for child support"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_5",
+      "label": "Special Education for Autism Spectrum Disorder",
+      "nodes": ["sped-school-asd-with-ii", "sped-school-asd-no-ii", "autism-spectrum-disorder", "intellectual-impairment", "customised-curriculum", "national-curriculum", "moe", "vocational-certification"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Education for students with Autism Spectrum Disorder",
+        "curriculum_differentiation": "Based on intellectual capacity - customised vs. national curriculum",
+        "age_range": "7 to 21 years",
+        "career_pathway": "Vocational certification for 17-21 age group in some schools",
+        "regulatory_agency": "MOE"
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "hyperedge_6",
+      "label": "Special Education for Multiple Disabilities",
+      "nodes": ["sped-school-multiple-disabilities", "multiple-disabilities", "customised-curriculum", "cerebral-palsy-alliance-singapore", "rainbow-centre", "moe"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Education for students with multiple and complex disabilities",
+        "curriculum_approach": "Customised curriculum",
+        "age_range": "7 to 18 years",
+        "provider_network": "Cerebral Palsy Alliance Singapore, Rainbow Centre",
+        "regulatory_agency": "MOE",
+        "note": "Service landscape changing with AWWA @ Napiri policy change 2026"
+      },
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_7",
+      "label": "Special Education System in Singapore",
+      "nodes": ["sped-school-asd-with-ii", "sped-school-asd-no-ii", "sped-school-multiple-disabilities", "moe", "apsn", "pathlight-school", "cerebral-palsy-alliance-singapore", "rainbow-centre"],
+      "relationship_type": "integrated_service_system",
+      "attributes": {
+        "theme": "Comprehensive special education across disability types",
+        "regulatory_framework": "MOE-funded and regulated SPED schools",
+        "provider_model": "Government and community-funded schools",
+        "condition_coverage": ["Autism Spectrum Disorder (with and without intellectual impairment)", "Multiple disabilities"],
+        "curriculum_diversity": ["Customised", "National curriculum"],
+        "age_coverage": "7 to 21 years"
+      },
+      "confidence": 0.95
+    }
+  ],
+  "key_insights": {
+    "service_domains": [
+      "Healthcare and Palliative Care",
+      "Eldercare and Caregiver Support",
+      "Mental Health Recovery",
+      "Family Support and Marriage",
+      "Special Education"
+    ],
+    "primary_agencies": [
+      "Agency for Integrated Care (AIC)",
+      "Ministry of Education (MOE)",
+      "Ministry of Social and Family Development (MSF)",
+      "LifeSG"
+    ],
+    "cross_cutting_themes": [
+      "Means-tested financial assistance",
+      "Subsidy eligibility for Singapore Citizens and Permanent Residents",
+      "Centre-based service delivery with fee structures",
+      "Referral pathways between services",
+      "Multidisciplinary team approaches",
+      "Community partnerships and provider networks"
+    ],
+    "policy_frameworks": [
+      "Means-testing for subsidies",
+      "Age-based eligibility criteria",
+      "Curriculum differentiation based on ability",
+      "Prognosis-based eligibility for palliative care",
+      "Citizenship/PR status requirements"
+    ],
+    "emerging_considerations": [
+      "AWWA School @ Napiri policy change (2026) - transition away from multiple disabilities enrollment",
+      "Vocational pathways for special education students (ages 17-21)",
+      "Integrated referral system between family services and child support programs"
+    ]
+  },
+  "metadata": {
+    "extraction_method": "Document analysis and entity relationship modeling",
+    "data_quality_notes": "High confidence for explicit policy and service details; relationships derived from service descriptions and eligibility criteria",
+    "completeness_assessment": "Final chunk - comprehensive coverage of healthcare, education, family, and social services in Singapore government policy documentation",
+    "file_count": 8,
+    "total_documents_processed": "Unknown - chunk 14 of 15 indicates ongoing batch processing"
+  }
+}

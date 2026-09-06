@@ -1,0 +1,2021 @@
+{
+  "nodes": [
+    {
+      "id": "AIC",
+      "label": "Agency for Integrated Care",
+      "type": "government_agency",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "MSF",
+      "label": "Ministry of Social and Family Development",
+      "type": "government_agency",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "HDB",
+      "label": "Housing & Development Board",
+      "type": "government_agency",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "MOH",
+      "label": "Ministry of Health",
+      "type": "government_agency",
+      "source_file": "guides-life-after-heart-attack.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "MOM",
+      "label": "Ministry of Manpower",
+      "type": "government_agency",
+      "source_file": "guides-confinement-nanny.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "CPF",
+      "label": "Central Provident Fund",
+      "type": "government_agency",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "MOE",
+      "label": "Ministry of Education",
+      "type": "government_agency",
+      "source_file": "guides-p1-registration.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "MINDEF",
+      "label": "Ministry of Defence",
+      "type": "government_agency",
+      "source_file": "guides-parent-education-before-after-ns.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "CMPB",
+      "label": "Central Manpower Base",
+      "type": "government_agency",
+      "source_file": "guides-parent-endorsing-msq.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ECDA",
+      "label": "Early Childhood Development Agency",
+      "type": "government_agency",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "SkillsFuture",
+      "label": "SkillsFuture Singapore",
+      "type": "government_agency",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "baby_bonus",
+      "label": "Baby Bonus",
+      "type": "financial_scheme",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "cpf_life",
+      "label": "CPF Life",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medishield_life",
+      "label": "MediShield Life",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "careshield_life",
+      "label": "CareShield Life",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "eldershield",
+      "label": "ElderShield",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "comcare",
+      "label": "ComCare",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medifund",
+      "label": "MediFund",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "chas",
+      "label": "Community Health Assist Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hdb_lease_buyback",
+      "label": "HDB Lease Buyback Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "housing_grant",
+      "label": "Housing Grant",
+      "type": "financial_scheme",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "kifas",
+      "label": "Kindergarten Fee Assistance Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "school_pocket_money_fund",
+      "label": "School Pocket Money Fund",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "digital_access_home",
+      "label": "DigitalAccess@Home",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "mobile_access_seniors",
+      "label": "Mobile Access for Seniors",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "child_lifeSG_credits",
+      "label": "Child LifeSG Credits",
+      "type": "financial_scheme",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "silver_housing_bonus",
+      "label": "Silver Housing Bonus",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medisave_maternity",
+      "label": "Medisave Maternity Package",
+      "type": "financial_scheme",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "caregivers_training_grant",
+      "label": "Caregivers Training Grant",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "home_caregiving_grant",
+      "label": "Home Caregiving Grant",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "assistive_tech_fund",
+      "label": "Assistive Technology Fund",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "screen_for_life",
+      "label": "Screen for Life",
+      "type": "health_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "covid19_vaccination",
+      "label": "COVID-19 Vaccination",
+      "type": "health_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "national_silver_academy",
+      "label": "National Silver Academy",
+      "type": "educational_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "seniors_go_digital",
+      "label": "Seniors Go Digital",
+      "type": "educational_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "silver_generation_ambassador",
+      "label": "Silver Generation Ambassador",
+      "type": "volunteer_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "active_ageing_programmes",
+      "label": "Active Ageing Programmes",
+      "type": "support_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "aic_wellness_programme",
+      "label": "AIC Wellness Programme",
+      "type": "support_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "project_silver_screen",
+      "label": "Project Silver Screen",
+      "type": "health_programme",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "caregiver_training",
+      "label": "Caregiver Training",
+      "type": "training_programme",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "home_modification",
+      "label": "Home Modification",
+      "type": "support_service",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "dementia_care",
+      "label": "Dementia Care",
+      "type": "caregiving_service",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hospital_discharge_planning",
+      "label": "Hospital Discharge Planning",
+      "type": "health_service",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "advance_care_planning",
+      "label": "Advance Care Planning",
+      "type": "legal_service",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "newborn_care",
+      "label": "Newborn Care",
+      "type": "health_service",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "child_development_account",
+      "label": "Child Development Account",
+      "type": "financial_scheme",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "national_childhood_immunisation",
+      "label": "National Childhood Immunisation Programme",
+      "type": "health_programme",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "childs_digital_health_booklet",
+      "label": "Child's Digital Health Booklet",
+      "type": "digital_service",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "birth_registration",
+      "label": "Birth Registration",
+      "type": "legal_process",
+      "source_file": "guides-bringing-newborn-home.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hdb_flat_purchase",
+      "label": "HDB Flat Purchase",
+      "type": "housing_process",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hfe_letter",
+      "label": "HDB Flat Eligibility Letter",
+      "type": "legal_document",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "option_to_purchase",
+      "label": "Option to Purchase",
+      "type": "legal_process",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hdb_housing_loan",
+      "label": "HDB Housing Loan",
+      "type": "financial_product",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "cpf_ordinary_account",
+      "label": "CPF Ordinary Account",
+      "type": "financial_account",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "bto",
+      "label": "Build-To-Order",
+      "type": "housing_scheme",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "resale_flat",
+      "label": "Resale Flat",
+      "type": "housing_scheme",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "contra_payment_facility",
+      "label": "Contra Payment Facility",
+      "type": "financial_service",
+      "source_file": "guides-buying-hdb-flat.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "caregiver_stress",
+      "label": "Caregiver Stress",
+      "type": "health_concern",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "self_care",
+      "label": "Self-Care",
+      "type": "wellness_practice",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "support_groups",
+      "label": "Support Groups",
+      "type": "support_service",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "aic_link",
+      "label": "AIC Link",
+      "type": "support_service",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "caregiver_support_action_plan",
+      "label": "Caregiver Support Action Plan",
+      "type": "policy_framework",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "eldercarer_fdw_scheme",
+      "label": "Eldercarer Foreign Domestic Worker Scheme",
+      "type": "employment_scheme",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "senior_community_care",
+      "label": "Senior Community Care Services",
+      "type": "support_service",
+      "source_file": "guides-caregiver-stress.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "confinement_nanny",
+      "label": "Confinement Nanny",
+      "type": "domestic_service",
+      "source_file": "guides-confinement-nanny.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "work_permit",
+      "label": "Work Permit",
+      "type": "legal_document",
+      "source_file": "guides-confinement-nanny.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "monthly_levy",
+      "label": "Foreign Worker Monthly Levy",
+      "type": "fee_structure",
+      "source_file": "guides-confinement-nanny.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "visit_pass_extension",
+      "label": "Visit Pass Extension",
+      "type": "legal_process",
+      "source_file": "guides-confinement-nanny.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "domestic_helper",
+      "label": "Migrant Domestic Worker",
+      "type": "employment_service",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "security_bond",
+      "label": "Security Bond",
+      "type": "financial_requirement",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "levy_concession",
+      "label": "Levy Concession",
+      "type": "financial_relief",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "levy_waiver",
+      "label": "Levy Waiver",
+      "type": "financial_relief",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "employers_orientation_programme",
+      "label": "Employers' Orientation Programme",
+      "type": "training_programme",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "settling_in_programme",
+      "label": "Settling-in Programme",
+      "type": "training_programme",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "pre_employment_medical_exam",
+      "label": "Pre-Employment Medical Examination",
+      "type": "health_service",
+      "source_file": "guides-domestic-helper.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "education_career_planning",
+      "label": "Education and Career Planning",
+      "type": "guidance_service",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "know_yourself_profiling",
+      "label": "Know Yourself Profiling Tools",
+      "type": "assessment_tool",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "riasec",
+      "label": "RIASEC Profiling Tools",
+      "type": "assessment_tool",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "schoolfinder",
+      "label": "SchoolFinder",
+      "type": "digital_service",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "coursefinder",
+      "label": "CourseFinder",
+      "type": "digital_service",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "internships",
+      "label": "Internships",
+      "type": "career_opportunity",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "careers_gov",
+      "label": "Careers@Gov",
+      "type": "digital_service",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "omw_network",
+      "label": "OMW! Network Connects",
+      "type": "educational_resource",
+      "source_file": "guides-education-career-opportunities.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "preschool",
+      "label": "Preschool",
+      "type": "educational_institution",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "anchor_operator",
+      "label": "Anchor Operator",
+      "type": "preschool_type",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "partner_operator",
+      "label": "Partner Operator",
+      "type": "preschool_type",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "childcare_subsidy",
+      "label": "Childcare Subsidy",
+      "type": "financial_scheme",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "eipic",
+      "label": "Early Intervention Programme for Infants and Children",
+      "type": "support_programme",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "development_support",
+      "label": "Development Support Programme",
+      "type": "support_programme",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "learning_support",
+      "label": "Learning Support Programme",
+      "type": "support_programme",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "childminding_services",
+      "label": "Childminding Services",
+      "type": "care_service",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "child_concession_card",
+      "label": "Child Concession Card",
+      "type": "transport_benefit",
+      "source_file": "guides-enrolling-in-preschool.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "financial_assistance",
+      "label": "Financial Assistance",
+      "type": "support_category",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "comcare_interim_assistance",
+      "label": "ComCare Interim Assistance",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "comcare_short_medium_term",
+      "label": "ComCare Short to Medium Term Assistance",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "cap_ure_fund",
+      "label": "CAP+Ure Fund",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "hdb_financial_assistance",
+      "label": "HDB Financial Assistance",
+      "type": "financial_scheme",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "moneyense",
+      "label": "MoneySense",
+      "type": "educational_resource",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "retirement_planning",
+      "label": "Retirement Planning",
+      "type": "financial_planning",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "retirement_sum_scheme",
+      "label": "Retirement Sum Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "cpf_retirement_account",
+      "label": "CPF Retirement Account",
+      "type": "financial_account",
+      "source_file": "guides-funding-your-retirement.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "maternity_leave",
+      "label": "Maternity Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "paternity_leave",
+      "label": "Paternity Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "adoption_leave",
+      "label": "Adoption Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "shared_parental_leave",
+      "label": "Shared Parental Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "childcare_leave",
+      "label": "Childcare Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "extended_childcare_leave",
+      "label": "Extended Childcare Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "unpaid_infant_care_leave",
+      "label": "Unpaid Infant Care Leave",
+      "type": "employment_benefit",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "baby_bonus_cash_gift",
+      "label": "Baby Bonus Cash Gift",
+      "type": "financial_scheme",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "large_families_scheme",
+      "label": "Large Families Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "healthcare_financial_assistance",
+      "label": "Healthcare Financial Assistance",
+      "type": "support_category",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "home_caregiving_grant_hcg",
+      "label": "Home Caregiving Grant",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "elderfund",
+      "label": "ElderFund",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "pioneerdas",
+      "label": "Pioneer Generation Disability Assistance Scheme",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "idape",
+      "label": "Interim Disability Assistance Programme for the Elderly",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medical_fee_exemption_card",
+      "label": "Medical Fee Exemption Card",
+      "type": "benefit_document",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "assistive_devices",
+      "label": "Assistive Devices",
+      "type": "support_product",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "seniors_mobility_enabling_fund",
+      "label": "Seniors' Mobility and Enabling Fund",
+      "type": "financial_scheme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ease_programme",
+      "label": "Enhancement for Active Seniors",
+      "type": "support_programme",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "cardiac_rehabilitation",
+      "label": "Cardiac Rehabilitation",
+      "type": "health_programme",
+      "source_file": "guides-life-after-heart-attack.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "heart_attack_recovery",
+      "label": "Heart Attack Recovery",
+      "type": "health_journey",
+      "source_file": "guides-life-after-heart-attack.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "quit_smoking",
+      "label": "Quit Smoking",
+      "type": "health_intervention",
+      "source_file": "guides-life-after-heart-attack.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "stress_management",
+      "label": "Stress Management",
+      "type": "health_intervention",
+      "source_file": "guides-life-after-heart-attack.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "integrated_shield_plan",
+      "label": "Integrated Shield Plan",
+      "type": "insurance_product",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medisave",
+      "label": "MediSave",
+      "type": "financial_account",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "flexi_medisave",
+      "label": "Flexi-MediSave",
+      "type": "financial_scheme",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "self_employed_medisave",
+      "label": "Self-Employed MediSave",
+      "type": "financial_scheme",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "workfare_income_supplement",
+      "label": "Workfare Income Supplement",
+      "type": "financial_scheme",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "marriage_registration",
+      "label": "Marriage Registration",
+      "type": "legal_process",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "civil_marriage",
+      "label": "Civil Marriage",
+      "type": "marriage_type",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "muslim_marriage",
+      "label": "Muslim Marriage",
+      "type": "marriage_type",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "solemniser",
+      "label": "Solemniser",
+      "type": "role",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "marriage_counselling",
+      "label": "Marriage Counselling",
+      "type": "support_service",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "rom",
+      "label": "Registry of Marriages",
+      "type": "government_institution",
+      "source_file": "guides-marriage-support.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "p1_registration",
+      "label": "Primary 1 Registration",
+      "type": "educational_process",
+      "source_file": "guides-p1-registration.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "p1_balloting",
+      "label": "P1 Balloting",
+      "type": "selection_process",
+      "source_file": "guides-p1-registration.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "sped_schools",
+      "label": "Special Education Schools",
+      "type": "educational_institution",
+      "source_file": "guides-p1-registration.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ns_deferment",
+      "label": "National Service Deferment",
+      "type": "military_benefit",
+      "source_file": "guides-parent-education-before-after-ns.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ns_disruption",
+      "label": "National Service Disruption",
+      "type": "military_benefit",
+      "source_file": "guides-parent-education-before-after-ns.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "pre_university_studies",
+      "label": "Pre-University Studies",
+      "type": "educational_path",
+      "source_file": "guides-parent-education-before-after-ns.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "onens_portal",
+      "label": "OneNS Portal",
+      "type": "digital_service",
+      "source_file": "guides-parent-education-before-after-ns.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medical_screening_questionnaire",
+      "label": "Medical Screening Questionnaire",
+      "type": "health_form",
+      "source_file": "guides-parent-endorsing-msq.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "msq_endorsement",
+      "label": "MSQ Endorsement",
+      "type": "process",
+      "source_file": "guides-parent-endorsing-msq.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "vees",
+      "label": "Voluntary Early Enlistment Scheme",
+      "type": "military_scheme",
+      "source_file": "guides-parent-enlisting-before-18.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "enlistment_day",
+      "label": "Enlistment Day",
+      "type": "military_event",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "oath_taking_ceremony",
+      "label": "Oath-Taking Ceremony",
+      "type": "military_ceremony",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "basic_military_training_centre",
+      "label": "Basic Military Training Centre",
+      "type": "military_facility",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "pulau_tekong",
+      "label": "Pulau Tekong",
+      "type": "location",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "national_service_training_centre",
+      "label": "National Service Training Centre",
+      "type": "military_facility",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "civil_defence_academy",
+      "label": "Civil Defence Academy",
+      "type": "military_facility",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "home_team_academy",
+      "label": "Home Team Academy",
+      "type": "military_facility",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "scdf",
+      "label": "Singapore Civil Defence Force",
+      "type": "uniformed_service",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "spf",
+      "label": "Singapore Police Force",
+      "type": "uniformed_service",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "saf",
+      "label": "Singapore Armed Forces",
+      "type": "uniformed_service",
+      "source_file": "guides-parent-enlistment-day.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "seniors",
+      "label": "Seniors/Elderly",
+      "type": "population_group",
+      "source_file": "guides-active-ageing.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "working_parents",
+      "label": "Working Parents",
+      "type": "population_group",
+      "source_file": "guides-having-a-baby.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "caregivers",
+      "label": "Caregivers",
+      "type": "population_group",
+      "source_file": "guides-becoming-a-caregiver.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "persons_disabilities",
+      "label": "Persons with Disabilities",
+      "type": "population_group",
+      "source_file": "guides-healthcare-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "lower_income_households",
+      "label": "Lower-Income Households",
+      "type": "population_group",
+      "source_file": "guides-financial-assistance.md",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "self_employed",
+      "label": "Self-Employed Persons",
+      "type": "population_group",
+      "source_file": "guides-manage-healthcare-costs.md",
+      "confidence": "EXTRACTED"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AIC",
+      "target": "active_ageing_programmes",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "AIC",
+      "target": "aic_wellness_programme",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "AIC",
+      "target": "aic_link",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "AIC",
+      "target": "senior_community_care",
+      "relationship": "coordinates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "seniors",
+      "target": "screen_for_life",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "seniors",
+      "target": "active_ageing_programmes",
+      "relationship": "participates_in",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "seniors",
+      "target": "national_silver_academy",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "seniors",
+      "target": "seniors_go_digital",
+      "relationship": "participates_in",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "covid19_vaccination",
+      "target": "seniors",
+      "relationship": "targets",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "project_silver_screen",
+      "target": "seniors",
+      "relationship": "targets",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "caregiver_training",
+      "relationship": "participates_in",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "home_modification",
+      "relationship": "utilizes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "caregiver_stress",
+      "relationship": "experiences",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "support_groups",
+      "relationship": "attends",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "caregivers_training_grant",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "home_caregiving_grant",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "dementia_care",
+      "target": "caregivers",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MSF",
+      "target": "baby_bonus",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MSF",
+      "target": "child_lifeSG_credits",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MSF",
+      "target": "large_families_scheme",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "working_parents",
+      "target": "maternity_leave",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "working_parents",
+      "target": "paternity_leave",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "working_parents",
+      "target": "childcare_leave",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "working_parents",
+      "target": "shared_parental_leave",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "newborn_care",
+      "target": "national_childhood_immunisation",
+      "relationship": "includes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "newborn_care",
+      "target": "childs_digital_health_booklet",
+      "relationship": "tracked_via",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "birth_registration",
+      "target": "baby_bonus",
+      "relationship": "prerequisite_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "HDB",
+      "target": "hdb_flat_purchase",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "HDB",
+      "target": "hfe_letter",
+      "relationship": "issues",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "HDB",
+      "target": "hdb_housing_loan",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "hdb_flat_purchase",
+      "target": "hfe_letter",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "hdb_flat_purchase",
+      "target": "cpf_ordinary_account",
+      "relationship": "funded_by",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "hdb_flat_purchase",
+      "target": "housing_grant",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "bto",
+      "target": "hdb_flat_purchase",
+      "relationship": "type_of",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "resale_flat",
+      "target": "option_to_purchase",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "option_to_purchase",
+      "target": "hdb_flat_purchase",
+      "relationship": "part_of",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "confinement_nanny",
+      "target": "work_permit",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "confinement_nanny",
+      "target": "monthly_levy",
+      "relationship": "subject_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOM",
+      "target": "work_permit",
+      "relationship": "issues",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOM",
+      "target": "confinement_nanny",
+      "relationship": "regulates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOM",
+      "target": "domestic_helper",
+      "relationship": "regulates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "work_permit",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "security_bond",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "monthly_levy",
+      "relationship": "subject_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "levy_concession",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "pre_employment_medical_exam",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "employers_orientation_programme",
+      "relationship": "employer_attends",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "domestic_helper",
+      "target": "settling_in_programme",
+      "relationship": "worker_attends",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "eldercarer_fdw_scheme",
+      "target": "domestic_helper",
+      "relationship": "specialty_of",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "SkillsFuture",
+      "target": "education_career_planning",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "SkillsFuture",
+      "target": "know_yourself_profiling",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "SkillsFuture",
+      "target": "riasec",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "know_yourself_profiling",
+      "target": "education_career_planning",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ECDA",
+      "target": "preschool",
+      "relationship": "regulates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ECDA",
+      "target": "anchor_operator",
+      "relationship": "manages",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "preschool",
+      "target": "childcare_subsidy",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "preschool",
+      "target": "development_support",
+      "relationship": "offers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "preschool",
+      "target": "eipic",
+      "relationship": "refers_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "anchor_operator",
+      "target": "childcare_subsidy",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "partner_operator",
+      "target": "childcare_subsidy",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "comcare",
+      "target": "comcare_interim_assistance",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "comcare",
+      "target": "comcare_short_medium_term",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "lower_income_households",
+      "target": "comcare",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "lower_income_households",
+      "target": "digital_access_home",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "lower_income_households",
+      "target": "mobile_access_seniors",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CPF",
+      "target": "cpf_life",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CPF",
+      "target": "retirement_sum_scheme",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CPF",
+      "target": "cpf_retirement_account",
+      "relationship": "manages",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CPF",
+      "target": "medisave",
+      "relationship": "manages",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "cpf_life",
+      "target": "retirement_planning",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "hdb_lease_buyback",
+      "target": "retirement_planning",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "silver_housing_bonus",
+      "target": "retirement_planning",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medishield_life",
+      "target": "retirement_planning",
+      "relationship": "protects",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "careshield_life",
+      "target": "retirement_planning",
+      "relationship": "protects",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOH",
+      "target": "medishield_life",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOH",
+      "target": "chas",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOH",
+      "target": "medifund",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOH",
+      "target": "screen_for_life",
+      "relationship": "coordinates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOH",
+      "target": "cardiac_rehabilitation",
+      "relationship": "provides",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medisave",
+      "target": "medisave_maternity",
+      "relationship": "funds",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medisave",
+      "target": "flexi_medisave",
+      "relationship": "includes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "self_employed",
+      "target": "self_employed_medisave",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "self_employed",
+      "target": "workfare_income_supplement",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "heart_attack_recovery",
+      "target": "cardiac_rehabilitation",
+      "relationship": "involves",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "heart_attack_recovery",
+      "target": "quit_smoking",
+      "relationship": "involves",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "heart_attack_recovery",
+      "target": "stress_management",
+      "relationship": "involves",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "heart_attack_recovery",
+      "target": "screen_for_life",
+      "relationship": "uses",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "integrated_shield_plan",
+      "target": "medishield_life",
+      "relationship": "supplements",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "marriage_registration",
+      "target": "civil_marriage",
+      "relationship": "type_of",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "marriage_registration",
+      "target": "muslim_marriage",
+      "relationship": "type_of",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "civil_marriage",
+      "target": "solemniser",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "rom",
+      "target": "marriage_registration",
+      "relationship": "processes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "marriage_counselling",
+      "target": "marriage_registration",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOE",
+      "target": "p1_registration",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MOE",
+      "target": "kifas",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "p1_registration",
+      "target": "p1_balloting",
+      "relationship": "includes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "p1_registration",
+      "target": "sped_schools",
+      "relationship": "includes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MINDEF",
+      "target": "ns_deferment",
+      "relationship": "grants",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MINDEF",
+      "target": "ns_disruption",
+      "relationship": "grants",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "MINDEF",
+      "target": "vees",
+      "relationship": "administers",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns_deferment",
+      "target": "pre_university_studies",
+      "relationship": "allows",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns_disruption",
+      "target": "pre_university_studies",
+      "relationship": "allows",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CMPB",
+      "target": "medical_screening_questionnaire",
+      "relationship": "coordinates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "CMPB",
+      "target": "onens_portal",
+      "relationship": "operates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_screening_questionnaire",
+      "target": "msq_endorsement",
+      "relationship": "requires",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "msq_endorsement",
+      "target": "caregivers",
+      "relationship": "involves",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vees",
+      "target": "enlistment_day",
+      "relationship": "leads_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "enlistment_day",
+      "target": "oath_taking_ceremony",
+      "relationship": "includes",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "saf",
+      "target": "basic_military_training_centre",
+      "relationship": "operates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "basic_military_training_centre",
+      "target": "pulau_tekong",
+      "relationship": "located_at",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "scdf",
+      "target": "national_service_training_centre",
+      "relationship": "operates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "national_service_training_centre",
+      "target": "civil_defence_academy",
+      "relationship": "also_known_as",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "spf",
+      "target": "home_team_academy",
+      "relationship": "operates",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "persons_disabilities",
+      "target": "assistive_devices",
+      "relationship": "uses",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "persons_disabilities",
+      "target": "assistive_tech_fund",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "persons_disabilities",
+      "target": "levy_concession",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "caregiver_stress",
+      "relationship": "experiences",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "self_care",
+      "relationship": "practices",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "caregivers",
+      "target": "aic_link",
+      "relationship": "contacts",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "hospital_discharge_planning",
+      "target": "home_modification",
+      "relationship": "leads_to",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "eipic",
+      "target": "preschool",
+      "relationship": "refers_from",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "learning_support",
+      "target": "preschool",
+      "relationship": "offered_at",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "childminding_services",
+      "target": "childcare_subsidy",
+      "relationship": "eligible_for",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "child_concession_card",
+      "target": "children",
+      "relationship": "benefits",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "moneyense",
+      "target": "financial_assistance",
+      "relationship": "supports",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "childcare_leave",
+      "target": "working_parents",
+      "relationship": "benefits",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "adoption_leave",
+      "target": "working_parents",
+      "relationship": "benefits",
+      "confidence": "EXTRACTED"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "baby_journey",
+      "nodes": [
+        "MSF",
+        "birth_registration",
+        "baby_bonus",
+        "child_development_account",
+        "national_childhood_immunisation",
+        "newborn_care"
+      ],
+      "description": "Complete journey of having and caring for a newborn with all related benefits and services"
+    },
+    {
+      "id": "retirement_security",
+      "nodes": [
+        "CPF",
+        "cpf_life",
+        "retirement_sum_scheme",
+        "hdb_lease_buyback",
+        "silver_housing_bonus",
+        "medishield_life",
+        "careshield_life"
+      ],
+      "description": "Comprehensive retirement planning with financial and health security products"
+    },
+    {
+      "id": "caregiving_support_system",
+      "nodes": [
+        "caregivers",
+        "caregiver_training",
+        "home_modification",
+        "support_groups",
+        "caregivers_training_grant",
+        "home_caregiving_grant",
+        "aic_link"
+      ],
+      "description": "Integrated support system for caregivers including training, grants, and counseling"
+    },
+    {
+      "id": "housing_lifecycle",
+      "nodes": [
+        "HDB",
+        "hdb_flat_purchase",
+        "bto",
+        "resale_flat",
+        "hfe_letter",
+        "housing_grant",
+        "hdb_housing_loan",
+        "cpf_ordinary_account"
+      ],
+      "description": "Complete HDB flat purchasing process with financing and grant eligibility"
+    },
+    {
+      "id": "employment_support_system",
+      "nodes": [
+        "MOM",
+        "domestic_helper",
+        "confinement_nanny",
+        "work_permit",
+        "levy_concession",
+        "security_bond"
+      ],
+      "description": "System for hiring and managing migrant domestic workers with regulatory requirements"
+    },
+    {
+      "id": "education_pathway",
+      "nodes": [
+        "education_career_planning",
+        "know_yourself_profiling",
+        "riasec",
+        "schoolfinder",
+        "coursefinder",
+        "internships",
+        "pre_university_studies"
+      ],
+      "description": "Complete education and career exploration pathway from assessment to internships"
+    },
+    {
+      "id": "healthcare_financing",
+      "nodes": [
+        "MOH",
+        "medishield_life",
+        "medisave",
+        "chas",
+        "integrated_shield_plan",
+        "flexi_medisave",
+        "medifund"
+      ],
+      "description": "Integrated healthcare financing system covering insurance, savings, and subsidies"
+    },
+    {
+      "id": "ns_lifecycle",
+      "nodes": [
+        "MINDEF",
+        "CMPB",
+        "ns_deferment",
+        "ns_disruption",
+        "medical_screening_questionnaire",
+        "vees",
+        "enlistment_day",
+        "oath_taking_ceremony"
+      ],
+      "description": "Complete National Service journey from pre-enlistment to enlistment day"
+    },
+    {
+      "id": "early_childhood_support",
+      "nodes": [
+        "ECDA",
+        "preschool",
+        "anchor_operator",
+        "childcare_subsidy",
+        "eipic",
+        "development_support",
+        "learning_support"
+      ],
+      "description": "Comprehensive early childhood development support and preschool services"
+    },
+    {
+      "id": "financial_assistance_safety_net",
+      "nodes": [
+        "comcare",
+        "medifund",
+        "digital_access_home",
+        "mobile_access_seniors",
+        "kifas",
+        "school_pocket_money_fund"
+      ],
+      "description": "Social safety net providing financial assistance for vulnerable populations"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1144 @@
+{
+  "metadata": {
+    "chunk_id": 10,
+    "chunk_name": "Chunk 10: Singapore Government Policy Documents",
+    "file_count": 21,
+    "extraction_timestamp": "2026-09-06",
+    "source_domain": "supportgowhere.life.gov.sg",
+    "content_type": "Government schemes and support programmes"
+  },
+  "nodes": [
+    {
+      "id": "SNSS",
+      "type": "Policy",
+      "label": "Special Needs Savings Scheme (SNSS)",
+      "agency": "MSF",
+      "description": "Enables parents to set aside CPF savings for long-term care of children with special needs",
+      "topics": ["disability support", "family", "retirement planning", "CPF"],
+      "confidence": 0.95
+    },
+    {
+      "id": "SPED_FAS",
+      "type": "Policy",
+      "label": "SPED Financial Assistance Scheme (FAS)",
+      "agency": "MOE",
+      "description": "Provides financial assistance to lower-income families with children in MOE-funded Special Education Schools",
+      "topics": ["education", "financial assistance", "disability support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "ITE_SSAS",
+      "type": "Policy",
+      "label": "ITE Special Student Assistance Scheme (SSAS)",
+      "agency": "ITE",
+      "description": "One-off financial assistance to help full-time ITE students tide over short-term financial difficulties",
+      "topics": ["education", "financial assistance"],
+      "confidence": 0.95
+    },
+    {
+      "id": "STEP_UP_CPFHG",
+      "type": "Policy",
+      "label": "Step-Up CPF Housing Grant (Families)",
+      "agency": "HDB",
+      "description": "Provides $15,000 Step-Up CPF Housing Grant to eligible second-timer applicants buying new or resale flats",
+      "topics": ["housing", "public housing grants", "families"],
+      "confidence": 0.95
+    },
+    {
+      "id": "LTC_SUBSIDIES",
+      "type": "Policy",
+      "label": "Long-Term Care Subsidies",
+      "agency": "MOH",
+      "description": "Provides means-tested subsidies for long-term care services delivered by MOH-funded providers",
+      "topics": ["healthcare", "eldercare", "long-term care", "subsidies"],
+      "confidence": 0.95
+    },
+    {
+      "id": "TAX_RELIEFS",
+      "type": "Policy",
+      "label": "Tax Reliefs (Umbrella Scheme)",
+      "agency": "IRAS",
+      "description": "Provides tax reliefs to taxpayers supporting family members in need, including dependants with disabilities",
+      "topics": ["tax relief", "caregiving", "family support", "disability support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "PARENT_RELIEF",
+      "type": "Policy",
+      "label": "Parent Relief / Parent Relief (Disability)",
+      "agency": "IRAS",
+      "description": "Tax relief of up to $14,000 per dependant for individuals supporting parents, grandparents, or in-laws",
+      "topics": ["tax relief", "caregiving", "eldercare", "disability support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "TCPS",
+      "type": "Policy",
+      "label": "Third Child Priority Scheme (TCPS)",
+      "agency": "HDB",
+      "description": "Provides priority in flat allocation to eligible families with 3 or more children",
+      "topics": ["housing", "families", "flat allocation priority"],
+      "confidence": 0.95
+    },
+    {
+      "id": "TPS",
+      "type": "Policy",
+      "label": "Tenants' Priority Scheme (TPS)",
+      "agency": "HDB",
+      "description": "Allocates up to 10% of Flexi/BTO/SBF flats for eligible HDB rental flat tenants",
+      "topics": ["housing", "public rental", "flat allocation priority"],
+      "confidence": 0.95
+    },
+    {
+      "id": "TIPP",
+      "type": "Policy",
+      "label": "Tech Immersion and Placement Programme (TIPP)",
+      "agency": "IMDA",
+      "description": "Immersive training bootcamp to prepare non-ICT professionals for ICT roles",
+      "topics": ["career switch", "tech skills", "training", "employment"],
+      "confidence": 0.95
+    },
+    {
+      "id": "MCF",
+      "type": "Policy",
+      "label": "MyCareersFuture",
+      "agency": "SkillsFuture",
+      "description": "One-stop portal for job search with AI/ML job matching and career resources",
+      "topics": ["job search", "career planning", "employment", "career transition"],
+      "confidence": 0.95
+    },
+    {
+      "id": "TSS",
+      "type": "Policy",
+      "label": "Taxi Subsidy Scheme (TSS)",
+      "agency": "SG Enable",
+      "description": "Means-tested taxi subsidies for persons with permanent disabilities unable to take public transport",
+      "topics": ["disability support", "transport", "education", "employment"],
+      "confidence": 0.95
+    },
+    {
+      "id": "U_SAVE",
+      "type": "Policy",
+      "label": "U-Save",
+      "agency": "HDB",
+      "description": "Quarterly rebates to offset HDB households' utilities expenses",
+      "topics": ["housing", "utilities", "household expenses", "cost of living"],
+      "confidence": 0.95
+    },
+    {
+      "id": "SIBLING_RELIEF",
+      "type": "Policy",
+      "label": "Sibling Relief (Disability)",
+      "agency": "IRAS",
+      "description": "Tax relief for individuals supporting siblings and siblings-in-law with disability",
+      "topics": ["tax relief", "disability support", "family caregiving"],
+      "confidence": 0.95
+    },
+    {
+      "id": "GRIT_GOV",
+      "type": "Policy",
+      "label": "GRaduate Industry Traineeships @Gov (GRIT@Gov)",
+      "agency": "Careers@Gov",
+      "description": "3-6 month traineeships in public sector agencies for fresh graduates",
+      "topics": ["fresh graduates", "employment", "traineeship", "career transition"],
+      "confidence": 0.95
+    },
+    {
+      "id": "VCA_INITIATIVE",
+      "type": "Policy",
+      "label": "Volunteer Career Advisors Initiative",
+      "agency": "SkillsFuture",
+      "description": "Connects individuals with industry experts who volunteer career advice and mentorship",
+      "topics": ["career guidance", "mentorship", "employment"],
+      "confidence": 0.95
+    },
+    {
+      "id": "FOSTERING",
+      "type": "Policy",
+      "label": "Fostering Scheme",
+      "agency": "MSF",
+      "description": "Provides safe and nurturing family environment for children needing care and protection",
+      "topics": ["fostering", "child welfare", "family support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "RSTU",
+      "type": "Policy",
+      "label": "Retirement Sum Topping-Up Scheme (RSTU)",
+      "agency": "CPF",
+      "description": "Allows voluntary cash top-ups or CPF transfers to boost retirement savings and payouts",
+      "topics": ["retirement", "cpf", "savings", "tax relief"],
+      "confidence": 0.95
+    },
+    {
+      "id": "SPL",
+      "type": "Policy",
+      "label": "Shared Parental Leave (SPL)",
+      "agency": "MSF",
+      "description": "Supports eligible working parents in sharing parental leave and caring for infants",
+      "topics": ["parenthood", "employment", "leave benefits"],
+      "confidence": 0.95
+    },
+    {
+      "id": "CPF_LIFE",
+      "type": "Policy",
+      "label": "CPF LIFE",
+      "agency": "CPF",
+      "description": "National longevity insurance annuity scheme providing lifelong monthly payouts",
+      "topics": ["retirement", "cpf", "elderly income"],
+      "confidence": 0.95
+    },
+    {
+      "id": "CPFIS",
+      "type": "Policy",
+      "label": "CPF Investment Scheme (CPFIS)",
+      "agency": "CPF",
+      "description": "Allows CPF members to invest OA and SA savings in various products to enhance retirement",
+      "topics": ["retirement", "cpf", "investment"],
+      "confidence": 0.95
+    },
+    {
+      "id": "BUDGET_2026_CPF_TOP_UP",
+      "type": "Policy",
+      "label": "Budget 2026 CPF Top-Up",
+      "agency": "CPF",
+      "description": "Automatic CPF top-up for eligible seniors with CPF savings below Basic Retirement Sum",
+      "topics": ["retirement", "cpf", "seniors", "government support"],
+      "confidence": 0.95
+    },
+    {
+      "id": "AGENCY_MSF",
+      "type": "Government Agency",
+      "label": "Ministry of Social and Family Development",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_MOE",
+      "type": "Government Agency",
+      "label": "Ministry of Education",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_MOH",
+      "type": "Government Agency",
+      "label": "Ministry of Health",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_HDB",
+      "type": "Government Agency",
+      "label": "Housing & Development Board",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_IRAS",
+      "type": "Government Agency",
+      "label": "Inland Revenue Authority of Singapore",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_IMDA",
+      "type": "Government Agency",
+      "label": "Info-communications Media Development Authority",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_SKILLSFUTURE",
+      "type": "Government Agency",
+      "label": "SkillsFuture Singapore",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_SG_ENABLE",
+      "type": "Government Agency",
+      "label": "SG Enable",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_CPF",
+      "type": "Government Agency",
+      "label": "Central Provident Fund Board",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "AGENCY_CAREERS_GOV",
+      "type": "Government Agency",
+      "label": "Careers@Gov (Public Service Commission)",
+      "country": "Singapore",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_DISABILITY",
+      "type": "Concept",
+      "label": "Disability Support",
+      "description": "Support and services for persons with permanent disabilities",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_FAMILY_CAREGIVING",
+      "type": "Concept",
+      "label": "Family Caregiving",
+      "description": "Support for individuals caring for family members",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_RETIREMENT",
+      "type": "Concept",
+      "label": "Retirement Planning and Income",
+      "description": "Schemes and savings for retirement adequacy",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_HOUSING",
+      "type": "Concept",
+      "label": "Housing Support",
+      "description": "Public housing grants, priority schemes, and utilities assistance",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_EDUCATION",
+      "type": "Concept",
+      "label": "Education Support",
+      "description": "Financial assistance for students in special education and vocational training",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_EMPLOYMENT",
+      "type": "Concept",
+      "label": "Employment and Career Development",
+      "description": "Job search, career transitions, training, and employment support",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_HEALTHCARE",
+      "type": "Concept",
+      "label": "Healthcare and Long-Term Care",
+      "description": "Subsidies for long-term care services, nursing homes, and home care",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_TAX_RELIEF",
+      "type": "Concept",
+      "label": "Tax Relief",
+      "description": "Tax reliefs for family support and caregiving",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_CPF",
+      "type": "Concept",
+      "label": "Central Provident Fund",
+      "description": "Singapore's national mandatory savings scheme",
+      "confidence": 0.98
+    },
+    {
+      "id": "CONCEPT_MEANS_TESTED",
+      "type": "Concept",
+      "label": "Means-Tested Support",
+      "description": "Support allocated based on household income or property value",
+      "confidence": 0.98
+    },
+    {
+      "id": "TARGET_PARENTS_SPECIAL_NEEDS",
+      "type": "Target Group",
+      "label": "Parents of Children with Special Needs",
+      "description": "Families with children having permanent disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_ELDERLY",
+      "type": "Target Group",
+      "label": "Elderly/Seniors",
+      "description": "Individuals aged 55 and above",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_FAMILIES",
+      "type": "Target Group",
+      "label": "Families",
+      "description": "Households with multiple children or dependants",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_STUDENTS",
+      "type": "Target Group",
+      "label": "Students",
+      "description": "ITE, polytechnic, and university students",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_FRESH_GRADUATES",
+      "type": "Target Group",
+      "label": "Fresh Graduates",
+      "description": "Individuals graduating from educational institutions in 2024-2026",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_PERSONS_WITH_DISABILITY",
+      "type": "Target Group",
+      "label": "Persons with Disabilities",
+      "description": "Individuals with permanent physical, sensory, or intellectual disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_LOWER_INCOME",
+      "type": "Target Group",
+      "label": "Lower-Income Households",
+      "description": "Families with household income below specified thresholds",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_WORKERS",
+      "type": "Target Group",
+      "label": "Working Adults",
+      "description": "Employed individuals and self-employed persons",
+      "confidence": 0.95
+    },
+    {
+      "id": "TARGET_CAREGIVERS",
+      "type": "Target Group",
+      "label": "Family Caregivers",
+      "description": "Individuals providing financial or care support to dependants",
+      "confidence": 0.95
+    },
+    {
+      "id": "ELIGIBILITY_CITIZEN",
+      "type": "Eligibility Criterion",
+      "label": "Singapore Citizen",
+      "description": "Must be a Singapore Citizen for most schemes",
+      "confidence": 0.98
+    },
+    {
+      "id": "ELIGIBILITY_INCOME",
+      "type": "Eligibility Criterion",
+      "label": "Income Thresholds",
+      "description": "Monthly household or per capita income limits for means-tested support",
+      "confidence": 0.95
+    },
+    {
+      "id": "ELIGIBILITY_DISABILITY",
+      "type": "Eligibility Criterion",
+      "label": "Disability Verification",
+      "description": "Proof of permanent disability via verified healthcare professional",
+      "confidence": 0.95
+    },
+    {
+      "id": "BENEFIT_FINANCIAL_ASSISTANCE",
+      "type": "Benefit Type",
+      "label": "Financial Assistance",
+      "description": "Direct cash payments or vouchers",
+      "confidence": 0.98
+    },
+    {
+      "id": "BENEFIT_SUBSIDIES",
+      "type": "Benefit Type",
+      "label": "Subsidies",
+      "description": "Means-tested reductions in service costs",
+      "confidence": 0.98
+    },
+    {
+      "id": "BENEFIT_TAX_RELIEF",
+      "type": "Benefit Type",
+      "label": "Tax Relief",
+      "description": "Tax deductions or exemptions",
+      "confidence": 0.98
+    },
+    {
+      "id": "BENEFIT_GRANTS",
+      "type": "Benefit Type",
+      "label": "Grants",
+      "description": "One-time cash grants for specific purposes",
+      "confidence": 0.98
+    },
+    {
+      "id": "BENEFIT_PRIORITY",
+      "type": "Benefit Type",
+      "label": "Priority Allocation",
+      "description": "Preferential access to limited resources",
+      "confidence": 0.95
+    },
+    {
+      "id": "BENEFIT_TRAINING",
+      "type": "Benefit Type",
+      "label": "Training and Skills Development",
+      "description": "Subsidized or free training programmes",
+      "confidence": 0.95
+    },
+    {
+      "id": "BENEFIT_LEAVE",
+      "type": "Benefit Type",
+      "label": "Leave Benefits",
+      "description": "Paid or government-supported leave",
+      "confidence": 0.95
+    },
+    {
+      "id": "ENTITY_HDB_FLAT",
+      "type": "Resource",
+      "label": "HDB Flat",
+      "description": "Public housing units managed by Housing & Development Board",
+      "confidence": 0.95
+    },
+    {
+      "id": "ENTITY_CPF_ACCOUNT",
+      "type": "Resource",
+      "label": "CPF Account",
+      "description": "Central Provident Fund member savings accounts",
+      "confidence": 0.98
+    },
+    {
+      "id": "ENTITY_SPECIAL_ED_SCHOOL",
+      "type": "Resource",
+      "label": "Special Education School",
+      "description": "MOE-funded schools for children with special needs",
+      "confidence": 0.95
+    },
+    {
+      "id": "ENTITY_RETIREMENT_ACCOUNT",
+      "type": "Resource",
+      "label": "CPF Retirement Account (RA)",
+      "description": "CPF account for retirement savings",
+      "confidence": 0.98
+    },
+    {
+      "id": "ENTITY_ADL",
+      "type": "Concept",
+      "label": "Activities of Daily Living (ADL)",
+      "description": "Six ADLs: Eating, Bathing, Dressing, Transferring, Toileting, Walking/moving",
+      "confidence": 0.95
+    },
+    {
+      "id": "ENTITY_BTO",
+      "type": "Resource",
+      "label": "Build-To-Order (BTO) Flat",
+      "description": "HDB flat purchasing scheme",
+      "confidence": 0.95
+    },
+    {
+      "id": "ENTITY_SBF",
+      "type": "Resource",
+      "label": "Sale of Balance Flats (SBF)",
+      "description": "Unsold HDB flats from earlier projects",
+      "confidence": 0.95
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_snss_to_msf",
+      "source": "SNSS",
+      "target": "AGENCY_MSF",
+      "type": "administered_by",
+      "label": "SNSS is administered by MSF",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_snss_to_disability",
+      "source": "SNSS",
+      "target": "CONCEPT_DISABILITY",
+      "type": "addresses",
+      "label": "SNSS addresses disability support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_snss_to_cpf",
+      "source": "SNSS",
+      "target": "CONCEPT_CPF",
+      "type": "uses",
+      "label": "SNSS uses CPF savings mechanism",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_snss_target_parents",
+      "source": "SNSS",
+      "target": "TARGET_PARENTS_SPECIAL_NEEDS",
+      "type": "targets",
+      "label": "SNSS targets parents of children with special needs",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_sped_fas_to_moe",
+      "source": "SPED_FAS",
+      "target": "AGENCY_MOE",
+      "type": "administered_by",
+      "label": "SPED-FAS is administered by MOE",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_sped_fas_education",
+      "source": "SPED_FAS",
+      "target": "CONCEPT_EDUCATION",
+      "type": "addresses",
+      "label": "SPED-FAS provides education support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_sped_fas_school",
+      "source": "SPED_FAS",
+      "target": "ENTITY_SPECIAL_ED_SCHOOL",
+      "type": "supports",
+      "label": "SPED-FAS supports students in special education schools",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_parent_relief_iras",
+      "source": "PARENT_RELIEF",
+      "target": "AGENCY_IRAS",
+      "type": "administered_by",
+      "label": "Parent Relief is administered by IRAS",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_parent_relief_tax",
+      "source": "PARENT_RELIEF",
+      "target": "CONCEPT_TAX_RELIEF",
+      "type": "is_type_of",
+      "label": "Parent Relief is a type of tax relief",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_parent_relief_caregiving",
+      "source": "PARENT_RELIEF",
+      "target": "CONCEPT_FAMILY_CAREGIVING",
+      "type": "supports",
+      "label": "Parent Relief supports family caregiving",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tax_reliefs_contains_parent",
+      "source": "TAX_RELIEFS",
+      "target": "PARENT_RELIEF",
+      "type": "contains",
+      "label": "Tax Reliefs umbrella scheme contains Parent Relief",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_tax_reliefs_contains_sibling",
+      "source": "TAX_RELIEFS",
+      "target": "SIBLING_RELIEF",
+      "type": "contains",
+      "label": "Tax Reliefs umbrella scheme contains Sibling Relief",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_tax_reliefs_iras",
+      "source": "TAX_RELIEFS",
+      "target": "AGENCY_IRAS",
+      "type": "administered_by",
+      "label": "Tax Reliefs is administered by IRAS",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_sibling_relief_disability",
+      "source": "SIBLING_RELIEF",
+      "target": "CONCEPT_DISABILITY",
+      "type": "supports",
+      "label": "Sibling Relief supports family members with disabilities",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tcps_hdb",
+      "source": "TCPS",
+      "target": "AGENCY_HDB",
+      "type": "administered_by",
+      "label": "TCPS is administered by HDB",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tcps_housing",
+      "source": "TCPS",
+      "target": "CONCEPT_HOUSING",
+      "type": "addresses",
+      "label": "TCPS provides housing support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tcps_bto",
+      "source": "TCPS",
+      "target": "ENTITY_BTO",
+      "type": "allocates",
+      "label": "TCPS allocates BTO flats",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_tcps_target_families",
+      "source": "TCPS",
+      "target": "TARGET_FAMILIES",
+      "type": "targets",
+      "label": "TCPS targets families with 3 or more children",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_tps_hdb",
+      "source": "TPS",
+      "target": "AGENCY_HDB",
+      "type": "administered_by",
+      "label": "TPS is administered by HDB",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tps_housing",
+      "source": "TPS",
+      "target": "CONCEPT_HOUSING",
+      "type": "addresses",
+      "label": "TPS provides housing support for tenants",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_step_up_hdb",
+      "source": "STEP_UP_CPFHG",
+      "target": "AGENCY_HDB",
+      "type": "administered_by",
+      "label": "Step-Up CPF Housing Grant is administered by HDB",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_step_up_housing",
+      "source": "STEP_UP_CPFHG",
+      "target": "CONCEPT_HOUSING",
+      "type": "addresses",
+      "label": "Step-Up CPF Housing Grant provides housing support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_step_up_cpf",
+      "source": "STEP_UP_CPFHG",
+      "target": "CONCEPT_CPF",
+      "type": "uses",
+      "label": "Step-Up CPF Housing Grant uses CPF funds",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_ltc_subsidies_moh",
+      "source": "LTC_SUBSIDIES",
+      "target": "AGENCY_MOH",
+      "type": "administered_by",
+      "label": "Long-Term Care Subsidies is administered by MOH",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_ltc_subsidies_healthcare",
+      "source": "LTC_SUBSIDIES",
+      "target": "CONCEPT_HEALTHCARE",
+      "type": "addresses",
+      "label": "Long-Term Care Subsidies provides healthcare support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_ltc_subsidies_elderly",
+      "source": "LTC_SUBSIDIES",
+      "target": "TARGET_ELDERLY",
+      "type": "targets",
+      "label": "Long-Term Care Subsidies targets elderly individuals",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_tipp_imda",
+      "source": "TIPP",
+      "target": "AGENCY_IMDA",
+      "type": "administered_by",
+      "label": "TIPP is administered by IMDA",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tipp_employment",
+      "source": "TIPP",
+      "target": "CONCEPT_EMPLOYMENT",
+      "type": "addresses",
+      "label": "TIPP supports employment and career development",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tipp_training",
+      "source": "TIPP",
+      "target": "BENEFIT_TRAINING",
+      "type": "provides",
+      "label": "TIPP provides training benefits",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_mcf_skillsfuture",
+      "source": "MCF",
+      "target": "AGENCY_SKILLSFUTURE",
+      "type": "administered_by",
+      "label": "MyCareersFuture is administered by SkillsFuture",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_mcf_employment",
+      "source": "MCF",
+      "target": "CONCEPT_EMPLOYMENT",
+      "type": "addresses",
+      "label": "MyCareersFuture addresses employment needs",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tss_sg_enable",
+      "source": "TSS",
+      "target": "AGENCY_SG_ENABLE",
+      "type": "administered_by",
+      "label": "TSS is administered by SG Enable",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tss_disability",
+      "source": "TSS",
+      "target": "CONCEPT_DISABILITY",
+      "type": "supports",
+      "label": "TSS provides transport support for persons with disabilities",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_tss_means_tested",
+      "source": "TSS",
+      "target": "CONCEPT_MEANS_TESTED",
+      "type": "uses",
+      "label": "TSS uses means-tested assessment",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_u_save_hdb",
+      "source": "U_SAVE",
+      "target": "AGENCY_HDB",
+      "type": "administered_by",
+      "label": "U-Save is administered by HDB",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_u_save_housing",
+      "source": "U_SAVE",
+      "target": "CONCEPT_HOUSING",
+      "type": "supports",
+      "label": "U-Save provides housing expense relief",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_u_save_hdb_flat",
+      "source": "U_SAVE",
+      "target": "ENTITY_HDB_FLAT",
+      "type": "supports",
+      "label": "U-Save supports HDB flat residents",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_grit_gov_careers",
+      "source": "GRIT_GOV",
+      "target": "AGENCY_CAREERS_GOV",
+      "type": "administered_by",
+      "label": "GRIT@Gov is administered by Careers@Gov",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_grit_gov_employment",
+      "source": "GRIT_GOV",
+      "target": "CONCEPT_EMPLOYMENT",
+      "type": "supports",
+      "label": "GRIT@Gov supports employment for fresh graduates",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_grit_gov_fresh_grad",
+      "source": "GRIT_GOV",
+      "target": "TARGET_FRESH_GRADUATES",
+      "type": "targets",
+      "label": "GRIT@Gov targets fresh graduates",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_vca_skillsfuture",
+      "source": "VCA_INITIATIVE",
+      "target": "AGENCY_SKILLSFUTURE",
+      "type": "administered_by",
+      "label": "VCA Initiative is administered by SkillsFuture",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_vca_employment",
+      "source": "VCA_INITIATIVE",
+      "target": "CONCEPT_EMPLOYMENT",
+      "type": "supports",
+      "label": "VCA Initiative supports career development",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_fostering_msf",
+      "source": "FOSTERING",
+      "target": "AGENCY_MSF",
+      "type": "administered_by",
+      "label": "Fostering Scheme is administered by MSF",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_fostering_family",
+      "source": "FOSTERING",
+      "target": "CONCEPT_FAMILY_CAREGIVING",
+      "type": "supports",
+      "label": "Fostering Scheme supports family caregiving",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_rstu_cpf",
+      "source": "RSTU",
+      "target": "AGENCY_CPF",
+      "type": "administered_by",
+      "label": "RSTU is administered by CPF Board",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_rstu_retirement",
+      "source": "RSTU",
+      "target": "CONCEPT_RETIREMENT",
+      "type": "addresses",
+      "label": "RSTU addresses retirement planning",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_rstu_ra",
+      "source": "RSTU",
+      "target": "ENTITY_RETIREMENT_ACCOUNT",
+      "type": "uses",
+      "label": "RSTU uses Retirement Account",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_spl_msf",
+      "source": "SPL",
+      "target": "AGENCY_MSF",
+      "type": "administered_by",
+      "label": "SPL is administered by MSF",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_spl_leave",
+      "source": "SPL",
+      "target": "BENEFIT_LEAVE",
+      "type": "provides",
+      "label": "SPL provides leave benefits",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_cpf_life_cpf",
+      "source": "CPF_LIFE",
+      "target": "AGENCY_CPF",
+      "type": "administered_by",
+      "label": "CPF LIFE is administered by CPF Board",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_cpf_life_retirement",
+      "source": "CPF_LIFE",
+      "target": "CONCEPT_RETIREMENT",
+      "type": "addresses",
+      "label": "CPF LIFE addresses retirement planning",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_cpf_life_elderly",
+      "source": "CPF_LIFE",
+      "target": "TARGET_ELDERLY",
+      "type": "targets",
+      "label": "CPF LIFE targets elderly individuals",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_cpfis_cpf",
+      "source": "CPFIS",
+      "target": "AGENCY_CPF",
+      "type": "administered_by",
+      "label": "CPFIS is administered by CPF Board",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_cpfis_retirement",
+      "source": "CPFIS",
+      "target": "CONCEPT_RETIREMENT",
+      "type": "addresses",
+      "label": "CPFIS addresses retirement planning",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_cpfis_cpf_account",
+      "source": "CPFIS",
+      "target": "ENTITY_CPF_ACCOUNT",
+      "type": "uses",
+      "label": "CPFIS uses CPF accounts",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_budget_2026_cpf",
+      "source": "BUDGET_2026_CPF_TOP_UP",
+      "target": "AGENCY_CPF",
+      "type": "administered_by",
+      "label": "Budget 2026 CPF Top-Up is administered by CPF Board",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_budget_2026_retirement",
+      "source": "BUDGET_2026_CPF_TOP_UP",
+      "target": "CONCEPT_RETIREMENT",
+      "type": "addresses",
+      "label": "Budget 2026 CPF Top-Up addresses retirement planning",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_budget_2026_seniors",
+      "source": "BUDGET_2026_CPF_TOP_UP",
+      "target": "TARGET_ELDERLY",
+      "type": "targets",
+      "label": "Budget 2026 CPF Top-Up targets seniors",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_ite_ssas_education",
+      "source": "ITE_SSAS",
+      "target": "CONCEPT_EDUCATION",
+      "type": "addresses",
+      "label": "ITE SSAS addresses education support",
+      "confidence": 0.98
+    },
+    {
+      "id": "edge_ite_ssas_students",
+      "source": "ITE_SSAS",
+      "target": "TARGET_STUDENTS",
+      "type": "targets",
+      "label": "ITE SSAS targets ITE students",
+      "confidence": 0.95
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_disability_support_ecosystem",
+      "type": "Support Ecosystem",
+      "name": "Disability Support Ecosystem",
+      "description": "Comprehensive support system for persons with disabilities across multiple domains",
+      "nodes": ["SNSS", "SPED_FAS", "TSS", "SIBLING_RELIEF", "PARENT_RELIEF", "CONCEPT_DISABILITY", "AGENCY_SG_ENABLE", "ENTITY_SPECIAL_ED_SCHOOL"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_housing_ecosystem",
+      "type": "Support Ecosystem",
+      "name": "Housing Support Ecosystem",
+      "description": "Comprehensive housing support including grants, priority, and utility assistance",
+      "nodes": ["TCPS", "TPS", "STEP_UP_CPFHG", "U_SAVE", "AGENCY_HDB", "ENTITY_HDB_FLAT", "ENTITY_BTO", "ENTITY_SBF"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_retirement_ecosystem",
+      "type": "Support Ecosystem",
+      "name": "Retirement Planning Ecosystem",
+      "description": "Comprehensive retirement savings and income schemes",
+      "nodes": ["CPF_LIFE", "CPFIS", "RSTU", "BUDGET_2026_CPF_TOP_UP", "AGENCY_CPF", "ENTITY_RETIREMENT_ACCOUNT", "TARGET_ELDERLY"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_tax_relief_ecosystem",
+      "type": "Support Ecosystem",
+      "name": "Tax Relief Ecosystem",
+      "description": "Tax relief schemes for family caregiving and support",
+      "nodes": ["TAX_RELIEFS", "PARENT_RELIEF", "SIBLING_RELIEF", "AGENCY_IRAS", "CONCEPT_FAMILY_CAREGIVING", "TARGET_CAREGIVERS"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_employment_ecosystem",
+      "type": "Support Ecosystem",
+      "name": "Employment and Career Development Ecosystem",
+      "description": "Comprehensive employment support and career transition schemes",
+      "nodes": ["MCF", "TIPP", "GRIT_GOV", "VCA_INITIATIVE", "AGENCY_SKILLSFUTURE", "AGENCY_IMDA", "TARGET_FRESH_GRADUATES", "TARGET_WORKERS"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_education_support",
+      "type": "Support Ecosystem",
+      "name": "Education Support Ecosystem",
+      "description": "Education assistance for special needs and vocational training",
+      "nodes": ["SPED_FAS", "ITE_SSAS", "TIPP", "AGENCY_MOE", "ENTITY_SPECIAL_ED_SCHOOL", "TARGET_STUDENTS"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_family_support_policies",
+      "type": "Policy Cluster",
+      "name": "Family Support and Caregiving Policies",
+      "description": "Policies supporting family responsibilities including child care, parental support, and caregiving",
+      "nodes": ["SNSS", "FOSTERING", "SPL", "PARENT_RELIEF", "SIBLING_RELIEF", "TAX_RELIEFS", "TCPS", "AGENCY_MSF"],
+      "confidence": 0.88
+    },
+    {
+      "id": "hyperedge_means_tested_support",
+      "type": "Policy Cluster",
+      "name": "Means-Tested Support Programs",
+      "description": "Programs with income or property value thresholds for eligibility",
+      "nodes": ["SPED_FAS", "LTC_SUBSIDIES", "TSS", "CONCEPT_MEANS_TESTED", "ELIGIBILITY_INCOME"],
+      "confidence": 0.85
+    },
+    {
+      "id": "hyperedge_disability_verification_requirement",
+      "type": "Common Requirement",
+      "name": "Disability Verification Requirement",
+      "description": "Multiple schemes requiring formal disability verification",
+      "nodes": ["SNSS", "TSS", "SIBLING_RELIEF", "ENTITY_ADL", "ELIGIBILITY_DISABILITY"],
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_cpf_dependent_schemes",
+      "type": "Policy Cluster",
+      "name": "CPF-Dependent Schemes",
+      "description": "Schemes that rely on CPF savings or accounts",
+      "nodes": ["SNSS", "STEP_UP_CPFHG", "RSTU", "CPF_LIFE", "CPFIS", "BUDGET_2026_CPF_TOP_UP", "AGENCY_CPF", "ENTITY_CPF_ACCOUNT"],
+      "confidence": 0.92
+    }
+  ],
+  "token_counts": {
+    "estimate_total_tokens": 45000,
+    "estimate_nodes": 75,
+    "estimate_edges": 52,
+    "estimate_hyperedges": 10,
+    "processing_notes": "Token count is estimated based on document content and structure. Actual count may vary."
+  },
+  "quality_metrics": {
+    "entities_extracted": 75,
+    "relationships_mapped": 52,
+    "hyperedges_identified": 10,
+    "average_node_confidence": 0.96,
+    "average_edge_confidence": 0.96,
+    "coverage_by_topic": {
+      "disability_support": 8,
+      "housing": 8,
+      "retirement": 6,
+      "tax_relief": 4,
+      "employment": 5,
+      "education": 3,
+      "healthcare": 2,
+      "family_support": 6
+    }
+  },
+  "extraction_summary": {
+    "total_policies": 21,
+    "total_agencies": 10,
+    "total_target_groups": 8,
+    "total_benefit_types": 7,
+    "key_themes": [
+      "Disability Support and Special Needs",
+      "Retirement Planning and CPF Management",
+      "Housing Support and HDB Programs",
+      "Tax Relief for Family Caregivers",
+      "Employment and Career Development",
+      "Financial Assistance for Lower-Income Families",
+      "Healthcare and Long-Term Care",
+      "Family Support and Parenthood Benefits"
+    ],
+    "cross_cutting_concepts": [
+      "Means-tested eligibility",
+      "Disability verification requirements",
+      "CPF account integration",
+      "Government agency coordination",
+      "Family caregiving focus",
+      "Income thresholds and property values"
+    ]
+  }
+}

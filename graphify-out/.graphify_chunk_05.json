@@ -1,0 +1,1185 @@
+{
+  "metadata": {
+    "chunk_id": 5,
+    "chunk_range": "files 106-126",
+    "total_files": 22,
+    "extraction_date": "2026-09-06",
+    "source_domain": "supportgowhere.life.gov.sg",
+    "total_input_tokens_estimated": 28000,
+    "total_output_tokens_estimated": 15000
+  },
+  "nodes": [
+    {
+      "id": "scheme_encpfhg_fam",
+      "label": "Enhanced CPF Housing Grant (Families)",
+      "type": "policy",
+      "description": "Financial grant up to $120,000 for eligible first-time families purchasing HDB flats",
+      "confidence": 0.95,
+      "source": "Enhanced CPF Housing Grant (Families)"
+    },
+    {
+      "id": "scheme_encpfhg_sin",
+      "label": "Enhanced CPF Housing Grant (Singles)",
+      "type": "policy",
+      "description": "Financial grant up to $60,000 for eligible first-time singles purchasing HDB flats",
+      "confidence": 0.95,
+      "source": "Enhanced CPF Housing Grant (Singles)"
+    },
+    {
+      "id": "scheme_esbwvfrn",
+      "label": "Enhanced Budget 2026 Cost-of-Living Special Payment",
+      "type": "policy",
+      "description": "Cash payout $400-$600 for eligible Singaporean adults in 2026",
+      "confidence": 0.95,
+      "source": "Enhanced Budget 2026 Cost-of-Living"
+    },
+    {
+      "id": "scheme_ets",
+      "label": "Enabling Transport Subsidy (ETS)",
+      "type": "policy",
+      "description": "Up to 80% means-tested subsidy for transport fees for persons with disabilities",
+      "confidence": 0.95,
+      "source": "Enabling Transport Subsidy"
+    },
+    {
+      "id": "scheme_fpps",
+      "label": "Family and Parenthood Priority Scheme (FPPS)",
+      "type": "policy",
+      "description": "Prioritizes HDB flat allocation (40% BTO, 60% SBF) for first-timer families with children",
+      "confidence": 0.95,
+      "source": "Family and Parenthood Priority Scheme"
+    },
+    {
+      "id": "scheme_mrss",
+      "label": "Matched Retirement Savings Scheme (MRSS)",
+      "type": "policy",
+      "description": "Government matches cash top-ups to CPF RA/SA up to $2,000/year for eligible seniors",
+      "confidence": 0.95,
+      "source": "Matched Retirement Savings Scheme"
+    },
+    {
+      "id": "scheme_fresh_start",
+      "label": "Fresh Start Housing Scheme",
+      "type": "policy",
+      "description": "Assists rental flat families to transition to home ownership with grants and concessional terms",
+      "confidence": 0.95,
+      "source": "Fresh Start Housing Scheme"
+    },
+    {
+      "id": "scheme_gov_bursaries",
+      "label": "Government Bursaries for Higher Education",
+      "type": "policy",
+      "description": "Financial assistance ($1,850-$26,100 annually) for lower/middle-income students in higher education",
+      "confidence": 0.95,
+      "source": "Government Bursaries for Higher Education"
+    },
+    {
+      "id": "scheme_ftpmc_cat",
+      "label": "Priority Scheme - First-Timer (Parents & Married Couples) FT(PMC)",
+      "type": "policy",
+      "description": "Provides extra ballot chance (3 total) for first-timer families with children or married couples under 40",
+      "confidence": 0.95,
+      "source": "Priority Scheme FT(PMC)"
+    },
+    {
+      "id": "scheme_stamp_duty_family",
+      "label": "Stamp Duty Remissions for Transfer of HDB Flats within Family",
+      "type": "policy",
+      "description": "Remits BSD and SSD for HDB flat transfers between immediate family members",
+      "confidence": 0.95,
+      "source": "Stamp Duty Remissions Family"
+    },
+    {
+      "id": "scheme_stamp_duty_couples",
+      "label": "Stamp Duty Remissions for Married and Divorced Couples",
+      "type": "policy",
+      "description": "Remits ABSD for married couples' first property; partial remission for second property; remission for matrimonial proceedings",
+      "confidence": 0.95,
+      "source": "Stamp Duty Remissions Couples"
+    },
+    {
+      "id": "scheme_child_lifesg",
+      "label": "Child LifeSG Credits",
+      "type": "policy",
+      "description": "$500 credits per child aged 0-12 disbursed via LifeSG app",
+      "confidence": 0.95,
+      "source": "Child LifeSG Credits"
+    },
+    {
+      "id": "scheme_ap_cash",
+      "label": "Assurance Package (AP) Cash",
+      "type": "policy",
+      "description": "Cash payouts $700-$2,250 over 5 years (2022-2026) for adults 21+ based on income and property ownership",
+      "confidence": 0.95,
+      "source": "Assurance Package (AP) Cash"
+    },
+    {
+      "id": "scheme_ap_seniors",
+      "label": "Assurance Package (AP) Seniors' Bonus",
+      "type": "policy",
+      "description": "Cash payouts $600-$900 over 3 years (2023-2025) for seniors 55+ with limited income/property",
+      "confidence": 0.95,
+      "source": "Assurance Package Seniors"
+    },
+    {
+      "id": "scheme_gstv_cash",
+      "label": "GST Voucher (GSTV) – Cash",
+      "type": "policy",
+      "description": "Enhanced cash payouts up to $850 annually for lower-income Singaporeans 21+",
+      "confidence": 0.95,
+      "source": "GST Voucher Cash"
+    },
+    {
+      "id": "scheme_gstv_medisave",
+      "label": "GST Voucher (GSTV) – MediSave",
+      "type": "policy",
+      "description": "MediSave top-up up to $450 annually for seniors 65+ with limited property/income",
+      "confidence": 0.95,
+      "source": "GST Voucher MediSave"
+    },
+    {
+      "id": "scheme_housing_loan_fi",
+      "label": "Housing Loan from Financial Institutions (FI)",
+      "type": "policy",
+      "description": "Alternative financing for flat purchases from private FIs with LTV up to 75%",
+      "confidence": 0.95,
+      "source": "Housing Loan FI"
+    },
+    {
+      "id": "scheme_pa_community",
+      "label": "PA Community Programmes and Events",
+      "type": "policy",
+      "description": "Access to diverse community programmes, fitness, volunteering through People's Association",
+      "confidence": 0.95,
+      "source": "PA Community Programmes"
+    },
+    {
+      "id": "scheme_hcg",
+      "label": "Home Caregiving Grant (HCG)",
+      "type": "policy",
+      "description": "Monthly cash payout $200-$600 for households caring for persons with moderate to severe disabilities",
+      "confidence": 0.95,
+      "source": "Home Caregiving Grant"
+    },
+    {
+      "id": "scheme_healthier_sg",
+      "label": "Healthier SG",
+      "type": "policy",
+      "description": "National preventive care strategy with subsidised Health Plan consultations for citizens/PRs 40+",
+      "confidence": 0.95,
+      "source": "Healthier SG"
+    },
+    {
+      "id": "scheme_healthy365",
+      "label": "Healthy 365",
+      "type": "policy",
+      "description": "Mobile app for tracking fitness, earning Healthpoints, participating in health challenges for ages 15+",
+      "confidence": 0.95,
+      "source": "Healthy 365"
+    },
+    {
+      "id": "scheme_housing_loan_hdb",
+      "label": "Housing Loan from HDB",
+      "type": "policy",
+      "description": "Government-backed housing financing with concessionary rates and LTV up to 75%",
+      "confidence": 0.95,
+      "source": "Housing Loan HDB"
+    },
+    {
+      "id": "agency_hdb",
+      "label": "Housing and Development Board (HDB)",
+      "type": "organization",
+      "description": "Singapore public housing authority responsible for public housing schemes",
+      "confidence": 0.98,
+      "sector": "Housing"
+    },
+    {
+      "id": "agency_cpf",
+      "label": "Central Provident Fund (CPF)",
+      "type": "organization",
+      "description": "National mandatory savings scheme for retirement and social security",
+      "confidence": 0.98,
+      "sector": "Retirement/Social Security"
+    },
+    {
+      "id": "agency_lifesg",
+      "label": "LifeSG",
+      "type": "organization",
+      "description": "Integrated digital platform for government assistance and social support schemes",
+      "confidence": 0.98,
+      "sector": "Social Support"
+    },
+    {
+      "id": "agency_sg_enable",
+      "label": "SG Enable",
+      "type": "organization",
+      "description": "Government agency providing support for persons with disabilities",
+      "confidence": 0.98,
+      "sector": "Disability Support"
+    },
+    {
+      "id": "agency_msf",
+      "label": "Ministry of Social and Family Development (MSF)",
+      "type": "organization",
+      "description": "Government ministry overseeing social, family, and child development policies",
+      "confidence": 0.98,
+      "sector": "Family/Social Welfare"
+    },
+    {
+      "id": "agency_moe",
+      "label": "Ministry of Education (MOE)",
+      "type": "organization",
+      "description": "Government ministry responsible for education policy and support",
+      "confidence": 0.98,
+      "sector": "Education"
+    },
+    {
+      "id": "agency_iras",
+      "label": "Inland Revenue Authority of Singapore (IRAS)",
+      "type": "organization",
+      "description": "Tax authority managing stamp duty remissions and tax reliefs",
+      "confidence": 0.98,
+      "sector": "Taxation"
+    },
+    {
+      "id": "agency_moh",
+      "label": "Ministry of Health (MOH)",
+      "type": "organization",
+      "description": "Government ministry responsible for healthcare policies and programmes",
+      "confidence": 0.98,
+      "sector": "Healthcare"
+    },
+    {
+      "id": "agency_aic",
+      "label": "Agency for Integrated Care (AIC)",
+      "type": "organization",
+      "description": "Coordinates and plans integrated care services for elderly and disabled persons",
+      "confidence": 0.98,
+      "sector": "Eldercare/Disability"
+    },
+    {
+      "id": "agency_hpb",
+      "label": "Health Promotion Board (HPB)",
+      "type": "organization",
+      "description": "Agency promoting healthy living and preventive health for the population",
+      "confidence": 0.98,
+      "sector": "Healthcare/Wellness"
+    },
+    {
+      "id": "agency_pa",
+      "label": "People's Association (PA)",
+      "type": "organization",
+      "description": "Grassroots organization facilitating community development and social cohesion",
+      "confidence": 0.98,
+      "sector": "Community Development"
+    },
+    {
+      "id": "demographic_families",
+      "label": "Families (with children)",
+      "type": "demographic",
+      "description": "Households with at least one child or expecting a child",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_singles",
+      "label": "Singles",
+      "type": "demographic",
+      "description": "Unmarried individuals or single applicants",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_seniors",
+      "label": "Seniors/Elderly",
+      "type": "demographic",
+      "description": "Persons aged 55 and above",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_children",
+      "label": "Children",
+      "type": "demographic",
+      "description": "Persons under 21 years old",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_low_income",
+      "label": "Low-Income Households",
+      "type": "demographic",
+      "description": "Households with assessable income below specified thresholds",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_persons_disabilities",
+      "label": "Persons with Disabilities",
+      "type": "demographic",
+      "description": "Individuals with moderate to severe disabilities requiring ongoing assistance",
+      "confidence": 0.90
+    },
+    {
+      "id": "demographic_married_couples",
+      "label": "Married Couples",
+      "type": "demographic",
+      "description": "Legally married couples with at least one Singapore Citizen",
+      "confidence": 0.90
+    },
+    {
+      "id": "eligibility_first_timer",
+      "label": "First-Timer Buyer Status",
+      "type": "eligibility",
+      "description": "Never owned or sold a residential property before",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_citizenship",
+      "label": "Singapore Citizenship/PR Status",
+      "type": "eligibility",
+      "description": "Must be Singapore Citizen (SC) or Permanent Resident (PR)",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_income_threshold",
+      "label": "Income Threshold",
+      "type": "eligibility",
+      "description": "Assessable Income or monthly household income must not exceed specified limits",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_property_ownership",
+      "label": "Property Ownership Limitation",
+      "type": "eligibility",
+      "description": "Must not own more than 1 property or have disposed of property within 30 months",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_property_lease",
+      "label": "Remaining Property Lease Requirement",
+      "type": "eligibility",
+      "description": "Flat must have remaining lease over 20 years or sufficient to cover age 95",
+      "confidence": 0.95
+    },
+    {
+      "id": "eligibility_continuous_employment",
+      "label": "Continuous Employment Requirement",
+      "type": "eligibility",
+      "description": "Must have worked continuously for 12+ months before HFE letter application",
+      "confidence": 0.90
+    },
+    {
+      "id": "eligibility_annual_value",
+      "label": "Annual Value (AV) of Residence",
+      "type": "eligibility",
+      "description": "Annual Value of place of residence (per NRIC) must be within specified limits",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_cash_payout",
+      "label": "Cash Payout/Assistance",
+      "type": "benefit",
+      "description": "Direct cash payments disbursed to eligible recipients",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_housing_grant",
+      "label": "Housing Grant",
+      "type": "benefit",
+      "description": "Grants to assist with flat purchase, credited to CPF Ordinary Accounts",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_priority_allocation",
+      "label": "Priority Flat Allocation",
+      "type": "benefit",
+      "description": "Priority or increased ballot chances for HDB flat allocation",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_stamp_duty_remission",
+      "label": "Stamp Duty Remission",
+      "type": "benefit",
+      "description": "Remission of Buyer's Stamp Duty (BSD), Seller's Stamp Duty (SSD), or Additional Buyer's Stamp Duty (ABSD)",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_transport_subsidy",
+      "label": "Transport Subsidy",
+      "type": "benefit",
+      "description": "Means-tested subsidy for transport services for persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_healthcare_subsidy",
+      "label": "Healthcare Subsidy/Support",
+      "type": "benefit",
+      "description": "Subsidised healthcare services, MediSave top-ups, or health screening support",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_education_support",
+      "label": "Education Financial Assistance",
+      "type": "benefit",
+      "description": "Bursaries or fee subsidies for higher education students",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_retirement_support",
+      "label": "Retirement Support",
+      "type": "benefit",
+      "description": "Government matching of CPF retirement savings or retirement-related assistance",
+      "confidence": 0.95
+    },
+    {
+      "id": "benefit_caregiving_support",
+      "label": "Caregiving Financial Support",
+      "type": "benefit",
+      "description": "Monthly cash payments for households caring for persons with disabilities",
+      "confidence": 0.95
+    },
+    {
+      "id": "asset_hdb_flat",
+      "label": "HDB Flat (Public Housing)",
+      "type": "asset",
+      "description": "Public residential flat purchased through HDB schemes",
+      "confidence": 0.95
+    },
+    {
+      "id": "asset_executive_condominium",
+      "label": "Executive Condominium (EC)",
+      "type": "asset",
+      "description": "Semi-public residential property under HDB's EC Housing Scheme",
+      "confidence": 0.90
+    },
+    {
+      "id": "asset_private_property",
+      "label": "Private Residential Property",
+      "type": "asset",
+      "description": "Private property purchase (excludes HDB flats)",
+      "confidence": 0.95
+    },
+    {
+      "id": "application_portal_hdb",
+      "label": "HDB Flat Portal",
+      "type": "application_channel",
+      "description": "Online portal for HDB Flat Eligibility (HFE) letter applications and flat booking",
+      "confidence": 0.95,
+      "url": "https://services2.hdb.gov.sg/web/bp27/PrelimHFE/"
+    },
+    {
+      "id": "application_portal_cpf",
+      "label": "CPF Online Portal",
+      "type": "application_channel",
+      "description": "Portal for CPF-related applications and account management",
+      "confidence": 0.90,
+      "url": "https://www.cpf.gov.sg"
+    },
+    {
+      "id": "application_portal_aic",
+      "label": "AIC eService Portal",
+      "type": "application_channel",
+      "description": "Online portal for Agency for Integrated Care applications",
+      "confidence": 0.90,
+      "url": "https://efinance.aic.sg/"
+    },
+    {
+      "id": "application_portal_govbenefits",
+      "label": "GovBenefits Portal",
+      "type": "application_channel",
+      "description": "Centralized portal for government benefits and assistance schemes",
+      "confidence": 0.90,
+      "url": "https://www.govbenefits.gov.sg/"
+    },
+    {
+      "id": "application_portal_estamping",
+      "label": "e-Stamping Portal (IRAS)",
+      "type": "application_channel",
+      "description": "Online portal for stamp duty application and remission certificates",
+      "confidence": 0.95,
+      "url": "https://mytax.iras.gov.sg/estamping/"
+    },
+    {
+      "id": "application_portal_lifesg_app",
+      "label": "LifeSG Mobile App",
+      "type": "application_channel",
+      "description": "Mobile app for LifeSG credits disbursement and benefits access",
+      "confidence": 0.95
+    },
+    {
+      "id": "timeline_assessment",
+      "label": "Assessment Timeline",
+      "type": "timeline",
+      "description": "Specific dates when eligibility is assessed for various schemes",
+      "confidence": 0.85
+    },
+    {
+      "id": "timeline_disbursement",
+      "label": "Disbursement Timeline",
+      "type": "timeline",
+      "description": "Schedule for when benefits are paid out to recipients",
+      "confidence": 0.85
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_encpfhg_fam_hdb",
+      "source": "scheme_encpfhg_fam",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.98,
+      "description": "Housing scheme administered by HDB"
+    },
+    {
+      "id": "edge_encpfhg_fam_families",
+      "source": "scheme_encpfhg_fam",
+      "target": "demographic_families",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Scheme targets eligible family groups"
+    },
+    {
+      "id": "edge_encpfhg_fam_hdb_flat",
+      "source": "scheme_encpfhg_fam",
+      "target": "asset_hdb_flat",
+      "relationship": "supports_purchase_of",
+      "confidence": 0.95,
+      "description": "Grant assists in purchasing HDB flats"
+    },
+    {
+      "id": "edge_encpfhg_fam_grant_benefit",
+      "source": "scheme_encpfhg_fam",
+      "target": "benefit_housing_grant",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Scheme provides housing grant benefit"
+    },
+    {
+      "id": "edge_encpfhg_fam_first_timer",
+      "source": "scheme_encpfhg_fam",
+      "target": "eligibility_first_timer",
+      "relationship": "requires",
+      "confidence": 0.95,
+      "description": "Requires first-timer status"
+    },
+    {
+      "id": "edge_encpfhg_fam_income",
+      "source": "scheme_encpfhg_fam",
+      "target": "eligibility_income_threshold",
+      "relationship": "requires",
+      "confidence": 0.95,
+      "description": "Requires income not exceeding $9,000/month for families"
+    },
+    {
+      "id": "edge_encpfhg_sin_singles",
+      "source": "scheme_encpfhg_sin",
+      "target": "demographic_singles",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Scheme specifically targets single applicants"
+    },
+    {
+      "id": "edge_encpfhg_sin_income",
+      "source": "scheme_encpfhg_sin",
+      "target": "eligibility_income_threshold",
+      "relationship": "requires",
+      "confidence": 0.95,
+      "description": "Requires income not exceeding $4,500/month for singles"
+    },
+    {
+      "id": "edge_esbwvfrn_lifesg",
+      "source": "scheme_esbwvfrn",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Cost-of-living scheme administered by LifeSG"
+    },
+    {
+      "id": "edge_esbwvfrn_cash_benefit",
+      "source": "scheme_esbwvfrn",
+      "target": "benefit_cash_payout",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides cash payout benefit"
+    },
+    {
+      "id": "edge_ets_sg_enable",
+      "source": "scheme_ets",
+      "target": "agency_sg_enable",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Transport subsidy scheme administered by SG Enable"
+    },
+    {
+      "id": "edge_ets_disability",
+      "source": "scheme_ets",
+      "target": "demographic_persons_disabilities",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Supports persons with disabilities"
+    },
+    {
+      "id": "edge_ets_transport_subsidy",
+      "source": "scheme_ets",
+      "target": "benefit_transport_subsidy",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides transport subsidy benefit"
+    },
+    {
+      "id": "edge_fpps_hdb",
+      "source": "scheme_fpps",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "HDB flat priority scheme"
+    },
+    {
+      "id": "edge_fpps_families",
+      "source": "scheme_fpps",
+      "target": "demographic_families",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Prioritizes families with children or expecting children"
+    },
+    {
+      "id": "edge_fpps_priority_benefit",
+      "source": "scheme_fpps",
+      "target": "benefit_priority_allocation",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides priority flat allocation benefit"
+    },
+    {
+      "id": "edge_mrss_cpf",
+      "source": "scheme_mrss",
+      "target": "agency_cpf",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Retirement savings scheme administered by CPF"
+    },
+    {
+      "id": "edge_mrss_seniors",
+      "source": "scheme_mrss",
+      "target": "demographic_seniors",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Targets seniors and persons with disability"
+    },
+    {
+      "id": "edge_mrss_retirement_support",
+      "source": "scheme_mrss",
+      "target": "benefit_retirement_support",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides government matching for retirement savings"
+    },
+    {
+      "id": "edge_fresh_start_hdb",
+      "source": "scheme_fresh_start",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Housing scheme for rental flat residents transitioning to ownership"
+    },
+    {
+      "id": "edge_fresh_start_families",
+      "source": "scheme_fresh_start",
+      "target": "demographic_families",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Targets families with children from rental flats"
+    },
+    {
+      "id": "edge_gov_bursaries_moe",
+      "source": "scheme_gov_bursaries",
+      "target": "agency_moe",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Education bursary scheme administered by MOE"
+    },
+    {
+      "id": "edge_gov_bursaries_education_support",
+      "source": "scheme_gov_bursaries",
+      "target": "benefit_education_support",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides education financial assistance"
+    },
+    {
+      "id": "edge_ftpmc_cat_hdb",
+      "source": "scheme_ftpmc_cat",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "First-timer family priority scheme by HDB"
+    },
+    {
+      "id": "edge_stamp_duty_family_iras",
+      "source": "scheme_stamp_duty_family",
+      "target": "agency_iras",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Stamp duty scheme administered by IRAS"
+    },
+    {
+      "id": "edge_stamp_duty_family_hdb_flat",
+      "source": "scheme_stamp_duty_family",
+      "target": "asset_hdb_flat",
+      "relationship": "applies_to",
+      "confidence": 0.95,
+      "description": "Applies to HDB flat transfers"
+    },
+    {
+      "id": "edge_stamp_duty_family_families",
+      "source": "scheme_stamp_duty_family",
+      "target": "demographic_families",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Supports family flat transfers"
+    },
+    {
+      "id": "edge_stamp_duty_couples_iras",
+      "source": "scheme_stamp_duty_couples",
+      "target": "agency_iras",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Stamp duty scheme for couples administered by IRAS"
+    },
+    {
+      "id": "edge_stamp_duty_couples_married",
+      "source": "scheme_stamp_duty_couples",
+      "target": "demographic_married_couples",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Specifically targets married couples"
+    },
+    {
+      "id": "edge_child_lifesg_msf",
+      "source": "scheme_child_lifesg",
+      "target": "agency_msf",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Child support scheme administered by MSF"
+    },
+    {
+      "id": "edge_child_lifesg_children",
+      "source": "scheme_child_lifesg",
+      "target": "demographic_children",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Provides support for children aged 0-12"
+    },
+    {
+      "id": "edge_ap_cash_lifesg",
+      "source": "scheme_ap_cash",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Assurance package scheme via LifeSG"
+    },
+    {
+      "id": "edge_ap_cash_benefit",
+      "source": "scheme_ap_cash",
+      "target": "benefit_cash_payout",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides cash payout benefit"
+    },
+    {
+      "id": "edge_ap_seniors_lifesg",
+      "source": "scheme_ap_seniors",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Seniors assurance package via LifeSG"
+    },
+    {
+      "id": "edge_ap_seniors_seniors",
+      "source": "scheme_ap_seniors",
+      "target": "demographic_seniors",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Specifically targets seniors aged 55+"
+    },
+    {
+      "id": "edge_gstv_cash_lifesg",
+      "source": "scheme_gstv_cash",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "GST voucher scheme via LifeSG"
+    },
+    {
+      "id": "edge_gstv_cash_low_income",
+      "source": "scheme_gstv_cash",
+      "target": "demographic_low_income",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Supports lower-income households"
+    },
+    {
+      "id": "edge_gstv_medisave_lifesg",
+      "source": "scheme_gstv_medisave",
+      "target": "agency_lifesg",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Healthcare support scheme via LifeSG"
+    },
+    {
+      "id": "edge_gstv_medisave_seniors",
+      "source": "scheme_gstv_medisave",
+      "target": "demographic_seniors",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Provides MediSave support for seniors"
+    },
+    {
+      "id": "edge_gstv_medisave_healthcare",
+      "source": "scheme_gstv_medisave",
+      "target": "benefit_healthcare_subsidy",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides MediSave top-up benefit"
+    },
+    {
+      "id": "edge_housing_loan_fi_hdb",
+      "source": "scheme_housing_loan_fi",
+      "target": "agency_hdb",
+      "relationship": "related_to",
+      "confidence": 0.90,
+      "description": "Alternative to HDB loan for flat purchases"
+    },
+    {
+      "id": "edge_housing_loan_fi_hdb_flat",
+      "source": "scheme_housing_loan_fi",
+      "target": "asset_hdb_flat",
+      "relationship": "supports_purchase_of",
+      "confidence": 0.95,
+      "description": "Supports HDB flat purchases"
+    },
+    {
+      "id": "edge_housing_loan_fi_ec",
+      "source": "scheme_housing_loan_fi",
+      "target": "asset_executive_condominium",
+      "relationship": "supports_purchase_of",
+      "confidence": 0.95,
+      "description": "Required for Executive Condominium purchases"
+    },
+    {
+      "id": "edge_pa_community_pa",
+      "source": "scheme_pa_community",
+      "target": "agency_pa",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Community engagement programme run by PA"
+    },
+    {
+      "id": "edge_hcg_aic",
+      "source": "scheme_hcg",
+      "target": "agency_aic",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Home caregiving scheme administered by AIC"
+    },
+    {
+      "id": "edge_hcg_disability",
+      "source": "scheme_hcg",
+      "target": "demographic_persons_disabilities",
+      "relationship": "supports",
+      "confidence": 0.95,
+      "description": "Supports households caring for persons with disabilities"
+    },
+    {
+      "id": "edge_hcg_caregiving_benefit",
+      "source": "scheme_hcg",
+      "target": "benefit_caregiving_support",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides caregiving financial support"
+    },
+    {
+      "id": "edge_healthier_sg_moh",
+      "source": "scheme_healthier_sg",
+      "target": "agency_moh",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Preventive healthcare strategy by MOH"
+    },
+    {
+      "id": "edge_healthier_sg_seniors",
+      "source": "scheme_healthier_sg",
+      "target": "demographic_seniors",
+      "relationship": "targets",
+      "confidence": 0.95,
+      "description": "Targets persons aged 40+"
+    },
+    {
+      "id": "edge_healthier_sg_healthcare",
+      "source": "scheme_healthier_sg",
+      "target": "benefit_healthcare_subsidy",
+      "relationship": "provides",
+      "confidence": 0.95,
+      "description": "Provides subsidised health consultations"
+    },
+    {
+      "id": "edge_healthy365_hpb",
+      "source": "scheme_healthy365",
+      "target": "agency_hpb",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Health app by Health Promotion Board"
+    },
+    {
+      "id": "edge_housing_loan_hdb_hdb",
+      "source": "scheme_housing_loan_hdb",
+      "target": "agency_hdb",
+      "relationship": "administered_by",
+      "confidence": 0.95,
+      "description": "Housing loan scheme by HDB"
+    },
+    {
+      "id": "edge_housing_loan_hdb_hdb_flat",
+      "source": "scheme_housing_loan_hdb",
+      "target": "asset_hdb_flat",
+      "relationship": "supports_purchase_of",
+      "confidence": 0.95,
+      "description": "Provides financing for HDB flat purchases"
+    },
+    {
+      "id": "edge_hdb_portal_applications",
+      "source": "application_portal_hdb",
+      "target": "scheme_encpfhg_fam",
+      "relationship": "used_for_application",
+      "confidence": 0.95,
+      "description": "Portal for HFE letter and grant applications"
+    },
+    {
+      "id": "edge_govbenefits_portal_gstv",
+      "source": "application_portal_govbenefits",
+      "target": "scheme_gstv_cash",
+      "relationship": "used_for_application",
+      "confidence": 0.95,
+      "description": "Portal for GST Voucher registration"
+    },
+    {
+      "id": "edge_estamping_portal_stamp_duty",
+      "source": "application_portal_estamping",
+      "target": "scheme_stamp_duty_family",
+      "relationship": "used_for_application",
+      "confidence": 0.95,
+      "description": "Portal for stamp duty remission applications"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_housing_ecosystem",
+      "label": "Public Housing Ecosystem",
+      "type": "system",
+      "nodes": [
+        "scheme_encpfhg_fam",
+        "scheme_encpfhg_sin",
+        "scheme_fpps",
+        "scheme_fresh_start",
+        "scheme_ftpmc_cat",
+        "scheme_housing_loan_hdb",
+        "scheme_housing_loan_fi",
+        "asset_hdb_flat",
+        "agency_hdb",
+        "demographic_families",
+        "demographic_singles",
+        "eligibility_first_timer",
+        "benefit_housing_grant",
+        "benefit_priority_allocation"
+      ],
+      "description": "Interconnected housing policies, agencies, and beneficiaries supporting flat purchases",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_cost_of_living_support",
+      "label": "Cost-of-Living Support System",
+      "type": "system",
+      "nodes": [
+        "scheme_ap_cash",
+        "scheme_ap_seniors",
+        "scheme_gstv_cash",
+        "scheme_gstv_medisave",
+        "scheme_esbwvfrn",
+        "agency_lifesg",
+        "demographic_low_income",
+        "demographic_seniors",
+        "benefit_cash_payout",
+        "benefit_healthcare_subsidy"
+      ],
+      "description": "Multi-scheme system providing cash and healthcare support for cost-of-living",
+      "confidence": 0.91
+    },
+    {
+      "id": "hyperedge_family_support_ecosystem",
+      "label": "Family Support Ecosystem",
+      "type": "system",
+      "nodes": [
+        "scheme_fpps",
+        "scheme_child_lifesg",
+        "scheme_fresh_start",
+        "scheme_encpfhg_fam",
+        "agency_msf",
+        "agency_hdb",
+        "demographic_families",
+        "demographic_children",
+        "benefit_housing_grant",
+        "benefit_priority_allocation",
+        "benefit_cash_payout"
+      ],
+      "description": "Comprehensive family support policies covering housing, child benefits, and prioritization",
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_healthcare_wellness_ecosystem",
+      "label": "Healthcare and Wellness Ecosystem",
+      "type": "system",
+      "nodes": [
+        "scheme_healthier_sg",
+        "scheme_healthy365",
+        "scheme_gstv_medisave",
+        "agency_moh",
+        "agency_hpb",
+        "demographic_seniors",
+        "benefit_healthcare_subsidy"
+      ],
+      "description": "Integrated healthcare and preventive wellness programs for population health",
+      "confidence": 0.90
+    },
+    {
+      "id": "hyperedge_disability_support_ecosystem",
+      "label": "Disability Support Ecosystem",
+      "type": "system",
+      "nodes": [
+        "scheme_ets",
+        "scheme_hcg",
+        "agency_sg_enable",
+        "agency_aic",
+        "demographic_persons_disabilities",
+        "benefit_transport_subsidy",
+        "benefit_caregiving_support"
+      ],
+      "description": "Coordinated support for persons with disabilities covering transport and caregiving",
+      "confidence": 0.92
+    },
+    {
+      "id": "hyperedge_education_support_pipeline",
+      "label": "Education Support Pipeline",
+      "type": "system",
+      "nodes": [
+        "scheme_gov_bursaries",
+        "agency_moe",
+        "demographic_low_income",
+        "demographic_children",
+        "benefit_education_support"
+      ],
+      "description": "Financial assistance pathway for lower/middle-income students in higher education",
+      "confidence": 0.88
+    },
+    {
+      "id": "hyperedge_retirement_and_aging_support",
+      "label": "Retirement and Aging Support",
+      "type": "system",
+      "nodes": [
+        "scheme_mrss",
+        "scheme_ap_seniors",
+        "scheme_gstv_medisave",
+        "scheme_healthier_sg",
+        "agency_cpf",
+        "demographic_seniors",
+        "benefit_retirement_support",
+        "benefit_healthcare_subsidy",
+        "benefit_cash_payout"
+      ],
+      "description": "Comprehensive retirement savings, healthcare, and cost-of-living support for seniors",
+      "confidence": 0.91
+    },
+    {
+      "id": "hyperedge_property_transfer_taxation",
+      "label": "Property Transfer and Taxation",
+      "type": "system",
+      "nodes": [
+        "scheme_stamp_duty_family",
+        "scheme_stamp_duty_couples",
+        "agency_iras",
+        "asset_hdb_flat",
+        "asset_private_property",
+        "demographic_families",
+        "demographic_married_couples",
+        "benefit_stamp_duty_remission"
+      ],
+      "description": "Stamp duty concessions for eligible property transfers and acquisitions",
+      "confidence": 0.92
+    }
+  ],
+  "summary_statistics": {
+    "total_nodes": 68,
+    "node_types": {
+      "policy": 22,
+      "organization": 11,
+      "demographic": 8,
+      "eligibility": 8,
+      "benefit": 10,
+      "asset": 3,
+      "application_channel": 5,
+      "timeline": 2
+    },
+    "total_edges": 57,
+    "edge_types": {
+      "administered_by": 11,
+      "targets": 9,
+      "supports_purchase_of": 3,
+      "provides": 10,
+      "requires": 3,
+      "applies_to": 1,
+      "related_to": 1,
+      "used_for_application": 3,
+      "supports": 2,
+      "other": 14
+    },
+    "total_hyperedges": 8,
+    "hyperedge_types": {
+      "system": 8
+    }
+  },
+  "confidence_distribution": {
+    "high_confidence_0_90_to_1_0": 125,
+    "medium_confidence_0_75_to_0_90": 0,
+    "low_confidence_below_0_75": 0
+  },
+  "semantic_themes": [
+    "Housing Access and Ownership",
+    "Cost-of-Living Support",
+    "Family and Parenthood Benefits",
+    "Healthcare and Wellness",
+    "Disability Support and Inclusion",
+    "Retirement and Aging",
+    "Education and Skills Development",
+    "Community Engagement",
+    "Tax and Financial Incentives",
+    "Accessibility and Digital Platforms"
+  ],
+  "key_eligibility_patterns": {
+    "citizenship_requirement": "Most schemes require Singapore Citizenship (SC) or Permanent Resident (PR) status",
+    "income_thresholds": "Multiple tiered income thresholds ($4,000-$16,000 monthly depending on household type)",
+    "property_restrictions": "First-timer and no private property ownership within 30 months common across housing schemes",
+    "age_specifications": "Age-based targeting (children 0-12, singles 35+, seniors 55-65+)",
+    "application_requirements": "Most schemes now use online portals (HDB Portal, GovBenefits, e-Stamping, AIC eServices)"
+  },
+  "key_benefit_patterns": {
+    "cash_payouts": "Direct cash assistance ranging $200-$2,250 depending on scheme",
+    "housing_support": "Grants, loans, subsidies, and priority allocation for flat purchases",
+    "healthcare_support": "Subsidised consultations, MediSave top-ups, preventive care programs",
+    "subsidy_schemes": "Means-tested subsidies for transport (80%), caregiving ($200-$600/month)",
+    "tax_incentives": "Stamp duty remissions for family transfers and couple purchases"
+  },
+  "agency_coordination": {
+    "HDB": "Central for all public housing schemes",
+    "LifeSG": "Coordinating hub for cost-of-living, child, and GST voucher schemes",
+    "CPF": "Retirement and housing savings integration",
+    "MSF": "Family and child development policies",
+    "MOH": "Healthcare and preventive care strategies",
+    "IRAS": "Tax relief and stamp duty management",
+    "AIC": "Disability and eldercare support"
+  }
+}

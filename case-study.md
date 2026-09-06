@@ -13,15 +13,3 @@ Agency FAQs and public guides are all on public websites. How you get that conte
 synthetic content that stands in for the real thing. If you take a shortcut there, tell us.
 
 
-/aic/*
-/ecda/*
-/govsg/*
-/has/*
-/hdb/*
-/iras/*
-/mindef/*
-/moh/*
-/skillsfuture/*
-/msf/*
-/cpf/*
-/singpass/*

@@ -1,0 +1,1557 @@
+{
+  "chunk_id": "chunk_01",
+  "chunk_range": "files_22-42",
+  "extraction_date": "2026-09-06",
+  "document_count": 21,
+  "approximate_tokens": 18500,
+  "nodes": [
+    {
+      "id": "mindef",
+      "label": "MINDEF",
+      "type": "Organization",
+      "full_name": "Ministry of Defence",
+      "description": "Singapore's defence ministry responsible for National Service policy and implementation",
+      "confidence": "EXTRACTED",
+      "mentions": 12
+    },
+    {
+      "id": "saf",
+      "label": "SAF",
+      "type": "Organization",
+      "full_name": "Singapore Armed Forces",
+      "description": "One of three uniformed services for National Service",
+      "confidence": "EXTRACTED",
+      "mentions": 18
+    },
+    {
+      "id": "scdf",
+      "label": "SCDF",
+      "type": "Organization",
+      "full_name": "Singapore Civil Defence Force",
+      "description": "One of three uniformed services for National Service",
+      "confidence": "EXTRACTED",
+      "mentions": 11
+    },
+    {
+      "id": "spf",
+      "label": "SPF",
+      "type": "Organization",
+      "full_name": "Singapore Police Force",
+      "description": "One of three uniformed services for National Service",
+      "confidence": "EXTRACTED",
+      "mentions": 11
+    },
+    {
+      "id": "cmpb",
+      "label": "CMPB",
+      "type": "Organization",
+      "full_name": "Central Manpower Base",
+      "description": "Central administrative body for National Service, handles medical screening and enlistment",
+      "location": "91 Hillview Link, S669723",
+      "confidence": "EXTRACTED",
+      "mentions": 15
+    },
+    {
+      "id": "mom",
+      "label": "MOM",
+      "type": "Organization",
+      "full_name": "Ministry of Manpower",
+      "description": "Government ministry handling employment and workplace disputes",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "cpf",
+      "label": "CPF",
+      "type": "Organization",
+      "full_name": "Central Provident Fund",
+      "description": "Social security savings system for retirement, healthcare, and housing",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "ns",
+      "label": "National Service",
+      "type": "Policy",
+      "description": "Compulsory military/civil service for male Singapore Citizens and PRs",
+      "obligation_age": 18,
+      "confidence": "EXTRACTED",
+      "mentions": 47
+    },
+    {
+      "id": "fulltime_ns",
+      "label": "Full-time National Service",
+      "type": "Policy",
+      "description": "Initial period of full-time NS service",
+      "duration_years": 2,
+      "confidence": "EXTRACTED",
+      "mentions": 12
+    },
+    {
+      "id": "operationally_ready_ns",
+      "label": "Operationally Ready National Service",
+      "type": "Policy",
+      "description": "Reserve service period after full-time NS with regular in-camp training",
+      "duration_years": 10,
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "pre_enlistment",
+      "label": "Pre-enlistment",
+      "type": "Process",
+      "description": "Process from age 13 through to enlistment day",
+      "starting_age": 13,
+      "confidence": "EXTRACTED",
+      "mentions": 8
+    },
+    {
+      "id": "ns_registration",
+      "label": "NS Registration",
+      "type": "Process",
+      "description": "Formal registration for National Service",
+      "registration_age": 16.5,
+      "platform": "OneNS web portal",
+      "confidence": "EXTRACTED",
+      "mentions": 5
+    },
+    {
+      "id": "exit_permit",
+      "label": "Exit Permit",
+      "type": "Document",
+      "abbreviation": "EP",
+      "description": "Permit required for staying overseas for extended periods before NS completion",
+      "min_duration": "3 months",
+      "max_validity": "2 years",
+      "confidence": "EXTRACTED",
+      "mentions": 16
+    },
+    {
+      "id": "exit_permit_bond",
+      "label": "Exit Permit Bond",
+      "type": "Financial Obligation",
+      "description": "Financial bond required for extended overseas stays",
+      "min_amount": 75000,
+      "amount_note": "$75,000 or 50% combined annual gross income, whichever is higher",
+      "currency": "SGD",
+      "confidence": "EXTRACTED",
+      "mentions": 4
+    },
+    {
+      "id": "medical_screening",
+      "label": "Medical Screening",
+      "type": "Process",
+      "description": "Compulsory medical examination to determine fitness for NS",
+      "duration_hours": 5,
+      "location": "CMPB",
+      "confidence": "EXTRACTED",
+      "mentions": 8
+    },
+    {
+      "id": "pes",
+      "label": "PES",
+      "type": "Grading System",
+      "full_name": "Physical Employment Standard",
+      "description": "Medical fitness grading system for NS (being phased out)",
+      "grades": ["A", "B1", "B2", "B3", "B4", "C", "D", "E", "BP"],
+      "applicable_until": "October 2027",
+      "confidence": "EXTRACTED",
+      "mentions": 12
+    },
+    {
+      "id": "mcs",
+      "label": "Medical Classification System",
+      "type": "Grading System",
+      "abbreviation": "MCS",
+      "description": "Refreshed medical fitness classification system for NS (from Oct 2027)",
+      "effective_date": "October 2027",
+      "confidence": "EXTRACTED",
+      "mentions": 5
+    },
+    {
+      "id": "ippt",
+      "label": "Individual Physical Proficiency Test",
+      "type": "Assessment",
+      "abbreviation": "IPPT",
+      "description": "Fitness test measuring physical performance",
+      "components": ["push-ups", "sit-ups", "2.4km run"],
+      "passing_score": 61,
+      "confidence": "EXTRACTED",
+      "mentions": 11
+    },
+    {
+      "id": "pre_enlistee_ippt",
+      "label": "Pre-enlistee IPPT",
+      "type": "Assessment",
+      "description": "IPPT taken before enlistment to potentially reduce full-time NS duration",
+      "potential_reduction_weeks": 8,
+      "passing_score": 61,
+      "confidence": "EXTRACTED",
+      "mentions": 7
+    },
+    {
+      "id": "basic_training",
+      "label": "Basic Training",
+      "type": "Training Phase",
+      "description": "Initial mandatory training phase after enlistment",
+      "confidence": "EXTRACTED",
+      "mentions": 8
+    },
+    {
+      "id": "bmt",
+      "label": "Basic Military Training",
+      "type": "Training Program",
+      "abbreviation": "BMT",
+      "description": "Basic military training for SAF recruits",
+      "min_duration_weeks": 9,
+      "max_duration_weeks": 19,
+      "confidence": "EXTRACTED",
+      "mentions": 6
+    },
+    {
+      "id": "bmtc_tekong",
+      "label": "BMTC Pulau Tekong",
+      "type": "Facility",
+      "description": "Basic Military Training Centre on Pulau Tekong for SAF",
+      "location": "Pulau Tekong",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "ptp",
+      "label": "Physical Training Phase",
+      "type": "Training Component",
+      "abbreviation": "PTP",
+      "description": "8-week intensive physical training for those not meeting IPPT standards",
+      "duration_weeks": 8,
+      "confidence": "EXTRACTED",
+      "mentions": 4
+    },
+    {
+      "id": "enlistment_day",
+      "label": "Enlistment Day",
+      "type": "Event",
+      "description": "Day when recruits officially begin National Service",
+      "components": ["oath-taking ceremony", "guided tour", "commanding officer briefing"],
+      "confidence": "EXTRACTED",
+      "mentions": 6
+    },
+    {
+      "id": "oath_of_allegiance",
+      "label": "Oath of Allegiance",
+      "type": "Ceremony",
+      "description": "Ceremonial oath taken on enlistment day",
+      "location": "Enlistment day ceremony",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "deferment",
+      "label": "Deferment",
+      "type": "Policy",
+      "description": "Postponement of NS for full-time studies",
+      "eligible_courses": ["GCE O/N/A Level", "Polytechnic", "NITEC", "Higher NITEC", "IB Diploma"],
+      "ineligible_courses": ["University degree"],
+      "confidence": "EXTRACTED",
+      "mentions": 10
+    },
+    {
+      "id": "disruption",
+      "label": "Disruption",
+      "type": "Policy",
+      "description": "Interruption of NS service to attend university",
+      "eligibility": "Enlisted later than peers in same academic cohort",
+      "confidence": "EXTRACTED",
+      "mentions": 5
+    },
+    {
+      "id": "vees",
+      "label": "Voluntary Early Enlistment Scheme",
+      "type": "Policy",
+      "abbreviation": "VEES",
+      "description": "Scheme allowing enlistment before age 18 with parental consent",
+      "min_age": "under 18",
+      "parental_consent_required": true,
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "skillsfuture_ns",
+      "label": "SkillsFuture@NS",
+      "type": "Program",
+      "abbreviation": "SF@NS",
+      "description": "Learning and career development program during final months of full-time NS",
+      "components": ["LXP platform", "Career fairs", "Workshops"],
+      "confidence": "EXTRACTED",
+      "mentions": 5
+    },
+    {
+      "id": "work_learn_schemes",
+      "label": "MINDEF-SAF Work-Learn Schemes",
+      "type": "Program",
+      "abbreviation": "WLS",
+      "description": "Schemes combining full-time NS with Regular service and diploma training",
+      "combined_service_years": 4,
+      "available_schemes": 8,
+      "confidence": "EXTRACTED",
+      "mentions": 4
+    },
+    {
+      "id": "sps_ic",
+      "label": "SAF-Polytechnic Sponsorship for Integrated Curriculum",
+      "type": "Program",
+      "abbreviation": "SPS-IC",
+      "description": "Sponsorship combining NS with polytechnic studies and Regular service",
+      "full_service_years": 5,
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "onens_portal",
+      "label": "OneNS Web Portal",
+      "type": "Service",
+      "url": "www.ns.gov.sg",
+      "description": "Online platform for NS-related applications and status tracking",
+      "services": ["Registration", "Medical scheduling", "Exit Permit", "IPPT booking", "Deferment management"],
+      "confidence": "EXTRACTED",
+      "mentions": 13
+    },
+    {
+      "id": "medical_review",
+      "label": "Medical Review",
+      "type": "Process",
+      "description": "Further medical investigation for those assigned PES D or Pending Medical Review",
+      "confidence": "EXTRACTED",
+      "mentions": 7
+    },
+    {
+      "id": "pending_med_review",
+      "label": "Pending Medical Review",
+      "type": "Status",
+      "description": "Medical classification status requiring further investigation",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "fro",
+      "label": "Further Reporting Order",
+      "type": "Document",
+      "abbreviation": "FRO",
+      "description": "Official order requiring attendance at medical appointments and reviews",
+      "mandatory": true,
+      "confidence": "EXTRACTED",
+      "mentions": 4
+    },
+    {
+      "id": "letter_of_identity",
+      "label": "Letter of Identity",
+      "type": "Document",
+      "abbreviation": "LOI",
+      "description": "Document waiving consultation fees at public hospitals",
+      "coverage": "Up to diagnosis only",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "medical_classification_centre",
+      "label": "Medical Classification Centre",
+      "type": "Facility",
+      "abbreviation": "MCC",
+      "description": "CMPB facility for medical reviews and reassessments",
+      "location": "CMPB, 91 Hillview Link",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "care_hub",
+      "label": "Care Hub",
+      "type": "Support Service",
+      "description": "On-site counselling and psychological support during basic training",
+      "staff": ["Orientation Officers", "Counsellors", "Psychologists", "Medical Officers"],
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "buddy_system",
+      "label": "Buddy System",
+      "type": "Support Program",
+      "description": "Peer support pairing during basic training",
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "stay_in_training",
+      "label": "Stay-in Training",
+      "type": "Training Component",
+      "description": "Initial phase requiring recruits to remain in camp",
+      "min_days": 10,
+      "max_days": 19,
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "booking_out",
+      "label": "Booking Out",
+      "type": "Policy",
+      "description": "Permission to leave camp on weekends/public holidays after initial stay-in phase",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "vocation_assignment",
+      "label": "Vocation Assignment",
+      "type": "Process",
+      "description": "Assignment to specific military vocation based on assessment and interest",
+      "total_vocations": 33,
+      "confidence": "EXTRACTED",
+      "mentions": 3
+    },
+    {
+      "id": "vocational_assessment",
+      "label": "Vocational Assessment",
+      "type": "Process",
+      "description": "Stringent selection criteria for specialized vocations like Commandos and Naval Divers",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "commandos",
+      "label": "Commandos",
+      "type": "Vocation",
+      "description": "Specialized SAF vocation with stringent selection criteria",
+      "service": "SAF",
+      "selection_level": "Stringent",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "naval_divers",
+      "label": "Naval Divers",
+      "type": "Vocation",
+      "description": "Specialized SAF Navy vocation with stringent selection criteria",
+      "service": "SAF",
+      "selection_level": "Stringent",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "dependants_protection_scheme",
+      "label": "Dependants' Protection Scheme",
+      "type": "Insurance Policy",
+      "abbreviation": "DPS",
+      "description": "Life insurance for CPF members covering death, terminal illness, or disability",
+      "max_coverage_age_60": 70000,
+      "max_coverage_age_65": 55000,
+      "currency": "SGD",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "child_development_account",
+      "label": "Child Development Account",
+      "type": "Savings Account",
+      "abbreviation": "CDA",
+      "description": "Account for child's medical and education expenses",
+      "initial_balance": 3000,
+      "currency": "SGD",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "baby_bonus",
+      "label": "Baby Bonus",
+      "type": "Government Grant",
+      "description": "Cash gift and CDA matching for newborn children",
+      "eligibility_date": "18 Feb 2025 onwards",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "medisave",
+      "label": "MediSave",
+      "type": "Savings Account",
+      "description": "Healthcare savings account within CPF for medical expenses",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "employment_act",
+      "label": "Employment Act",
+      "type": "Legislation",
+      "jurisdiction": "Singapore",
+      "description": "Laws governing employment rights, overtime, rest days, and leave",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "enlistment_act_1970",
+      "label": "Enlistment Act 1970",
+      "type": "Legislation",
+      "jurisdiction": "Singapore",
+      "description": "Primary legislation governing NS obligations and offences",
+      "penalties_fine": "Up to $10,000",
+      "penalties_jail": "Up to 3 years",
+      "confidence": "EXTRACTED",
+      "mentions": 5
+    },
+    {
+      "id": "iso_45001",
+      "label": "ISO 45001",
+      "type": "Standard",
+      "description": "International occupational health and safety management standard",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "tafep",
+      "label": "TAFEP",
+      "type": "Organization",
+      "full_name": "Tripartite Alliance for Fair and Progressive Employment Practices",
+      "description": "Government alliance handling workplace harassment complaints",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "tadm",
+      "label": "TADM",
+      "type": "Organization",
+      "full_name": "Tripartite Alliance for Dispute Management",
+      "description": "Government alliance handling employment dispute resolution",
+      "services": ["Wrongful dismissal claims", "Salary disputes"],
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "snapsafe",
+      "label": "SnapSAFE",
+      "type": "Service",
+      "description": "MOM eFeedback system for reporting unsafe workplace conditions",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "safety_pause",
+      "label": "Safety Pause",
+      "type": "Policy",
+      "description": "Right to call pause on unsafe training at any time without punishment",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "progressive_wage_model",
+      "label": "Progressive Wage Model",
+      "type": "Policy",
+      "description": "Wage framework for cleaning, security, and landscape sectors",
+      "applies_to_sectors": ["Cleaning", "Security", "Landscape"],
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "ica",
+      "label": "Immigration and Checkpoints Authority",
+      "type": "Organization",
+      "abbreviation": "ICA",
+      "description": "Government agency managing immigration and identity records",
+      "role_in_ns": "Maintains mailing address for NS notices",
+      "confidence": "INFERRED",
+      "mentions": 1
+    },
+    {
+      "id": "lifesg",
+      "label": "LifeSG",
+      "type": "Service",
+      "description": "Government digital platform for tracking NS pre-enlistment journey",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "singpass",
+      "label": "Singpass",
+      "type": "Service",
+      "description": "Singapore's digital identity authentication system",
+      "use_case": "Login for government eServices",
+      "confidence": "EXTRACTED",
+      "mentions": 4
+    },
+    {
+      "id": "formsg",
+      "label": "FormSG",
+      "type": "Service",
+      "description": "Government form submission platform",
+      "use_case": "SCDF feedback submission",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "financial_assistance_ns",
+      "label": "Financial Assistance for NSFs",
+      "type": "Support Program",
+      "description": "Support for NSFs facing family financial difficulties",
+      "applicable_services": ["SAF", "SCDF", "SPF"],
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "retirement_sum_topping",
+      "label": "Retirement Sum Topping-Up Scheme",
+      "type": "Financial Program",
+      "abbreviation": "RSTU",
+      "description": "Scheme to boost retirement payouts via CPF",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "matched_retirement_savings",
+      "label": "Matched Retirement Savings Scheme",
+      "type": "Financial Program",
+      "abbreviation": "MRSS",
+      "description": "Government matching scheme for retirement savings",
+      "annual_match_cap": 600,
+      "currency": "SGD",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "safe_training_culture",
+      "label": "Safe Training Culture",
+      "type": "Concept",
+      "description": "Training safety anchored by leadership, management processes, and empowerment",
+      "confidence": "INFERRED",
+      "mentions": 1
+    },
+    {
+      "id": "home_team_academy",
+      "label": "Home Team Academy",
+      "type": "Facility",
+      "description": "Training facility for SPF basic training",
+      "location": "Singapore",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "national_service_training_centre",
+      "label": "National Service Training Centre",
+      "type": "Facility",
+      "description": "SCDF basic rescue training facility",
+      "location": "Civil Defence Academy",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "medic_specialists",
+      "label": "Medic Specialists",
+      "type": "Vocation",
+      "description": "Medical specialist vocation in Work-Learn Scheme",
+      "service": "SAF",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "army_technicians",
+      "label": "Army Technicians",
+      "type": "Vocation",
+      "description": "Technical specialist vocation in SAF Work-Learn Scheme",
+      "service": "SAF",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "cyber_specialists",
+      "label": "Cyber Specialists",
+      "type": "Vocation",
+      "description": "Cybersecurity specialist vocation in Work-Learn Scheme",
+      "service": "Digital and Intelligence Service",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "arc",
+      "label": "Army Recruitment Centre",
+      "type": "Facility",
+      "abbreviation": "ARC",
+      "description": "SAF Army recruitment and application centre",
+      "phone": "6040 4700",
+      "confidence": "EXTRACTED",
+      "mentions": 2
+    },
+    {
+      "id": "nrc",
+      "label": "Navy Recruitment Centre",
+      "type": "Facility",
+      "abbreviation": "NRC",
+      "description": "SAF Navy recruitment and application centre",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "afrc",
+      "label": "Air Force Recruitment Centre",
+      "type": "Facility",
+      "abbreviation": "AFRC",
+      "description": "SAF Air Force recruitment and application centre",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "dirc",
+      "label": "Digital and Intelligence Recruitment Centre",
+      "type": "Facility",
+      "abbreviation": "DIRC",
+      "description": "Recruitment centre for Digital and Intelligence Service",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "redeployment",
+      "label": "Redeployment",
+      "type": "Policy",
+      "description": "Alternative to retrenchment - assigning employee to new roles",
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "temporary_layoff",
+      "label": "Temporary Layoff",
+      "type": "Policy",
+      "description": "Temporary suspension of work with reduced pay",
+      "max_duration_months": 1,
+      "min_pay_percentage": 50,
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    },
+    {
+      "id": "shorter_work_week",
+      "label": "Shorter Work Week",
+      "type": "Policy",
+      "description": "Reduction to part-time work as alternative to retrenchment",
+      "max_days_per_week": 3,
+      "max_duration_months": 3,
+      "confidence": "EXTRACTED",
+      "mentions": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "ns",
+      "target": "fulltime_ns",
+      "relationship": "consists_of",
+      "description": "National Service includes full-time component",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns",
+      "target": "operationally_ready_ns",
+      "relationship": "consists_of",
+      "description": "National Service includes operationally ready component",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns",
+      "target": "saf",
+      "relationship": "can_be_served_in",
+      "description": "NS can be served in SAF",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns",
+      "target": "scdf",
+      "relationship": "can_be_served_in",
+      "description": "NS can be served in SCDF",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ns",
+      "target": "spf",
+      "relationship": "can_be_served_in",
+      "description": "NS can be served in SPF",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "mindef",
+      "target": "ns",
+      "relationship": "administers",
+      "description": "MINDEF administers National Service policy",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "mindef",
+      "target": "cmpb",
+      "relationship": "oversees",
+      "description": "MINDEF oversees CMPB operations",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "cmpb",
+      "target": "medical_screening",
+      "relationship": "administers",
+      "description": "CMPB administers medical screening",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "cmpb",
+      "target": "onens_portal",
+      "relationship": "operates",
+      "description": "CMPB operates OneNS web portal",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "ns_registration",
+      "relationship": "includes",
+      "description": "Pre-enlistment process includes NS registration",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "exit_permit",
+      "relationship": "includes",
+      "description": "Pre-enlistment process requires Exit Permit for extended overseas stays",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "medical_screening",
+      "relationship": "includes",
+      "description": "Pre-enlistment process includes medical screening",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "pre_enlistee_ippt",
+      "relationship": "includes",
+      "description": "Pre-enlistment can include taking pre-enlistee IPPT",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "enlistment_day",
+      "relationship": "leads_to",
+      "description": "Pre-enlistment journey culminates in enlistment day",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistment",
+      "target": "deferment",
+      "relationship": "can_include",
+      "description": "Pre-enlistment process can include deferment for studies",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "exit_permit",
+      "target": "exit_permit_bond",
+      "relationship": "may_require",
+      "description": "Extended Exit Permit may require bond",
+      "conditions": "For 2+ years or above 16.5 years old for 3+ months",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_screening",
+      "target": "pes",
+      "relationship": "determines",
+      "description": "Medical screening determines PES grading",
+      "condition": "For those enlisting before Oct 2027",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_screening",
+      "target": "mcs",
+      "relationship": "determines",
+      "description": "Medical screening determines MCS grading",
+      "condition": "For those enlisting from Oct 2027 onwards",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_screening",
+      "target": "medical_review",
+      "relationship": "may_lead_to",
+      "description": "Further investigation needed may result in medical review",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_screening",
+      "target": "pending_med_review",
+      "relationship": "may_assign",
+      "description": "Medical screening may assign PES D or Pending Medical Review status",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pending_med_review",
+      "target": "fro",
+      "relationship": "requires",
+      "description": "Pending Medical Review requires Further Reporting Order",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "fro",
+      "target": "medical_review",
+      "relationship": "mandates",
+      "description": "FRO mandates attendance at medical review appointments",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "medical_review",
+      "target": "medical_classification_centre",
+      "relationship": "may_be_held_at",
+      "description": "Medical review may take place at Medical Classification Centre",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pes",
+      "target": "basic_training",
+      "relationship": "determines_duration",
+      "description": "PES grading determines basic training duration",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistee_ippt",
+      "target": "fulltime_ns",
+      "relationship": "can_reduce_duration_of",
+      "description": "Achieving 61+ IPPT points can reduce full-time NS by 8 weeks",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "pre_enlistee_ippt",
+      "target": "ptp",
+      "relationship": "determines_need_for",
+      "description": "IPPT score below 61 may require Physical Training Phase",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "enlistment_day",
+      "target": "oath_of_allegiance",
+      "relationship": "includes",
+      "description": "Enlistment day includes oath-taking ceremony",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "enlistment_day",
+      "target": "basic_training",
+      "relationship": "leads_to",
+      "description": "Enlistment day marks the start of basic training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "basic_training",
+      "target": "bmt",
+      "relationship": "includes",
+      "description": "Basic training for SAF includes BMT",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "basic_training",
+      "target": "stay_in_training",
+      "relationship": "includes",
+      "description": "Basic training includes initial stay-in phase",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "stay_in_training",
+      "target": "booking_out",
+      "relationship": "leads_to",
+      "description": "After stay-in training, NSFs can book out on weekends",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "basic_training",
+      "target": "care_hub",
+      "relationship": "provides",
+      "description": "Care Hub provides support during basic training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "basic_training",
+      "target": "buddy_system",
+      "relationship": "includes",
+      "description": "Buddy system provides peer support during basic training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "bmt",
+      "target": "bmtc_tekong",
+      "relationship": "held_at",
+      "description": "BMT is typically held at BMTC Pulau Tekong for most SAF recruits",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "ptp",
+      "target": "basic_training",
+      "relationship": "part_of",
+      "description": "Physical Training Phase is part of extended basic training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "deferment",
+      "target": "ns_registration",
+      "relationship": "applied_at_time_of",
+      "description": "Deferment can be applied during NS registration",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "disruption",
+      "target": "fulltime_ns",
+      "relationship": "interrupts",
+      "description": "Disruption interrupts full-time NS for university attendance",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vees",
+      "target": "ns",
+      "relationship": "enables_early_entry_to",
+      "description": "VEES allows enlistment before age 18",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "skillsfuture_ns",
+      "target": "fulltime_ns",
+      "relationship": "occurs_during_last_months_of",
+      "description": "SkillsFuture@NS initiatives run towards end of full-time NS",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "work_learn_schemes",
+      "target": "fulltime_ns",
+      "relationship": "requires",
+      "description": "Work-Learn Schemes combine full-time NS with Regular service",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "ns_registration",
+      "relationship": "platform_for",
+      "description": "OneNS portal is platform for NS registration",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "exit_permit",
+      "relationship": "platform_for",
+      "description": "OneNS portal is platform for Exit Permit application",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "deferment",
+      "relationship": "platform_for",
+      "description": "OneNS portal is platform for deferment application and management",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "pre_enlistee_ippt",
+      "relationship": "platform_for",
+      "description": "OneNS portal is platform for IPPT booking",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "medical_review",
+      "relationship": "tracks",
+      "description": "OneNS portal allows tracking of medical review progress",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "onens_portal",
+      "target": "letter_of_identity",
+      "relationship": "issues",
+      "description": "OneNS portal provides Letter of Identity for medical appointments",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "enlistment_act_1970",
+      "target": "ns",
+      "relationship": "legislates",
+      "description": "Enlistment Act 1970 legislates NS obligations",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "iso_45001",
+      "target": "saf",
+      "relationship": "standard_for",
+      "description": "ISO 45001 is safety management standard for SAF training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "iso_45001",
+      "target": "scdf",
+      "relationship": "standard_for",
+      "description": "ISO 45001 is safety management standard for SCDF training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "iso_45001",
+      "target": "spf",
+      "relationship": "standard_for",
+      "description": "ISO 45001 is safety management standard for SPF training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "safety_pause",
+      "target": "saf",
+      "relationship": "policy_of",
+      "description": "SAF allows safety pause right during training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "safety_pause",
+      "target": "scdf",
+      "relationship": "policy_of",
+      "description": "SCDF allows safety pause right during training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "safety_pause",
+      "target": "spf",
+      "relationship": "policy_of",
+      "description": "SPF allows safety pause right during training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "financial_assistance_ns",
+      "target": "saf",
+      "relationship": "provided_by",
+      "description": "SAF provides financial assistance to NSFs",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "financial_assistance_ns",
+      "target": "scdf",
+      "relationship": "provided_by",
+      "description": "SCDF provides financial assistance to NSFs",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "financial_assistance_ns",
+      "target": "spf",
+      "relationship": "provided_by",
+      "description": "SPF provides financial assistance to NSFs",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "tafep",
+      "target": "mom",
+      "relationship": "part_of",
+      "description": "TAFEP is government alliance under MOM",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "tadm",
+      "target": "mom",
+      "relationship": "part_of",
+      "description": "TADM is government alliance under MOM",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "employment_act",
+      "target": "mom",
+      "relationship": "enforced_by",
+      "description": "MOM enforces Employment Act",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "vocation_assignment",
+      "target": "saf",
+      "relationship": "occurs_in",
+      "description": "SAF conducts vocation assignment",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vocation_assignment",
+      "target": "scdf",
+      "relationship": "occurs_in",
+      "description": "SCDF conducts vocation assignment",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vocation_assignment",
+      "target": "spf",
+      "relationship": "occurs_in",
+      "description": "SPF conducts vocation assignment",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vocational_assessment",
+      "target": "commandos",
+      "relationship": "selects_for",
+      "description": "Vocational assessment selects for Commandos vocation",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "vocational_assessment",
+      "target": "naval_divers",
+      "relationship": "selects_for",
+      "description": "Vocational assessment selects for Naval Divers vocation",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "arc",
+      "target": "saf",
+      "relationship": "operated_by",
+      "description": "ARC is recruitment centre for SAF Army",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "nrc",
+      "target": "saf",
+      "relationship": "operated_by",
+      "description": "NRC is recruitment centre for SAF Navy",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "afrc",
+      "target": "saf",
+      "relationship": "operated_by",
+      "description": "AFRC is recruitment centre for SAF Air Force",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "dirc",
+      "target": "saf",
+      "relationship": "operated_by",
+      "description": "DIRC is recruitment centre for Digital and Intelligence Service",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "sps_ic",
+      "target": "saf",
+      "relationship": "available_in",
+      "description": "SPS-IC combines NS with SAF sponsorship",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "lifesg",
+      "target": "pre_enlistment",
+      "relationship": "tracks",
+      "description": "LifeSG platform tracks NS pre-enlistment journey",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "singpass",
+      "target": "onens_portal",
+      "relationship": "authentication_for",
+      "description": "Singpass is authentication method for OneNS portal",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "source": "redeployment",
+      "target": "mom",
+      "relationship": "policy_of",
+      "description": "Redeployment is employment policy under MOM",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "temporary_layoff",
+      "target": "mom",
+      "relationship": "policy_of",
+      "description": "Temporary layoff is employment policy under MOM",
+      "confidence": "INFERRED"
+    },
+    {
+      "source": "shorter_work_week",
+      "target": "mom",
+      "relationship": "policy_of",
+      "description": "Shorter work week is employment alternative under MOM",
+      "confidence": "INFERRED"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pre_enlistment_journey",
+      "type": "Process Flow",
+      "description": "Complete pre-enlistment journey for NS-liable males",
+      "involves_nodes": [
+        "pre_enlistment",
+        "ns_registration",
+        "exit_permit",
+        "exit_permit_bond",
+        "medical_screening",
+        "pes",
+        "mcs",
+        "medical_review",
+        "deferment",
+        "pre_enlistee_ippt",
+        "enlistment_day",
+        "basic_training"
+      ],
+      "sequence": "Exit Permit notice (age 13) -> NS Registration (age 16.5) -> Medical Screening -> Optional Medical Review -> Optional Deferment -> Optional Pre-enlistee IPPT -> Enlistment Day -> Basic Training",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ns_service_structure",
+      "type": "Service Organization",
+      "description": "Complete structure of National Service",
+      "involves_nodes": [
+        "ns",
+        "fulltime_ns",
+        "operationally_ready_ns",
+        "saf",
+        "scdf",
+        "spf",
+        "basic_training",
+        "vocation_assignment"
+      ],
+      "composition": "NS consists of 2 years full-time + 10 years operationally ready, served in SAF/SCDF/SPF",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "medical_fitness_assessment",
+      "type": "Assessment Process",
+      "description": "Medical fitness determination for NS",
+      "involves_nodes": [
+        "medical_screening",
+        "pes",
+        "mcs",
+        "pending_med_review",
+        "medical_review",
+        "fro",
+        "letter_of_identity",
+        "medical_classification_centre",
+        "basic_training"
+      ],
+      "flow": "Medical screening -> PES/MCS grade or Pending Medical Review -> Further Reporting Order -> Medical appointments -> Medical Classification Centre -> Final grade determines basic training duration",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "fitness_based_ns_reduction",
+      "type": "Eligibility Pathway",
+      "description": "Path to reduce full-time NS duration through fitness",
+      "involves_nodes": [
+        "pes",
+        "pre_enlistee_ippt",
+        "ptp",
+        "fulltime_ns",
+        "basic_training"
+      ],
+      "condition": "Achieve 61+ IPPT score AND PES A/B1 (before Oct 2027) or eligible under MCS (from Oct 2027)",
+      "benefit": "8-week reduction in full-time NS and exemption from Physical Training Phase",
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "studies_and_ns_management",
+      "type": "Policy Framework",
+      "description": "How to manage education during NS",
+      "involves_nodes": [
+        "ns_registration",
+        "deferment",
+        "disruption",
+        "fulltime_ns",
+        "operationally_ready_ns",
+        "onens_portal"
+      ],
+      "options": ["Pre-university deferment before enlistment", "University disruption after partial service"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "career_development_during_ns",
+      "type": "Opportunity Pathway",
+      "description": "Career and education opportunities during NS",
+      "involves_nodes": [
+        "skillsfuture_ns",
+        "work_learn_schemes",
+        "sps_ic",
+        "fulltime_ns",
+        "arc",
+        "nrc",
+        "afrc",
+        "dirc"
+      ],
+      "phases": ["During NS: SkillsFuture@NS initiatives", "Towards end: Career fairs and workshops", "Multi-year: Work-Learn Schemes with sponsorship"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "wellbeing_support_system",
+      "type": "Support Infrastructure",
+      "description": "Comprehensive wellbeing support during NS",
+      "involves_nodes": [
+        "basic_training",
+        "care_hub",
+        "buddy_system",
+        "financial_assistance_ns",
+        "saf",
+        "scdf",
+        "spf"
+      ],
+      "components": ["Peer support (buddy system)", "Professional support (Care Hub)", "Financial assistance", "Mental health counselling"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "safety_in_training",
+      "type": "Safety Framework",
+      "description": "Safety standards and culture in NS training",
+      "involves_nodes": [
+        "saf",
+        "scdf",
+        "spf",
+        "iso_45001",
+        "safety_pause",
+        "safe_training_culture"
+      ],
+      "principles": ["ISO 45001 compliance", "Safety pause right", "Leadership emphasis", "Safety management processes"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "early_enlistment_pathway",
+      "type": "Eligibility Pathway",
+      "description": "Options for enlisting before age 18",
+      "involves_nodes": [
+        "vees",
+        "ns",
+        "fulltime_ns",
+        "sps_ic",
+        "work_learn_schemes"
+      ],
+      "options": ["VEES with parental consent", "Work-Learn Early Enlistment", "SPS-IC early entry"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "family_financial_protection",
+      "type": "Financial Program",
+      "description": "CPF-based family financial protection schemes",
+      "involves_nodes": [
+        "dependants_protection_scheme",
+        "child_development_account",
+        "baby_bonus",
+        "medisave",
+        "retirement_sum_topping",
+        "matched_retirement_savings",
+        "cpf"
+      ],
+      "coverage_areas": ["Life insurance", "Child education/medical", "Healthcare savings", "Retirement"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "employment_dispute_resolution",
+      "type": "Legal Framework",
+      "description": "Systems for resolving employment disputes",
+      "involves_nodes": [
+        "mom",
+        "tafep",
+        "tadm",
+        "snapsafe",
+        "employment_act"
+      ],
+      "mechanisms": ["Workplace harassment: TAFEP", "Salary/dismissal disputes: TADM", "Safety issues: SnapSAFE"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "retrenchment_alternatives",
+      "type": "Policy Framework",
+      "description": "Alternatives to retrenchment for employers",
+      "involves_nodes": [
+        "redeployment",
+        "temporary_layoff",
+        "shorter_work_week",
+        "mom"
+      ],
+      "options": ["Redeployment to new roles", "Temporary layoff (max 1 month)", "Shorter work week (max 3 days/3 months)"],
+      "confidence": "EXTRACTED"
+    },
+    {
+      "id": "ns_legal_framework",
+      "type": "Regulatory Framework",
+      "description": "Legal obligations and enforcement for NS",
+      "involves_nodes": [
+        "enlistment_act_1970",
+        "ns",
+        "exit_permit",
+        "fro",
+        "ns_obligations",
+        "cmpb"
+      ],
+      "penalties": "Up to $10,000 fine and/or up to 3 years imprisonment for non-compliance",
+      "confidence": "EXTRACTED"
+    }
+  ],
+  "entity_statistics": {
+    "total_nodes": 91,
+    "node_types": {
+      "Organization": 12,
+      "Policy": 8,
+      "Process": 5,
+      "Document": 3,
+      "Assessment": 2,
+      "Grading System": 2,
+      "Service": 5,
+      "Support Program": 3,
+      "Facility": 6,
+      "Program": 4,
+      "Training Component": 3,
+      "Training Phase": 1,
+      "Event": 1,
+      "Ceremony": 1,
+      "Financial Obligation": 1,
+      "Status": 1,
+      "Vocation": 4,
+      "Financial Program": 2,
+      "Insurance Policy": 1,
+      "Savings Account": 2,
+      "Government Grant": 1,
+      "Legislation": 2,
+      "Standard": 1,
+      "Concept": 1,
+      "Other": 21
+    },
+    "total_edges": 82,
+    "edge_types": {
+      "consists_of": 2,
+      "can_be_served_in": 3,
+      "administers": 2,
+      "oversees": 1,
+      "operates": 1,
+      "includes": 5,
+      "leads_to": 2,
+      "can_include": 1,
+      "may_require": 1,
+      "determines": 2,
+      "may_lead_to": 1,
+      "may_assign": 1,
+      "requires": 2,
+      "mandates": 1,
+      "may_be_held_at": 1,
+      "determines_duration": 1,
+      "can_reduce_duration_of": 1,
+      "part_of": 1,
+      "applied_at_time_of": 1,
+      "interrupts": 1,
+      "enables_early_entry_to": 1,
+      "occurs_during_last_months_of": 1,
+      "platform_for": 4,
+      "tracks": 2,
+      "issues": 1,
+      "legislates": 1,
+      "standard_for": 3,
+      "policy_of": 3,
+      "provided_by": 3,
+      "part_of": 2,
+      "enforced_by": 1,
+      "occurs_in": 3,
+      "selects_for": 2,
+      "operated_by": 4,
+      "available_in": 1,
+      "authentication_for": 1,
+      "held_at": 1
+    },
+    "total_hyperedges": 12
+  },
+  "key_themes": [
+    "National Service (NS) is compulsory for male Singapore Citizens and PRs",
+    "NS consists of 2 years full-time service + 10 years operationally ready reserve",
+    "Pre-enlistment process begins at age 13 with Exit Permit notice and culminates at age 18+ with enlistment",
+    "Medical fitness (PES or MCS) determines basic training duration and suitability",
+    "Pre-enlistee IPPT performance (61+ points) can reduce full-time NS by 8 weeks",
+    "Deferment for pre-university studies is available; disruption for university is available during service",
+    "Work-Learn Schemes and SPS-IC offer sponsored qualifications during NS",
+    "Comprehensive wellbeing support includes buddy system, Care Hub, counselling, and financial assistance",
+    "Safety is prioritized through ISO 45001 standards, leadership emphasis, and safety pause right",
+    "Multiple recruitment and application pathways (ARC, NRC, AFRC, DIRC) for different vocations",
+    "OneNS portal is central platform for all NS applications and tracking",
+    "CPF-based financial schemes provide family protection and retirement planning",
+    "Employment laws protect workers' rights, with dispute resolution through MOM agencies",
+    "Retrenchment alternatives (redeployment, temporary layoff, shorter work) are encouraged"
+  ],
+  "data_quality_notes": {
+    "coverage": "Comprehensive coverage of NS pre-enlistment, service structure, medical assessment, education management, career development, and wellbeing",
+    "extracted_vs_inferred": "Majority of nodes and edges directly extracted from documents; some inferred relationships to organizational hierarchies (e.g., ICA role, MOM subagencies)",
+    "ambiguities": "Some roles not explicitly stated (e.g., LifeSG vs OneNS platform distinction, exact medical appointment locations)",
+    "completeness": "Document set covers parent and pre-enlistee perspectives, employment law, and CPF schemes; limited coverage of operational NS details"
+  }
+}

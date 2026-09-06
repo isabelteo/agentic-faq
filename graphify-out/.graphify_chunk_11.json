@@ -1,0 +1,1459 @@
+{
+  "chunk_metadata": {
+    "chunk_number": 11,
+    "total_chunks": 15,
+    "file_count": 21,
+    "date_extracted": "2026-09-06",
+    "source": "supportgowhere.life.gov.sg"
+  },
+  "nodes": [
+    {
+      "id": "policy_skillsfuture-jobseeker",
+      "label": "SkillsFuture Jobseeker Support Scheme",
+      "type": "Scheme",
+      "category": "Employment Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "SkillsFuture",
+        "max_support": "$6,000",
+        "duration": "6 months",
+        "eligibility_age_min": 21,
+        "income_threshold": "$5,000 monthly average"
+      }
+    },
+    {
+      "id": "policy_wss-basic",
+      "label": "Workfare Skills Support (WSS) Basic",
+      "type": "Scheme",
+      "category": "Skills Development",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "SkillsFuture",
+        "income_threshold": "$3,000 monthly",
+        "age_min": 30,
+        "training_allowance": "$10.50 per hour"
+      }
+    },
+    {
+      "id": "policy_wtcs",
+      "label": "Workfare Transport Concession Scheme",
+      "type": "Scheme",
+      "category": "Transport Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "LifeSG",
+        "discount_rate": "25% off adult fares",
+        "age_range": "30-60 years",
+        "monthly_pass_cost": "$92"
+      }
+    },
+    {
+      "id": "policy_qcr-disability",
+      "label": "Qualifying Child Relief (QCR) and Child Relief (Disability)",
+      "type": "Scheme",
+      "category": "Tax Relief",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "IRAS",
+        "qcr_relief": "$4,000 per child",
+        "disability_relief": "$7,500 per child",
+        "max_combined_relief": "$50,000 per child"
+      }
+    },
+    {
+      "id": "policy_gppb",
+      "label": "Government-Paid Paternity Benefit (GPPB)",
+      "type": "Scheme",
+      "category": "Parental Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "MSF",
+        "duration_before_2024": "2 weeks",
+        "duration_after_2024": "4 weeks",
+        "weekly_cap": "$2,500",
+        "eligibility_child_birth_date": "on or after 1 Jan 2021"
+      }
+    },
+    {
+      "id": "policy_grit",
+      "label": "GRaduate Industry Traineeships (GRIT)",
+      "type": "Scheme",
+      "category": "Youth Employment",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "MOM, SWDA",
+        "traineeship_duration": "3-6 months",
+        "monthly_allowance_range": "$1,800-$2,400",
+        "target_graduates": "2024, 2025, 2026"
+      }
+    },
+    {
+      "id": "policy_gpcl-ecl",
+      "label": "Government-Paid Childcare Leave (GPCL) and Extended Childcare Leave (ECL)",
+      "type": "Scheme",
+      "category": "Parental Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "MSF",
+        "gpcl_days": 6,
+        "ecl_days": 2,
+        "gpcl_child_age": "below 7 years",
+        "ecl_child_age": "7-12 years"
+      }
+    },
+    {
+      "id": "policy_voluntary-housing-refund",
+      "label": "Voluntary Housing Refund",
+      "type": "Scheme",
+      "category": "Housing Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "CPF",
+        "eligible_age": "55 and above",
+        "refund_type": "CPF OA savings"
+      }
+    },
+    {
+      "id": "policy_onepa-cc",
+      "label": "OnePA Community Centre Courses",
+      "type": "Scheme",
+      "category": "Lifelong Learning",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "People's Association",
+        "eligible_groups": "Citizens, PRs, Foreigners",
+        "course_types": "Enrichment, Health, Hobbies, Fitness"
+      }
+    },
+    {
+      "id": "policy_h2w",
+      "label": "Hospital-to-Work Transition Programme",
+      "type": "Scheme",
+      "category": "Disability Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "SG Enable",
+        "target_age": "16+ years",
+        "disability_type": "Acquired disability"
+      }
+    },
+    {
+      "id": "policy_dds",
+      "label": "Deferred Downpayment Scheme (DDS)",
+      "type": "Scheme",
+      "category": "Housing Support",
+      "confidence": 0.95,
+      "attributes": {
+        "agency": "HDB",
+        "eligible_age": "55+ years",
+        "eligible_flat_size": "3-room or smaller"
+      }
+    },
+    {
+      "id": "service_shared-stay-scs",
+      "label": "Shared Stay-in Senior Caregiving Services",
+      "type": "Service",
+      "category": "Eldercare",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "AIC",
+        "target_age": "Senior citizens",
+        "service_type": "Private caregiving",
+        "subsidy_status": "Not available"
+      }
+    },
+    {
+      "id": "service_counselling-seniors",
+      "label": "Counselling (Seniors)",
+      "type": "Service",
+      "category": "Mental Health",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "AIC",
+        "target_age": "50+ years",
+        "session_duration": "1-1.5 hours",
+        "counselling_types": "Individual, Group"
+      }
+    },
+    {
+      "id": "service_sos-care-text",
+      "label": "SOS Care Text",
+      "type": "Service",
+      "category": "Crisis Support",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "Samaritans of Singapore",
+        "primary_target": "10-29 years",
+        "availability": "24/7",
+        "mode": "Text/WhatsApp",
+        "service_type": "Suicide prevention, Crisis intervention"
+      }
+    },
+    {
+      "id": "service_psychiatric-rehab",
+      "label": "Psychiatric Rehabilitation and Re-integration",
+      "type": "Service",
+      "category": "Mental Health",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "AIC",
+        "target_condition": "Stable chronic mental health",
+        "service_delivery": "Day centre or stay-in facility",
+        "subsidy_status": "Means-tested"
+      }
+    },
+    {
+      "id": "service_lighthouse-project",
+      "label": "Lighthouse Project",
+      "type": "Service",
+      "category": "Youth Mental Health",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "Limitless",
+        "target_age": "12-25 years",
+        "mental_health_level": "Moderate to high needs",
+        "services": "Psychotherapy, Assessment, Case management"
+      }
+    },
+    {
+      "id": "service_counselling-general",
+      "label": "Counselling (General)",
+      "type": "Service",
+      "category": "Mental Health",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "LifeSG",
+        "target_population": "Individuals, Couples, Families",
+        "service_types": "Family therapy, Marital counselling, Individual psychotherapy"
+      }
+    },
+    {
+      "id": "service_kidstart",
+      "label": "KidSTART",
+      "type": "Service",
+      "category": "Early Childhood Development",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "KidSTART Singapore Limited",
+        "target_age": "0-6 years (child), Pregnant mothers",
+        "income_threshold": "$2,500 monthly household, $650 per capita",
+        "service_type": "Home-based, Free"
+      }
+    },
+    {
+      "id": "service_ltvp",
+      "label": "Long-Term Visit Pass (LTVP)",
+      "type": "Service",
+      "category": "Immigration",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "ICA",
+        "eligible_categories": "Spouse, Child, Parent, Graduate, Visitor",
+        "processing_fee": "$45",
+        "processing_time": "6 weeks to 6 months"
+      }
+    },
+    {
+      "id": "service_epworth-literacy",
+      "label": "Epworth Literacy and Behaviour Intervention",
+      "type": "Service",
+      "category": "Education Support",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "Epworth",
+        "target_age": "5-12 years",
+        "target_condition": "Learning difficulties",
+        "service_types": "Literacy intervention, Behavioural intervention, Parenting workshops"
+      }
+    },
+    {
+      "id": "service_cip",
+      "label": "Cognitive Intervention Programme (CIP)",
+      "type": "Service",
+      "category": "Dementia Care",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "AIC",
+        "target_age": "Senior citizens",
+        "target_condition": "Mild to moderate dementia",
+        "programme_duration": "7 weeks"
+      }
+    },
+    {
+      "id": "service_hpc-plus",
+      "label": "Enhanced Home Personal Care (HPC+)",
+      "type": "Service",
+      "category": "Eldercare",
+      "confidence": 0.90,
+      "attributes": {
+        "agency": "AIC",
+        "target_population": "Frail or homebound seniors",
+        "services": "ADL assistance, Respite care, Fall monitoring",
+        "subsidy_status": "Means-tested"
+      }
+    },
+    {
+      "id": "demographic_lower-income-workers",
+      "label": "Lower-Income Workers",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "monthly_income_range": "$3,000 or less",
+        "policies_targeting": ["WSS", "WTCS"]
+      }
+    },
+    {
+      "id": "demographic_unemployed",
+      "label": "Unemployed Persons",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "unemployment_type": "Involuntary",
+        "reasons": "Retrenchment, Cessation of business, Dismissal"
+      }
+    },
+    {
+      "id": "demographic_fresh-graduates",
+      "label": "Fresh Graduates",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "graduation_years": "2024, 2025, 2026",
+        "education_level": "University, Polytechnic, ITE, Other",
+        "employment_status": "No prior work experience"
+      }
+    },
+    {
+      "id": "demographic_parents",
+      "label": "Working Parents",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "schemes_targeting": ["GPCL", "ECL", "GPPB", "QCR"]
+      }
+    },
+    {
+      "id": "demographic_seniors",
+      "label": "Seniors",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "age_range": "50+ to 65+ years",
+        "services_targeting": ["Counselling-Seniors", "CIP", "HPC+", "DDS"]
+      }
+    },
+    {
+      "id": "demographic_persons-with-disability",
+      "label": "Persons with Disability",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "disability_types": "Physical, Visual, Hearing, Psychiatric, Developmental",
+        "schemes_targeting": ["QCR-Disability", "H2W"]
+      }
+    },
+    {
+      "id": "demographic_youth",
+      "label": "Youth",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "age_range": "10-29 years",
+        "services_targeting": ["SOS-Care-Text", "Lighthouse-Project", "GRIT"]
+      }
+    },
+    {
+      "id": "demographic_low-income-families",
+      "label": "Low-Income Families",
+      "type": "Demographic",
+      "category": "Beneficiary Group",
+      "confidence": 0.90,
+      "attributes": {
+        "income_threshold": "$2,500 monthly",
+        "services_targeting": ["KidSTART"]
+      }
+    },
+    {
+      "id": "support_financial-assistance",
+      "label": "Financial Assistance",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.95,
+      "attributes": {
+        "forms": ["Direct cash payout", "Tax relief", "Subsidy", "Allowance", "Discount"]
+      }
+    },
+    {
+      "id": "support_skills-training",
+      "label": "Skills Training",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.95,
+      "attributes": {
+        "training_types": ["WSQ", "Progressive Wage Model", "Vocational rehabilitation"]
+      }
+    },
+    {
+      "id": "support_healthcare",
+      "label": "Healthcare Support",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.90,
+      "attributes": {
+        "services": ["Medical assessment", "Rehabilitation", "Mental health support"]
+      }
+    },
+    {
+      "id": "support_caregiving",
+      "label": "Caregiving Support",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.90,
+      "attributes": {
+        "services": ["Home care", "Respite care", "Counselling", "Case management"]
+      }
+    },
+    {
+      "id": "support_employment",
+      "label": "Employment Support",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.95,
+      "attributes": {
+        "services": ["Job matching", "Career counselling", "Workplace modification"]
+      }
+    },
+    {
+      "id": "support_education",
+      "label": "Education Support",
+      "type": "Support Type",
+      "category": "Assistance Category",
+      "confidence": 0.90,
+      "attributes": {
+        "services": ["Literacy intervention", "Behavioural support", "Parenting workshops"]
+      }
+    },
+    {
+      "id": "agency_skillsfuture",
+      "label": "SkillsFuture",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Employment and Skills",
+        "schemes_managed": ["SFJS", "WSS"]
+      }
+    },
+    {
+      "id": "agency_lifesg",
+      "label": "LifeSG",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Social Services Integration",
+        "schemes_managed": ["WTCS", "Counselling"]
+      }
+    },
+    {
+      "id": "agency_iras",
+      "label": "IRAS",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Tax Administration",
+        "schemes_managed": ["QCR", "Child Relief (Disability)"]
+      }
+    },
+    {
+      "id": "agency_msf",
+      "label": "Ministry of Social and Family Development",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Family and Social Support",
+        "schemes_managed": ["GPPB", "GPCL", "ECL"]
+      }
+    },
+    {
+      "id": "agency_mom",
+      "label": "Ministry of Manpower",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Employment and Manpower",
+        "schemes_managed": ["GRIT"]
+      }
+    },
+    {
+      "id": "agency_cpf",
+      "label": "Central Provident Fund",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Retirement and Social Security",
+        "schemes_managed": ["Voluntary Housing Refund"]
+      }
+    },
+    {
+      "id": "agency_hdb",
+      "label": "Housing and Development Board",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Housing",
+        "schemes_managed": ["DDS"]
+      }
+    },
+    {
+      "id": "agency_pa",
+      "label": "People's Association",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Community Development",
+        "schemes_managed": ["OnePA CC Courses"]
+      }
+    },
+    {
+      "id": "agency_sgenable",
+      "label": "SG Enable",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Disability Support",
+        "schemes_managed": ["Hospital-to-Work Transition Programme"]
+      }
+    },
+    {
+      "id": "agency_aic",
+      "label": "Agency for Integrated Care",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Integrated Care Services",
+        "services_managed": ["Shared Stay-in SCS", "Counselling-Seniors", "Psychiatric Rehab", "CIP", "HPC+"]
+      }
+    },
+    {
+      "id": "agency_ica",
+      "label": "Immigration and Checkpoints Authority",
+      "type": "Government Agency",
+      "category": "Ministry/Agency",
+      "confidence": 0.95,
+      "attributes": {
+        "portfolio": "Immigration",
+        "services_managed": ["LTVP"]
+      }
+    },
+    {
+      "id": "condition_involuntary-unemployment",
+      "label": "Involuntary Unemployment",
+      "type": "Eligibility Condition",
+      "category": "Eligibility Criteria",
+      "confidence": 0.90,
+      "attributes": {
+        "qualifying_reasons": ["Retrenchment", "Cessation of business", "Dismissal", "Illness/Injury/Accident"],
+        "employment_duration_required": "6 months in past 12 months"
+      }
+    },
+    {
+      "id": "condition_low-income",
+      "label": "Low-Income Status",
+      "type": "Eligibility Condition",
+      "category": "Eligibility Criteria",
+      "confidence": 0.90,
+      "attributes": {
+        "monthly_thresholds": ["$3,000", "$5,000"],
+        "property_value_threshold": "$21,000 annual value"
+      }
+    },
+    {
+      "id": "condition_citizenship",
+      "label": "Citizenship Requirement",
+      "type": "Eligibility Condition",
+      "category": "Eligibility Criteria",
+      "confidence": 0.95,
+      "attributes": {
+        "eligible_statuses": ["Singapore Citizen", "Permanent Resident"],
+        "some_schemes_accept": ["Non-residents", "Foreigners"]
+      }
+    },
+    {
+      "id": "condition_disability",
+      "label": "Disability Certification",
+      "type": "Eligibility Condition",
+      "category": "Eligibility Criteria",
+      "confidence": 0.90,
+      "attributes": {
+        "certification_by": "Registered healthcare professional",
+        "disability_types_covered": ["Physical", "Visual", "Hearing", "Psychiatric", "Developmental"]
+      }
+    },
+    {
+      "id": "condition_age-based",
+      "label": "Age-Based Requirements",
+      "type": "Eligibility Condition",
+      "category": "Eligibility Criteria",
+      "confidence": 0.90,
+      "attributes": {
+        "age_ranges": ["21+", "30+", "50+", "55+"]
+      }
+    },
+    {
+      "id": "coverage_housing",
+      "label": "Housing Support Coverage",
+      "type": "Coverage Area",
+      "category": "Service Area",
+      "confidence": 0.90,
+      "attributes": {
+        "schemes": ["Voluntary Housing Refund", "Deferred Downpayment Scheme"],
+        "eligible_property_types": ["HDB flat"]
+      }
+    },
+    {
+      "id": "coverage_employment",
+      "label": "Employment Coverage",
+      "type": "Coverage Area",
+      "category": "Service Area",
+      "confidence": 0.95,
+      "attributes": {
+        "schemes": ["SkillsFuture Jobseeker Support", "WSS", "GRIT", "H2W"],
+        "employment_aspects": ["Job search", "Skills training", "Job matching", "Career transition"]
+      }
+    },
+    {
+      "id": "coverage_family-support",
+      "label": "Family Support Coverage",
+      "type": "Coverage Area",
+      "category": "Service Area",
+      "confidence": 0.95,
+      "attributes": {
+        "schemes": ["GPPB", "GPCL", "ECL", "QCR", "KidSTART"],
+        "family_aspects": ["Parental leave", "Childcare", "Tax relief", "Early childhood development"]
+      }
+    },
+    {
+      "id": "coverage_healthcare-mental",
+      "label": "Healthcare and Mental Health Coverage",
+      "type": "Coverage Area",
+      "category": "Service Area",
+      "confidence": 0.90,
+      "attributes": {
+        "services": ["Counselling", "SOS Care Text", "Psychiatric Rehabilitation", "Lighthouse Project"],
+        "mental_health_aspects": ["Suicide prevention", "Trauma", "Stress management", "Rehabilitation"]
+      }
+    },
+    {
+      "id": "coverage_eldercare",
+      "label": "Eldercare Coverage",
+      "type": "Coverage Area",
+      "category": "Service Area",
+      "confidence": 0.90,
+      "attributes": {
+        "services": ["Shared Stay-in SCS", "Counselling-Seniors", "CIP", "HPC+"],
+        "eldercare_aspects": ["Home care", "Dementia support", "Caregiving", "Social engagement"]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_sfjs-targets-unemployed",
+      "source": "policy_skillsfuture-jobseeker",
+      "target": "demographic_unemployed",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides support to",
+      "description": "SkillsFuture Jobseeker Support Scheme targets involuntarily unemployed individuals"
+    },
+    {
+      "id": "edge_wss-targets-lower-income",
+      "source": "policy_wss-basic",
+      "target": "demographic_lower-income-workers",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides training to",
+      "description": "WSS provides training and allowances to lower-income workers"
+    },
+    {
+      "id": "edge_wtcs-requires-wis",
+      "source": "policy_wtcs",
+      "target": "policy_wss-basic",
+      "relationship_type": "depends_on",
+      "confidence": 0.90,
+      "label": "contingent on",
+      "description": "WTCS requires WIS payment as prerequisite for eligibility"
+    },
+    {
+      "id": "edge_qcr-targets-parents",
+      "source": "policy_qcr-disability",
+      "target": "demographic_parents",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides tax relief to",
+      "description": "QCR provides tax relief to parents for child support"
+    },
+    {
+      "id": "edge_gppb-targets-fathers",
+      "source": "policy_gppb",
+      "target": "demographic_parents",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides income support to",
+      "description": "GPPB provides income support to working fathers"
+    },
+    {
+      "id": "edge_grit-targets-graduates",
+      "source": "policy_grit",
+      "target": "demographic_fresh-graduates",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides traineeship to",
+      "description": "GRIT programme targets fresh graduates for structured traineeships"
+    },
+    {
+      "id": "edge_gpcl-targets-parents",
+      "source": "policy_gpcl-ecl",
+      "target": "demographic_parents",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides leave to",
+      "description": "GPCL/ECL provides paid childcare leave to working parents"
+    },
+    {
+      "id": "edge_dds-targets-seniors",
+      "source": "policy_dds",
+      "target": "demographic_seniors",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides housing scheme for",
+      "description": "DDS targets seniors aged 55+ for deferred downpayment"
+    },
+    {
+      "id": "edge_h2w-targets-disabled",
+      "source": "policy_h2w",
+      "target": "demographic_persons-with-disability",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides employment support to",
+      "description": "H2W programme targets persons with acquired disabilities"
+    },
+    {
+      "id": "edge_kidstart-targets-low-income",
+      "source": "service_kidstart",
+      "target": "demographic_low-income-families",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides early childhood support to",
+      "description": "KidSTART targets low-income families with young children"
+    },
+    {
+      "id": "edge_sos-text-targets-youth",
+      "source": "service_sos-care-text",
+      "target": "demographic_youth",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides crisis support to",
+      "description": "SOS Care Text targets youths aged 10-29 with suicide risk"
+    },
+    {
+      "id": "edge_lighthouse-targets-youth",
+      "source": "service_lighthouse-project",
+      "target": "demographic_youth",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides mental health support to",
+      "description": "Lighthouse Project targets youths aged 12-25 with mental health needs"
+    },
+    {
+      "id": "edge_counselling-seniors-targets-seniors",
+      "source": "service_counselling-seniors",
+      "target": "demographic_seniors",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides counselling to",
+      "description": "Counselling service targets seniors aged 50+ and caregivers"
+    },
+    {
+      "id": "edge_cip-targets-seniors",
+      "source": "service_cip",
+      "target": "demographic_seniors",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides cognitive intervention to",
+      "description": "CIP targets seniors with mild to moderate dementia"
+    },
+    {
+      "id": "edge_hpc-targets-seniors",
+      "source": "service_hpc-plus",
+      "target": "demographic_seniors",
+      "relationship_type": "targets",
+      "confidence": 0.95,
+      "label": "provides home care to",
+      "description": "HPC+ targets frail or homebound seniors"
+    },
+    {
+      "id": "edge_sfjs-managed-by-skillsfuture",
+      "source": "policy_skillsfuture-jobseeker",
+      "target": "agency_skillsfuture",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "SkillsFuture manages the Jobseeker Support Scheme"
+    },
+    {
+      "id": "edge_wss-managed-by-skillsfuture",
+      "source": "policy_wss-basic",
+      "target": "agency_skillsfuture",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "SkillsFuture manages WSS Basic programme"
+    },
+    {
+      "id": "edge_wtcs-managed-by-lifesg",
+      "source": "policy_wtcs",
+      "target": "agency_lifesg",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "LifeSG manages the Workfare Transport Concession Scheme"
+    },
+    {
+      "id": "edge_qcr-managed-by-iras",
+      "source": "policy_qcr-disability",
+      "target": "agency_iras",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "IRAS manages QCR and Child Relief (Disability)"
+    },
+    {
+      "id": "edge_gppb-managed-by-msf",
+      "source": "policy_gppb",
+      "target": "agency_msf",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "MSF manages Government-Paid Paternity Benefit"
+    },
+    {
+      "id": "edge_gpcl-managed-by-msf",
+      "source": "policy_gpcl-ecl",
+      "target": "agency_msf",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "MSF manages GPCL and ECL programmes"
+    },
+    {
+      "id": "edge_grit-managed-by-mom",
+      "source": "policy_grit",
+      "target": "agency_mom",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "MOM manages GRIT programme"
+    },
+    {
+      "id": "edge_vhr-managed-by-cpf",
+      "source": "policy_voluntary-housing-refund",
+      "target": "agency_cpf",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "CPF manages Voluntary Housing Refund"
+    },
+    {
+      "id": "edge_onepa-managed-by-pa",
+      "source": "policy_onepa-cc",
+      "target": "agency_pa",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "People's Association manages OnePA Community Centre courses"
+    },
+    {
+      "id": "edge_h2w-managed-by-sgenable",
+      "source": "policy_h2w",
+      "target": "agency_sgenable",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "SG Enable manages Hospital-to-Work Transition Programme"
+    },
+    {
+      "id": "edge_dds-managed-by-hdb",
+      "source": "policy_dds",
+      "target": "agency_hdb",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "administered by",
+      "description": "HDB manages Deferred Downpayment Scheme"
+    },
+    {
+      "id": "edge_shared-scs-managed-by-aic",
+      "source": "service_shared-stay-scs",
+      "target": "agency_aic",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "AIC coordinates Shared Stay-in Senior Caregiving Services"
+    },
+    {
+      "id": "edge_counselling-seniors-managed-by-aic",
+      "source": "service_counselling-seniors",
+      "target": "agency_aic",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "AIC coordinates Counselling services for seniors"
+    },
+    {
+      "id": "edge_psychiatric-rehab-managed-by-aic",
+      "source": "service_psychiatric-rehab",
+      "target": "agency_aic",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "AIC coordinates Psychiatric Rehabilitation and Re-integration"
+    },
+    {
+      "id": "edge_cip-managed-by-aic",
+      "source": "service_cip",
+      "target": "agency_aic",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "AIC coordinates Cognitive Intervention Programme"
+    },
+    {
+      "id": "edge_hpc-managed-by-aic",
+      "source": "service_hpc-plus",
+      "target": "agency_aic",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "AIC coordinates Enhanced Home Personal Care"
+    },
+    {
+      "id": "edge_ltvp-managed-by-ica",
+      "source": "service_ltvp",
+      "target": "agency_ica",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "issued by",
+      "description": "ICA issues Long-Term Visit Pass"
+    },
+    {
+      "id": "edge_counselling-general-managed-by-lifesg",
+      "source": "service_counselling-general",
+      "target": "agency_lifesg",
+      "relationship_type": "managed_by",
+      "confidence": 0.95,
+      "label": "coordinated by",
+      "description": "LifeSG coordinates general Counselling services"
+    },
+    {
+      "id": "edge_sfjs-offers-financial",
+      "source": "policy_skillsfuture-jobseeker",
+      "target": "support_financial-assistance",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "SFJS provides financial assistance up to $6,000 over 6 months"
+    },
+    {
+      "id": "edge_wss-offers-training",
+      "source": "policy_wss-basic",
+      "target": "support_skills-training",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "WSS provides training allowance and skills development"
+    },
+    {
+      "id": "edge_qcr-offers-financial",
+      "source": "policy_qcr-disability",
+      "target": "support_financial-assistance",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "QCR provides tax relief of $4,000-$7,500 per child"
+    },
+    {
+      "id": "edge_gppb-offers-financial",
+      "source": "policy_gppb",
+      "target": "support_financial-assistance",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "GPPB provides up to 4 weeks of income support capped at $2,500/week"
+    },
+    {
+      "id": "edge_grit-offers-financial",
+      "source": "policy_grit",
+      "target": "support_financial-assistance",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "GRIT provides monthly allowance of $1,800-$2,400"
+    },
+    {
+      "id": "edge_grit-offers-employment",
+      "source": "policy_grit",
+      "target": "support_employment",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "GRIT provides structured traineeship and employment experience"
+    },
+    {
+      "id": "edge_h2w-offers-employment",
+      "source": "policy_h2w",
+      "target": "support_employment",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "H2W provides job coaching, matching and workplace modification"
+    },
+    {
+      "id": "edge_h2w-offers-healthcare",
+      "source": "policy_h2w",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "H2W provides rehabilitation and medical assessment support"
+    },
+    {
+      "id": "edge_kidstart-offers-education",
+      "source": "service_kidstart",
+      "target": "support_education",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "KidSTART provides early childhood development support"
+    },
+    {
+      "id": "edge_sos-text-offers-healthcare",
+      "source": "service_sos-care-text",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "SOS Care Text provides crisis intervention and suicide prevention"
+    },
+    {
+      "id": "edge_lighthouse-offers-healthcare",
+      "source": "service_lighthouse-project",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "Lighthouse Project provides psychotherapy and psychological assessment"
+    },
+    {
+      "id": "edge_counselling-seniors-offers-healthcare",
+      "source": "service_counselling-seniors",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "Counselling service provides mental health and counselling support"
+    },
+    {
+      "id": "edge_psychiatric-rehab-offers-healthcare",
+      "source": "service_psychiatric-rehab",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "Psychiatric Rehabilitation provides mental health recovery support"
+    },
+    {
+      "id": "edge_counselling-general-offers-healthcare",
+      "source": "service_counselling-general",
+      "target": "support_healthcare",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "General Counselling provides individual, couple and family therapy"
+    },
+    {
+      "id": "edge_shared-scs-offers-caregiving",
+      "source": "service_shared-stay-scs",
+      "target": "support_caregiving",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "Shared Stay-in SCS provides trained caregiving and ADL assistance"
+    },
+    {
+      "id": "edge_cip-offers-caregiving",
+      "source": "service_cip",
+      "target": "support_caregiving",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "CIP provides cognitive intervention and social engagement"
+    },
+    {
+      "id": "edge_hpc-offers-caregiving",
+      "source": "service_hpc-plus",
+      "target": "support_caregiving",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "HPC+ provides home care and respite care services"
+    },
+    {
+      "id": "edge_epworth-offers-education",
+      "source": "service_epworth-literacy",
+      "target": "support_education",
+      "relationship_type": "offers",
+      "confidence": 0.95,
+      "label": "provides",
+      "description": "Epworth provides literacy and behavioural intervention for children"
+    },
+    {
+      "id": "edge_sfjs-requires-unemployment",
+      "source": "policy_skillsfuture-jobseeker",
+      "target": "condition_involuntary-unemployment",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "SFJS requires involuntary unemployment as eligibility condition"
+    },
+    {
+      "id": "edge_wss-requires-low-income",
+      "source": "policy_wss-basic",
+      "target": "condition_low-income",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "WSS requires low-income status ($3,000 monthly threshold)"
+    },
+    {
+      "id": "edge_wtcs-requires-citizenship",
+      "source": "policy_wtcs",
+      "target": "condition_citizenship",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "WTCS requires Singapore Citizenship"
+    },
+    {
+      "id": "edge_dds-requires-age",
+      "source": "policy_dds",
+      "target": "condition_age-based",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "DDS requires age of 55 years and above"
+    },
+    {
+      "id": "edge_h2w-requires-disability",
+      "source": "policy_h2w",
+      "target": "condition_disability",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "H2W requires medical certification of acquired disability"
+    },
+    {
+      "id": "edge_ltvp-requires-citizenship",
+      "source": "service_ltvp",
+      "target": "condition_citizenship",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "LTVP requires sponsorship by Singapore Citizen or PR"
+    },
+    {
+      "id": "edge_kidstart-requires-low-income",
+      "source": "service_kidstart",
+      "target": "condition_low-income",
+      "relationship_type": "requires",
+      "confidence": 0.95,
+      "label": "requires",
+      "description": "KidSTART requires household income below $2,500 monthly"
+    },
+    {
+      "id": "edge_grit-coverage-employment",
+      "source": "policy_grit",
+      "target": "coverage_employment",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "GRIT is part of employment coverage area"
+    },
+    {
+      "id": "edge_h2w-coverage-employment",
+      "source": "policy_h2w",
+      "target": "coverage_employment",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "H2W is part of employment coverage area"
+    },
+    {
+      "id": "edge_gppb-coverage-family",
+      "source": "policy_gppb",
+      "target": "coverage_family-support",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "GPPB is part of family support coverage"
+    },
+    {
+      "id": "edge_gpcl-coverage-family",
+      "source": "policy_gpcl-ecl",
+      "target": "coverage_family-support",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "GPCL/ECL is part of family support coverage"
+    },
+    {
+      "id": "edge_qcr-coverage-family",
+      "source": "policy_qcr-disability",
+      "target": "coverage_family-support",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "QCR is part of family support coverage"
+    },
+    {
+      "id": "edge_vhr-coverage-housing",
+      "source": "policy_voluntary-housing-refund",
+      "target": "coverage_housing",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "Voluntary Housing Refund is part of housing support"
+    },
+    {
+      "id": "edge_dds-coverage-housing",
+      "source": "policy_dds",
+      "target": "coverage_housing",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "DDS is part of housing support coverage"
+    },
+    {
+      "id": "edge_sos-coverage-mental",
+      "source": "service_sos-care-text",
+      "target": "coverage_healthcare-mental",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "SOS Care Text is part of mental health coverage"
+    },
+    {
+      "id": "edge_lighthouse-coverage-mental",
+      "source": "service_lighthouse-project",
+      "target": "coverage_healthcare-mental",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "Lighthouse Project is part of mental health coverage"
+    },
+    {
+      "id": "edge_counselling-coverage-mental",
+      "source": "service_counselling-general",
+      "target": "coverage_healthcare-mental",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "General Counselling is part of mental health coverage"
+    },
+    {
+      "id": "edge_shared-scs-coverage-elder",
+      "source": "service_shared-stay-scs",
+      "target": "coverage_eldercare",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "Shared Stay-in SCS is part of eldercare coverage"
+    },
+    {
+      "id": "edge_cip-coverage-elder",
+      "source": "service_cip",
+      "target": "coverage_eldercare",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "CIP is part of eldercare coverage"
+    },
+    {
+      "id": "edge_hpc-coverage-elder",
+      "source": "service_hpc-plus",
+      "target": "coverage_eldercare",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "HPC+ is part of eldercare coverage"
+    },
+    {
+      "id": "edge_kidstart-coverage-family",
+      "source": "service_kidstart",
+      "target": "coverage_family-support",
+      "relationship_type": "part_of",
+      "confidence": 0.90,
+      "label": "falls under",
+      "description": "KidSTART is part of family support coverage"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_employed-parent-support",
+      "label": "Employed Parent Support Ecosystem",
+      "type": "Support System",
+      "nodes": ["policy_gppb", "policy_gpcl-ecl", "policy_qcr-disability", "demographic_parents", "support_financial-assistance", "support_caregiving"],
+      "confidence": 0.90,
+      "description": "Connected ecosystem of schemes supporting employed parents through paternity/maternity benefits, childcare leave, and tax relief"
+    },
+    {
+      "id": "hyperedge_low-income-worker-pathway",
+      "label": "Low-Income Worker Support Pathway",
+      "type": "Support System",
+      "nodes": ["demographic_lower-income-workers", "policy_wss-basic", "policy_wtcs", "support_skills-training", "support_financial-assistance"],
+      "confidence": 0.90,
+      "description": "Integrated pathway for lower-income workers to upskill through WSS and access transport concessions"
+    },
+    {
+      "id": "hyperedge_disability-employment-support",
+      "label": "Disability Employment Transition",
+      "type": "Support System",
+      "nodes": ["demographic_persons-with-disability", "policy_h2w", "support_employment", "support_healthcare", "agency_sgenable"],
+      "confidence": 0.90,
+      "description": "Comprehensive support system for persons with acquired disabilities to transition back to employment"
+    },
+    {
+      "id": "hyperedge_senior-care-continuum",
+      "label": "Senior Care Service Continuum",
+      "type": "Support System",
+      "nodes": ["demographic_seniors", "service_counselling-seniors", "service_cip", "service_hpc-plus", "service_shared-stay-scs", "agency_aic", "support_caregiving", "support_healthcare"],
+      "confidence": 0.90,
+      "description": "Integrated continuum of care services for seniors from counselling to home care and dementia support"
+    },
+    {
+      "id": "hyperedge_youth-mental-health-support",
+      "label": "Youth Mental Health Support Network",
+      "type": "Support System",
+      "nodes": ["demographic_youth", "service_sos-care-text", "service_lighthouse-project", "service_counselling-general", "support_healthcare"],
+      "confidence": 0.90,
+      "description": "Multi-tiered mental health support for youth from crisis intervention to specialized therapy"
+    },
+    {
+      "id": "hyperedge_early-childhood-intervention",
+      "label": "Early Childhood Development Support",
+      "type": "Support System",
+      "nodes": ["demographic_low-income-families", "service_kidstart", "service_epworth-literacy", "support_education", "support_caregiving"],
+      "confidence": 0.90,
+      "description": "Support ecosystem for early childhood development and literacy intervention for vulnerable populations"
+    },
+    {
+      "id": "hyperedge_unemployment-to-employment",
+      "label": "Unemployment-to-Employment Transition",
+      "type": "Support System",
+      "nodes": ["demographic_unemployed", "demographic_fresh-graduates", "policy_skillsfuture-jobseeker", "policy_grit", "support_financial-assistance", "support_employment"],
+      "confidence": 0.90,
+      "description": "Pathways for both unemployed workers and fresh graduates to transition into employment with financial and skills support"
+    },
+    {
+      "id": "hyperedge_housing-lifecycle-support",
+      "label": "Housing Lifecycle Support",
+      "type": "Support System",
+      "nodes": ["policy_voluntary-housing-refund", "policy_dds", "demographic_seniors", "agency_hdb", "agency_cpf"],
+      "confidence": 0.90,
+      "description": "Support schemes addressing different housing needs across the lifecycle from retirement to downsizing"
+    }
+  ],
+  "token_counts": {
+    "total_content_tokens_estimated": 18500,
+    "nodes_tokens_estimated": 8200,
+    "edges_tokens_estimated": 6500,
+    "hyperedges_tokens_estimated": 2800,
+    "metadata_tokens_estimated": 1000
+  },
+  "statistics": {
+    "total_nodes": 64,
+    "total_edges": 70,
+    "total_hyperedges": 8,
+    "node_types_breakdown": {
+      "Scheme": 11,
+      "Service": 11,
+      "Government Agency": 11,
+      "Demographic": 8,
+      "Support Type": 6,
+      "Eligibility Condition": 6,
+      "Coverage Area": 6
+    },
+    "edge_types_breakdown": {
+      "targets": 13,
+      "managed_by": 16,
+      "offers": 15,
+      "requires": 7,
+      "depends_on": 1,
+      "part_of": 18
+    },
+    "avg_confidence_level": 0.93,
+    "confidence_distribution": {
+      "0.95": 38,
+      "0.90": 32
+    }
+  },
+  "extraction_notes": {
+    "scope": "Chunk 11 of 15: Singapore government policy documents (schemes and services)",
+    "files_analyzed": 21,
+    "key_themes_identified": [
+      "Employment Support and Skills Development",
+      "Family Support and Parental Benefits",
+      "Disability and Healthcare Support",
+      "Eldercare and Senior Services",
+      "Mental Health and Youth Support",
+      "Housing and Retirement",
+      "Early Childhood Development",
+      "Immigration and Residency"
+    ],
+    "major_agencies": [
+      "SkillsFuture",
+      "Ministry of Social and Family Development (MSF)",
+      "Agency for Integrated Care (AIC)",
+      "Ministry of Manpower (MOM)",
+      "HDB",
+      "CPF",
+      "IRAS",
+      "LifeSG"
+    ],
+    "primary_beneficiary_groups": [
+      "Lower-income workers",
+      "Unemployed persons",
+      "Fresh graduates",
+      "Working parents",
+      "Seniors",
+      "Persons with disabilities",
+      "Youth",
+      "Low-income families"
+    ],
+    "confidence_rationale": "High confidence (0.95) for explicitly stated information (scheme names, agency affiliations, eligibility criteria, benefit amounts). Moderate-High confidence (0.90) for inferred relationships and service delivery details"
+  }
+}
