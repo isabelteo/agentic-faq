@@ -1,0 +1,47 @@
+---
+title: "Care basics: a video series"
+description: "Welcoming a newborn is exciting, but the next few weeks can feel overwhelming. Here’s what you need to know to transition smoothly to parenthood."
+source_url: "https://www.life.gov.sg/guides/bringing-newborn-home"
+---
+
+# Care basics: a video series
+
+Care basics: a video series
+
+Learn how to care for your new baby.
+
+[Bathing your babyWhat to take note of, including not bathing your baby right after a feed.](https://familiesforlife.sg/pages/fflp-video/efe2d666-56fd-4b54-a2a1-323c24ba3e37?utm_source=LifeSG)[Umbilical cord careKeep your baby’s umbilical cord stump clean and dry.](https://familiesforlife.sg/pages/fflp-video/69a21982-681e-4187-9c9d-58a52172c3ca?utm_source=LifeSG)[BreastfeedingLearn about the different positions, and how you can stay comfortable while nursing.](https://familiesforlife.sg/pages/fflp-video/2ceae578-ec96-41bd-a8a2-e6345f7d657c?utm_source=LifeSG)[Burping your babyHelp your baby feel more comfortable during and after feedings.](https://familiesforlife.sg/pages/fflp-video/84ecc854-9df0-401d-951e-06ee33d4845e?utm_source=LifeSG)[Changing diapersBabies need frequent diaper changes. Learn how to do it effectively.](https://familiesforlife.sg/pages/fflp-video/b52e06fc-74c9-4a70-8e55-5e62792a3e17?utm_source=LifeSG)[Swaddling your babyWrapping your baby in a thin blanket may help to soothe them.](https://familiesforlife.sg/pages/fflp-video/0cf61569-e27a-4ab1-8d5d-c770f5295c02?utm_source=LifeSG)[Positioning your baby in their cotAlways follow these important tips to keep your baby safe in their cot.](https://familiesforlife.sg/pages/fflp-video/d0e85177-f476-45be-bb8a-5b94d4b76916?utm_source=LifeSG)
+
+View more
+
+Adjusting to parenthood
+
+Becoming a parent is a huge life change. It’s important to balance both your needs and the baby’s needs.
+
+During the early days[Baby’s here: what to expectKnowing what to expect will make things a little less overwhelming.](https://familiesforlife.sg/pages/fflparticle/Newborn-What-To-Expect?utm_source=LifeSG)[Confinement practices and mythsLearn about the medical perspective behind some confinement practices.](https://familiesforlife.sg/pages/fflparticle/Pregnancy-Confinement-Practices-Myths?utm_source=LifeSG)[7 reasons why your baby’s cryingBabies cry because it’s the only way they can communicate their needs.](https://familiesforlife.sg/pages/fflparticle/Babies-Reasons-Cry?utm_source=LifeSG)[Bonding with your newbornYour touch, voice, and facial expressions help your baby develop.](https://familiesforlife.sg/pages/fflparticle/Newborn-Bonding?utm_source=LifeSG)
+
+View more
+
+Building strong family bonds[Creating a happy home for your childLearn about the 3 areas that’ll help you create a supportive environment for your child to grow up in.](https://familiesforlife.sg/pages/fflparticle/Newborn-Happy-Home?utm_source=LifeSG)[Positive attention and your childResponding to your child positively helps them feel secure and valued.](https://familiesforlife.sg/pages/fflparticle/Babies-Positive-Attention?utm_source=LifeSG)[Enjoying time with your childSet aside regular time with your preschooler for fun activities together.](https://familiesforlife.sg/pages/fflparticle/Young-Children-Enjoying-Time-Connect?utm_source=LifeSG)[Outdoor playExplore the outdoors with your child, regardless of their age.](https://familiesforlife.sg/pages/fflparticle/Babies-Outdoor-Play?utm_source=LifeSG)[Building good parent-child relationshipsYour child’s relationship with you shapes their view of the world.](https://familiesforlife.sg/pages/fflparticle/Babies-Building-Good-Parent-Child-Relationship?utm_source=LifeSG)[Building good family relationshipsStrong ties give your family the support to overcome difficulties.](https://familiesforlife.sg/pages/fflparticle/Babies-Build-Good-Family-Relationships?utm_source=LifeSG)[Fun, home activities without screensIntroducing screens early can lead to developmental and behavioural concerns. There are many things that you can do with your child that does not involve a screen, here are a few ideas.](https://www.healthhub.sg/programmes/parent-hub/baby-toddler/screen-time#fun-home-activities-without-screen)[Creating a supportive environment for strong family bondsFostering a supportive environment at home is crucial for building and maintaining strong family bonds and helps your child develop resilience. Click here to learn more on how you can care for your child.](https://www.healthhub.sg/programmes/mindsg/caring-for-others/my-child-teenager#home)
+
+View more
+
+Raising a healthy child
+
+Your baby’s first two months are crucial to its development as they grow and learn about the world around them. Learn how you can help them care for themselves during this period.
+
+[Your Child’s Digital Health BookletFrom upcoming immunisations to tracking developmental milestones, everything you need to know about your child’s health is just a few taps away. Find out how you can access your child’s health records.](https://www.healthhub.sg/programmes/parent-hub/child-health-booklet#your-child-digital-health-booklet)[ImmunisationEvery child in Singapore has to be  vaccinated from infectious diseases according to the National Childhood Immunisation Programme. Learn more about the essential vaccines.](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/0_2_immunisation)[Ways to Get Your Baby to Fall into Blissful SleepSleep is especially important for your baby’s development. Here are ways to help your baby sleep better.](https://www.healthhub.sg/programmes/parent-hub/baby-toddler/baby-sleep)[Baby SafetyAs you get ready for your baby to begin crawling or consider preparations for your return to work, here are some tips on how to identify the hazards around the house, so you can prevent your little one from falls and injuries .](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/baby-safety)[Introducing solid food to your baby’s dietWhen your baby is around 4—6 months of age, you can start to introduce solid foods into their diet gradually, to meet their increasing nutritional and developmental needs. Find out how.](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/childhood-healthy-diet#4-6months)[Healthy recipesUncover a variety of creative meal receipes that are both delicious and healthy right here.](https://www.healthhub.sg/programmes/183/parent-hub/recipes)[Supporting your wifeHey Dads, here are some tips on how to team up with your wife for parenting success.](https://ch-api.healthhub.sg/api/public/content/351af7d553e94fe88e3137384319a375?v=71efe3f0&_gl=1*7gsrry*_ga*NjczNTIzNjQ2LjE2OTk5NDI1MjU.*_ga_VQW1KL2RMR*MTcwMDAxNTY4My41LjEuMTcwMDAxNTY4NS41OC4wLjA.)
+
+View more
+
+Related services
+
+Singpass login may be required.
+
+[Apply for birth registration and Baby Bonus](https://www.life.gov.sg/services-tools/birth-registration)[Apply for Baby Bonus](https://www.babybonus.msf.gov.sg/pages/enrolment-instruction.aspx)[View Baby Bonus application status](https://www.babybonus-eservices.msf.gov.sg/parent-home/sim/login?serviceType=updateEnrol)[View Baby Bonus statement](https://www.babybonus-eservices.msf.gov.sg/parent-home/sim/login?serviceType)[Search for Baby Bonus Approved InstitutionsTo use your Child Development Account funds.](https://www.babybonus-eservices.msf.gov.sg/ai-home/xhtml/layout/ListOfAI.faces)
+
+View more
+
+You may also be interested in…
+
+[Having a baby](https://www.life.gov.sg/guides/having-a-baby)[Enrolling in preschool](https://www.life.gov.sg/guides/enrolling-in-preschool)

@@ -1,0 +1,51 @@
+---
+title: "Eligibility and guidelines"
+description: "If you need some help around the house or with caregiving, find out more about hiring a helper who’ll stay with you, also known as a migrant domestic worker (MDW)."
+source_url: "https://www.life.gov.sg/guides/domestic-helper"
+---
+
+# Eligibility and guidelines
+
+Eligibility and guidelines
+
+Learn about the requirements and general guidelines you must meet.
+
+[Employer requirementsYou should be at least 21 years old, not bankrupt, and mentally able.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employer-requirements)[MDW eligibilityYour helper must meet the age, nationality, and education requirements to get a Work Permit.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility)[Rest days and well-beingYour helper is entitled to 1 weekly rest day and proper living conditions.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/rest-days-and-well-being)[Salary paymentsYou must pay your helper every month, within 7 days after the end of the salary period.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/salary-guidelines)
+
+View more
+
+For first-timers
+
+If you’re employing a helper for the first time, or if your hired help is working in Singapore for the first time.
+
+[Employers’ Orientation Programme3-hour programme for those employing a domestic helper for the first time.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employers-orientation-programme-eop)[Setting-in programme for MDW1-day programme for those who have not worked in Singapore as a domestic helper before.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/settling-in-programme-sip)
+
+Employer responsibilities
+
+What you must do before, during, and after the employment period.
+
+Before your helper arrives[Work Permit applicationApply for a Work Permit for your helper on your own or through an employment agency.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit)[Work Permit: joint income or sponsorship schemeFor low-income employers or senior citizens who are not staying with any working adults.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-under-a-special-scheme)[Security bondYou must buy a $5,000 bond for each non-Malaysian helper you employ.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/security-bond)[Medical and personal accident insuranceYou must buy insurance that meets the minimum coverage requirements.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements)[Pre-employment medical examination for MDWsYou must send your helper for a medical examination before you can get her Work Permit issued.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/medical-examination)[Work Permit issuanceGet the permit issued within 2 weeks from your helper’s arrival or 7 days from Stay-Home Notice completion.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit#get-the-permit-issued)
+
+View more
+
+During the employment period[Monthly levy for your MDWYou have to pay the levy via General Interbank Recurring Order (GIRO).](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/paying-levy)[Six-monthly medical examination (6ME)You must send your helper for a medical screening every 6 months.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/six-monthly-medical-examination)
+
+After the employment ends[Work Permit cancellationCancel the permit within 1 week after your helper stops working for you, or 1 day after the permit expires.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit)
+
+Levy concession, waiver, and tax relief
+
+Check if you’re eligible to pay less levy or get tax relief on your levy payments.
+
+[Levy concession for your MDWFor those living with a child below 16, senior aged 67 or above, or person with disabilities.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession)[Levy waiver for your MDWIf your helper is on overseas leave for at least 7 consecutive days, or on hospitalisation leave in Singapore.](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/apply-for-levy-waiver)[Tax relief on your foreign domestic worker levyFor working married, divorced, or widowed mothers with school-going children.](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Foreign-Domestic-Worker-Levy--FDWL--Relief/)
+
+Related services
+
+Singpass login may be required.
+
+[Apply or manage Work Permit for migrant domestic workersIncludes domestic helpers and confinement nannies.](https://www.mom.gov.sg/eservices/services/work-permit-transactions-for-domestic-helpers-and-confinement-nannies)[Apply for levy concession for a migrant domestic workerIf you’re living with a young child or elderly person.](https://www.mom.gov.sg/apply-levy-concession)[Apply for levy concession for a migrant domestic workerFor persons with disabilities.](https://www.aic.sg/financial-assistance/foreign-domestic-worker-levy-concession)[Apply for levy waiver for a migrant domestic worker](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/apply-for-levy-waiver)
+
+View more
+
+You may also be interested in…
+
+[Enrolling in preschool](https://www.life.gov.sg/guides/enrolling-in-preschool)[Finding care services for seniors](https://www.life.gov.sg/guides/senior-care-services)

@@ -1,0 +1,37 @@
+---
+title: "Focus on recovery"
+description: "Surviving a heart attack is a scary experience, and it’s normal to feel distress or disbelief. However, you should know that it’s possible to lead a full life with a few lifestyle changes."
+source_url: "https://www.life.gov.sg/guides/life-after-heart-attack"
+---
+
+# Focus on recovery
+
+Focus on recovery
+
+After your discharge from the hospital, take time to recover both physically and emotionally.
+
+[A patient’s guide to coping after discharge: a 5-min videoFind out what happens after you’ve been treated for a heart attack.](https://www.youtube.com/watch?v=iVuptvRieuE)[Cardiac rehabilitationGet back to your best self with a programme designed to improve your fitness and strength safely.](https://www.healthxchange.sg/heart-lungs/heart-attack/cardiac-rehabilitation-for-heart-attack)[Living with heart disease: a 15-min videoFind out how you can continue your recovery at home.](https://www.youtube.com/watch?v=QjdhZq8yuzA)
+
+Prevent future heart attacks
+
+If you or your loved one had a heart attack, the risk of having another increases. Here’s how you can manage the risk together.
+
+Kickstart a healthier lifestyle[Healthy eatingGuidelines to help you choose foods that are good for the heart.](https://www.myheart.org.sg/healthy-living/heart-smart-eating-habits/)[Get active with regular exerciseImprove fitness and muscle strength with physical activity.](https://www.myheart.org.sg/healthy-living/get-active/)[Say ’I Quit’ to smokingIf you quit smoking, you’ll reduce your risk of another heart attack by 50%.](http://www.healthhub.sg/programmes/88/iquit?utm_source=govtech&utm_medium=organic&utm_campaign=lifesg-digital&utm_content=health-advisory-quit-smoking)[Overcoming stressWe all feel stressed at times. Learn to relieve stress in 8 ways.](https://www.imh.com.sg/Mental-Health-Resources/Conditions-and-Challenges/Pages/Coping-with-Change-and-Overcoming-Stress.aspx)
+
+View more
+
+Manage your health numbers[Reverse pre-diabetesHigh blood sugar can damage the blood vessels and the nerves that control your heart.](https://www.healthhub.sg/programmes/87/diabetes-mellitus?utm_source=lifesg&utm_medium=website&utm_campaign=fy21-lbd)[Eat to lower blood pressureHigh blood pressure forces your heart to work harder.](https://www.healthhub.sg/live-healthy/582/Eat%20to%20Lower%20Blood%20Pressure)[Heart survivors and high blood pressure: a 6-min videoKnowing your blood pressure numbers is the first step to lowering your risk.](https://www.youtube.com/watch?v=g_P7Zf7JqyE)[Screen for Life (SFL)Check for diabetics, blood cholesterol, blood pressure and other conditions at affordable, subsidised rates.](https://www.healthhub.sg/programmes/61/Screen_for_Life?utm_source=lifesg&utm_medium=website&utm_campaign=generic)
+
+View more
+
+Related services
+
+Singpass login may be required.
+
+[Check your medical appointments](https://eservices.healthhub.sg/Appointments/Profiles?rel=self)[View outstanding bills at public healthcare institutions](https://eservices.healthhub.sg/payments)[Refill your prescribed medicine](https://eservices.healthhub.sg/MedicationRefill/Startup)[Apply for CHAS card](https://chas.moh.gov.sg/)[Check CHAS subsidy balance](https://eservices.healthhub.sg/?_gl=1*dwh4a*_gcl_au*NzE2MjA5ODc3LjE3NTg2ODA2OTE.*_ga*MTk4Mzg1NDY1Mi4xNzU4NjgwNjky*_ga_VQW1KL2RMR*czE3NTg2ODA2OTEkbzEkZzAkdDE3NTg2ODA2OTEkajYwJGwwJGgw)[Locate a family service centre](https://www.msf.gov.sg/our-services/#familytab)
+
+View more
+
+You may also be interested in…
+
+[Receiving help with healthcare-related expenses](https://www.life.gov.sg/guides/healthcare-financial-assistance)[Support for your job search](https://www.life.gov.sg/guides/support-for-your-job-search)
