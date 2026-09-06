@@ -18,7 +18,7 @@ To reduce the heavy inter-agency coordination work done by frontline officers, t
 - **Digital One-Stop Shops to empower self-service for citizens:**
   - **OneService (MSO):** Focused on municipal issues by MSO, this app handled 38% of 1.7M complaints in 2023. To improve outreach, MSO created OneService Telegram and WhatsApp Chatbot that handled 30,000+ cases a month with 85% accuracy in routing to correct agency. This translated to 2,000 man hours saved and resolution times cut by up to 2 working days.
   - **LifeSG (ServiceSG):** This app integrates 18 systems and 40 APIs to center services around 'Moments of Life'. New parents can complete birth registration, bank account setup, and government benefits applications in 15 minutes (vs. 60 minutes previously).
-
+ - **Ask.gov.sg (OGP):** This app is a central platform to centralise FAQ resource across many government agencies
 On top of these initiatives, there are outreach platforms and services to ensure adoption for impact
 - **Digital awareness platform that inform the public of what government digital service or contact to use:** GoWhere is a government platform that centralises information and resources for over 20 government campaigns. It has over 61 million visits across 28 government initiatives.
 - **Physical concierges that faciltiate outreach enable digital enablement**: 9 ServiceSG centers with cross-trained officers assist citizens with digital and inter-agency transactions. These centers ssisted 306,000+ citizens with 70% being seniors and had 450,000+ transactions in 2024.
@@ -74,7 +74,6 @@ Govtech is working on
 
 This enquiry assistant handles data that is public so the selling point is less clear. But driving the value of AI can align with the selling of infrastructure-as-as-service instead when compared with GCC.
 
-
 ## Sources
 - [CDO Trends: Pilots & System-wide Transformation](https://www.cdotrends.com/story/4907/pilots-system-wide-transformation-sg-governments-next-leap-ai?refresh=auto)
 - [Tech.gov.sg: GovTech's Use of AI](https://www.tech.gov.sg/technews/how-govtech-uses-ai-to-enhance-digital-public-services/)
@@ -84,9 +83,35 @@ https://www.vica.gov.sg/
 
 ## Design Considerations and Scoping Judgement
 
+did choose
+-focus on interagency knowledge: use guides from lifesg, use supportgowhere
+
+did not use
+- data.gov.sg: mainly statistics by agency, rather than interagency processes
+- ask.gov.sg: a good source to build general knowledge of model but the questions tend to be per agency - instead, i use this to inform on topics and subtopics where people usually have questions then have a GenAI to help me create a map of resources
+  aic: 305 questions found
+  cpf: 2779 questions found
+  ecda: 639 questions found
+  hdb: 69 questions found
+  iras: 264 questions found
+  lifesg: 332 questions found
+  mindef: 1264 questions found 
+  mom: 1355 questions found
+  moh: 1045 questions found
+  msf: 1631 questions found
+  skillsfuture: 73 questions found
+
+did not choose to tune model
+- faqs are dynamic and will be updated - these should be dynamically retrieved
+
+
+
 - **Stand-alone vs Superapp:** Singpass integration strategy
 - **ServiceSG approach**
 
+
+Why this question
+- The larger scope and hence, larger resourcing that can be demanded from it to be serviced by RE:AI
 ---
 
 ## POC and Test Results
