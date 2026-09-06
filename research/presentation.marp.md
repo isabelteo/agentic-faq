@@ -104,7 +104,7 @@ did not use
 did not choose to tune model
 - faqs are dynamic and will be updated - these should be dynamically retrieved
 
-
+deliberation: chunk based rag vs local graph
 
 - **Stand-alone vs Superapp:** Singpass integration strategy
 - **ServiceSG approach**
